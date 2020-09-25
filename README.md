@@ -3,3 +3,5 @@ Tables are ubiquitous in documents and presentations for conveying important inf
 Link to the Google Doc for Evaluation: https://docs.google.com/document/d/18vKVh2e3HbjhCvunKiYBTxqOTPFdh4vLBGKgarnHG9A/edit?ts=5f68409e
 
 Link to the Competition: https://sites.google.com/view/sem-tab-facts
+
+Link to References : https://docs.google.com/spreadsheets/d/1R_sv0HA45ohEnnindc6AdRv-_XVTTUzmt96e9yvqi3Q/edit?usp=sharing
