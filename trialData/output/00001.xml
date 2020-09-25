@@ -1,0 +1,448 @@
+<table_1>
+ <row row="0">
+  <cell col="0" row="0" text="Lactose standard added (% w/w)">
+   <evidence statement_id="0" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="1">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="1">
+   </evidence>
+  </cell>
+  <cell col="1" row="0" text="Lactose by HPAEC-PAD (% w/w)">
+   <evidence statement_id="0" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="1">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="1">
+   </evidence>
+  </cell>
+  <cell col="2" row="0" text="Recovery (%)">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="7" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="1">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="1">
+   </evidence>
+  </cell>
+  <cell col="3" row="0" text="RSD (%)">
+   <evidence statement_id="0" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="7" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="1">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="1">
+   </evidence>
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="0.465">
+   <evidence statement_id="0" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="1">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="1">
+   </evidence>
+  </cell>
+  <cell col="1" row="1" text="0.457">
+   <evidence statement_id="0" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="1">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="1">
+   </evidence>
+  </cell>
+  <cell col="2" row="1" text="98">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="1">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="1">
+   </evidence>
+  </cell>
+  <cell col="3" row="1" text="2.4">
+   <evidence statement_id="0" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="1">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="1">
+   </evidence>
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="0.094">
+   <evidence statement_id="0" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="6" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="1">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="1">
+   </evidence>
+  </cell>
+  <cell col="1" row="2" text="0.096">
+   <evidence statement_id="0" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="6" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="1">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="1">
+   </evidence>
+  </cell>
+  <cell col="2" row="2" text="103">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="1">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="1">
+   </evidence>
+  </cell>
+  <cell col="3" row="2" text="1.5">
+   <evidence statement_id="0" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="1">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="1">
+   </evidence>
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="0.009">
+   <evidence statement_id="0" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="1">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="1">
+   </evidence>
+  </cell>
+  <cell col="1" row="3" text="0.009">
+   <evidence statement_id="0" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="1">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="1">
+   </evidence>
+  </cell>
+  <cell col="2" row="3" text="99">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="1">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="1">
+   </evidence>
+  </cell>
+  <cell col="3" row="3" text="1.1">
+   <evidence statement_id="0" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version:="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version:="1">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version:="1">
+   </evidence>
+  </cell>
+ </row>
+</table_1>
+<statements>
+ <statement id="0" text="The spiking experiments revealed that the HPAEC-PAD method had high recoveries across all low-lactose concentrations tested, ranging between 98 and 103%. " type="entailed">
+ </statement>
+ <statement id="1" text="The precision was also very good, as shown by the relative standard deviation (RSD), which was between 1.1 and 2.4%. " type="entailed">
+ </statement>
+ <statement id="2" text="Sample B (containing 0.3% (w/w) lactose according to HPAEC-PAD) could not be accurately quantified with HPLC-RI " type="unknown">
+ </statement>
+ <statement id="3" text="The Recovery and RSD are highest for the lactose standard added at 0.465% . " type="refuted">
+ </statement>
+ <statement id="4" text="There are no Recoveries above 100% . " type="refuted">
+ </statement>
+ <statement id="5" text="Lactose by HPAEC-PAD is always higher than or equivalent to levels of lactose standard added " type="refuted">
+ </statement>
+ <statement id="6" text="The levels of lactose standard added and lactose by HPAEC-PAD are identical for the 0.009% sample." type="entailed">
+ </statement>
+ <statement id="7" text="The unit used for all cells of the table are in percent. " type="entailed">
+ </statement>
+ <statement id="8" text="The recovery for the standard at 0.094% is greater than 100%. " type="entailed">
+ </statement>
+ <statement id="9" text="We expected to find only variation in the relative standard deviation (precision) between the analyses, but also found significant variation in the absolute value of lactose (accuracy) for the samples at different lactose levels when compared with HPAEC-PAD." type="unknown">
+ </statement>
+</statements>
