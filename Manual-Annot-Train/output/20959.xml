@@ -1,0 +1,537 @@
+<Table 1>
+ <caption text="
+
+   Experimental parameters showing starting material and extrusion temperature of material A, B and C. The encapsulated powder was extruded with a force of 257 kN after preheating at 700°C for 20 min.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Material">
+  </cell>
+  <cell col="1" row="0" text="Starting material">
+  </cell>
+  <cell col="2" row="0" text="Extrusion temperature /°C">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="A">
+  </cell>
+  <cell col="1" row="1" text="Crushed powder (&lt; 250 μm)">
+  </cell>
+  <cell col="2" row="1" text="650">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="B">
+  </cell>
+  <cell col="1" row="2" text="Milled powder (89
+     
+      wt
+     
+     .% 20-60 μm)">
+  </cell>
+  <cell col="2" row="2" text="650">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="C">
+  </cell>
+  <cell col="1" row="3" text="Milled powder (89
+     
+      wt
+     
+     .% 20-60 μm)">
+  </cell>
+  <cell col="2" row="3" text="700">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 3 material observed." type="entailed">
+  </statement>
+  <statement id="1" text="Material C is having 700 Extrusion temperature /C." type="entailed">
+  </statement>
+  <statement id="2" text="Material B and A is having 650 Extrusion temperature /C." type="entailed">
+  </statement>
+  <statement id="4" text="There are 4 material observed." type="refuted">
+  </statement>
+  <statement id="5" text="Material A is having 700 Extrusion temperature /C." type="refuted">
+  </statement>
+  <statement id="6" text="Here ,Starting material of C is Crushed powder (&lt; 250 m)." type="refuted">
+  </statement>
+  <statement id="7" text="Material C is having 650 Extrusion temperature /C." type="refuted">
+  </statement>
+ </statements>
+</Table 1>
+<Table 4>
+ <caption text="
+
+   Parameters for the combination of a Gaussian model (height:
+   
+    a
+   
+   , centre:
+   
+    µ
+   
+   , standard deviation:
+   
+    σ
+   
+   ) with a constant background (
+   
+    c
+   
+   ) used to fit the {001} pole plot data in
+   . Values for the three materials produced in the current work (A, B and C) are compared with those from Sakamoto et al.
+   for a commercially-produced, extruded MnAl-C magnet. The values in brackets for material B are from fitting the curve which was calculated using the alternative method: discrete binning.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="A">
+  </cell>
+  <cell col="2" row="0" text="B">
+  </cell>
+  <cell col="3" row="0" text="C">
+  </cell>
+  <cell col="4" row="0" text="Sakamoto">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="a
+     
+     / M.U.D.">
+  </cell>
+  <cell col="1" row="1" text="3.9">
+  </cell>
+  <cell col="2" row="1" text="3.9 (3.9)">
+  </cell>
+  <cell col="3" row="1" text="3.2">
+  </cell>
+  <cell col="4" row="1" text="3.4">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="μ
+     
+     / °">
+  </cell>
+  <cell col="1" row="2" text="9.2">
+  </cell>
+  <cell col="2" row="2" text="13.7 (10.9)">
+  </cell>
+  <cell col="3" row="2" text="8.7">
+  </cell>
+  <cell col="4" row="2" text="0.0">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="σ
+     
+     / °">
+  </cell>
+  <cell col="1" row="3" text="24.7">
+  </cell>
+  <cell col="2" row="3" text="20.8 (22.0)">
+  </cell>
+  <cell col="3" row="3" text="25.8">
+  </cell>
+  <cell col="4" row="3" text="30.8">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="c
+     
+     / M.U.D.">
+  </cell>
+  <cell col="1" row="4" text="0.00">
+  </cell>
+  <cell col="2" row="4" text="0.03 (0.05)">
+  </cell>
+  <cell col="3" row="4" text="0.14">
+  </cell>
+  <cell col="4" row="4" text="0.11">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="B 3.9 (3.9) is a / M.U.D." type="entailed">
+  </statement>
+  <statement id="3" text="Sakamoto 0.11 is a/ M.U.D." type="refuted">
+  </statement>
+  <statement id="4" text="C 3.9 (3.9) is a / M.U.D." type="refuted">
+  </statement>
+  <statement id="5" text="The  values further confirm the conclusion from Section 3.2 , i.e. that materials A and B have similar texture quality, whereas sample C has a lower texture quality." type="entailed">
+  </statement>
+ </statements>
+</Table 4>
+<Table 3>
+ <caption text="
+
+   Fractions of general grain boundaries (General GB), true twins, order twins and pseudo twins determined from EBSD analysis of the extruded materials.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="A">
+  </cell>
+  <cell col="2" row="0" text="B">
+  </cell>
+  <cell col="3" row="0" text="C">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="General GB">
+  </cell>
+  <cell col="1" row="1" text="0.880">
+  </cell>
+  <cell col="2" row="1" text="0.872">
+  </cell>
+  <cell col="3" row="1" text="0.796">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="True twins">
+  </cell>
+  <cell col="1" row="2" text="0.099">
+  </cell>
+  <cell col="2" row="2" text="0.114">
+  </cell>
+  <cell col="3" row="2" text="0.176">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Order twins">
+  </cell>
+  <cell col="1" row="3" text="0.019">
+  </cell>
+  <cell col="2" row="3" text="0.012">
+  </cell>
+  <cell col="3" row="3" text="0.024">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Pseudo twins">
+  </cell>
+  <cell col="1" row="4" text="0.002">
+  </cell>
+  <cell col="2" row="4" text="0.002">
+  </cell>
+  <cell col="3" row="4" text="0.004">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The highest A is 0.880." type="entailed">
+  </statement>
+  <statement id="2" text="There are 1 different types of analysis in the given table." type="refuted">
+  </statement>
+  <statement id="3" text="The lowest A is 0.880." type="refuted">
+  </statement>
+ </statements>
+</Table 3>
+<Table 6>
+ <caption text="
+
+   The ratio of the remanence, J
+   
+    r
+   
+   , to the saturation polarisation, J
+   
+    s
+   
+   (both are average values of the edge and centre samples in
+   
+    Table 5
+   
+   ), and values of the integral, γ, calculated from the texture parameters in
+   
+    Table 4
+   
+   and
+   
+    Eqn. 2
+   
+   . The value of γ in brackets for material B was calculated using the texture parameters obtained by the discrete binning method (see
+   
+    Section 3.2
+   
+   for details).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="A">
+  </cell>
+  <cell col="2" row="0" text="B">
+  </cell>
+  <cell col="3" row="0" text="C">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="J
+      
+       r
+      
+
+     /
+     
+      J
+      
+       s">
+  </cell>
+  <cell col="1" row="1" text="0.74">
+  </cell>
+  <cell col="2" row="1" text="0.75">
+  </cell>
+  <cell col="3" row="1" text="0.71">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="γ">
+  </cell>
+  <cell col="1" row="2" text="0.82">
+  </cell>
+  <cell col="2" row="2" text="0.82 (0.80)">
+  </cell>
+  <cell col="3" row="2" text="0.75">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="C has the least value for Y that is 0.75." type="entailed">
+  </statement>
+  <statement id="2" text="The value of A is 1.74." type="refuted">
+  </statement>
+  <statement id="3" text="The value of B is 1.75." type="refuted">
+  </statement>
+ </statements>
+</Table 6>
+<Table 7>
+ <caption text="
+
+   Details of some extruded MnAl-C-based materials published in the literature. “Mats.” refers to the Matsushita Electric Industrial Company, “San.” refers to Sanyo Special Steels. “G.A.P.” signifies gas-atomised powders. *calculated from the given initial diameter and the area reduction ratio. **this material was not commercially produced but represents the highest reported value for bulk MnAl-C-based magnets.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Company">
+  </cell>
+  <cell col="1" row="0" text="Ref.">
+  </cell>
+  <cell col="2" row="0" text="Year">
+  </cell>
+  <cell col="3" row="0" text="Starting material">
+  </cell>
+  <cell col="4" row="0" text="Measured composition / at.%">
+  </cell>
+  <cell col="5" row="0" text="Final rod diameter / mm">
+  </cell>
+  <cell col="6" row="0" text="Sample Type Measured">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Mats.**">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="1978">
+  </cell>
+  <cell col="3" row="1" text="Bulk">
+  </cell>
+  <cell col="4" row="1" text="(Mn
+     
+      53.0
+     
+     Al
+     
+      44.9
+     
+     C
+     
+      2.0
+     
+     )Ni
+     
+      0.7">
+  </cell>
+  <cell col="5" row="1" text="6*">
+  </cell>
+  <cell col="6" row="1" text="Section">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Mats.">
+  </cell>
+  <cell col="1" row="2" text="">
+  </cell>
+  <cell col="2" row="2" text="1977">
+  </cell>
+  <cell col="3" row="2" text="Bulk">
+  </cell>
+  <cell col="4" row="2" text="Mn
+     
+      52.9
+     
+     Al
+     
+      45.4
+     
+     C
+     
+      1.7">
+  </cell>
+  <cell col="5" row="2" text="10*">
+  </cell>
+  <cell col="6" row="2" text="Section">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Mats.">
+  </cell>
+  <cell col="1" row="3" text="">
+  </cell>
+  <cell col="2" row="3" text="1981">
+  </cell>
+  <cell col="3" row="3" text="Bulk">
+  </cell>
+  <cell col="4" row="3" text="Mn
+     
+      52.9
+     
+     Al
+     
+      45.4
+     
+     C
+     
+      1.7">
+  </cell>
+  <cell col="5" row="3" text="6.5">
+  </cell>
+  <cell col="6" row="3" text="Section">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Mats.">
+  </cell>
+  <cell col="1" row="4" text="">
+  </cell>
+  <cell col="2" row="4" text="1981">
+  </cell>
+  <cell col="3" row="4" text="Bulk">
+  </cell>
+  <cell col="4" row="4" text="(Mn
+     
+      52.9
+     
+     Al
+     
+      45.4
+     
+     C
+     
+      1.7
+     
+     )Ni
+     
+      0.5">
+  </cell>
+  <cell col="5" row="4" text="24">
+  </cell>
+  <cell col="6" row="4" text="Edge">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Mats.">
+  </cell>
+  <cell col="1" row="5" text="">
+  </cell>
+  <cell col="2" row="5" text="1981">
+  </cell>
+  <cell col="3" row="5" text="Bulk">
+  </cell>
+  <cell col="4" row="5" text="(Mn
+     
+      52.9
+     
+     Al
+     
+      45.4
+     
+     C
+     
+      1.7
+     
+     )Ni
+     
+      0.5">
+  </cell>
+  <cell col="5" row="5" text="31">
+  </cell>
+  <cell col="6" row="5" text="Edge + centre">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="San.">
+  </cell>
+  <cell col="1" row="6" text="">
+  </cell>
+  <cell col="2" row="6" text="1989">
+  </cell>
+  <cell col="3" row="6" text="G.A.P.">
+  </cell>
+  <cell col="4" row="6" text="unknown">
+  </cell>
+  <cell col="5" row="6" text="unknown">
+  </cell>
+  <cell col="6" row="6" text="Section">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="San.">
+  </cell>
+  <cell col="1" row="7" text="">
+  </cell>
+  <cell col="2" row="7" text="2000">
+  </cell>
+  <cell col="3" row="7" text="G.A.P.">
+  </cell>
+  <cell col="4" row="7" text="(Mn
+     
+      52.2
+     
+     Al
+     
+      46.3
+     
+     C
+     
+      1.5
+     
+     )Ni
+     
+      0.6">
+  </cell>
+  <cell col="5" row="7" text="14">
+  </cell>
+  <cell col="6" row="7" text="Section">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are five Mats. Company in the table." type="entailed">
+  </statement>
+  <statement id="1" text="Sample Type Measured are of Edge for San." type="refuted">
+  </statement>
+  <statement id="2" text="Starting material of Mats. are G.A.P." type="refuted">
+  </statement>
+  <statement id="3" text="Starting material of San. are Bulk." type="refuted">
+  </statement>
+  <statement id="6" text="Mn 53 Al 45 C 2 )" type="entailed">
+  </statement>
+ </statements>
+</Table 7>

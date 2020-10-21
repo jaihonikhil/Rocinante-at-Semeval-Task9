@@ -1,0 +1,122 @@
+<Table 3>
+ <caption text="
+
+   Type of stools (n = 112).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="N">
+  </cell>
+  <cell col="2" row="0" text="%">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Liquid/semi liquid">
+  </cell>
+  <cell col="1" row="1" text="42">
+  </cell>
+  <cell col="2" row="1" text="37.5">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Formed">
+  </cell>
+  <cell col="1" row="2" text="5">
+  </cell>
+  <cell col="2" row="2" text="4.5">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="No stools">
+  </cell>
+  <cell col="1" row="3" text="56">
+  </cell>
+  <cell col="2" row="3" text="50.0">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Missing">
+  </cell>
+  <cell col="1" row="4" text="9">
+  </cell>
+  <cell col="2" row="4" text="8.0">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Liquid/semi liquid N is 42." type="">
+  </statement>
+  <statement id="2" text="% 4.5 is No stools." type="">
+  </statement>
+  <statement id="3" text="Liquid/semi liquid N is 44." type="">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Cases of IAD and MASD other than IAD (n = 112).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="N">
+  </cell>
+  <cell col="2" row="0" text="%">
+  </cell>
+  <cell col="3" row="0" text="Insecure">
+  </cell>
+  <cell col="4" row="0" text="Missing">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Patients with MASD">
+  </cell>
+  <cell col="1" row="1" text="15">
+  </cell>
+  <cell col="2" row="1" text="13.4">
+  </cell>
+  <cell col="3" row="1" text="">
+  </cell>
+  <cell col="4" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="MASD cases other than IAD">
+  </cell>
+  <cell col="1" row="2" text="10">
+  </cell>
+  <cell col="2" row="2" text="8.9">
+  </cell>
+  <cell col="3" row="2" text="4">
+  </cell>
+  <cell col="4" row="2" text="1">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="IAD cases">
+  </cell>
+  <cell col="1" row="3" text="6">
+  </cell>
+  <cell col="2" row="3" text="5.4">
+  </cell>
+  <cell col="3" row="3" text="1">
+  </cell>
+  <cell col="4" row="3" text="3">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="MASD cases other than IAD has only one missing case." type="">
+  </statement>
+  <statement id="3" text="Patients with IAD cases are not insecure and missing." type="">
+  </statement>
+  <statement id="4" text="MASD cases other than IAD has two missing cases." type="">
+  </statement>
+  <statement id="5" text="There are zero insecure IAD cases." type="">
+  </statement>
+ </statements>
+</Table 2>

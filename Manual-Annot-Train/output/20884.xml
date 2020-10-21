@@ -1,0 +1,756 @@
+<Table 1>
+ <caption text="
+
+   POI detection and tracking accuracy as estimated using human annotations created by a volunteer on randomly drawn tokens.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Detection accuracy using 14 randomly drawn tokens Mean (SD) in %">
+  </cell>
+  <cell col="3" row="0" text="Tracking accuracy using 2 randomly drawn tokensMean (SD) in%">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="Male">
+  </cell>
+  <cell col="2" row="1" text="Female">
+  </cell>
+  <cell col="3" row="1" text="Male">
+  </cell>
+  <cell col="4" row="1" text="Female">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Upper lip">
+  </cell>
+  <cell col="1" row="2" text="0.71 (0.33)">
+  </cell>
+  <cell col="2" row="2" text="0.86 (0.41)">
+  </cell>
+  <cell col="3" row="2" text="0.45 (0.10)">
+  </cell>
+  <cell col="4" row="2" text="0.77 (0.21)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Lower lip">
+  </cell>
+  <cell col="1" row="3" text="0.68 (0.59)">
+  </cell>
+  <cell col="2" row="3" text="0.49 (0.28)">
+  </cell>
+  <cell col="3" row="3" text="0.22 (0.21)">
+  </cell>
+  <cell col="4" row="3" text="0.49 (0.13)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Left eyebrow">
+  </cell>
+  <cell col="1" row="4" text="0.54 (0.21)">
+  </cell>
+  <cell col="2" row="4" text="0.61 (0.22)">
+  </cell>
+  <cell col="3" row="4" text="0.64 (0.16)">
+  </cell>
+  <cell col="4" row="4" text="0.44 (0.27)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Nose">
+  </cell>
+  <cell col="1" row="5" text="0.47 (0.27)">
+  </cell>
+  <cell col="2" row="5" text="0.50 (0.22)">
+  </cell>
+  <cell col="3" row="5" text="0.49 (0.223)">
+  </cell>
+  <cell col="4" row="5" text="0.24 (0.17)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 4 scenarios in the given table." type="entailed">
+  </statement>
+  <statement id="2" text="The number of randomly drawn tokens in Detection is higher than the number of randomly drawn tokens in tracking." type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   Parameters that were used in the code at various steps.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Code Listing">
+  </cell>
+  <cell col="2" row="0" text="Parameters">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Data">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="">
+  </cell>
+  <cell col="1" row="2" text="Audio sampling rate">
+  </cell>
+  <cell col="2" row="2" text="16,000">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="">
+  </cell>
+  <cell col="1" row="3" text="Video sampling rate">
+  </cell>
+  <cell col="2" row="3" text="29.97 frames/s">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Video Segmentation">
+  </cell>
+  <cell col="1" row="4" text="">
+  </cell>
+  <cell col="2" row="4" text="">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="">
+  </cell>
+  <cell col="1" row="5" text="Short Time Energy">
+  </cell>
+  <cell col="2" row="5" text="window step size = 1">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="">
+  </cell>
+  <cell col="1" row="6" text="Median Filter">
+  </cell>
+  <cell col="2" row="6" text="Filter order = 5">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="">
+  </cell>
+  <cell col="1" row="7" text="Clusters related to noise">
+  </cell>
+  <cell col="2" row="7" text="threshold &lt; 35% of maximum cluster length">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Face">
+  </cell>
+  <cell col="1" row="8" text="">
+  </cell>
+  <cell col="2" row="8" text="">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="">
+  </cell>
+  <cell col="1" row="9" text="facedetector = vision.CascadeObjectDetector('FrontalFaceLBP', 'MergeThreshold',i);">
+  </cell>
+  <cell col="2" row="9" text="">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="">
+  </cell>
+  <cell col="1" row="10" text="Merge threshold">
+  </cell>
+  <cell col="2" row="10" text="Merge threshold = 1 to 150 with increments of 10">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="">
+  </cell>
+  <cell col="1" row="11" text="">
+  </cell>
+  <cell col="2" row="11" text="">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Left eye">
+  </cell>
+  <cell col="1" row="12" text="vision.CascadeObjectDetector('EyePairBig', 'MergeThreshold',a);">
+  </cell>
+  <cell col="2" row="12" text="">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="">
+  </cell>
+  <cell col="1" row="13" text="Merge threshold">
+  </cell>
+  <cell col="2" row="13" text="Merge threshold = 0 to 150 with increments of 10">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="">
+  </cell>
+  <cell col="1" row="14" text="vision.CascadeObjectDetector('LeftEye', 'MergeThreshold',i);">
+  </cell>
+  <cell col="2" row="14" text="">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="">
+  </cell>
+  <cell col="1" row="15" text="vision.CascadeObjectDetector('LeftEyeCART', 'MergeThreshold',i);">
+  </cell>
+  <cell col="2" row="15" text="">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="">
+  </cell>
+  <cell col="1" row="16" text="Merge threshold">
+  </cell>
+  <cell col="2" row="16" text="Merge threshold = 4 to 150 with increments of 10">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="Eyebrow">
+  </cell>
+  <cell col="1" row="17" text="">
+  </cell>
+  <cell col="2" row="17" text="">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="">
+  </cell>
+  <cell col="1" row="18" text="Color probability threshold">
+  </cell>
+  <cell col="2" row="18" text="0.2">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="">
+  </cell>
+  <cell col="1" row="19" text="rgb2hsv(img);">
+  </cell>
+  <cell col="2" row="19" text="">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="">
+  </cell>
+  <cell col="1" row="20" text="edge(img(:,:,3),'canny');">
+  </cell>
+  <cell col="2" row="20" text="">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="">
+  </cell>
+  <cell col="1" row="21" text="activecontour(rgb2gray(img),mask,400);">
+  </cell>
+  <cell col="2" row="21" text="iterations = 400">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="Nose">
+  </cell>
+  <cell col="1" row="22" text="Merge threshold">
+  </cell>
+  <cell col="2" row="22" text="Merge threshold = 1 to 150 with increments of 10">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="">
+  </cell>
+  <cell col="1" row="23" text="activecontour(rgb2gray(img),mask,500,'edge','SmoothFactor',2);">
+  </cell>
+  <cell col="2" row="23" text="iterations = 500">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="Lips">
+  </cell>
+  <cell col="1" row="24" text="vision.CascadeObjectDetector('Mouth', 'MergeThreshold',i);">
+  </cell>
+  <cell col="2" row="24" text="">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="">
+  </cell>
+  <cell col="1" row="25" text="Merge threshold">
+  </cell>
+  <cell col="2" row="25" text="Merge threshold = 4 to 150 with increments of 10">
+  </cell>
+ </row>
+ <row row="26">
+  <cell col="0" row="26" text="">
+  </cell>
+  <cell col="1" row="26" text="rgb2hsv(img);">
+  </cell>
+  <cell col="2" row="26" text="">
+  </cell>
+ </row>
+ <row row="27">
+  <cell col="0" row="27" text="">
+  </cell>
+  <cell col="1" row="27" text="strel('sphere',7);">
+  </cell>
+  <cell col="2" row="27" text="">
+  </cell>
+ </row>
+ <row row="28">
+  <cell col="0" row="28" text="">
+  </cell>
+  <cell col="1" row="28" text="bwareafilt(lip,1);">
+  </cell>
+  <cell col="2" row="28" text="Number of objects to keep = 1">
+  </cell>
+ </row>
+ <row row="29">
+  <cell col="0" row="29" text="">
+  </cell>
+  <cell col="1" row="29" text="imdilate(bwconvhull(big),se);">
+  </cell>
+  <cell col="2" row="29" text="spherical structuring element of radius = 7">
+  </cell>
+ </row>
+ <row row="30">
+  <cell col="0" row="30" text="">
+  </cell>
+  <cell col="1" row="30" text="activecontour(rgb2gray(img),mask,500,'edge','SmoothFactor',2);">
+  </cell>
+  <cell col="2" row="30" text="Number of iterations = 500">
+  </cell>
+ </row>
+ <row row="31">
+  <cell col="0" row="31" text="Random Forest">
+  </cell>
+  <cell col="1" row="31" text="Trees">
+  </cell>
+  <cell col="2" row="31" text="Number of trees = 500;">
+  </cell>
+ </row>
+ <row row="32">
+  <cell col="0" row="32" text="">
+  </cell>
+  <cell col="1" row="32" text="Repeat sampling N times from the larger class">
+  </cell>
+  <cell col="2" row="32" text="100">
+  </cell>
+ </row>
+ <row row="33">
+  <cell col="0" row="33" text="">
+  </cell>
+  <cell col="1" row="33" text="mafdr(pval11,'BHFDR', true);">
+  </cell>
+  <cell col="2" row="33" text="p value = 0.05">
+  </cell>
+ </row>
+ <row row="34">
+  <cell col="0" row="34" text="">
+  </cell>
+  <cell col="1" row="34" text="B
+     
+     = TreeBagger(ntree,[
+     
+      train
+     
+     X
+     
+      interaction
+     
+     ],trainY,'OOBPrediction','On', OOBPredictorImportance','on','MinLeafSize',20,'Method',' classification');">
+  </cell>
+  <cell col="2" row="34" text="Random seed = 1
+     
+     Min Leaf size = 20
+     
+     OOBPrediction = on
+     
+     OOBPredictorImportance = on">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 8 various steps in the given table." type="entailed">
+  </statement>
+  <statement id="1" text="Each code listing has its own parameters." type="entailed">
+  </statement>
+  <statement id="2" text="16000 is the parameter for Audio sampling rate in Data." type="entailed">
+  </statement>
+  <statement id="3" text="The increment in the merge threshold for all the code listing is 10." type="entailed">
+  </statement>
+  <statement id="5" text="The window step size for Short Time Energy in Video Segmentation is 2." type="refuted">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   The set of features used to represent each video token. ROI is a region of interest. Please refer to text for details.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="ROI">
+  </cell>
+  <cell col="1" row="0" text="Index">
+  </cell>
+  <cell col="2" row="0" text="Category">
+  </cell>
+  <cell col="3" row="0" text="How this feature is computed">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Head">
+  </cell>
+  <cell col="1" row="1" text="1">
+  </cell>
+  <cell col="2" row="1" text="Distance">
+  </cell>
+  <cell col="3" row="1" text="Maximum displacement of the head while head-raising from its starting position">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Head">
+  </cell>
+  <cell col="1" row="2" text="2">
+  </cell>
+  <cell col="2" row="2" text="Distance">
+  </cell>
+  <cell col="3" row="2" text="Maximum displacement of the head while head-lowering from its starting position">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Head">
+  </cell>
+  <cell col="1" row="3" text="3">
+  </cell>
+  <cell col="2" row="3" text="Distance">
+  </cell>
+  <cell col="3" row="3" text="Average distance head moved during the utterance">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Head">
+  </cell>
+  <cell col="1" row="4" text="4">
+  </cell>
+  <cell col="2" row="4" text="Distance">
+  </cell>
+  <cell col="3" row="4" text="Total distance traveled by head during the utterance">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Eyebrow">
+  </cell>
+  <cell col="1" row="5" text="5">
+  </cell>
+  <cell col="2" row="5" text="Distance">
+  </cell>
+  <cell col="3" row="5" text="Maximum displacement of the eyebrow keypoint from its starting position">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Eyebrow">
+  </cell>
+  <cell col="1" row="6" text="6">
+  </cell>
+  <cell col="2" row="6" text="Distance">
+  </cell>
+  <cell col="3" row="6" text="Maximum displacement of the eyebrow while eyebrow-lowering from its starting position">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Eyebrow">
+  </cell>
+  <cell col="1" row="7" text="7">
+  </cell>
+  <cell col="2" row="7" text="Distance">
+  </cell>
+  <cell col="3" row="7" text="Average distance eyebrow moved during utterance">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Eyebrow">
+  </cell>
+  <cell col="1" row="8" text="8">
+  </cell>
+  <cell col="2" row="8" text="Distance">
+  </cell>
+  <cell col="3" row="8" text="Total distance eyebrow moved during the utterance">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Lips">
+  </cell>
+  <cell col="1" row="9" text="9">
+  </cell>
+  <cell col="2" row="9" text="Distance">
+  </cell>
+  <cell col="3" row="9" text="Maximum lip-opening distance">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Lips">
+  </cell>
+  <cell col="1" row="10" text="10">
+  </cell>
+  <cell col="2" row="10" text="Distance">
+  </cell>
+  <cell col="3" row="10" text="Maximum lip-closing distance">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Lips">
+  </cell>
+  <cell col="1" row="11" text="11">
+  </cell>
+  <cell col="2" row="11" text="Distance">
+  </cell>
+  <cell col="3" row="11" text="Average distance lips moved during utterance">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Lips">
+  </cell>
+  <cell col="1" row="12" text="12">
+  </cell>
+  <cell col="2" row="12" text="Distance">
+  </cell>
+  <cell col="3" row="12" text="Total distance lips moved during the utterance">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Head">
+  </cell>
+  <cell col="1" row="13" text="13">
+  </cell>
+  <cell col="2" row="13" text="Time">
+  </cell>
+  <cell col="3" row="13" text="The relative time at which the displacement of the head while head-raising was maximum">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Head">
+  </cell>
+  <cell col="1" row="14" text="14">
+  </cell>
+  <cell col="2" row="14" text="Time">
+  </cell>
+  <cell col="3" row="14" text="The relative time at which the displacement of the head while head-lowering was maximum">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="Head">
+  </cell>
+  <cell col="1" row="15" text="15">
+  </cell>
+  <cell col="2" row="15" text="Time">
+  </cell>
+  <cell col="3" row="15" text="The relative time at which the head velocity was maximum during head-raising">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="Head">
+  </cell>
+  <cell col="1" row="16" text="16">
+  </cell>
+  <cell col="2" row="16" text="Time">
+  </cell>
+  <cell col="3" row="16" text="The relative time at which the head velocity was maximum during head-lowering">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="Eyebrow">
+  </cell>
+  <cell col="1" row="17" text="17">
+  </cell>
+  <cell col="2" row="17" text="Time">
+  </cell>
+  <cell col="3" row="17" text="The relative time at which the displacement of the eyebrow while eyebrow-raising was maximum">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="Eyebrow">
+  </cell>
+  <cell col="1" row="18" text="18">
+  </cell>
+  <cell col="2" row="18" text="Time">
+  </cell>
+  <cell col="3" row="18" text="The relative time at which the displacement of the eyebrow while eyebrow-lowering was maximum">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="Eyebrow">
+  </cell>
+  <cell col="1" row="19" text="19">
+  </cell>
+  <cell col="2" row="19" text="Time">
+  </cell>
+  <cell col="3" row="19" text="The relative time at which the eyebrow keypoint reached maximum velocity during eyebrow-raising">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="Eyebrow">
+  </cell>
+  <cell col="1" row="20" text="20">
+  </cell>
+  <cell col="2" row="20" text="Time">
+  </cell>
+  <cell col="3" row="20" text="The relative time at which the eyebrow keypoint reached maximum velocity during eyebrow-lowering">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="Lips">
+  </cell>
+  <cell col="1" row="21" text="21">
+  </cell>
+  <cell col="2" row="21" text="Time">
+  </cell>
+  <cell col="3" row="21" text="The relative time at which the amount of lip-opening reached maximum">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="Lips">
+  </cell>
+  <cell col="1" row="22" text="22">
+  </cell>
+  <cell col="2" row="22" text="Time">
+  </cell>
+  <cell col="3" row="22" text="The relative time at which the amount of lip-closing reached maximum">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="Lips">
+  </cell>
+  <cell col="1" row="23" text="23">
+  </cell>
+  <cell col="2" row="23" text="Time">
+  </cell>
+  <cell col="3" row="23" text="The relative time at which the lip velocity during lip-opening was maximum">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="Lips">
+  </cell>
+  <cell col="1" row="24" text="24">
+  </cell>
+  <cell col="2" row="24" text="Time">
+  </cell>
+  <cell col="3" row="24" text="The relative time at which the lip velocity during lip-closing was maximum">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="Head">
+  </cell>
+  <cell col="1" row="25" text="25">
+  </cell>
+  <cell col="2" row="25" text="Kinematic">
+  </cell>
+  <cell col="3" row="25" text="Maximum head velocity during head-raising">
+  </cell>
+ </row>
+ <row row="26">
+  <cell col="0" row="26" text="Head">
+  </cell>
+  <cell col="1" row="26" text="26">
+  </cell>
+  <cell col="2" row="26" text="Kinematic">
+  </cell>
+  <cell col="3" row="26" text="Maximum head velocity during head-lowering">
+  </cell>
+ </row>
+ <row row="27">
+  <cell col="0" row="27" text="Head">
+  </cell>
+  <cell col="1" row="27" text="27">
+  </cell>
+  <cell col="2" row="27" text="Kinematic">
+  </cell>
+  <cell col="3" row="27" text="Maximum absolute acceleration of the head">
+  </cell>
+ </row>
+ <row row="28">
+  <cell col="0" row="28" text="Eyebrow">
+  </cell>
+  <cell col="1" row="28" text="28">
+  </cell>
+  <cell col="2" row="28" text="Kinematic">
+  </cell>
+  <cell col="3" row="28" text="Maximum eyebrow velocity during eyebrow-raising">
+  </cell>
+ </row>
+ <row row="29">
+  <cell col="0" row="29" text="Eyebrow">
+  </cell>
+  <cell col="1" row="29" text="29">
+  </cell>
+  <cell col="2" row="29" text="Kinematic">
+  </cell>
+  <cell col="3" row="29" text="Maximum eyebrow velocity during eyebrow-lowering">
+  </cell>
+ </row>
+ <row row="30">
+  <cell col="0" row="30" text="Eyebrow">
+  </cell>
+  <cell col="1" row="30" text="30">
+  </cell>
+  <cell col="2" row="30" text="Kinematic">
+  </cell>
+  <cell col="3" row="30" text="Maximum absolute acceleration of the eyebrow">
+  </cell>
+ </row>
+ <row row="31">
+  <cell col="0" row="31" text="Lips">
+  </cell>
+  <cell col="1" row="31" text="31">
+  </cell>
+  <cell col="2" row="31" text="Kinematic">
+  </cell>
+  <cell col="3" row="31" text="Maximum lip velocity during lip opening">
+  </cell>
+ </row>
+ <row row="32">
+  <cell col="0" row="32" text="Lips">
+  </cell>
+  <cell col="1" row="32" text="32">
+  </cell>
+  <cell col="2" row="32" text="Kinematic">
+  </cell>
+  <cell col="3" row="32" text="Maximum lip velocity during lip closing">
+  </cell>
+ </row>
+ <row row="33">
+  <cell col="0" row="33" text="Lips">
+  </cell>
+  <cell col="1" row="33" text="33">
+  </cell>
+  <cell col="2" row="33" text="Kinematic">
+  </cell>
+  <cell col="3" row="33" text="Maximum absolute acceleration of the lips">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The index value is given individually for every set of features." type="entailed">
+  </statement>
+  <statement id="1" text="Each feature is undertaken in all three categories those are distance, time and kinematic." type="entailed">
+  </statement>
+  <statement id="2" text="Lip opening and closing distance is observed in Index 9 and 10." type="entailed">
+  </statement>
+  <statement id="3" text="Lips does not taken in Time category." type="refuted">
+  </statement>
+ </statements>
+</Table 2>

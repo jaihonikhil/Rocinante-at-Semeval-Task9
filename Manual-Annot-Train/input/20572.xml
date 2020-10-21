@@ -1,0 +1,176 @@
+<Table 2>
+ <caption text="
+
+   Obstetric Data
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="N">
+  </cell>
+  <cell col="2" row="0" text="%">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Planned home birth">
+  </cell>
+  <cell col="1" row="1" text="33">
+  </cell>
+  <cell col="2" row="1" text="63.5">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Prolonged labor">
+  </cell>
+  <cell col="1" row="2" text="5">
+  </cell>
+  <cell col="2" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Breech">
+  </cell>
+  <cell col="1" row="3" text="2">
+  </cell>
+  <cell col="2" row="3" text="">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Umbilical cord strangulation">
+  </cell>
+  <cell col="1" row="4" text="5">
+  </cell>
+  <cell col="2" row="4" text="">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Meconium">
+  </cell>
+  <cell col="1" row="5" text="2">
+  </cell>
+  <cell col="2" row="5" text="">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Shoulder dystocia">
+  </cell>
+  <cell col="1" row="6" text="4">
+  </cell>
+  <cell col="2" row="6" text="">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Precipitous labor">
+  </cell>
+  <cell col="1" row="7" text="2">
+  </cell>
+  <cell col="2" row="7" text="">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Partial abruption placentae">
+  </cell>
+  <cell col="1" row="8" text="1">
+  </cell>
+  <cell col="2" row="8" text="">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Fetal bradycardia during delivery">
+  </cell>
+  <cell col="1" row="9" text="1">
+  </cell>
+  <cell col="2" row="9" text="">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Normal delivery">
+  </cell>
+  <cell col="1" row="10" text="6">
+  </cell>
+  <cell col="2" row="10" text="">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Labor not documented">
+  </cell>
+  <cell col="1" row="11" text="7">
+  </cell>
+  <cell col="2" row="11" text="">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Unplanned out-of-hospital birth">
+  </cell>
+  <cell col="1" row="12" text="17">
+  </cell>
+  <cell col="2" row="12" text="32.7">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Resuscitative hysterotomy">
+  </cell>
+  <cell col="1" row="13" text="2">
+  </cell>
+  <cell col="2" row="13" text="">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Precipitous labor">
+  </cell>
+  <cell col="1" row="14" text="5">
+  </cell>
+  <cell col="2" row="14" text="">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="Preterm labor">
+  </cell>
+  <cell col="1" row="15" text="12">
+  </cell>
+  <cell col="2" row="15" text="">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="Breech">
+  </cell>
+  <cell col="1" row="16" text="1">
+  </cell>
+  <cell col="2" row="16" text="">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="Unknown pregnancy">
+  </cell>
+  <cell col="1" row="17" text="2">
+  </cell>
+  <cell col="2" row="17" text="">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="Unknown intended location of delivery">
+  </cell>
+  <cell col="1" row="18" text="2">
+  </cell>
+  <cell col="2" row="18" text="3.8">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Unknown intended location of delivery has the lowest percent of 3.8." type="">
+  </statement>
+  <statement id="1" text="Planned home birth has N number of 33." type="">
+  </statement>
+  <statement id="2" text="Planned home birth has the lowest percent of 63.5." type="">
+  </statement>
+  <statement id="3" text="Unknown intended location of delivery has the highest percent of 3.8." type="">
+  </statement>
+  <statement id="4" text="Unplanned out-of-hospital birth has percent of 37.7." type="">
+  </statement>
+  <statement id="5" text="Unplanned out-of-hospital birth has N number of 57." type="">
+  </statement>
+  <statement id="7" text="Of the 17 (32.7%) unplanned out-of-hospital births, 2 mothers did not know they were pregnant and did not receive prenatal care." type="">
+  </statement>
+ </statements>
+</Table 2>

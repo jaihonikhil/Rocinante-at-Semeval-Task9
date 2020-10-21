@@ -1,0 +1,75 @@
+<Table 1>
+ <caption text="
+
+   Details of chemicals used for network formation.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Compounds">
+  </cell>
+  <cell col="1" row="0" text="Structure">
+  </cell>
+  <cell col="2" row="0" text="M
+     
+
+
+       w
+      
+
+     (g/mol)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Hexyl acrylate (HA)">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="156.22">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Poly(ethylene glycol) diacrylate (PEGDA)">
+  </cell>
+  <cell col="1" row="2" text="">
+  </cell>
+  <cell col="2" row="2" text="700">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="4-Hydroxybutyl acrylate (HBA)">
+  </cell>
+  <cell col="1" row="3" text="">
+  </cell>
+  <cell col="2" row="3" text="144.17">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="2-[[(Butylamino)carbonyl]oxy]ethyl acrylate (BAC)">
+  </cell>
+  <cell col="1" row="4" text="">
+  </cell>
+  <cell col="2" row="4" text="215.5">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="2,2-Dimethoxy-2-phenylacetophenone">
+  </cell>
+  <cell col="1" row="5" text="">
+  </cell>
+  <cell col="2" row="5" text="256.3">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Eosin Y disodium salt">
+  </cell>
+  <cell col="1" row="6" text="">
+  </cell>
+  <cell col="2" row="6" text="691.85">
+  </cell>
+ </row>
+ <statements>
+  <statement id="7" text="The chemical Poly(ethylene glycol) diacrylate (PEGDA) has highest" type="entailed">
+  </statement>
+ </statements>
+</Table 1>

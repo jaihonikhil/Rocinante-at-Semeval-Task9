@@ -1,0 +1,450 @@
+<Table 1>
+ <caption text="
+
+   Comparison of Eva to other facially expressive humanoid robots.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Humanoid">
+  </cell>
+  <cell col="1" row="0" text="Image">
+  </cell>
+  <cell col="2" row="0" text="Number of actuators">
+  </cell>
+  <cell col="3" row="0" text="Actuator type(s)">
+  </cell>
+  <cell col="4" row="0" text="Mask material">
+  </cell>
+  <cell col="5" row="0" text="Weight (kg)">
+  </cell>
+  <cell col="6" row="0" text="Head Size">
+  </cell>
+  <cell col="7" row="0" text="With body (Y/N)">
+  </cell>
+  <cell col="8" row="0" text="Open source (Y/N)">
+  </cell>
+  <cell col="9" row="0" text="Consumer product (Y/N)">
+  </cell>
+  <cell col="10" row="0" text="Cost ($)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Eva(this paper)">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="25">
+  </cell>
+  <cell col="3" row="1" text="Servo motor">
+  </cell>
+  <cell col="4" row="1" text="Silicone">
+  </cell>
+  <cell col="5" row="1" text="3">
+  </cell>
+  <cell col="6" row="1" text="Adult">
+  </cell>
+  <cell col="7" row="1" text="N">
+  </cell>
+  <cell col="8" row="1" text="Yes">
+  </cell>
+  <cell col="9" row="1" text="N">
+  </cell>
+  <cell col="10" row="1" text="900">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Face Robot">
+  </cell>
+  <cell col="1" row="2" text="">
+  </cell>
+  <cell col="2" row="2" text="24">
+  </cell>
+  <cell col="3" row="2" text="FMA, stepper motor, air cylinder">
+  </cell>
+  <cell col="4" row="2" text="Silicone">
+  </cell>
+  <cell col="5" row="2" text="N/A">
+  </cell>
+  <cell col="6" row="2" text="Adult">
+  </cell>
+  <cell col="7" row="2" text="N">
+  </cell>
+  <cell col="8" row="2" text="N">
+  </cell>
+  <cell col="9" row="2" text="N">
+  </cell>
+  <cell col="10" row="2" text="N/A">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Face Robot">
+  </cell>
+  <cell col="1" row="3" text="">
+  </cell>
+  <cell col="2" row="3" text="N/A">
+  </cell>
+  <cell col="3" row="3" text="McKibben actuator, DC motor">
+  </cell>
+  <cell col="4" row="3" text="Urethane resin">
+  </cell>
+  <cell col="5" row="3" text="1.5">
+  </cell>
+  <cell col="6" row="3" text="Adult">
+  </cell>
+  <cell col="7" row="3" text="N">
+  </cell>
+  <cell col="8" row="3" text="N">
+  </cell>
+  <cell col="9" row="3" text="N">
+  </cell>
+  <cell col="10" row="3" text="N/A">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Albert HUBO">
+  </cell>
+  <cell col="1" row="4" text="">
+  </cell>
+  <cell col="2" row="4" text="66 (31 in head, 35 in body)">
+  </cell>
+  <cell col="3" row="4" text="Servo motor">
+  </cell>
+  <cell col="4" row="4" text="Frubber">
+  </cell>
+  <cell col="5" row="4" text="57">
+  </cell>
+  <cell col="6" row="4" text="Adult">
+  </cell>
+  <cell col="7" row="4" text="Y">
+  </cell>
+  <cell col="8" row="4" text="N">
+  </cell>
+  <cell col="9" row="4" text="N">
+  </cell>
+  <cell col="10" row="4" text="N/A">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Face Robot">
+  </cell>
+  <cell col="1" row="5" text="">
+  </cell>
+  <cell col="2" row="5" text="39">
+  </cell>
+  <cell col="3" row="5" text="McKibben actuator">
+  </cell>
+  <cell col="4" row="5" text="Urethane resin">
+  </cell>
+  <cell col="5" row="5" text="N/A">
+  </cell>
+  <cell col="6" row="5" text="Adult">
+  </cell>
+  <cell col="7" row="5" text="N">
+  </cell>
+  <cell col="8" row="5" text="N">
+  </cell>
+  <cell col="9" row="5" text="N">
+  </cell>
+  <cell col="10" row="5" text="N/A">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Face Robot">
+  </cell>
+  <cell col="1" row="6" text="">
+  </cell>
+  <cell col="2" row="6" text="7">
+  </cell>
+  <cell col="3" row="6" text="Servo motor">
+  </cell>
+  <cell col="4" row="6" text="Urethane resin">
+  </cell>
+  <cell col="5" row="6" text="N/A">
+  </cell>
+  <cell col="6" row="6" text="Child">
+  </cell>
+  <cell col="7" row="6" text="N">
+  </cell>
+  <cell col="8" row="6" text="N">
+  </cell>
+  <cell col="9" row="6" text="N">
+  </cell>
+  <cell col="10" row="6" text="N/A">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="HRP-4C">
+  </cell>
+  <cell col="1" row="7" text="">
+  </cell>
+  <cell col="2" row="7" text="44">
+  </cell>
+  <cell col="3" row="7" text="Servo motor">
+  </cell>
+  <cell col="4" row="7" text="Silicone">
+  </cell>
+  <cell col="5" row="7" text="46">
+  </cell>
+  <cell col="6" row="7" text="Adult">
+  </cell>
+  <cell col="7" row="7" text="Y">
+  </cell>
+  <cell col="8" row="7" text="N">
+  </cell>
+  <cell col="9" row="7" text="N">
+  </cell>
+  <cell col="10" row="7" text="N/A">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Geminoid DK">
+  </cell>
+  <cell col="1" row="8" text="">
+  </cell>
+  <cell col="2" row="8" text="N/A">
+  </cell>
+  <cell col="3" row="8" text="Pneumatic">
+  </cell>
+  <cell col="4" row="8" text="Silicone">
+  </cell>
+  <cell col="5" row="8" text="40">
+  </cell>
+  <cell col="6" row="8" text="Adult">
+  </cell>
+  <cell col="7" row="8" text="Y">
+  </cell>
+  <cell col="8" row="8" text="N">
+  </cell>
+  <cell col="9" row="8" text="N">
+  </cell>
+  <cell col="10" row="8" text="165,000">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Erica">
+  </cell>
+  <cell col="1" row="9" text="">
+  </cell>
+  <cell col="2" row="9" text="44">
+  </cell>
+  <cell col="3" row="9" text="Pneumatic">
+  </cell>
+  <cell col="4" row="9" text="Silicone">
+  </cell>
+  <cell col="5" row="9" text="N/A">
+  </cell>
+  <cell col="6" row="9" text="Adult">
+  </cell>
+  <cell col="7" row="9" text="Y">
+  </cell>
+  <cell col="8" row="9" text="N">
+  </cell>
+  <cell col="9" row="9" text="N">
+  </cell>
+  <cell col="10" row="9" text="N/A">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Geminoid HI-2">
+  </cell>
+  <cell col="1" row="10" text="">
+  </cell>
+  <cell col="2" row="10" text="50">
+  </cell>
+  <cell col="3" row="10" text="Pneumatic">
+  </cell>
+  <cell col="4" row="10" text="Silicone">
+  </cell>
+  <cell col="5" row="10" text="N/A">
+  </cell>
+  <cell col="6" row="10" text="Adult">
+  </cell>
+  <cell col="7" row="10" text="Y">
+  </cell>
+  <cell col="8" row="10" text="N">
+  </cell>
+  <cell col="9" row="10" text="N">
+  </cell>
+  <cell col="10" row="10" text="N/A">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Sophia">
+  </cell>
+  <cell col="1" row="11" text="">
+  </cell>
+  <cell col="2" row="11" text="34">
+  </cell>
+  <cell col="3" row="11" text="Servo motor">
+  </cell>
+  <cell col="4" row="11" text="Frubber">
+  </cell>
+  <cell col="5" row="11" text="20">
+  </cell>
+  <cell col="6" row="11" text="Adult">
+  </cell>
+  <cell col="7" row="11" text="Y">
+  </cell>
+  <cell col="8" row="11" text="N">
+  </cell>
+  <cell col="9" row="11" text="N">
+  </cell>
+  <cell col="10" row="11" text="N/A">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Professor Einstein">
+  </cell>
+  <cell col="1" row="12" text="">
+  </cell>
+  <cell col="2" row="12" text="9">
+  </cell>
+  <cell col="3" row="12" text="Servo motor">
+  </cell>
+  <cell col="4" row="12" text="Frubber">
+  </cell>
+  <cell col="5" row="12" text="N/A">
+  </cell>
+  <cell col="6" row="12" text="Miniature">
+  </cell>
+  <cell col="7" row="12" text="Y">
+  </cell>
+  <cell col="8" row="12" text="N">
+  </cell>
+  <cell col="9" row="12" text="Y">
+  </cell>
+  <cell col="10" row="12" text="200">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Little Sophia">
+  </cell>
+  <cell col="1" row="13" text="">
+  </cell>
+  <cell col="2" row="13" text="N/A">
+  </cell>
+  <cell col="3" row="13" text="Servo motor">
+  </cell>
+  <cell col="4" row="13" text="Frubber">
+  </cell>
+  <cell col="5" row="13" text="N/A">
+  </cell>
+  <cell col="6" row="13" text="Miniature">
+  </cell>
+  <cell col="7" row="13" text="Y">
+  </cell>
+  <cell col="8" row="13" text="N">
+  </cell>
+  <cell col="9" row="13" text="Y">
+  </cell>
+  <cell col="10" row="13" text="149">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Telenoid R4">
+  </cell>
+  <cell col="1" row="14" text="">
+  </cell>
+  <cell col="2" row="14" text="9">
+  </cell>
+  <cell col="3" row="14" text="Servo motor">
+  </cell>
+  <cell col="4" row="14" text="Polyvinyl chloride">
+  </cell>
+  <cell col="5" row="14" text="3.5">
+  </cell>
+  <cell col="6" row="14" text="Child">
+  </cell>
+  <cell col="7" row="14" text="Y">
+  </cell>
+  <cell col="8" row="14" text="N">
+  </cell>
+  <cell col="9" row="14" text="Y">
+  </cell>
+  <cell col="10" row="14" text="8,000">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="In table they have different kinds of Humanoid." type="">
+  </statement>
+  <statement id="1" text="In Head size they have Adult, Child and Miniature." type="">
+  </statement>
+  <statement id="2" text="In Mask material they have Silicone, Urethane resin, Frubber, Polyvinyl chloride." type="">
+  </statement>
+  <statement id="3" text="$900 is the cost of Eva (this paper) Humanoid." type="">
+  </statement>
+  <statement id="4" text="In table they have 25 different kinds of Humanoid." type="">
+  </statement>
+  <statement id="5" text="In Head size they have Adult only." type="">
+  </statement>
+  <statement id="7" text="The mask material used in Sophia is Silicone." type="">
+  </statement>
+  <statement id="8" text="Consumer product (Y/N) of all Humanoid is Y." type="">
+  </statement>
+  <statement id="9" text="In particular, Hanson Robotics Professor Einstein is a commercially available humanoid toy that is capable of walking, talking, and making facial expressions." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   Emotion-AU correspondence (specifies the AUs used to express each emotion).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Emotion">
+  </cell>
+  <cell col="1" row="0" text="Action Units">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Surprise">
+  </cell>
+  <cell col="1" row="1" text="(1 + 2 + 5 + 26)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Fear">
+  </cell>
+  <cell col="1" row="2" text="(1 + 2 + 4 + 5 + 20 + 26)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Joy">
+  </cell>
+  <cell col="1" row="3" text="(6 + 12)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Sadness">
+  </cell>
+  <cell col="1" row="4" text="(1 + 4 + 11 + 15)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Disgust">
+  </cell>
+  <cell col="1" row="5" text="(9 + 15 + 16 + 26)">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Anger">
+  </cell>
+  <cell col="1" row="6" text="(4 + 5 + 7 + 10 + 26)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 6 unique emotions observed in the table." type="">
+  </statement>
+  <statement id="1" text="Action Units of Joy is (6 + 12)" type="">
+  </statement>
+  <statement id="2" text="Action Units of Sadness is(1 + 4 + 11 + 15)." type="">
+  </statement>
+  <statement id="5" text="Even Fear Emotions has no Action unit." type="">
+  </statement>
+  <statement id="6" text="Action Units of Disgust is (6 + 12)." type="">
+  </statement>
+ </statements>
+</Table 2>

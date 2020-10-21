@@ -1,0 +1,173 @@
+<Table 1>
+ <caption text="
+
+   The three databases of the International Nucleotide Sequence Database Collaboration (INSDC), respective websites and recent publications with updates on the databases.Database.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Country/Region">
+  </cell>
+  <cell col="2" row="0" text="Website">
+  </cell>
+  <cell col="3" row="0" text="See also:">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="European Nucleotide Archive (ENA)">
+  </cell>
+  <cell col="1" row="1" text="Europe">
+  </cell>
+  <cell col="2" row="1" text="https://www.ebi.ac.uk/">
+  </cell>
+  <cell col="3" row="1" text="Cook et al. (2019)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Bioinformation and DNA Data Bank of Japan (DDBJ)">
+  </cell>
+  <cell col="1" row="2" text="Japan">
+  </cell>
+  <cell col="2" row="2" text="https://www.ddbj.nig.ac.jp/index-e.html">
+  </cell>
+  <cell col="3" row="2" text="Ogasawara et al. (2020)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="GenBank">
+  </cell>
+  <cell col="1" row="3" text="United States">
+  </cell>
+  <cell col="2" row="3" text="www.ncbi.nlm.nih.gov/genbank/">
+  </cell>
+  <cell col="3" row="3" text="Sayers et al. (2019)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Each database has its own website." type="">
+  </statement>
+  <statement id="1" text="The database GenBank is of United States Region." type="">
+  </statement>
+  <statement id="2" text="European Nucleotide Archive (ENA) and GenBank are two different databases." type="">
+  </statement>
+  <statement id="4" text="The database GenBank is of Japan Region." type="">
+  </statement>
+  <statement id="7" text="Europe region does not have any database." type="">
+  </statement>
+  <statement id="9" text="Collectively, the partnering organizations strive for the same goals: free and unrestricted access to data archives, including access to a comprehensive resource of nucleotide sequences." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   Examples of crop databases, respective websites and citations, and fiscal year 2020 budget estimate (if available) in support of the database.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Database">
+  </cell>
+  <cell col="1" row="0" text="Website/Citations">
+  </cell>
+  <cell col="2" row="0" text="Fiscal Year 2020 Budget Estimate (USD)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Phytozome">
+  </cell>
+  <cell col="1" row="1" text="https://phytozome.jgi.doe.gov/pz/portal.html
+     
+
+
+      Goodstein et al. (2014)">
+  </cell>
+  <cell col="2" row="1" text="NA">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="EnsemblPlants">
+  </cell>
+  <cell col="1" row="2" text="https://plants.ensembl.org/index.html
+     
+
+
+      Howe et al. (2020)">
+  </cell>
+  <cell col="2" row="2" text="NA">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Rice Genome Annotation Project">
+  </cell>
+  <cell col="1" row="3" text="http://rice.plantbiology.msu.edu/https://rapdb.dna.affrc.go.jp/
+     
+
+
+      Kawahara et al. (2013)
+     
+
+
+      Ouyang et al. (2007)">
+  </cell>
+  <cell col="2" row="3" text="Unfunded
+     
+
+       a">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="GrainGenes">
+  </cell>
+  <cell col="1" row="4" text="https://wheat.pw.usda.gov/GG3
+     
+
+     Matthews, D.E. 2003">
+  </cell>
+  <cell col="2" row="4" text="$1,224,000
+     
+
+       b">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="MaizeGDB">
+  </cell>
+  <cell col="1" row="5" text="https://www.maizegdb.org/
+     
+
+
+      Lawrence et al. (2007)">
+  </cell>
+  <cell col="2" row="5" text="$1,117,000
+     
+
+       b">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Soybase/Legume Information System">
+  </cell>
+  <cell col="1" row="6" text="https://soybase.org/sb_about.php
+     
+
+
+      https://legumeinfo.org/
+     
+     .
+     
+      Grant et al., (2010)">
+  </cell>
+  <cell col="2" row="6" text="$2,450,000
+     
+
+       b">
+  </cell>
+ </row>
+ <statements>
+  <statement id="5" text="Database 'Phytozome' has high estimated budget." type="">
+  </statement>
+ </statements>
+</Table 2>

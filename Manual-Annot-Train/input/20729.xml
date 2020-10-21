@@ -1,0 +1,284 @@
+<Table 1>
+ <caption text="
+
+   ABSCO parameters for v5.0 (OCO L2 B8 and B9) and v5.1 (OCO L2 B10).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Band">
+  </cell>
+  <cell col="1" row="0" text="0.76 µm">
+  </cell>
+  <cell col="2" row="0" text="1.6 µm">
+  </cell>
+  <cell col="3" row="0" text="2.06 µm">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Spectral range (cm
+     
+
+
+
+
+         −
+        
+
+         1
+        
+
+
+
+     )">
+  </cell>
+  <cell col="1" row="1" text="12,950 to 13,190">
+  </cell>
+  <cell col="2" row="1" text="6120 to 6260">
+  </cell>
+  <cell col="3" row="1" text="4800 to 4890">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="ABSCO version">
+  </cell>
+  <cell col="1" row="2" text="5.0 / 5.1">
+  </cell>
+  <cell col="2" row="2" text="5.0 / 5.1">
+  </cell>
+  <cell col="3" row="2" text="5.0 / 5.1">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="line shape">
+  </cell>
+  <cell col="1" row="3" text="a
+     
+     /
+     
+      b">
+  </cell>
+  <cell col="2" row="3" text="f
+     
+     /
+     
+      f">
+  </cell>
+  <cell col="3" row="3" text="i
+     
+     /
+     
+      i">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="line mixing">
+  </cell>
+  <cell col="1" row="4" text="a
+     
+     /
+     
+      b">
+  </cell>
+  <cell col="2" row="4" text="f
+     
+     /
+     
+      f">
+  </cell>
+  <cell col="3" row="4" text="i
+     
+     /
+     
+      i">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="CIA">
+  </cell>
+  <cell col="1" row="5" text="a
+     
+     /
+     
+      b">
+  </cell>
+  <cell col="2" row="5" text="-">
+  </cell>
+  <cell col="3" row="5" text="j
+     
+     /
+     
+      j">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="H
+     
+      2
+     
+     O broadening">
+  </cell>
+  <cell col="1" row="6" text="c
+     
+     /
+     
+      c">
+  </cell>
+  <cell col="2" row="6" text="g
+     
+     /
+     
+      g">
+  </cell>
+  <cell col="3" row="6" text="g
+     
+     /
+     
+      g">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="H
+     
+      2
+     
+     O continuum">
+  </cell>
+  <cell col="1" row="7" text="d
+     
+     /
+     
+      e">
+  </cell>
+  <cell col="2" row="7" text="d
+     
+     /
+     
+      e">
+  </cell>
+  <cell col="3" row="7" text="d
+     
+     /
+     
+      e">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="H
+     
+      2
+     
+     O lines">
+  </cell>
+  <cell col="1" row="8" text="h
+     
+     /
+     
+      h">
+  </cell>
+  <cell col="2" row="8" text="h
+     
+     /
+     
+      h">
+  </cell>
+  <cell col="3" row="8" text="h
+     
+     /
+     
+      h">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="ABSCO version is same 5.0 / 5.1 for all three 0.76 m ,1.6 m and 2.06 m." type="">
+  </statement>
+  <statement id="3" text="H 2 O lines has h / h under 1.6 m." type="">
+  </statement>
+  <statement id="5" text="H 2 O broadening has a / b under 2.06 m" type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   Level 2 algorithm tests for ABSCO evaluation using OCO-2 soundings.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Label">
+  </cell>
+  <cell col="1" row="0" text="Description">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="A: B9 Baseline">
+  </cell>
+  <cell col="1" row="1" text="B9 algorithm, using ABSCO v5.0 (includes EOFs)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="B: B9 No EOF">
+  </cell>
+  <cell col="1" row="2" text="B9 algorithm, using ABSCO v5.0 (no EOFs included in fits to OCO-2 spectra)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="C: H
+     
+      2
+     
+     O continuum update">
+  </cell>
+  <cell col="1" row="3" text="As above, with update to H
+     
+      2
+     
+     O continuum only">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="D: O
+     
+      2
+     
+     and H
+     
+      2
+     
+     O updates">
+  </cell>
+  <cell col="1" row="4" text="As above, with updates to both H
+     
+      2
+     
+     O continuum and O
+     
+      2
+     
+     spectroscopy (ABSCO v5.1)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="E: B9 with ABSCO v5.1 and EOFs">
+  </cell>
+  <cell col="1" row="5" text="As above, after re-calculation of EOFs and including these EOFs in the fits to OCO-2 spectra">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The Table contains 5 Labels." type="">
+  </statement>
+  <statement id="1" text="C: H 2 O continuum update are As above, with updates to both H 2 O continuum and O 2 spectroscopy ." type="">
+  </statement>
+  <statement id="2" text="E: B9 with ABSCO v5.1 and EOFs are using to after re-calculation of EOFs and including these EOFs in the fits to OCO-2 spectra." type="">
+  </statement>
+  <statement id="3" text="D: O 2 and H 2 O updates are As above, with updates to both H 2 O continuum and O 2 spectroscopy." type="">
+  </statement>
+  <statement id="4" text="The Table contains 6 Labels." type="">
+  </statement>
+  <statement id="5" text="E: B9 with ABSCO v5.1 and EOFs are As above, with updates to both H 2 O continuum and O 2 spectroscopy." type="">
+  </statement>
+  <statement id="6" text="A: B9 Baseline and C: H 2 O Label are having same description B9 algorithm, using ABSCO v5.0 (includes EOFs)." type="">
+  </statement>
+ </statements>
+</Table 2>

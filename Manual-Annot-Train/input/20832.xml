@@ -1,0 +1,314 @@
+<Table 6>
+ <caption text="
+
+   Correlation matrix for analysis of seasonal fluctuation (No unit in a matrix).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Electric consumption">
+  </cell>
+  <cell col="2" row="0" text="Operationg days">
+  </cell>
+  <cell col="3" row="0" text="Outside temperature">
+  </cell>
+  <cell col="4" row="0" text="Carcass volume">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Electric consumption">
+  </cell>
+  <cell col="1" row="1" text="1">
+  </cell>
+  <cell col="2" row="1" text="0.2332">
+  </cell>
+  <cell col="3" row="1" text="0.9307">
+  </cell>
+  <cell col="4" row="1" text="−0.5181">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Operationg days">
+  </cell>
+  <cell col="1" row="2" text="0.2332">
+  </cell>
+  <cell col="2" row="2" text="1">
+  </cell>
+  <cell col="3" row="2" text="0.0172">
+  </cell>
+  <cell col="4" row="2" text="0.2021">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Outside temperature">
+  </cell>
+  <cell col="1" row="3" text="0.9307">
+  </cell>
+  <cell col="2" row="3" text="0.0172">
+  </cell>
+  <cell col="3" row="3" text="1">
+  </cell>
+  <cell col="4" row="3" text="−0.7063">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Carcass volume">
+  </cell>
+  <cell col="1" row="4" text="−0.5181">
+  </cell>
+  <cell col="2" row="4" text="0.2021">
+  </cell>
+  <cell col="3" row="4" text="−0.7063">
+  </cell>
+  <cell col="4" row="4" text="1">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Operationg days Electric consumption has the value of 0.2332." type="">
+  </statement>
+  <statement id="1" text="Outside temperature Electric consumption has the value of 0.9307." type="">
+  </statement>
+  <statement id="2" text="Outside temperature Outside temperature has the value of 0.0172." type="">
+  </statement>
+  <statement id="3" text="There are nine different Correlation matrix for analysis of seasonal fluctuation." type="">
+  </statement>
+  <statement id="5" text="Outside temperature Electric consumption has the value of 0.4567." type="">
+  </statement>
+ </statements>
+</Table 6>
+<Table 5>
+ <caption text="
+
+   Data for analysis of seasonal fluctuation (monthly value).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Month">
+  </cell>
+  <cell col="1" row="0" text="Electric consumption">
+  </cell>
+  <cell col="2" row="0" text="Operating days">
+  </cell>
+  <cell col="3" row="0" text="Outside temp. (*1)">
+  </cell>
+  <cell col="4" row="0" text="Beef carcass">
+  </cell>
+  <cell col="5" row="0" text="Pork carcass">
+  </cell>
+  <cell col="6" row="0" text="Carcass volume (*2)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="(kwh)">
+  </cell>
+  <cell col="2" row="1" text="(day)">
+  </cell>
+  <cell col="3" row="1" text="(°C)">
+  </cell>
+  <cell col="4" row="1" text="(head)">
+  </cell>
+  <cell col="5" row="1" text="(head)">
+  </cell>
+  <cell col="6" row="1" text="(head)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Apr 2016">
+  </cell>
+  <cell col="1" row="2" text="84,330">
+  </cell>
+  <cell col="2" row="2" text="21">
+  </cell>
+  <cell col="3" row="2" text="23.3">
+  </cell>
+  <cell col="4" row="2" text="746">
+  </cell>
+  <cell col="5" row="2" text="17,024">
+  </cell>
+  <cell col="6" row="2" text="20,008">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="May 2016">
+  </cell>
+  <cell col="1" row="3" text="76,720">
+  </cell>
+  <cell col="2" row="3" text="19">
+  </cell>
+  <cell col="3" row="3" text="29.0">
+  </cell>
+  <cell col="4" row="3" text="740">
+  </cell>
+  <cell col="5" row="3" text="14,802">
+  </cell>
+  <cell col="6" row="3" text="17,762">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Jun 2016">
+  </cell>
+  <cell col="1" row="4" text="87,300">
+  </cell>
+  <cell col="2" row="4" text="20">
+  </cell>
+  <cell col="3" row="4" text="29.5">
+  </cell>
+  <cell col="4" row="4" text="621">
+  </cell>
+  <cell col="5" row="4" text="14,677">
+  </cell>
+  <cell col="6" row="4" text="17,161">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Jul 2016">
+  </cell>
+  <cell col="1" row="5" text="93,850">
+  </cell>
+  <cell col="2" row="5" text="20">
+  </cell>
+  <cell col="3" row="5" text="33.5">
+  </cell>
+  <cell col="4" row="5" text="718">
+  </cell>
+  <cell col="5" row="5" text="14,367">
+  </cell>
+  <cell col="6" row="5" text="17,239">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Aug 2016">
+  </cell>
+  <cell col="1" row="6" text="98,770">
+  </cell>
+  <cell col="2" row="6" text="21">
+  </cell>
+  <cell col="3" row="6" text="35.3">
+  </cell>
+  <cell col="4" row="6" text="767">
+  </cell>
+  <cell col="5" row="6" text="15,417">
+  </cell>
+  <cell col="6" row="6" text="18,485">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Sep 2016">
+  </cell>
+  <cell col="1" row="7" text="96,240">
+  </cell>
+  <cell col="2" row="7" text="20">
+  </cell>
+  <cell col="3" row="7" text="34.4">
+  </cell>
+  <cell col="4" row="7" text="653">
+  </cell>
+  <cell col="5" row="7" text="16,142">
+  </cell>
+  <cell col="6" row="7" text="18,754">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Oct 2016">
+  </cell>
+  <cell col="1" row="8" text="84,140">
+  </cell>
+  <cell col="2" row="8" text="20">
+  </cell>
+  <cell col="3" row="8" text="29.4">
+  </cell>
+  <cell col="4" row="8" text="792">
+  </cell>
+  <cell col="5" row="8" text="16,337">
+  </cell>
+  <cell col="6" row="8" text="19,505">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Nov 2016">
+  </cell>
+  <cell col="1" row="9" text="76,960">
+  </cell>
+  <cell col="2" row="9" text="20">
+  </cell>
+  <cell col="3" row="9" text="21.5">
+  </cell>
+  <cell col="4" row="9" text="828">
+  </cell>
+  <cell col="5" row="9" text="17,912">
+  </cell>
+  <cell col="6" row="9" text="21,224">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Dec 2016">
+  </cell>
+  <cell col="1" row="10" text="73,540">
+  </cell>
+  <cell col="2" row="10" text="20">
+  </cell>
+  <cell col="3" row="10" text="19.6">
+  </cell>
+  <cell col="4" row="10" text="756">
+  </cell>
+  <cell col="5" row="10" text="17,038">
+  </cell>
+  <cell col="6" row="10" text="20,062">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Jan 2017">
+  </cell>
+  <cell col="1" row="11" text="63,200">
+  </cell>
+  <cell col="2" row="11" text="19">
+  </cell>
+  <cell col="3" row="11" text="13.1">
+  </cell>
+  <cell col="4" row="11" text="752">
+  </cell>
+  <cell col="5" row="11" text="17,339">
+  </cell>
+  <cell col="6" row="11" text="20,347">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Feb 2017">
+  </cell>
+  <cell col="1" row="12" text="63,770">
+  </cell>
+  <cell col="2" row="12" text="20">
+  </cell>
+  <cell col="3" row="12" text="18.3">
+  </cell>
+  <cell col="4" row="12" text="635">
+  </cell>
+  <cell col="5" row="12" text="16,473">
+  </cell>
+  <cell col="6" row="12" text="19,013">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Mar 2017">
+  </cell>
+  <cell col="1" row="13" text="72,060">
+  </cell>
+  <cell col="2" row="13" text="22">
+  </cell>
+  <cell col="3" row="13" text="17.5">
+  </cell>
+  <cell col="4" row="13" text="680">
+  </cell>
+  <cell col="5" row="13" text="17,438">
+  </cell>
+  <cell col="6" row="13" text="20,158">
+  </cell>
+ </row>
+ <statements>
+  <statement id="3" text="The lowest median is 75." type="">
+  </statement>
+ </statements>
+</Table 5>

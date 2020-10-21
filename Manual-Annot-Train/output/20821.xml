@@ -1,0 +1,609 @@
+<Table 1>
+ <caption text="
+
+   Correlation between self-ratings and politician ratings (Study 1, Germany).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Personality Domain/Facet">
+  </cell>
+  <cell col="1" row="0" text="Item">
+  </cell>
+  <cell col="2" row="0" text="r">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="O/Values">
+  </cell>
+  <cell col="1" row="1" text="has progressive views vs. has traditional views">
+  </cell>
+  <cell col="2" row="1" text="0.63
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="H/Fairness">
+  </cell>
+  <cell col="1" row="2" text="admits mistakes vs. shows no remorse">
+  </cell>
+  <cell col="2" row="2" text="0.46
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="A/Compassion">
+  </cell>
+  <cell col="1" row="3" text="is pitiless vs. is warm-hearted">
+  </cell>
+  <cell col="2" row="3" text="0.45
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="C/Order">
+  </cell>
+  <cell col="1" row="4" text="is easy-going, casual vs. is neat, a serious person">
+  </cell>
+  <cell col="2" row="4" text="0.40
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="C/Deliberation">
+  </cell>
+  <cell col="1" row="5" text="reconsiders decisions several times vs. sticks with decisions made">
+  </cell>
+  <cell col="2" row="5" text="0.33
+     
+
+       **">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="C/Deliberation">
+  </cell>
+  <cell col="1" row="6" text="decides quickly vs. thinks long and hard">
+  </cell>
+  <cell col="2" row="6" text="0.26
+     
+      *">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="S/Volatility">
+  </cell>
+  <cell col="1" row="7" text="is self-controlled vs. lets emotions out freely">
+  </cell>
+  <cell col="2" row="7" text="0.24
+     
+      *">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="E/Assertiveness">
+  </cell>
+  <cell col="1" row="8" text="is dominant vs. is unobtrusive">
+  </cell>
+  <cell col="2" row="8" text="0.18">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="E/Sociability">
+  </cell>
+  <cell col="1" row="9" text="is reserved vs. is vigorous">
+  </cell>
+  <cell col="2" row="9" text="0.08">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="S/Volatility">
+  </cell>
+  <cell col="1" row="10" text="gets upset vs. is calm">
+  </cell>
+  <cell col="2" row="10" text="0.02">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="r ranges from 0.02 to 0.63." type="entailed">
+  </statement>
+  <statement id="4" text="We found that 31% of the total effect of openness (voter-politician similarity), 21% of the total effect of conscientiousness , and 9% of the total effect of agreeableness was mediated by RWA and SDO, which by and large corroborates hypothesis 1b on partial mediation." type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   Direct, indirect and total effects of personality self-ratings (Study 2).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="S
+     
+      (politician)">
+  </cell>
+  <cell col="2" row="0" text="E
+     
+      (politician)">
+  </cell>
+  <cell col="3" row="0" text="O
+     
+      (politician)">
+  </cell>
+  <cell col="4" row="0" text="A
+     
+      (politician)">
+  </cell>
+  <cell col="5" row="0" text="C
+     
+      (politician)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Personality
+     
+      (self)">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+  <cell col="3" row="1" text="">
+  </cell>
+  <cell col="4" row="1" text="">
+  </cell>
+  <cell col="5" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Direct effect:">
+  </cell>
+  <cell col="1" row="2" text="0.31
+     
+      ***">
+  </cell>
+  <cell col="2" row="2" text="0.27
+     
+      ***">
+  </cell>
+  <cell col="3" row="2" text="0.38
+     
+      ***">
+  </cell>
+  <cell col="4" row="2" text="0.41
+     
+      ***">
+  </cell>
+  <cell col="5" row="2" text="0.25
+     
+      ***">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Indirect effect:">
+  </cell>
+  <cell col="1" row="3" text="0.01">
+  </cell>
+  <cell col="2" row="3" text="−0.01">
+  </cell>
+  <cell col="3" row="3" text="0.17
+     
+      ***">
+  </cell>
+  <cell col="4" row="3" text="0.04*">
+  </cell>
+  <cell col="5" row="3" text="0.07
+     
+      **">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Total effect:">
+  </cell>
+  <cell col="1" row="4" text="0.33
+     
+      ***">
+  </cell>
+  <cell col="2" row="4" text="0.26
+     
+      ***">
+  </cell>
+  <cell col="3" row="4" text="0.56
+     
+      ***">
+  </cell>
+  <cell col="4" row="4" text="0.46
+     
+      ***">
+  </cell>
+  <cell col="5" row="4" text="0.31
+     
+      ***">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="% direct">
+  </cell>
+  <cell col="1" row="5" text="96%">
+  </cell>
+  <cell col="2" row="5" text="103%">
+  </cell>
+  <cell col="3" row="5" text="69%">
+  </cell>
+  <cell col="4" row="5" text="91%">
+  </cell>
+  <cell col="5" row="5" text="79%">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="% indirect">
+  </cell>
+  <cell col="1" row="6" text="4%">
+  </cell>
+  <cell col="2" row="6" text="−3%">
+  </cell>
+  <cell col="3" row="6" text="31%">
+  </cell>
+  <cell col="4" row="6" text="9%">
+  </cell>
+  <cell col="5" row="6" text="21%">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="n">
+  </cell>
+  <cell col="1" row="7" text="611">
+  </cell>
+  <cell col="2" row="7" text="610">
+  </cell>
+  <cell col="3" row="7" text="610">
+  </cell>
+  <cell col="4" row="7" text="610">
+  </cell>
+  <cell col="5" row="7" text="611">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 6 Significance levels such as S, E, O, A and C(Politician) ." type="entailed">
+  </statement>
+  <statement id="2" text="n Value will be same for C, E and A(Politician)." type="refuted">
+  </statement>
+  <statement id="3" text="% direct Method will have 203% of E(Politician)." type="refuted">
+  </statement>
+ </statements>
+</Table 3>
+<Table A1>
+ <caption text="
+
+   Item wording and factor loadings of SDO and RWA indicators.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Factor loading">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="SDO">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="We should work to give all groups an equal chance to succeed.ª">
+  </cell>
+  <cell col="1" row="2" text="−0.49
+     
+      ***">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Social inequality in Austria is just too big.ª">
+  </cell>
+  <cell col="1" row="3" text="−0.34
+     
+      ***">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="It is unjust to try to make groups equal.ª">
+  </cell>
+  <cell col="1" row="4" text="0.54
+     
+      ***">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Every society requires some groups to be on top and others to be on the bottom.ª">
+  </cell>
+  <cell col="1" row="5" text="0.76
+     
+      ***">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="RWA">
+  </cell>
+  <cell col="1" row="6" text="">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Our country needs people who oppose traditions and try out different ideas.
+     
+      a,c">
+  </cell>
+  <cell col="1" row="7" text="−0.54
+     
+      ***">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="This country would flourish if young people paid more attention to traditions and values.
+     
+      a,c">
+  </cell>
+  <cell col="1" row="8" text="0.68
+     
+      ***">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Respect for authority is something all children need to learn.
+     
+      b">
+  </cell>
+  <cell col="1" row="9" text="0.60
+     
+      ***">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Some acts are wrong on the grounds that they are unnatural.
+     
+      b">
+  </cell>
+  <cell col="1" row="10" text="0.58
+     
+      ***">
+  </cell>
+ </row>
+ <statements>
+  <statement id="3" text="Factor loading for SDO ranges from -0.64 to 0.86." type="refuted">
+  </statement>
+  <statement id="6" text="Factor loading for RWA ranges from -0.84 to 0.92." type="refuted">
+  </statement>
+  <statement id="7" text="The item wordings and the factor loadings are listed in Table A1 in the Appendix." type="entailed">
+  </statement>
+ </statements>
+</Table A1>
+<Table A3>
+ <caption text="
+
+   Regression of ideology on self-ratings and socio-demographics.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Dependent variable:">
+  </cell>
+  <cell col="1" row="0" text="SDO">
+  </cell>
+  <cell col="2" row="0" text="RWA">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="S
+     
+      (self)">
+  </cell>
+  <cell col="1" row="1" text="0.07">
+  </cell>
+  <cell col="2" row="1" text="−0.09*">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="E
+     
+      (self)">
+  </cell>
+  <cell col="1" row="2" text="−0.06">
+  </cell>
+  <cell col="2" row="2" text="−0.04">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="O
+     
+      (self)">
+  </cell>
+  <cell col="1" row="3" text="−0.24
+     
+      ***">
+  </cell>
+  <cell col="2" row="3" text="−0.53
+     
+      ***">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="A
+     
+      (self)">
+  </cell>
+  <cell col="1" row="4" text="−0.22
+     
+      ***">
+  </cell>
+  <cell col="2" row="4" text="−0.01">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="C
+     
+      (self)">
+  </cell>
+  <cell col="1" row="5" text="−0.01">
+  </cell>
+  <cell col="2" row="5" text="0.20
+     
+      ***">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Gender (male)">
+  </cell>
+  <cell col="1" row="6" text="0.10*">
+  </cell>
+  <cell col="2" row="6" text="0.01">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Higher education">
+  </cell>
+  <cell col="1" row="7" text="0.02">
+  </cell>
+  <cell col="2" row="7" text="−0.24
+     
+      ***">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Age (in years)">
+  </cell>
+  <cell col="1" row="8" text="0.02">
+  </cell>
+  <cell col="2" row="8" text="−0.02">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="R
+     
+
+      2
+     
+     (in %)">
+  </cell>
+  <cell col="1" row="9" text="13.5">
+  </cell>
+  <cell col="2" row="9" text="42.7">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="n">
+  </cell>
+  <cell col="1" row="10" text="611">
+  </cell>
+  <cell col="2" row="10" text="611">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="S (self) social dominance orientation is 0.07." type="entailed">
+  </statement>
+  <statement id="1" text="C (self) social dominance orientation is 0.01." type="entailed">
+  </statement>
+  <statement id="2" text="Gender (male) social dominance orientation is 611." type="refuted">
+  </statement>
+  <statement id="3" text="Higher education right-wing authoritarianism is 13.5 ." type="refuted">
+  </statement>
+  <statement id="4" text="Age (in years) social dominance orientation is 0.24 ***." type="refuted">
+  </statement>
+  <statement id="5" text="R 2 (in %) right-wing authoritarianism is 0.02." type="refuted">
+  </statement>
+ </statements>
+</Table A3>
+<Table 2>
+ <caption text="
+
+   Correlation between self-ratings and politician ratings (Study 2, Austria).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="PersonalityDomain">
+  </cell>
+  <cell col="1" row="0" text="Item">
+  </cell>
+  <cell col="2" row="0" text="r">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="O">
+  </cell>
+  <cell col="1" row="1" text="has fixed ideas, is traditional vs. self-aware person, open to novel things">
+  </cell>
+  <cell col="2" row="1" text="0.58
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="A">
+  </cell>
+  <cell col="1" row="2" text="relentless, remains tough vs. compliant, compassionate">
+  </cell>
+  <cell col="2" row="2" text="0.46
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="C">
+  </cell>
+  <cell col="1" row="3" text="casual, easygoing vs. disciplined, orderly">
+  </cell>
+  <cell col="2" row="3" text="0.33
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="S">
+  </cell>
+  <cell col="1" row="4" text="emotional, shows emotions openly vs. controlled, even-tempered">
+  </cell>
+  <cell col="2" row="4" text="0.29
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="E">
+  </cell>
+  <cell col="1" row="5" text="reserved, unobtrusive vs. vigorous, dominant">
+  </cell>
+  <cell col="2" row="5" text="0.27
+     
+
+       ***">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="O,A,C,S,E is the Personality Domain." type="entailed">
+  </statement>
+  <statement id="2" text="Personality Domain of S item is emotional, shows emotions openly vs. controlled, even-tempered." type="entailed">
+  </statement>
+  <statement id="4" text="Personality Domain of S item is casual, easygoing vs. disciplined, orderly." type="refuted">
+  </statement>
+  <statement id="5" text="Personality Domain of E item is relentless, remains tough vs. compliant, compassionate." type="refuted">
+  </statement>
+  <statement id="7" text="The full SEM results and regression tables can be found in Tables A2 and A3 in the Appendix." type="entailed">
+  </statement>
+ </statements>
+</Table 2>

@@ -1,0 +1,194 @@
+<Table 1>
+ <caption text="
+
+   RMSE, MAE and R
+   
+    2
+   
+   calculated for the training and test sets for each predictive model.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Training">
+  </cell>
+  <cell col="4" row="0" text="Test">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="RMSE">
+  </cell>
+  <cell col="2" row="1" text="MAE">
+  </cell>
+  <cell col="3" row="1" text="R
+     
+      2">
+  </cell>
+  <cell col="4" row="1" text="RMSE">
+  </cell>
+  <cell col="5" row="1" text="MAE">
+  </cell>
+  <cell col="6" row="1" text="R
+     
+      2">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Linear model">
+  </cell>
+  <cell col="1" row="2" text="0.018">
+  </cell>
+  <cell col="2" row="2" text="0.014">
+  </cell>
+  <cell col="3" row="2" text="0.442">
+  </cell>
+  <cell col="4" row="2" text="0.019">
+  </cell>
+  <cell col="5" row="2" text="0.015">
+  </cell>
+  <cell col="6" row="2" text="0.421">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Regression tree">
+  </cell>
+  <cell col="1" row="3" text="0.016">
+  </cell>
+  <cell col="2" row="3" text="0.012">
+  </cell>
+  <cell col="3" row="3" text="0.553">
+  </cell>
+  <cell col="4" row="3" text="0.016">
+  </cell>
+  <cell col="5" row="3" text="0.013">
+  </cell>
+  <cell col="6" row="3" text="0.586">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Bagged tree">
+  </cell>
+  <cell col="1" row="4" text="0.016">
+  </cell>
+  <cell col="2" row="4" text="0.012">
+  </cell>
+  <cell col="3" row="4" text="0.599">
+  </cell>
+  <cell col="4" row="4" text="0.016">
+  </cell>
+  <cell col="5" row="4" text="0.013">
+  </cell>
+  <cell col="6" row="4" text="0.577">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Random forest">
+  </cell>
+  <cell col="1" row="5" text="0.014">
+  </cell>
+  <cell col="2" row="5" text="0.010">
+  </cell>
+  <cell col="3" row="5" text="0.705">
+  </cell>
+  <cell col="4" row="5" text="0.016">
+  </cell>
+  <cell col="5" row="5" text="0.012">
+  </cell>
+  <cell col="6" row="5" text="0.596">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Gradient boosting">
+  </cell>
+  <cell col="1" row="6" text="0.014">
+  </cell>
+  <cell col="2" row="6" text="0.011">
+  </cell>
+  <cell col="3" row="6" text="0.654">
+  </cell>
+  <cell col="4" row="6" text="0.016">
+  </cell>
+  <cell col="5" row="6" text="0.012">
+  </cell>
+  <cell col="6" row="6" text="0.623">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Lasso">
+  </cell>
+  <cell col="1" row="7" text="0.019">
+  </cell>
+  <cell col="2" row="7" text="0.014">
+  </cell>
+  <cell col="3" row="7" text="0.425">
+  </cell>
+  <cell col="4" row="7" text="0.020">
+  </cell>
+  <cell col="5" row="7" text="0.015">
+  </cell>
+  <cell col="6" row="7" text="0.401">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Ridge regression">
+  </cell>
+  <cell col="1" row="8" text="0.018">
+  </cell>
+  <cell col="2" row="8" text="0.014">
+  </cell>
+  <cell col="3" row="8" text="0.448">
+  </cell>
+  <cell col="4" row="8" text="0.019">
+  </cell>
+  <cell col="5" row="8" text="0.015">
+  </cell>
+  <cell col="6" row="8" text="0.426">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Elastic net">
+  </cell>
+  <cell col="1" row="9" text="0.019">
+  </cell>
+  <cell col="2" row="9" text="0.014">
+  </cell>
+  <cell col="3" row="9" text="0.428">
+  </cell>
+  <cell col="4" row="9" text="0.020">
+  </cell>
+  <cell col="5" row="9" text="0.015">
+  </cell>
+  <cell col="6" row="9" text="0.404">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Spline">
+  </cell>
+  <cell col="1" row="10" text="0.016">
+  </cell>
+  <cell col="2" row="10" text="0.012">
+  </cell>
+  <cell col="3" row="10" text="0.591">
+  </cell>
+  <cell col="4" row="10" text="0.016">
+  </cell>
+  <cell col="5" row="10" text="0.012">
+  </cell>
+  <cell col="6" row="10" text="0.594">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Linear model Training RMSE is 0.018." type="">
+  </statement>
+  <statement id="1" text="Test MAE 0.012 for Spline." type="">
+  </statement>
+  <statement id="2" text="Lasso Training R 2 is 0.425." type="">
+  </statement>
+  <statement id="3" text="Test MAE 0.012 for Lasso." type="">
+  </statement>
+  <statement id="5" text="Table 1 reports the RMSE, MAE and R 2 calculated for the training and test sets for each predictive model." type="">
+  </statement>
+ </statements>
+</Table 1>

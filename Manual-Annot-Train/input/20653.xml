@@ -1,0 +1,224 @@
+<Table 1>
+ <caption text="
+
+   A-PAGE reagents.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Reagents for 20 mL solution (good for 2.0 gels)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="Final Concentration">
+  </cell>
+  <cell col="2" row="1" text="8% gel">
+  </cell>
+  <cell col="3" row="1" text="10% gel">
+  </cell>
+  <cell col="4" row="1" text="12% gel">
+  </cell>
+  <cell col="5" row="1" text="15% gel">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Urea">
+  </cell>
+  <cell col="1" row="2" text="5 M">
+  </cell>
+  <cell col="2" row="2" text="6 g">
+  </cell>
+  <cell col="3" row="2" text="6 g">
+  </cell>
+  <cell col="4" row="2" text="6 g">
+  </cell>
+  <cell col="5" row="2" text="6 g">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Water (ultrapure)
+     
+
+      *">
+  </cell>
+  <cell col="1" row="3" text="–">
+  </cell>
+  <cell col="2" row="3" text="10 mL">
+  </cell>
+  <cell col="3" row="3" text="9 mL">
+  </cell>
+  <cell col="4" row="3" text="8 mL">
+  </cell>
+  <cell col="5" row="3" text="6 mL">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Acetic Acid (50%)">
+  </cell>
+  <cell col="1" row="4" text="5%">
+  </cell>
+  <cell col="2" row="4" text="2 mL">
+  </cell>
+  <cell col="3" row="4" text="2 mL">
+  </cell>
+  <cell col="4" row="4" text="2 mL">
+  </cell>
+  <cell col="5" row="4" text="2 mL">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="10% APS">
+  </cell>
+  <cell col="1" row="5" text="0.2%">
+  </cell>
+  <cell col="2" row="5" text="0.4 mL">
+  </cell>
+  <cell col="3" row="5" text="0.4 mL">
+  </cell>
+  <cell col="4" row="5" text="0.4 mL">
+  </cell>
+  <cell col="5" row="5" text="0.4 mL">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Tris pH 8.5 (1
+     
+
+      M)">
+  </cell>
+  <cell col="1" row="6" text="12.5 mM
+     
+     pH 3.1">
+  </cell>
+  <cell col="2" row="6" text="0.25 mL">
+  </cell>
+  <cell col="3" row="6" text="0.25 mL">
+  </cell>
+  <cell col="4" row="6" text="0.25 mL">
+  </cell>
+  <cell col="5" row="6" text="0.25 mL">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Acrylamide (40%)">
+  </cell>
+  <cell col="1" row="7" text="8/10/12/15%">
+  </cell>
+  <cell col="2" row="7" text="4 mL">
+  </cell>
+  <cell col="3" row="7" text="5 mL">
+  </cell>
+  <cell col="4" row="7" text="6 mL">
+  </cell>
+  <cell col="5" row="7" text="7.5 mL">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="TEMED®">
+  </cell>
+  <cell col="1" row="8" text="1%">
+  </cell>
+  <cell col="2" row="8" text="200 µL">
+  </cell>
+  <cell col="3" row="8" text="200 µL">
+  </cell>
+  <cell col="4" row="8" text="200 µL">
+  </cell>
+  <cell col="5" row="8" text="200 µL">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Reagents contain 7 unique solutions." type="">
+  </statement>
+  <statement id="1" text="Reagent 10% APS has Lowest Final Concentration." type="">
+  </statement>
+  <statement id="2" text="Reagents Water and Acrylamide has unique value for different % of gel used ." type="">
+  </statement>
+  <statement id="3" text="Final Concentration has same value for all the Regents." type="">
+  </statement>
+  <statement id="4" text="Reagents contain 8 unique solutions." type="">
+  </statement>
+  <statement id="6" text="Reagents Water and Tris pH 8.5 has unique value for different % of gel used ." type="">
+  </statement>
+  <statement id="7" text="Ingredients for various gel concentrations can be found in Table 1 ." type="">
+  </statement>
+  <statement id="8" text="Combine all ingredients from the table except the catalyst TEMED in a 125 mL side-arm flask." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   A-PAGE running conditions.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Running Times by Concentration and Voltage">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Concentration">
+  </cell>
+  <cell col="1" row="1" text="8% acrylamide">
+  </cell>
+  <cell col="3" row="1" text="10% acrylamide">
+  </cell>
+  <cell col="5" row="1" text="12% acrylamide">
+  </cell>
+  <cell col="7" row="1" text="15% acrylamide">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Voltage">
+  </cell>
+  <cell col="1" row="2" text="250V">
+  </cell>
+  <cell col="2" row="2" text="400V">
+  </cell>
+  <cell col="3" row="2" text="250V">
+  </cell>
+  <cell col="4" row="2" text="400V">
+  </cell>
+  <cell col="5" row="2" text="250V">
+  </cell>
+  <cell col="6" row="2" text="400V">
+  </cell>
+  <cell col="7" row="2" text="400V">
+  </cell>
+  <cell col="8" row="2" text="500V">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Base Run Time">
+  </cell>
+  <cell col="1" row="3" text="90 min">
+  </cell>
+  <cell col="2" row="3" text="50 min">
+  </cell>
+  <cell col="3" row="3" text="210 min">
+  </cell>
+  <cell col="4" row="3" text="90 min">
+  </cell>
+  <cell col="5" row="3" text="270 min">
+  </cell>
+  <cell col="6" row="3" text="100 min">
+  </cell>
+  <cell col="7" row="3" text="120 min">
+  </cell>
+  <cell col="8" row="3" text="110 min">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Base Run Time 210 min 10% acrylamide." type="">
+  </statement>
+  <statement id="1" text="15% acrylamide 500V is 110 min Base Run Time." type="">
+  </statement>
+  <statement id="2" text="210 min Base Run Time for 15% acrylamide." type="">
+  </statement>
+  <statement id="4" text="270 min Base Run Time for 15% acrylamide." type="">
+  </statement>
+ </statements>
+</Table 2>

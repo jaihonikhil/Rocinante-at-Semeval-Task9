@@ -1,0 +1,231 @@
+<Table 1>
+ <caption text="
+
+   Membranes parameters.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Membrane code">
+  </cell>
+  <cell col="1" row="0" text="Membrane type">
+  </cell>
+  <cell col="2" row="0" text="Length [mm]">
+  </cell>
+  <cell col="3" row="0" text="Support size OD/ID [mm]">
+  </cell>
+  <cell col="4" row="0" text="Layer thickness [μm]">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Pd1">
+  </cell>
+  <cell col="1" row="1" text="Pd–Ag">
+  </cell>
+  <cell col="2" row="1" text="220">
+  </cell>
+  <cell col="3" row="1" text="14/7">
+  </cell>
+  <cell col="4" row="1" text="4–5">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Pd2DS">
+  </cell>
+  <cell col="1" row="2" text="Pd–Ag DS">
+  </cell>
+  <cell col="2" row="2" text="191">
+  </cell>
+  <cell col="3" row="2" text="14/7">
+  </cell>
+  <cell col="4" row="2" text="4–5">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Pd3">
+  </cell>
+  <cell col="1" row="3" text="Pd–Ag">
+  </cell>
+  <cell col="2" row="3" text="90">
+  </cell>
+  <cell col="3" row="3" text="14/7">
+  </cell>
+  <cell col="4" row="3" text="2–3">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="CMSM1">
+  </cell>
+  <cell col="1" row="4" text="CMSM">
+  </cell>
+  <cell col="2" row="4" text="130">
+  </cell>
+  <cell col="3" row="4" text="10/7">
+  </cell>
+  <cell col="4" row="4" text="3.5">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="CMSM 2">
+  </cell>
+  <cell col="1" row="5" text="CMSM">
+  </cell>
+  <cell col="2" row="5" text="145">
+  </cell>
+  <cell col="3" row="5" text="10/7">
+  </cell>
+  <cell col="4" row="5" text="4.2">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Table has 5 Membranes parameters." type="">
+  </statement>
+  <statement id="1" text="Length of membranes are measured in mm." type="">
+  </statement>
+  <statement id="2" text="Table has 5 Different Membrane codes." type="">
+  </statement>
+  <statement id="3" text="Length of the CMSM1 is 130 mm." type="">
+  </statement>
+  <statement id="4" text="220 mm is the highest length of a membrane in the table." type="">
+  </statement>
+  <statement id="6" text="Length of the CMSM1 is 145 mm." type="">
+  </statement>
+  <statement id="7" text="Ag ceramic supported membrane, while CMSM1 and CMSM2 are CMSM." type="">
+  </statement>
+  <statement id="8" text="In Table 1 a more detailed description of the membranes is provided in terms of length, membrane layer thickness, support size and type." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   Hydrogen permeance, at 400 °C for Pd–Ag and 20 °C for CMSM and 1 bar pressure difference, and selectivity for the membranes tested and for pure Pd∗ composite membrane based on Zhang et al. work [
+   ].
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Membrane code">
+  </cell>
+  <cell col="1" row="0" text="Membrane type">
+  </cell>
+  <cell col="2" row="0" text="H
+     
+      2
+     
+     permeance [mol/s/m
+     
+      2
+     
+     /Pa]">
+  </cell>
+  <cell col="3" row="0" text="Pressure exponent [−]">
+  </cell>
+  <cell col="4" row="0" text="H
+     
+      2
+     
+     /CH
+     
+      4
+     
+     selectivity [−]">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Pd1">
+  </cell>
+  <cell col="1" row="1" text="Pd–Ag">
+  </cell>
+  <cell col="2" row="1" text="1.18·10
+     
+      −6">
+  </cell>
+  <cell col="3" row="1" text="0.66">
+  </cell>
+  <cell col="4" row="1" text="24300">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Pd2DS">
+  </cell>
+  <cell col="1" row="2" text="Pd–Ag">
+  </cell>
+  <cell col="2" row="2" text="1.35·10
+     
+      −6">
+  </cell>
+  <cell col="3" row="2" text="0.63">
+  </cell>
+  <cell col="4" row="2" text="65200">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Pd3">
+  </cell>
+  <cell col="1" row="3" text="Pd–Ag">
+  </cell>
+  <cell col="2" row="3" text="4.36·10
+     
+      −6">
+  </cell>
+  <cell col="3" row="3" text="0.58">
+  </cell>
+  <cell col="4" row="3" text="4280">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="CMSM1">
+  </cell>
+  <cell col="1" row="4" text="CMSM">
+  </cell>
+  <cell col="2" row="4" text="7.02·10
+     
+      −8">
+  </cell>
+  <cell col="3" row="4" text="1">
+  </cell>
+  <cell col="4" row="4" text="527">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="CMSM2">
+  </cell>
+  <cell col="1" row="5" text="CMSM">
+  </cell>
+  <cell col="2" row="5" text="5.23·10
+     
+      −8">
+  </cell>
+  <cell col="3" row="5" text="1">
+  </cell>
+  <cell col="4" row="5" text="1020">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Zhang et al.">
+  </cell>
+  <cell col="1" row="6" text="Pd">
+  </cell>
+  <cell col="2" row="6" text="2.45·10
+     
+      −6">
+  </cell>
+  <cell col="3" row="6" text="n.d.">
+  </cell>
+  <cell col="4" row="6" text="700">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The membrane type is classified into 3 types - PdAg, CMSM and Pd." type="">
+  </statement>
+  <statement id="1" text="The highest H 2 /CH 4 selectivity [] is 65200 of Pd2DS." type="">
+  </statement>
+  <statement id="2" text="The Pressure exponent value is &lt;=1." type="">
+  </statement>
+  <statement id="4" text="The Pressure exponent value is &gt;1." type="">
+  </statement>
+  <statement id="6" text="The pore size of CMSM2 is smaller than CMSM1 as it was observed by the perm-selectivity in Table 2 ; the adsorption of water reduces the pore size allowing mainly hydrogen to permeate when the initial pore size is small enough as in CMSM2." type="">
+  </statement>
+ </statements>
+</Table 2>

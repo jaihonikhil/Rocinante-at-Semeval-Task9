@@ -1,0 +1,154 @@
+<Table 1>
+ <caption text="
+
+   Comparison of compressive strength, fracture force and dissipated energy during fracture for the various sample orientations of the rectangular coconut endocarp samples. Medians and interquartile ranges (IQR) are given.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Sample orientation">
+  </cell>
+  <cell col="1" row="0" text="n">
+  </cell>
+  <cell col="2" row="0" text="Compressive strength [MPa]">
+  </cell>
+  <cell col="3" row="0" text="Fracture force [N]">
+  </cell>
+  <cell col="4" row="0" text="Dissipated energy [J]">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Normal">
+  </cell>
+  <cell col="1" row="1" text="10">
+  </cell>
+  <cell col="2" row="1" text="166 (IQR: 29)">
+  </cell>
+  <cell col="3" row="1" text="4201 (IQR: 746)">
+  </cell>
+  <cell col="4" row="1" text="2.65 (IQR: 0.52)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="parallel-equatorial">
+  </cell>
+  <cell col="1" row="2" text="10">
+  </cell>
+  <cell col="2" row="2" text="123 (IQR: 6)">
+  </cell>
+  <cell col="3" row="2" text="3158 (IQR: 222)">
+  </cell>
+  <cell col="4" row="2" text="1.75 (IQR: 0.22)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="parallel-meridional">
+  </cell>
+  <cell col="1" row="3" text="10">
+  </cell>
+  <cell col="2" row="3" text="126 (IQR: 18)">
+  </cell>
+  <cell col="3" row="3" text="3035 (IQR: 883)">
+  </cell>
+  <cell col="4" row="3" text="1.82 (IQR: 0.89)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The highest Compressive strength [MPa] is 166 (IQR:29)." type="entailed">
+  </statement>
+  <statement id="1" text="The Dissipated energy [J] of Normal is 2.65 (IQR: 0.52)." type="entailed">
+  </statement>
+  <statement id="2" text="The highest Compressive strength [MPa] is 10 (IQR:2)." type="refuted">
+  </statement>
+  <statement id="3" text="The Lowest Fracture force [N] is 1.75 (IQR: 0.22)." type="refuted">
+  </statement>
+  <statement id="5" text="Significant differences could only be observed between samples tested in a normal orientation and the two groups of samples tested in a parallel orientation ( p &lt; .05" type="entailed">
+  </statement>
+  <statement id="6" text="Normally oriented sampled had a higher compressive strength than parallel oriented samples ( Fig. 8 B and Table 1 )." type="entailed">
+  </statement>
+  <statement id="7" text="The same applied with respect to the fracture force and the dissipated energy during the fracturing of these samples ( Table 1 )." type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   Comparison of fracture force and dissipated energy until fracture for the various sample geometries of the coconut endocarp tested in this study. Medians and interquartile ranges (IQR) are derived from
+   
+    Table 1
+   
+   and
+   
+    Figs. 1 &amp; 4 &amp; 5
+   
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Geometry">
+  </cell>
+  <cell col="1" row="0" text="Test setup">
+  </cell>
+  <cell col="2" row="0" text="n">
+  </cell>
+  <cell col="3" row="0" text="Cross-head speed [mm/min]">
+  </cell>
+  <cell col="4" row="0" text="Fracture force [N]">
+  </cell>
+  <cell col="5" row="0" text="Dissipated energy [J]">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Entire endocarp">
+  </cell>
+  <cell col="1" row="1" text="Longitudinal">
+  </cell>
+  <cell col="2" row="1" text="10">
+  </cell>
+  <cell col="3" row="1" text="5">
+  </cell>
+  <cell col="4" row="1" text="3487 (IQR: 1123)">
+  </cell>
+  <cell col="5" row="1" text="6.74 (IQR: 3.28)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Arch-shaped samples">
+  </cell>
+  <cell col="1" row="2" text="Quasi-static, equatorial, constrained">
+  </cell>
+  <cell col="2" row="2" text="19">
+  </cell>
+  <cell col="3" row="2" text="1">
+  </cell>
+  <cell col="4" row="2" text="275 (IQR: 134)">
+  </cell>
+  <cell col="5" row="2" text="0.38 (IQR: 0.20)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Rectangular samples">
+  </cell>
+  <cell col="1" row="3" text="Normal, natural">
+  </cell>
+  <cell col="2" row="3" text="10">
+  </cell>
+  <cell col="3" row="3" text="1">
+  </cell>
+  <cell col="4" row="3" text="4201 (IQR: 746)">
+  </cell>
+  <cell col="5" row="3" text="2.65 (IQR: 0.52)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are three kinds Geometry." type="entailed">
+  </statement>
+  <statement id="2" text="Cross-head speed [mm/min] of Rectangular samples is 1." type="entailed">
+  </statement>
+  <statement id="3" text="The Dissipated energy [J] of all the geometry is same." type="refuted">
+  </statement>
+  <statement id="4" text="The Cross-head speed [mm/min] values are unique." type="refuted">
+  </statement>
+ </statements>
+</Table 2>

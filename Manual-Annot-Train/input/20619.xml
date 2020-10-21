@@ -1,0 +1,290 @@
+<Table 1>
+ <caption text="
+
+   Data used to compute contact angles for the water-wet experiment from
+   ; the more extensive dataset used for the altered-wettability experiment is presented in the Supplementary Material. The porosity,
+   
+
+
+      ϕ
+     
+
+
+   , of the resolvable pore space was 0.147. Phases 1, 2 and 3 are water (brine), oil and gas respectively. GI refers to the end of gas injection and WF to the end of second water (brine) injection. In both experiments
+   
+
+
+
+
+        σ
+       
+
+
+
+        12
+       
+
+
+
+      =
+     
+
+      52.1
+     
+
+
+   mN/m,
+   
+
+
+
+
+        σ
+       
+
+
+
+        13
+       
+
+
+
+      =
+     
+
+      63.7
+     
+
+
+   mN/m, and
+   
+
+
+
+
+        σ
+       
+
+
+
+        23
+       
+
+
+
+      =
+     
+
+      11.2
+     
+
+
+   mN/m.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Property">
+  </cell>
+  <cell col="1" row="0" text="GI">
+  </cell>
+  <cell col="2" row="0" text="WF">
+  </cell>
+  <cell col="3" row="0" text="Difference
+     
+
+
+        Δ
+       
+
+
+     /mean (for
+     
+
+
+        κ
+       
+
+
+     )">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="S
+         
+
+
+
+          1">
+  </cell>
+  <cell col="1" row="1" text="0.301">
+  </cell>
+  <cell col="2" row="1" text="0.359">
+  </cell>
+  <cell col="3" row="1" text="0.058">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="S
+         
+
+
+
+          3">
+  </cell>
+  <cell col="1" row="2" text="0.539">
+  </cell>
+  <cell col="2" row="2" text="0.341">
+  </cell>
+  <cell col="3" row="2" text="−0.197">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="a
+         
+
+
+
+          12
+         
+
+
+
+
+     mm
+     
+      −1">
+  </cell>
+  <cell col="1" row="3" text="0.179">
+  </cell>
+  <cell col="2" row="3" text="0.362">
+  </cell>
+  <cell col="3" row="3" text="0.183">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="a
+         
+
+
+
+          23
+         
+
+
+
+
+     mm
+     
+      −1">
+  </cell>
+  <cell col="1" row="4" text="0.181">
+  </cell>
+  <cell col="2" row="4" text="0.306">
+  </cell>
+  <cell col="3" row="4" text="0.125">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="a
+         
+
+
+
+          1
+         
+
+          s
+         
+
+
+
+
+     mm
+     
+      −1">
+  </cell>
+  <cell col="1" row="5" text="4.062">
+  </cell>
+  <cell col="2" row="5" text="4.472">
+  </cell>
+  <cell col="3" row="5" text="0.411">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="a
+         
+
+
+
+          3
+         
+
+          s
+         
+
+
+
+
+     mm
+     
+      −1">
+  </cell>
+  <cell col="1" row="6" text="1.714">
+  </cell>
+  <cell col="2" row="6" text="0.775">
+  </cell>
+  <cell col="3" row="6" text="−0.939">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="κ
+         
+
+
+
+          12
+         
+
+
+
+
+     mm
+     
+      −1">
+  </cell>
+  <cell col="1" row="7" text="17.039">
+  </cell>
+  <cell col="2" row="7" text="15.642">
+  </cell>
+  <cell col="3" row="7" text="16.341">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="κ
+         
+
+
+
+          23
+         
+
+
+
+
+     mm
+     
+      −1">
+  </cell>
+  <cell col="1" row="8" text="20.950">
+  </cell>
+  <cell col="2" row="8" text="20.112">
+  </cell>
+  <cell col="3" row="8" text="20.531">
+  </cell>
+ </row>
+ <statements>
+  <statement id="4" text="Property contains same phases." type="">
+  </statement>
+ </statements>
+</Table 1>

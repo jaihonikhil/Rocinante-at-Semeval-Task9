@@ -1,0 +1,355 @@
+<Table 1>
+ <caption text="
+
+   Summary of the participating models and NHM-LETKF used for simulating the identical meteorological fields. E and L indicate Eulerian- and Lagrangian-based models, respectively. OD and ND indicate models that have their own dynamical (OD) core or have no dynamical core (ND), respectively.
+   
+    z
+   
+   ,
+   
+    η
+   
+   , and
+   
+    σ
+   
+   indicate the height coordinate,
+   
+    η
+   
+   -coordinate, and
+   
+    σ
+   
+   -coordinate systems.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Model Name (E/L*
+     
+      1
+     
+     , OD/ND*
+     
+      2
+     
+     )">
+  </cell>
+  <cell col="1" row="0" text="Resolution">
+  </cell>
+  <cell col="3" row="0" text="Model top (Layer number)">
+  </cell>
+  <cell col="4" row="0" text="Reference(s)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="Horizontal">
+  </cell>
+  <cell col="2" row="1" text="Vertical*
+     
+      3">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="AIST-MM(E,OD)">
+  </cell>
+  <cell col="1" row="2" text="1 km">
+  </cell>
+  <cell col="2" row="2" text="Δz
+     
+     = 10 ~ 300 m">
+  </cell>
+  <cell col="3" row="2" text="5400 m (35)">
+  </cell>
+  <cell col="4" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="ldX(E,ND)">
+  </cell>
+  <cell col="1" row="3" text="1 km">
+  </cell>
+  <cell col="2" row="3" text="Δz
+     
+     = 40 ~ 600 m">
+  </cell>
+  <cell col="3" row="3" text="5000 m (17)">
+  </cell>
+  <cell col="4" row="3" text="">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="GEARN(L,OD)">
+  </cell>
+  <cell col="1" row="4" text="1 km">
+  </cell>
+  <cell col="2" row="4" text="Δη
+     
+     = 0.003 ~ 0.019/
+     
+      Δz
+     
+     = 20 ~ 678 m*
+     
+      1">
+  </cell>
+  <cell col="3" row="4" text="100 hPa (30)/15000 m (43)*
+     
+      1">
+  </cell>
+  <cell col="4" row="4" text="">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="WRF-Chem-J(E,OD)">
+  </cell>
+  <cell col="1" row="5" text="1 km">
+  </cell>
+  <cell col="2" row="5" text="Δσ
+     
+     = 0.0022 ~ 0.0073">
+  </cell>
+  <cell col="3" row="5" text="100 hPa (49)">
+  </cell>
+  <cell col="4" row="5" text="">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="NHM-Chem(E,ND)">
+  </cell>
+  <cell col="1" row="6" text="1 km">
+  </cell>
+  <cell col="2" row="6" text="Δσ
+     
+     = 0.002 ~ 0.03">
+  </cell>
+  <cell col="3" row="6" text="18000 m (55)">
+  </cell>
+  <cell col="4" row="6" text=",">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="WRF-CMAQ(E,OD)">
+  </cell>
+  <cell col="1" row="7" text="1 km">
+  </cell>
+  <cell col="2" row="7" text="Δσ
+     
+     = 0.007 ~ 0.013">
+  </cell>
+  <cell col="3" row="7" text="100 hPa (34)">
+  </cell>
+  <cell col="4" row="7" text="">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="SCALE*
+     
+      2
+     
+     (E,OD)">
+  </cell>
+  <cell col="1" row="8" text="1 km">
+  </cell>
+  <cell col="2" row="8" text="Δσ
+     
+     = 0.005 ~ 0.1
+     
+
+      Δz
+     
+     = 40 ~ 656 m*
+     
+      2">
+  </cell>
+  <cell col="3" row="8" text="10000 m (19)
+     
+     20184 m (58) *
+     
+      2">
+  </cell>
+  <cell col="4" row="8" text=",">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="WRF-Chem-T(E,OD)">
+  </cell>
+  <cell col="1" row="9" text="1 km">
+  </cell>
+  <cell col="2" row="9" text="Δσ
+     
+     = 0.0026 ~ 0.0332">
+  </cell>
+  <cell col="3" row="9" text="100 hPa (30)">
+  </cell>
+  <cell col="4" row="9" text="">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="NICAM(E,OD)">
+  </cell>
+  <cell col="1" row="10" text="1 km">
+  </cell>
+  <cell col="2" row="10" text="Δz
+     
+     = 13.7 ~ 780 m">
+  </cell>
+  <cell col="3" row="10" text="22619 m (58)">
+  </cell>
+  <cell col="4" row="10" text="">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="NHM-LETKF">
+  </cell>
+  <cell col="1" row="11" text="1 km">
+  </cell>
+  <cell col="2" row="11" text="Δz
+     
+     = 40 ~ 656 m">
+  </cell>
+  <cell col="3" row="11" text="20200 m (58)">
+  </cell>
+  <cell col="4" row="11" text="">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Table has 10 models regarding to co-ordinate systems." type="">
+  </statement>
+  <statement id="2" text="17 is the layer number for the model ldX(E,ND)." type="">
+  </statement>
+  <statement id="4" text="Horizontal resolution for all the models are 0.1 km." type="">
+  </statement>
+  <statement id="7" text="The SCALE components were updated as described in Table 1 ." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   RANK2 scores for Plume 1, Plume 5, and Plume 6.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Model">
+  </cell>
+  <cell col="1" row="0" text="Plume 1">
+  </cell>
+  <cell col="2" row="0" text="Plume 5">
+  </cell>
+  <cell col="3" row="0" text="Plume 6">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="AIST-MM">
+  </cell>
+  <cell col="1" row="1" text="0.57">
+  </cell>
+  <cell col="2" row="1" text="0.41">
+  </cell>
+  <cell col="3" row="1" text="1.12">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="ldX">
+  </cell>
+  <cell col="1" row="2" text="0.51">
+  </cell>
+  <cell col="2" row="2" text="0.13">
+  </cell>
+  <cell col="3" row="2" text="1.17">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="GEARN">
+  </cell>
+  <cell col="1" row="3" text="0.91">
+  </cell>
+  <cell col="2" row="3" text="1.38">
+  </cell>
+  <cell col="3" row="3" text="0.48">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="WRF-Chem-J">
+  </cell>
+  <cell col="1" row="4" text="0.31">
+  </cell>
+  <cell col="2" row="4" text="0.74">
+  </cell>
+  <cell col="3" row="4" text="0.69">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="NHM-Chem">
+  </cell>
+  <cell col="1" row="5" text="0.0">
+  </cell>
+  <cell col="2" row="5" text="0.31">
+  </cell>
+  <cell col="3" row="5" text="0.0">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="WRF-CMAQ">
+  </cell>
+  <cell col="1" row="6" text="0.0">
+  </cell>
+  <cell col="2" row="6" text="0.0">
+  </cell>
+  <cell col="3" row="6" text="0.0">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="SCALE">
+  </cell>
+  <cell col="1" row="7" text="1.79">
+  </cell>
+  <cell col="2" row="7" text="0.0">
+  </cell>
+  <cell col="3" row="7" text="1.77">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="WRF-Chem-T">
+  </cell>
+  <cell col="1" row="8" text="0.94">
+  </cell>
+  <cell col="2" row="8" text="0.12">
+  </cell>
+  <cell col="3" row="8" text="0.0">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="NICAM">
+  </cell>
+  <cell col="1" row="9" text="0.41">
+  </cell>
+  <cell col="2" row="9" text="0.13">
+  </cell>
+  <cell col="3" row="9" text="0.0">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Ensemble Mean">
+  </cell>
+  <cell col="1" row="10" text="1.42">
+  </cell>
+  <cell col="2" row="10" text="1.10">
+  </cell>
+  <cell col="3" row="10" text="1.76">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="NHM-Chem and WRF-CMAQ has zero scores Plume 1." type="">
+  </statement>
+  <statement id="2" text="ldX and NICAM models has equal Plume 5 scores." type="">
+  </statement>
+  <statement id="5" text="AIST-MM has lowest scores in Plume 6." type="">
+  </statement>
+  <statement id="9" text="It should be noted that although the RANK2 scores of the multimodel ensemble for all these plumes exceeded 1.00, the RANK2 score of some models was 0.0 because these models completely missed the plume." type="">
+  </statement>
+ </statements>
+</Table 2>

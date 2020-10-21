@@ -1,0 +1,126 @@
+<Table 1>
+ <caption text="
+
+   Correlations between HMB and SJ profiles.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Date">
+  </cell>
+  <cell col="1" row="0" text="Correlation Coefficient">
+  </cell>
+  <cell col="2" row="0" text="P-Value">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="July 9, 2018">
+  </cell>
+  <cell col="1" row="1" text="0.93">
+  </cell>
+  <cell col="2" row="1" text="0.0">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="July 16, 2018">
+  </cell>
+  <cell col="1" row="2" text="0.83">
+  </cell>
+  <cell col="2" row="2" text="0.0">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="July 18, 2018">
+  </cell>
+  <cell col="1" row="3" text="0.88">
+  </cell>
+  <cell col="2" row="3" text="0.0">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="July 20, 2018">
+  </cell>
+  <cell col="1" row="4" text="0.84">
+  </cell>
+  <cell col="2" row="4" text="0.0">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="July 24, 2018">
+  </cell>
+  <cell col="1" row="5" text="0.91">
+  </cell>
+  <cell col="2" row="5" text="0.0">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="July 31, 2018">
+  </cell>
+  <cell col="1" row="6" text="0.72">
+  </cell>
+  <cell col="2" row="6" text="0.0">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="August 2, 2018">
+  </cell>
+  <cell col="1" row="7" text="0.92">
+  </cell>
+  <cell col="2" row="7" text="0.0">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="August 3, 2018">
+  </cell>
+  <cell col="1" row="8" text="0.87">
+  </cell>
+  <cell col="2" row="8" text="0.0">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="August 6, 2018">
+  </cell>
+  <cell col="1" row="9" text="0.68">
+  </cell>
+  <cell col="2" row="9" text="0.0">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="August 10, 2018">
+  </cell>
+  <cell col="1" row="10" text="0.85">
+  </cell>
+  <cell col="2" row="10" text="0.0">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="August 17, 2018">
+  </cell>
+  <cell col="1" row="11" text="0.92">
+  </cell>
+  <cell col="2" row="11" text="0.0">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="All dates">
+  </cell>
+  <cell col="1" row="12" text="0.79">
+  </cell>
+  <cell col="2" row="12" text="0.0">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Correlation Coefficient on date July 9, 2018 has the highest value of 0.93." type="entailed">
+  </statement>
+  <statement id="1" text="Correlation Coefficient on date July 31, 2018 has the lowest value of 0.72." type="entailed">
+  </statement>
+  <statement id="2" text="Correlation Coefficient has the total for all dates of 0.79." type="entailed">
+  </statement>
+  <statement id="3" text="P-Value is same for All dates of 0.0." type="entailed">
+  </statement>
+  <statement id="4" text="This claim was also supported by a statistical analysis between HMB and SJ on each date." type="entailed">
+  </statement>
+  <statement id="5" text="All CCs are above the significance threshold of 0.5, with the lowest of 0.68 on August 6." type="entailed">
+  </statement>
+ </statements>
+</Table 1>

@@ -1,0 +1,210 @@
+<Table 1>
+ <caption text="
+
+   Saturated acylcarnitines by acyl chain length as butyl esters and their molecular ions.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Chain length">
+  </cell>
+  <cell col="1" row="0" text="[M+H]
+     
+      +
+     
+     /[M+H]
+     
+      +
+     
+     Internal standard as butylesters">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="C2">
+  </cell>
+  <cell col="1" row="1" text="260/263">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="C3">
+  </cell>
+  <cell col="1" row="2" text="274/277">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="C4">
+  </cell>
+  <cell col="1" row="3" text="288/299">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="C5">
+  </cell>
+  <cell col="1" row="4" text="302/311">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="C6">
+  </cell>
+  <cell col="1" row="5" text="316">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="C8">
+  </cell>
+  <cell col="1" row="6" text="344/347">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="C10">
+  </cell>
+  <cell col="1" row="7" text="372">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="C12">
+  </cell>
+  <cell col="1" row="8" text="400">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="C14">
+  </cell>
+  <cell col="1" row="9" text="428/437">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="C16">
+  </cell>
+  <cell col="1" row="10" text="456/459">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="C18">
+  </cell>
+  <cell col="1" row="11" text="484">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are eleven different Chain lengths." type="">
+  </statement>
+  <statement id="1" text="Chain length C2 has [M+H] + /[M+H] + Internal standard as butylesters of 260/263." type="">
+  </statement>
+  <statement id="2" text="Chain length C4 has [M+H] + /[M+H] + Internal standard as butylesters of 288/299." type="">
+  </statement>
+  <statement id="5" text="Chain length C4 has [M+H] + /[M+H] + Internal standard as butylesters of 400." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   Amino acids as butyl esters and their molecular ions. Additional amino acids can be detected and quantified with the matching stable-isotopic labeled standards.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Target amino acid">
+  </cell>
+  <cell col="1" row="0" text="[M+H]
+     
+      +
+     
+     /[M+H]
+     
+      +
+     
+     Internal standard as butylesters">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Alanine">
+  </cell>
+  <cell col="1" row="1" text="146/150">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Arginine">
+  </cell>
+  <cell col="1" row="2" text="231/236">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Aspartic Acid">
+  </cell>
+  <cell col="1" row="3" text="246/249">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Citrulline">
+  </cell>
+  <cell col="1" row="4" text="232/234">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Glutamic acid">
+  </cell>
+  <cell col="1" row="5" text="260/263">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Glycine">
+  </cell>
+  <cell col="1" row="6" text="132/134">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Leucine/Isoleucine">
+  </cell>
+  <cell col="1" row="7" text="188/191">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Methionine">
+  </cell>
+  <cell col="1" row="8" text="206/209">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Ornithine">
+  </cell>
+  <cell col="1" row="9" text="189/191">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Phenylalanine">
+  </cell>
+  <cell col="1" row="10" text="222/228">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Tyrosine">
+  </cell>
+  <cell col="1" row="11" text="238/244">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Valine">
+  </cell>
+  <cell col="1" row="12" text="174/182">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Alanine has 146/150 as values." type="">
+  </statement>
+  <statement id="2" text="Leucine/Isoleucine has 188/191 as values." type="">
+  </statement>
+  <statement id="3" text="222/228 is value for Phenylalanine ." type="">
+  </statement>
+  <statement id="4" text="Valine has value of 238/244." type="">
+  </statement>
+  <statement id="5" text="188/191 is value for Phenylalanine ." type="">
+  </statement>
+  <statement id="6" text="Leucine/Isoleucine has146/150 as values." type="">
+  </statement>
+  <statement id="7" text="Arginine has 146/150 as values." type="">
+  </statement>
+  <statement id="8" text="231.1- m/z 70.1 for arginine ( Table 2 )." type="">
+  </statement>
+ </statements>
+</Table 2>

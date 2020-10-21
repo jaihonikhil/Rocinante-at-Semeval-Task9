@@ -1,0 +1,568 @@
+<Table 1>
+ <caption text="
+
+   List of Nature reserves in Kazakhstan.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Sr. #">
+  </cell>
+  <cell col="1" row="0" text="Name">
+  </cell>
+  <cell col="2" row="0" text="Location">
+  </cell>
+  <cell col="3" row="0" text="Area of reserves">
+  </cell>
+  <cell col="4" row="0" text="Year">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1">
+  </cell>
+  <cell col="1" row="1" text="Aksu-Jabagly State Nature Reserve">
+  </cell>
+  <cell col="2" row="1" text="Turkestan and Jambyl regions">
+  </cell>
+  <cell col="3" row="1" text="131,934">
+  </cell>
+  <cell col="4" row="1" text="1926">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2">
+  </cell>
+  <cell col="1" row="2" text="Almaty State Nature Reserve">
+  </cell>
+  <cell col="2" row="2" text="Almaty region">
+  </cell>
+  <cell col="3" row="2" text="71,700">
+  </cell>
+  <cell col="4" row="2" text="1931">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3">
+  </cell>
+  <cell col="1" row="3" text="Naurzum State Nature Reserve">
+  </cell>
+  <cell col="2" row="3" text="Kostanay region">
+  </cell>
+  <cell col="3" row="3" text="191,381">
+  </cell>
+  <cell col="4" row="3" text="1931">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4">
+  </cell>
+  <cell col="1" row="4" text="Barsa-Kelme’s State Nature Reserve">
+  </cell>
+  <cell col="2" row="4" text="Kyzyl Orda region">
+  </cell>
+  <cell col="3" row="4" text="160,826">
+  </cell>
+  <cell col="4" row="4" text="1939">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="5">
+  </cell>
+  <cell col="1" row="5" text="Korgalzhyn State Nature Reserve">
+  </cell>
+  <cell col="2" row="5" text="Akmola and Karaganda regions">
+  </cell>
+  <cell col="3" row="5" text="543,171">
+  </cell>
+  <cell col="4" row="5" text="1968">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="6">
+  </cell>
+  <cell col="1" row="6" text="Markakol State Nature Reserve">
+  </cell>
+  <cell col="2" row="6" text="East Kazakhstan region">
+  </cell>
+  <cell col="3" row="6" text="102,979">
+  </cell>
+  <cell col="4" row="6" text="1976">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="7">
+  </cell>
+  <cell col="1" row="7" text="Ustyurt State Nature Reserve">
+  </cell>
+  <cell col="2" row="7" text="Mangystau region">
+  </cell>
+  <cell col="3" row="7" text="223,342">
+  </cell>
+  <cell col="4" row="7" text="1984">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="8">
+  </cell>
+  <cell col="1" row="8" text="West Altai State Nature Reserve">
+  </cell>
+  <cell col="2" row="8" text="East Kazakhstan region">
+  </cell>
+  <cell col="3" row="8" text="86,122">
+  </cell>
+  <cell col="4" row="8" text="1992">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="9">
+  </cell>
+  <cell col="1" row="9" text="Alakol State Nature Reserve">
+  </cell>
+  <cell col="2" row="9" text="Almaty and East Kazakhstan">
+  </cell>
+  <cell col="3" row="9" text="65,217,9">
+  </cell>
+  <cell col="4" row="9" text="1998">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="10">
+  </cell>
+  <cell col="1" row="10" text="Karatau State Nature Reserve">
+  </cell>
+  <cell col="2" row="10" text="Turkestan region">
+  </cell>
+  <cell col="3" row="10" text="34,300">
+  </cell>
+  <cell col="4" row="10" text="2004">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Year started from 1926 to 2004 ." type="">
+  </statement>
+  <statement id="2" text="Mangystau region Location has highest Area of reserves." type="">
+  </statement>
+  <statement id="3" text="Year started from 1996 to 2020 ." type="">
+  </statement>
+  <statement id="4" text="Mangystau region Location has lowest Area of reserves compare to other Location." type="">
+  </statement>
+  <statement id="7" text="The table has same Nature reserve Name." type="">
+  </statement>
+  <statement id="9" text="In this regard, the officials have identified the regions, which have resources for eco-adventure and cultural tourism, through which the route runs Silk Road entire Kazakhstan." type="">
+  </statement>
+  <statement id="10" text='This route allows to tourist familiarity with the Kazakhstan 10 National Wildlife Reserves ( Table 1 ), nomadic culture, the Meadville complex heritages, Shymkent (the "Holy Place"), the Turkestan, and Otrar ancient cities, and other exotic places, oasis, steppes.' type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 4>
+ <caption text="
+
+   Means, Standard Deviation, and Correlations between the study variables.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Variables">
+  </cell>
+  <cell col="1" row="0" text="Mean">
+  </cell>
+  <cell col="2" row="0" text="SD">
+  </cell>
+  <cell col="3" row="0" text="NSRTI">
+  </cell>
+  <cell col="4" row="0" text="STD">
+  </cell>
+  <cell col="5" row="0" text="QOL">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="NSR tourism infrastructure (NSRTI)">
+  </cell>
+  <cell col="1" row="1" text="3.87">
+  </cell>
+  <cell col="2" row="1" text="0.939">
+  </cell>
+  <cell col="3" row="1" text="0.75">
+  </cell>
+  <cell col="4" row="1" text="">
+  </cell>
+  <cell col="5" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Sustainable tourism development (STD)">
+  </cell>
+  <cell col="1" row="2" text="4.11">
+  </cell>
+  <cell col="2" row="2" text="0.923">
+  </cell>
+  <cell col="3" row="2" text="0.26∗∗">
+  </cell>
+  <cell col="4" row="2" text="0.74">
+  </cell>
+  <cell col="5" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Quality of Life (QOL)">
+  </cell>
+  <cell col="1" row="3" text="3.65">
+  </cell>
+  <cell col="2" row="3" text="0.902">
+  </cell>
+  <cell col="3" row="3" text=".29∗∗">
+  </cell>
+  <cell col="4" row="3" text=".22∗∗">
+  </cell>
+  <cell col="5" row="3" text="0.75">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="NSR tourism infrastructure (NSRTI) is having highest value of SD =0.939." type="">
+  </statement>
+  <statement id="1" text="Sustainable tourism development (STD) is having 0.74 STD." type="">
+  </statement>
+  <statement id="2" text="QOL is having unique values." type="">
+  </statement>
+ </statements>
+</Table 4>
+<Table 6>
+ <caption text="
+
+   Path analysis.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Factors">
+  </cell>
+  <cell col="1" row="0" text="Standard Coefficient">
+  </cell>
+  <cell col="2" row="0" text="SE - value">
+  </cell>
+  <cell col="3" row="0" text="t-value">
+  </cell>
+  <cell col="4" row="0" text="95% biased confidence interval">
+  </cell>
+  <cell col="6" row="0" text="Results">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="4" row="1" text="LL">
+  </cell>
+  <cell col="5" row="1" text="UL">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="NSR tourism infrastructure to QOL">
+  </cell>
+  <cell col="1" row="2" text="0.15∗∗">
+  </cell>
+  <cell col="2" row="2" text="0.045">
+  </cell>
+  <cell col="3" row="2" text="3.373">
+  </cell>
+  <cell col="4" row="2" text="0.064">
+  </cell>
+  <cell col="5" row="2" text="0.243">
+  </cell>
+  <cell col="6" row="2" text="Supported">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="NSR tourism infrastructure to STD">
+  </cell>
+  <cell col="1" row="3" text="0.26∗∗∗">
+  </cell>
+  <cell col="2" row="3" text="0.046">
+  </cell>
+  <cell col="3" row="3" text="5.550">
+  </cell>
+  <cell col="4" row="3" text="0.165">
+  </cell>
+  <cell col="5" row="3" text="0.346">
+  </cell>
+  <cell col="6" row="3" text="Supported">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Sustainable tourism to QOL">
+  </cell>
+  <cell col="1" row="4" text="0.24∗∗∗">
+  </cell>
+  <cell col="2" row="4" text="0.046">
+  </cell>
+  <cell col="3" row="4" text="5.290">
+  </cell>
+  <cell col="4" row="4" text="0.154">
+  </cell>
+  <cell col="5" row="4" text="0.337">
+  </cell>
+  <cell col="6" row="4" text="Supported">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are three different factors." type="">
+  </statement>
+  <statement id="1" text="Factor NSR tourism infrastructure to STD has the highest value for Standard Coefficient of 0.26." type="">
+  </statement>
+  <statement id="2" text="SE - value has same values of 0.046 for NSR tourism infrastructure to STD and Sustainable tourism to QOL." type="">
+  </statement>
+  <statement id="3" text="NSR tourism infrastructure to STD has the highest value for t-value of 5.550." type="">
+  </statement>
+  <statement id="4" text="Factor NSR tourism infrastructure to STD has the lowest value for Standard Coefficient of 1.23." type="">
+  </statement>
+  <statement id="5" text="Factor NSR tourism infrastructure to STD ha the highest value for Standard Coefficient of 0.17." type="">
+  </statement>
+  <statement id="6" text="SE - value has different values of 1.1234 for NSR tourism infrastructure to STD and Sustainable tourism to QOL." type="">
+  </statement>
+  <statement id="7" text="NSR tourism infrastructure to STD has the lowest value for t-value of 7.456." type="">
+  </statement>
+ </statements>
+</Table 6>
+<Table 8>
+ <caption text="
+
+   Results of the bootstrapping method for mediation.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Effects">
+  </cell>
+  <cell col="2" row="0" text="Coefficient">
+  </cell>
+  <cell col="3" row="0" text="Boot SE">
+  </cell>
+  <cell col="4" row="0" text="95% biased corrected confidence interval">
+  </cell>
+  <cell col="6" row="0" text="Results">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="LL">
+  </cell>
+  <cell col="4" row="1" text="UL">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Indirect effect">
+  </cell>
+  <cell col="1" row="2" text="NSRTI- &gt; STD - &gt; QOL">
+  </cell>
+  <cell col="2" row="2" text="0.06">
+  </cell>
+  <cell col="3" row="2" text="0.019">
+  </cell>
+  <cell col="4" row="2" text="0.031">
+  </cell>
+  <cell col="5" row="2" text="0.108">
+  </cell>
+  <cell col="6" row="2" text="Partial Mediation">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Direct effect">
+  </cell>
+  <cell col="1" row="3" text="NSRTI - &gt; QOL">
+  </cell>
+  <cell col="2" row="3" text="0.15∗∗">
+  </cell>
+  <cell col="3" row="3" text="0.45">
+  </cell>
+  <cell col="4" row="3" text="0.064">
+  </cell>
+  <cell col="5" row="3" text="1.243">
+  </cell>
+  <cell col="6" row="3" text="–">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 2 types of Effects such as Indirect and Direct effect." type="">
+  </statement>
+  <statement id="2" text="Indirect effect will have 0.06 Coefficient." type="">
+  </statement>
+  <statement id="3" text="There are two 95% biased corrected confidence interval such as LL and UL." type="">
+  </statement>
+  <statement id="4" text="Results will be Partial Mediation for Direct effect." type="">
+  </statement>
+  <statement id="5" text="Boot SE ranges from 0.029to 0.85." type="">
+  </statement>
+  <statement id="7" text="Indirect effect will have 0.20 Coefficient." type="">
+  </statement>
+ </statements>
+</Table 8>
+<Table 7>
+ <caption text="
+
+   Presents the results of R, R-square,
+   
+    p-value,
+   
+   and degree of freedom.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Outcomes">
+  </cell>
+  <cell col="1" row="0" text="R">
+  </cell>
+  <cell col="2" row="0" text="R-sq">
+  </cell>
+  <cell col="3" row="0" text="MSE">
+  </cell>
+  <cell col="4" row="0" text="df2">
+  </cell>
+  <cell col="5" row="0" text="p-value">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Sustainable tourism development (STD)">
+  </cell>
+  <cell col="1" row="1" text="0.260">
+  </cell>
+  <cell col="2" row="1" text="0.067">
+  </cell>
+  <cell col="3" row="1" text="0.797">
+  </cell>
+  <cell col="4" row="1" text="423.00">
+  </cell>
+  <cell col="5" row="1" text="Significant">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Quality of life (QOL)">
+  </cell>
+  <cell col="1" row="2" text="0.331">
+  </cell>
+  <cell col="2" row="2" text="0.110">
+  </cell>
+  <cell col="3" row="2" text="0.728">
+  </cell>
+  <cell col="4" row="2" text="422.00">
+  </cell>
+  <cell col="5" row="2" text="Significant">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 2 types of outcome given in the table." type="">
+  </statement>
+  <statement id="3" text="There are 3 types of outcome given in the table." type="">
+  </statement>
+  <statement id="4" text="The difference between df2 value of both the outcomes is 2." type="">
+  </statement>
+ </statements>
+</Table 7>
+<Table 2>
+ <caption text="
+
+   The list of World Heritage Sites in Kazakhstan declared by UNESCO.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Site">
+  </cell>
+  <cell col="1" row="0" text="Location">
+  </cell>
+  <cell col="2" row="0" text="Criteria">
+  </cell>
+  <cell col="3" row="0" text="Year">
+  </cell>
+  <cell col="4" row="0" text="Ranking">
+  </cell>
+  <cell col="5" row="0" text="Description">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Mausoleum of Khoja Ahmed Yasawi">
+  </cell>
+  <cell col="1" row="1" text="City: Turkestan
+     
+     Region: Turkestan">
+  </cell>
+  <cell col="2" row="1" text="Cultural: (i), (iii), (iv)">
+  </cell>
+  <cell col="3" row="1" text="2003">
+  </cell>
+  <cell col="4" row="1" text="1103">
+  </cell>
+  <cell col="5" row="1" text="The Timurid era preserved Khoja Ahmed Yasawii mausoleum located in Turkestan (formerly Yasi), remains unfinished. However, it refers to one of the biggest and best-survived illustrations of Timurid architecture.">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Petroglyphs within the Archaeological Landscape of Tamgaly">
+  </cell>
+  <cell col="1" row="2" text="Nearest city: Alma-Ata
+     
+     Region: Almaty">
+  </cell>
+  <cell col="2" row="2" text="Cultural: (iii)">
+  </cell>
+  <cell col="3" row="2" text="2004">
+  </cell>
+  <cell col="4" row="2" text="1145">
+  </cell>
+  <cell col="5" row="2" text="Approximately 5,000 petroglyphs in Tamgaly indicate a lifestyle in the Central Asian steppes since the Bronze Age.">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Saryarka – Steppe, and Lakes of Northern Kazakhstan">
+  </cell>
+  <cell col="1" row="3" text="Regions: Akmola, Karaganda, Kostanay">
+  </cell>
+  <cell col="2" row="3" text="Natural: (ix), (x)">
+  </cell>
+  <cell col="3" row="3" text="2008">
+  </cell>
+  <cell col="4" row="3" text="1102">
+  </cell>
+  <cell col="5" row="3" text="State Nature Reserves Naurzum and Korgalzhyn offer wildlife sanctuaries for a multitude of threatened species, such as Siberian white cranes, Dalmatian pelicans, Pallas eagles, and antelopes Saigas.">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Silk Roads: the Routes Network of Chang’an-Tianshan Corridor∗">
+  </cell>
+  <cell col="1" row="4" text="Regions: Almaty, Zhambyl (Together with China and Kyrgyzstan)">
+  </cell>
+  <cell col="2" row="4" text="Cultural: (ii), (iii), (v), (vi)">
+  </cell>
+  <cell col="3" row="4" text="2014">
+  </cell>
+  <cell col="4" row="4" text="1442">
+  </cell>
+  <cell col="5" row="4" text="A 5000-km section of the Silk Road, the stretch expended from Chang’an in China to Zhetysu in Kazakhstan. There are historical settlements, palaces, temples, walkways, fortifications, tombs, and other ancient constructions">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Western Tien-Shan∗">
+  </cell>
+  <cell col="1" row="5" text="Regions: Turkestan, Zhambyl (Together with Uzbekistan and Kyrgyzstan)">
+  </cell>
+  <cell col="2" row="5" text="Natural: (x)">
+  </cell>
+  <cell col="3" row="5" text="2016">
+  </cell>
+  <cell col="4" row="5" text="1490">
+  </cell>
+  <cell col="5" row="5" text="The western part of the Tien Shan mountain system characterized by a variety of landscapes and a high degree of biodiversity.">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 5 different types of site from each other." type="">
+  </statement>
+  <statement id="1" text="The year range is between 2003 to 2016." type="">
+  </statement>
+  <statement id="2" text="The highest ranking is 1490." type="">
+  </statement>
+  <statement id="3" text="There are 2 types of criteria one is cultural another one is natural." type="">
+  </statement>
+  <statement id="4" text="The lowest ranking is 2500." type="">
+  </statement>
+  <statement id="5" text="There are 4 types of Location." type="">
+  </statement>
+  <statement id="7" text="1 below represents the list of World Heritage Sites in Kazakhstan as defined by UNESCO." type="">
+  </statement>
+ </statements>
+</Table 2>

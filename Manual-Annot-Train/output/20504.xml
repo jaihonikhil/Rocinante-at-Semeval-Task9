@@ -1,0 +1,422 @@
+<Table 1>
+ <caption text="
+
+   Physical, optical and electrochemical properties of the T-DPP-Py polymers containing bithiophene (2T), thienothiophene (TT) or thiophene (T) as co-monomer.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Polymer">
+  </cell>
+  <cell col="1" row="0" text="M
+     
+
+      n
+     
+     [kDa]">
+  </cell>
+  <cell col="2" row="0" text="M
+     
+
+      w
+     
+     [kDa]">
+  </cell>
+  <cell col="3" row="0" text="Đ">
+  </cell>
+  <cell col="4" row="0" text="E
+     
+
+      g,opt.
+     
+     [eV]">
+  </cell>
+  <cell col="5" row="0" text="HOMO
+     [eV]">
+  </cell>
+  <cell col="6" row="0" text="LUMO
+     [eV]">
+  </cell>
+  <cell col="7" row="0" text="E
+     
+
+      g,swv
+     
+     [eV]">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="2T-HD">
+  </cell>
+  <cell col="1" row="1" text="32.1">
+  </cell>
+  <cell col="2" row="1" text="84.2">
+  </cell>
+  <cell col="3" row="1" text="2.6">
+  </cell>
+  <cell col="4" row="1" text="1.52">
+  </cell>
+  <cell col="5" row="1" text="−5.07">
+  </cell>
+  <cell col="6" row="1" text="−3.09">
+  </cell>
+  <cell col="7" row="1" text="1.98">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2T-DT">
+  </cell>
+  <cell col="1" row="2" text="69.8">
+  </cell>
+  <cell col="2" row="2" text="146">
+  </cell>
+  <cell col="3" row="2" text="2.1">
+  </cell>
+  <cell col="4" row="2" text="1.53">
+  </cell>
+  <cell col="5" row="2" text="−5.09">
+  </cell>
+  <cell col="6" row="2" text="−3.05">
+  </cell>
+  <cell col="7" row="2" text="2.04">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="TT-HD">
+  </cell>
+  <cell col="1" row="3" text="18.5">
+  </cell>
+  <cell col="2" row="3" text="61.1">
+  </cell>
+  <cell col="3" row="3" text="3.3">
+  </cell>
+  <cell col="4" row="3" text="1.50">
+  </cell>
+  <cell col="5" row="3" text="−5.08">
+  </cell>
+  <cell col="6" row="3" text="−3.15">
+  </cell>
+  <cell col="7" row="3" text="1.93">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="TT-DT">
+  </cell>
+  <cell col="1" row="4" text="52.8">
+  </cell>
+  <cell col="2" row="4" text="142">
+  </cell>
+  <cell col="3" row="4" text="2.7">
+  </cell>
+  <cell col="4" row="4" text="1.52">
+  </cell>
+  <cell col="5" row="4" text="−5.12">
+  </cell>
+  <cell col="6" row="4" text="−3.11">
+  </cell>
+  <cell col="7" row="4" text="2.01">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="T-HD (
+     
+      ran.
+     
+     )">
+  </cell>
+  <cell col="1" row="5" text="46.6">
+  </cell>
+  <cell col="2" row="5" text="122">
+  </cell>
+  <cell col="3" row="5" text="2.6">
+  </cell>
+  <cell col="4" row="5" text="1.49">
+  </cell>
+  <cell col="5" row="5" text="−5.16">
+  </cell>
+  <cell col="6" row="5" text="−3.20">
+  </cell>
+  <cell col="7" row="5" text="1.96">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="T-HD (
+     
+      reg.
+     
+     )">
+  </cell>
+  <cell col="1" row="6" text="93.3">
+  </cell>
+  <cell col="2" row="6" text="249">
+  </cell>
+  <cell col="3" row="6" text="2.7">
+  </cell>
+  <cell col="4" row="6" text="1.49">
+  </cell>
+  <cell col="5" row="6" text="−5.19">
+  </cell>
+  <cell col="6" row="6" text="−3.20">
+  </cell>
+  <cell col="7" row="6" text="1.99">
+  </cell>
+ </row>
+ <statements>
+  <statement id="3" text="T-HD ( reg. ) has the least values when compared to T-HD ( ran. )." type="refuted">
+  </statement>
+  <statement id="7" text="5.07 and 5.19 eV for the HOMO and between 3.05 and 3.20 eV for the LUMO." type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   Photovoltaic characteristics of polymer solar cells of the asymmetric T-DPP-Py polymers with [70]PCBM processed from chloroform or toluene as main solvent in a regular device architecture.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Polymer">
+  </cell>
+  <cell col="1" row="0" text="Solution">
+  </cell>
+  <cell col="2" row="0" text="d
+     
+     [nm]">
+  </cell>
+  <cell col="3" row="0" text="J
+     
+
+      sc
+     
+     [mA cm
+     
+      −2
+     
+     ]">
+  </cell>
+  <cell col="4" row="0" text="V
+     
+
+      oc
+     
+     [V]">
+  </cell>
+  <cell col="5" row="0" text="FF">
+  </cell>
+  <cell col="6" row="0" text="PCE
+     [%]">
+  </cell>
+  <cell col="7" row="0" text="η
+     
+
+      BR">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="2T-HD">
+  </cell>
+  <cell col="1" row="1" text="CF/DPE (98:2)">
+  </cell>
+  <cell col="2" row="1" text="108">
+  </cell>
+  <cell col="3" row="1" text="16.0">
+  </cell>
+  <cell col="4" row="1" text="0.80">
+  </cell>
+  <cell col="5" row="1" text="0.58">
+  </cell>
+  <cell col="6" row="1" text="7.4">
+  </cell>
+  <cell col="7" row="1" text="0.02">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2T-DT">
+  </cell>
+  <cell col="1" row="2" text="CF/DPE (95:5)">
+  </cell>
+  <cell col="2" row="2" text="96">
+  </cell>
+  <cell col="3" row="2" text="11.0">
+  </cell>
+  <cell col="4" row="2" text="0.76">
+  </cell>
+  <cell col="5" row="2" text="0.47">
+  </cell>
+  <cell col="6" row="2" text="4.0">
+  </cell>
+  <cell col="7" row="2" text="0.13">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="">
+  </cell>
+  <cell col="1" row="3" text="Tol./DPE (95:5)">
+  </cell>
+  <cell col="2" row="3" text="81">
+  </cell>
+  <cell col="3" row="3" text="10.5">
+  </cell>
+  <cell col="4" row="3" text="0.76">
+  </cell>
+  <cell col="5" row="3" text="0.49">
+  </cell>
+  <cell col="6" row="3" text="3.9">
+  </cell>
+  <cell col="7" row="3" text="0.10">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="TT-HD">
+  </cell>
+  <cell col="1" row="4" text="CF/DPE (95:5)">
+  </cell>
+  <cell col="2" row="4" text="83">
+  </cell>
+  <cell col="3" row="4" text="12.1">
+  </cell>
+  <cell col="4" row="4" text="0.84">
+  </cell>
+  <cell col="5" row="4" text="0.54">
+  </cell>
+  <cell col="6" row="4" text="5.5">
+  </cell>
+  <cell col="7" row="4" text="0.04">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="TT-DT">
+  </cell>
+  <cell col="1" row="5" text="CF/DPE (95:5)">
+  </cell>
+  <cell col="2" row="5" text="89">
+  </cell>
+  <cell col="3" row="5" text="7.7">
+  </cell>
+  <cell col="4" row="5" text="0.86">
+  </cell>
+  <cell col="5" row="5" text="0.62">
+  </cell>
+  <cell col="6" row="5" text="4.1">
+  </cell>
+  <cell col="7" row="5" text="0.04">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="">
+  </cell>
+  <cell col="1" row="6" text="Tol./DPE (95:5)">
+  </cell>
+  <cell col="2" row="6" text="78">
+  </cell>
+  <cell col="3" row="6" text="6.6">
+  </cell>
+  <cell col="4" row="6" text="0.86">
+  </cell>
+  <cell col="5" row="6" text="0.61">
+  </cell>
+  <cell col="6" row="6" text="3.5">
+  </cell>
+  <cell col="7" row="6" text="0.04">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="T-HD">
+  </cell>
+  <cell col="1" row="7" text="CF/DPE (95:5)">
+  </cell>
+  <cell col="2" row="7" text="108">
+  </cell>
+  <cell col="3" row="7" text="11.2">
+  </cell>
+  <cell col="4" row="7" text="0.85">
+  </cell>
+  <cell col="5" row="7" text="0.61">
+  </cell>
+  <cell col="6" row="7" text="5.9">
+  </cell>
+  <cell col="7" row="7" text="0.02">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="(
+     
+      ran.
+     
+     )">
+  </cell>
+  <cell col="1" row="8" text="Tol./DPE (95:5)">
+  </cell>
+  <cell col="2" row="8" text="94">
+  </cell>
+  <cell col="3" row="8" text="9.9">
+  </cell>
+  <cell col="4" row="8" text="0.86">
+  </cell>
+  <cell col="5" row="8" text="0.63">
+  </cell>
+  <cell col="6" row="8" text="5.4">
+  </cell>
+  <cell col="7" row="8" text="0.02">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="T-HD">
+  </cell>
+  <cell col="1" row="9" text="CF/DPE (95:5)">
+  </cell>
+  <cell col="2" row="9" text="96">
+  </cell>
+  <cell col="3" row="9" text="11.9">
+  </cell>
+  <cell col="4" row="9" text="0.88">
+  </cell>
+  <cell col="5" row="9" text="0.63">
+  </cell>
+  <cell col="6" row="9" text="6.6">
+  </cell>
+  <cell col="7" row="9" text="0.02">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="(
+     
+      reg.
+     
+     )">
+  </cell>
+  <cell col="1" row="10" text="Tol./DPE (95:5)">
+  </cell>
+  <cell col="2" row="10" text="123">
+  </cell>
+  <cell col="3" row="10" text="11.2">
+  </cell>
+  <cell col="4" row="10" text="0.86">
+  </cell>
+  <cell col="5" row="10" text="0.64">
+  </cell>
+  <cell col="6" row="10" text="6.1">
+  </cell>
+  <cell col="7" row="10" text="0.02">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="Using T-HD ( reg. ) and thus replacing the random for a regular polymer with a higher M n , recovers some of the loss in J sc and gives a similar EQE when processed from chloroform and toluene, resulting in PCEs of 6.6% and 6.1%, respectively ( Table 2 )." type="entailed">
+  </statement>
+  <statement id="4" text="Polymer ( reg. ) have highest d [nm] of 123." type="entailed">
+  </statement>
+  <statement id="5" text="Polymer 2T-HD and T-HD have same d [nm] value of 108." type="entailed">
+  </statement>
+  <statement id="6" text="Polymer ( reg. ) have lowest d [nm] of 123." type="refuted">
+  </statement>
+  <statement id="7" text="Using toluene, the PCE (5.4%) is slightly lower than a cell processed from chloroform (5.9%)" type="entailed">
+  </statement>
+  <statement id="8" text="Polymer 2T-DT and TT-DT have two solutions" type="entailed">
+  </statement>
+  <statement id="9" text="There are eight different Polymers." type="entailed">
+  </statement>
+  <statement id="11" text="Polymer 2T-DT and TT-DT have four solutions" type="refuted">
+  </statement>
+ </statements>
+</Table 2>

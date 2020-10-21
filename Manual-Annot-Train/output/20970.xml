@@ -1,0 +1,874 @@
+<Table 1>
+ <caption text="
+
+   Primer sequences for the LAMP assays specific for
+   
+    Dracunculus medinensis
+   
+   ,
+   
+    D. insignis
+   
+   and the copepod internal positive control.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Primer">
+  </cell>
+  <cell col="1" row="0" text="Sequence (5′–3′)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="D.med F3">
+  </cell>
+  <cell col="1" row="1" text="GTTATTACTTCTCATGCTATTATGATA">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="D.med B3">
+  </cell>
+  <cell col="1" row="2" text="AAACTAAAAATAGCCAAATCAACTCTAT">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="D.med FIP">
+  </cell>
+  <cell col="1" row="3" text="ACAGGCATCAATCAATAACTAACATTATTCTGGTAATGCCTAGTTTGATTGGA">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="D.med BIP">
+  </cell>
+  <cell col="1" row="4" text="AATATTGATTTTGTCTGCTTGTTTGGTGCCAGGATGACCCCTAGTACTT">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="D.med F-loop">
+  </cell>
+  <cell col="1" row="5" text="ATATCAGGAGCCCCCAACATT">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="D.med B-loop">
+  </cell>
+  <cell col="1" row="6" text="TCTTGTGGAACTAGATGGACTA">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="D.insig F3">
+  </cell>
+  <cell col="1" row="7" text="TTTTTATGGTTATGCCTAGTTTGATT">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="D.insig B3">
+  </cell>
+  <cell col="1" row="8" text="CAGAACAATGTAAACTAAAAATAGCCA">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="D.insig FIP">
+  </cell>
+  <cell col="1" row="9" text="CATCAAAGAAACAGGTATTAACCAATAACGGTGGTTTTGGTAATTGGATAGTT">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="D.insig BIP">
+  </cell>
+  <cell col="1" row="10" text="AGTCGATAGTTCTTGTGGTACTAGTTCAACACTATTTCCAGGATGACCA">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="D.insig F-loop">
+  </cell>
+  <cell col="1" row="11" text="CACATTATTCAAACGAGGAAAACTT">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="D.insig B-loop">
+  </cell>
+  <cell col="1" row="12" text="GAACTGTTTATCCTCCTTTGAGT">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Copepod F3">
+  </cell>
+  <cell col="1" row="13" text="GTCGACTGTGGCATAGACG">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Copepod B3">
+  </cell>
+  <cell col="1" row="14" text="CTCATTCCGATTACCAGGCC">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="Copepod FIP">
+  </cell>
+  <cell col="1" row="15" text="TCAGGCTCCCTCTCCGGAATCCCACAGTGGTTTTGACGG">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="Copepod BIP">
+  </cell>
+  <cell col="1" row="16" text="AAGGCAGCAGGCACGCAAATTCGGATGAGTCTGGTATCGT">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="Copepod F-loop">
+  </cell>
+  <cell col="1" row="17" text="CGAACCCTAATTCCCCGTTAC">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="Copepod B-loop">
+  </cell>
+  <cell col="1" row="18" text="GCCGAGGTAGTGACGAAAAAT">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Primer and Sequence (53) are two columns given." type="entailed">
+  </statement>
+  <statement id="1" text="There are 18 items under Primer column" type="entailed">
+  </statement>
+  <statement id="2" text="GCCGAGGTAGTGACGAAAAAT is a Sequence for Copepod B-loop ." type="entailed">
+  </statement>
+  <statement id="4" text="There are 48 items under Primer column" type="refuted">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   Summary of real-time LAMP results testing samples comprising
+   
+    Dracunculus
+   
+   -free copepods spiked with
+   
+    D. medinensis
+   
+   or
+   
+    D. insignis
+   
+   larvae. Nt = sample not tested, - = negative result. -ve sample is a no-template control, +ve controls are copepods mixed with
+   
+    Dracunculus
+   
+   DNA. Tp = time to positive, Ta = Annealing temperature.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Number spiked into sample">
+  </cell>
+  <cell col="3" row="0" text="Samples tested with LAMP assays for">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Copepods">
+  </cell>
+  <cell col="1" row="1" text="D. medinensis">
+  </cell>
+  <cell col="2" row="1" text="D. insignis">
+  </cell>
+  <cell col="3" row="1" text="D. medinensis">
+  </cell>
+  <cell col="5" row="1" text="D. insignis">
+  </cell>
+  <cell col="7" row="1" text="Copepod">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="3" row="2" text="Tp (min:sec)">
+  </cell>
+  <cell col="4" row="2" text="Ta (°C)">
+  </cell>
+  <cell col="5" row="2" text="Tp (min:sec)">
+  </cell>
+  <cell col="6" row="2" text="Ta (°C)">
+  </cell>
+  <cell col="7" row="2" text="Tp (min:sec)">
+  </cell>
+  <cell col="8" row="2" text="Ta (°C)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="1">
+  </cell>
+  <cell col="1" row="3" text="1">
+  </cell>
+  <cell col="2" row="3" text="0">
+  </cell>
+  <cell col="3" row="3" text="8:15">
+  </cell>
+  <cell col="4" row="3" text="82.20">
+  </cell>
+  <cell col="5" row="3" text="nt">
+  </cell>
+  <cell col="6" row="3" text="nt">
+  </cell>
+  <cell col="7" row="3" text="6:30">
+  </cell>
+  <cell col="8" row="3" text="87.49">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="10">
+  </cell>
+  <cell col="1" row="4" text="1">
+  </cell>
+  <cell col="2" row="4" text="0">
+  </cell>
+  <cell col="3" row="4" text="7:45">
+  </cell>
+  <cell col="4" row="4" text="82.07">
+  </cell>
+  <cell col="5" row="4" text="nt">
+  </cell>
+  <cell col="6" row="4" text="nt">
+  </cell>
+  <cell col="7" row="4" text="6:15">
+  </cell>
+  <cell col="8" row="4" text="87.65">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="20">
+  </cell>
+  <cell col="1" row="5" text="1">
+  </cell>
+  <cell col="2" row="5" text="0">
+  </cell>
+  <cell col="3" row="5" text="8:00">
+  </cell>
+  <cell col="4" row="5" text="82.09">
+  </cell>
+  <cell col="5" row="5" text="nt">
+  </cell>
+  <cell col="6" row="5" text="nt">
+  </cell>
+  <cell col="7" row="5" text="5:15">
+  </cell>
+  <cell col="8" row="5" text="87.78">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="30">
+  </cell>
+  <cell col="1" row="6" text="1">
+  </cell>
+  <cell col="2" row="6" text="0">
+  </cell>
+  <cell col="3" row="6" text="8:15">
+  </cell>
+  <cell col="4" row="6" text="82.04">
+  </cell>
+  <cell col="5" row="6" text="nt">
+  </cell>
+  <cell col="6" row="6" text="nt">
+  </cell>
+  <cell col="7" row="6" text="5:30">
+  </cell>
+  <cell col="8" row="6" text="87.79">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="30">
+  </cell>
+  <cell col="1" row="7" text="1">
+  </cell>
+  <cell col="2" row="7" text="0">
+  </cell>
+  <cell col="3" row="7" text="8:45">
+  </cell>
+  <cell col="4" row="7" text="81.97">
+  </cell>
+  <cell col="5" row="7" text="nt">
+  </cell>
+  <cell col="6" row="7" text="nt">
+  </cell>
+  <cell col="7" row="7" text="5:30">
+  </cell>
+  <cell col="8" row="7" text="87.76">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="10">
+  </cell>
+  <cell col="1" row="8" text="0">
+  </cell>
+  <cell col="2" row="8" text="0">
+  </cell>
+  <cell col="3" row="8" text="–">
+  </cell>
+  <cell col="4" row="8" text="–">
+  </cell>
+  <cell col="5" row="8" text="nt">
+  </cell>
+  <cell col="6" row="8" text="nt">
+  </cell>
+  <cell col="7" row="8" text="6:30">
+  </cell>
+  <cell col="8" row="8" text="87.21">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="20">
+  </cell>
+  <cell col="1" row="9" text="0">
+  </cell>
+  <cell col="2" row="9" text="0">
+  </cell>
+  <cell col="3" row="9" text="–">
+  </cell>
+  <cell col="4" row="9" text="–">
+  </cell>
+  <cell col="5" row="9" text="nt">
+  </cell>
+  <cell col="6" row="9" text="nt">
+  </cell>
+  <cell col="7" row="9" text="6:00">
+  </cell>
+  <cell col="8" row="9" text="87.75">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="≥50">
+  </cell>
+  <cell col="1" row="10" text="0">
+  </cell>
+  <cell col="2" row="10" text="0">
+  </cell>
+  <cell col="3" row="10" text="–">
+  </cell>
+  <cell col="4" row="10" text="–">
+  </cell>
+  <cell col="5" row="10" text="nt">
+  </cell>
+  <cell col="6" row="10" text="nt">
+  </cell>
+  <cell col="7" row="10" text="6:15">
+  </cell>
+  <cell col="8" row="10" text="87.16">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="≥100">
+  </cell>
+  <cell col="1" row="11" text="0">
+  </cell>
+  <cell col="2" row="11" text="0">
+  </cell>
+  <cell col="3" row="11" text="–">
+  </cell>
+  <cell col="4" row="11" text="–">
+  </cell>
+  <cell col="5" row="11" text="nt">
+  </cell>
+  <cell col="6" row="11" text="nt">
+  </cell>
+  <cell col="7" row="11" text="6:15">
+  </cell>
+  <cell col="8" row="11" text="87.21">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="1">
+  </cell>
+  <cell col="1" row="12" text="0">
+  </cell>
+  <cell col="2" row="12" text="1">
+  </cell>
+  <cell col="3" row="12" text="nt">
+  </cell>
+  <cell col="4" row="12" text="nt">
+  </cell>
+  <cell col="5" row="12" text="10:15">
+  </cell>
+  <cell col="6" row="12" text="82.50">
+  </cell>
+  <cell col="7" row="12" text="9:00">
+  </cell>
+  <cell col="8" row="12" text="88.26">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="10">
+  </cell>
+  <cell col="1" row="13" text="0">
+  </cell>
+  <cell col="2" row="13" text="1">
+  </cell>
+  <cell col="3" row="13" text="nt">
+  </cell>
+  <cell col="4" row="13" text="nt">
+  </cell>
+  <cell col="5" row="13" text="13:00">
+  </cell>
+  <cell col="6" row="13" text="82.49">
+  </cell>
+  <cell col="7" row="13" text="7:30">
+  </cell>
+  <cell col="8" row="13" text="88.31">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="10">
+  </cell>
+  <cell col="1" row="14" text="0">
+  </cell>
+  <cell col="2" row="14" text="0">
+  </cell>
+  <cell col="3" row="14" text="nt">
+  </cell>
+  <cell col="4" row="14" text="nt">
+  </cell>
+  <cell col="5" row="14" text="–">
+  </cell>
+  <cell col="6" row="14" text="–">
+  </cell>
+  <cell col="7" row="14" text="7:00">
+  </cell>
+  <cell col="8" row="14" text="88.26">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="-ve control">
+  </cell>
+  <cell col="1" row="15" text="">
+  </cell>
+  <cell col="2" row="15" text="">
+  </cell>
+  <cell col="3" row="15" text="–">
+  </cell>
+  <cell col="4" row="15" text="–">
+  </cell>
+  <cell col="5" row="15" text="–">
+  </cell>
+  <cell col="6" row="15" text="–">
+  </cell>
+  <cell col="7" row="15" text="–">
+  </cell>
+  <cell col="8" row="15" text="–">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="">
+  </cell>
+  <cell col="1" row="16" text="+ve control">
+  </cell>
+  <cell col="2" row="16" text="">
+  </cell>
+  <cell col="3" row="16" text="7:30">
+  </cell>
+  <cell col="4" row="16" text="81.83">
+  </cell>
+  <cell col="5" row="16" text="nt">
+  </cell>
+  <cell col="6" row="16" text="nt">
+  </cell>
+  <cell col="7" row="16" text="6:00">
+  </cell>
+  <cell col="8" row="16" text="87.67">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="">
+  </cell>
+  <cell col="1" row="17" text="">
+  </cell>
+  <cell col="2" row="17" text="+ve control">
+  </cell>
+  <cell col="3" row="17" text="nt">
+  </cell>
+  <cell col="4" row="17" text="nt">
+  </cell>
+  <cell col="5" row="17" text="11:30">
+  </cell>
+  <cell col="6" row="17" text="82.42">
+  </cell>
+  <cell col="7" row="17" text="8:00">
+  </cell>
+  <cell col="8" row="17" text="88.41">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Samples tested with LAMP assays for D. medinensis Tp (min:sec) 8:45 Number spiked into sample Number spiked into sample D. medinensis is 1." type="entailed">
+  </statement>
+  <statement id="1" text="Number spiked into sample D. insignis 0 Samples tested with LAMP assays for D. insignis is nt." type="entailed">
+  </statement>
+  <statement id="3" text="Samples tested with LAMP assays for Copepod Tp (min:sec) 7:00 Number spiked into sample Copepods is 15." type="refuted">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Real-time LAMP results for DNA extraction from
+   
+    Dracunculus medinensis
+   
+   specimens from a range of host species and countries of origin. – indicates no detection and n/a indicates not applicable.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Extract ID">
+  </cell>
+  <cell col="1" row="0" text="Origin">
+  </cell>
+  <cell col="2" row="0" text="Host">
+  </cell>
+  <cell col="3" row="0" text="Dracunculus medinensis
+     
+     assay">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="3" row="1" text="Time to positive (min:sec)">
+  </cell>
+  <cell col="4" row="1" text="Annealing temperature (°C)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="ChDo-339.2">
+  </cell>
+  <cell col="1" row="2" text="Chad">
+  </cell>
+  <cell col="2" row="2" text="Dog">
+  </cell>
+  <cell col="3" row="2" text="10:00">
+  </cell>
+  <cell col="4" row="2" text="81.11">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="ChHu-69">
+  </cell>
+  <cell col="1" row="3" text="Chad">
+  </cell>
+  <cell col="2" row="3" text="Human">
+  </cell>
+  <cell col="3" row="3" text="12:15">
+  </cell>
+  <cell col="4" row="3" text="80.55">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="ChDo-1">
+  </cell>
+  <cell col="1" row="4" text="Chad">
+  </cell>
+  <cell col="2" row="4" text="Dog">
+  </cell>
+  <cell col="3" row="4" text="7:45">
+  </cell>
+  <cell col="4" row="4" text="81.34">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="ChDo-108.5">
+  </cell>
+  <cell col="1" row="5" text="Chad">
+  </cell>
+  <cell col="2" row="5" text="Dog">
+  </cell>
+  <cell col="3" row="5" text="8:15">
+  </cell>
+  <cell col="4" row="5" text="81.30">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="ChHu-25">
+  </cell>
+  <cell col="1" row="6" text="Chad">
+  </cell>
+  <cell col="2" row="6" text="Human">
+  </cell>
+  <cell col="3" row="6" text="8:45">
+  </cell>
+  <cell col="4" row="6" text="80.86">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="ChCa-10a">
+  </cell>
+  <cell col="1" row="7" text="Chad">
+  </cell>
+  <cell col="2" row="7" text="Cat">
+  </cell>
+  <cell col="3" row="7" text="9:00">
+  </cell>
+  <cell col="4" row="7" text="81.15">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="ChDo-189">
+  </cell>
+  <cell col="1" row="8" text="Chad">
+  </cell>
+  <cell col="2" row="8" text="Dog">
+  </cell>
+  <cell col="3" row="8" text="10:15">
+  </cell>
+  <cell col="4" row="8" text="81.50">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="ChDo-13">
+  </cell>
+  <cell col="1" row="9" text="Chad">
+  </cell>
+  <cell col="2" row="9" text="Dog">
+  </cell>
+  <cell col="3" row="9" text="8:00">
+  </cell>
+  <cell col="4" row="9" text="81.40">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="ChDo-11">
+  </cell>
+  <cell col="1" row="10" text="Chad">
+  </cell>
+  <cell col="2" row="10" text="Dog">
+  </cell>
+  <cell col="3" row="10" text="9:00">
+  </cell>
+  <cell col="4" row="10" text="80.86">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="ChDo-47.11">
+  </cell>
+  <cell col="1" row="11" text="Chad">
+  </cell>
+  <cell col="2" row="11" text="Dog">
+  </cell>
+  <cell col="3" row="11" text="8:30">
+  </cell>
+  <cell col="4" row="11" text="81.60">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="ChHu-100">
+  </cell>
+  <cell col="1" row="12" text="Chad">
+  </cell>
+  <cell col="2" row="12" text="Human">
+  </cell>
+  <cell col="3" row="12" text="10:15">
+  </cell>
+  <cell col="4" row="12" text="81.35">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="ChHu-24">
+  </cell>
+  <cell col="1" row="13" text="Chad">
+  </cell>
+  <cell col="2" row="13" text="Human">
+  </cell>
+  <cell col="3" row="13" text="8:30">
+  </cell>
+  <cell col="4" row="13" text="81.45">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="ChDo-1">
+  </cell>
+  <cell col="1" row="14" text="Chad">
+  </cell>
+  <cell col="2" row="14" text="Dog">
+  </cell>
+  <cell col="3" row="14" text="7:45">
+  </cell>
+  <cell col="4" row="14" text="81.20">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="ChHu-283">
+  </cell>
+  <cell col="1" row="15" text="Chad">
+  </cell>
+  <cell col="2" row="15" text="Human">
+  </cell>
+  <cell col="3" row="15" text="10:00">
+  </cell>
+  <cell col="4" row="15" text="82.58">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="EtDo-172">
+  </cell>
+  <cell col="1" row="16" text="Ethiopia">
+  </cell>
+  <cell col="2" row="16" text="Dog">
+  </cell>
+  <cell col="3" row="16" text="12:15">
+  </cell>
+  <cell col="4" row="16" text="82.78">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="EtHu-278">
+  </cell>
+  <cell col="1" row="17" text="Ethiopia">
+  </cell>
+  <cell col="2" row="17" text="Human">
+  </cell>
+  <cell col="3" row="17" text="10:30">
+  </cell>
+  <cell col="4" row="17" text="82.63">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="EtBa-153">
+  </cell>
+  <cell col="1" row="18" text="Ethiopia">
+  </cell>
+  <cell col="2" row="18" text="Baboon">
+  </cell>
+  <cell col="3" row="18" text="10:30">
+  </cell>
+  <cell col="4" row="18" text="82.87">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="EtHu-152">
+  </cell>
+  <cell col="1" row="19" text="Ethiopia">
+  </cell>
+  <cell col="2" row="19" text="Human">
+  </cell>
+  <cell col="3" row="19" text="10:00">
+  </cell>
+  <cell col="4" row="19" text="82.57">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="MaHu-165">
+  </cell>
+  <cell col="1" row="20" text="Mali">
+  </cell>
+  <cell col="2" row="20" text="Human">
+  </cell>
+  <cell col="3" row="20" text="9:45">
+  </cell>
+  <cell col="4" row="20" text="82.67">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="MaHu-240">
+  </cell>
+  <cell col="1" row="21" text="Mali">
+  </cell>
+  <cell col="2" row="21" text="Human">
+  </cell>
+  <cell col="3" row="21" text="10:00">
+  </cell>
+  <cell col="4" row="21" text="82.54">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="MaHu-242">
+  </cell>
+  <cell col="1" row="22" text="Mali">
+  </cell>
+  <cell col="2" row="22" text="Human">
+  </cell>
+  <cell col="3" row="22" text="23:00">
+  </cell>
+  <cell col="4" row="22" text="82.58">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="MaHu-253">
+  </cell>
+  <cell col="1" row="23" text="Mali">
+  </cell>
+  <cell col="2" row="23" text="Human">
+  </cell>
+  <cell col="3" row="23" text="11:00">
+  </cell>
+  <cell col="4" row="23" text="82.79">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="SsHu-201">
+  </cell>
+  <cell col="1" row="24" text="South Sudan">
+  </cell>
+  <cell col="2" row="24" text="Human">
+  </cell>
+  <cell col="3" row="24" text="8:45">
+  </cell>
+  <cell col="4" row="24" text="82.50">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="SsHu-256">
+  </cell>
+  <cell col="1" row="25" text="South Sudan">
+  </cell>
+  <cell col="2" row="25" text="Human">
+  </cell>
+  <cell col="3" row="25" text="10:15">
+  </cell>
+  <cell col="4" row="25" text="82.36">
+  </cell>
+ </row>
+ <row row="26">
+  <cell col="0" row="26" text="SsDo-183">
+  </cell>
+  <cell col="1" row="26" text="South Sudan">
+  </cell>
+  <cell col="2" row="26" text="Dog">
+  </cell>
+  <cell col="3" row="26" text="10:30">
+  </cell>
+  <cell col="4" row="26" text="82.48">
+  </cell>
+ </row>
+ <row row="27">
+  <cell col="0" row="27" text="Uninfected copepod">
+  </cell>
+  <cell col="1" row="27" text="n/a">
+  </cell>
+  <cell col="2" row="27" text="n/a">
+  </cell>
+  <cell col="3" row="27" text="–">
+  </cell>
+  <cell col="4" row="27" text="–">
+  </cell>
+ </row>
+ <row row="28">
+  <cell col="0" row="28" text="Dracunculus insignis">
+  </cell>
+  <cell col="1" row="28" text="n/a">
+  </cell>
+  <cell col="2" row="28" text="n/a">
+  </cell>
+  <cell col="3" row="28" text="–">
+  </cell>
+  <cell col="4" row="28" text="–">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There Table has 27 Extract ID ." type="entailed">
+  </statement>
+  <statement id="1" text="The first 14 Extract ID will have same Origin." type="entailed">
+  </statement>
+  <statement id="2" text="Uninfected copepod and Dracunculus insignis will not have Origin and Host." type="entailed">
+  </statement>
+  <statement id="3" text="Annealing temperature (C) will be from 90.55 to 102.87." type="refuted">
+  </statement>
+  <statement id="7" text="MaHu-242 and ChDo-189 will not have Origin and Host." type="refuted">
+  </statement>
+  <statement id="10" text="The limit of detection of the D. insignis assay was equivalent to that of the D. medinensis assay, and no cross reactivity was observed with DNA extracted from D. medinensis or uninfected copepods (data not shown)." type="entailed">
+  </statement>
+ </statements>
+</Table 2>

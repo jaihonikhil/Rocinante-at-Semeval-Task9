@@ -1,0 +1,87 @@
+<Table 1>
+ <caption text="
+
+   Specifications of structural parameters for three types of ropes.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Rope type">
+  </cell>
+  <cell col="1" row="0" text="Diameter (mm)">
+  </cell>
+  <cell col="2" row="0" text="Lay length (mm)">
+  </cell>
+  <cell col="3" row="0" text="Construction">
+  </cell>
+  <cell col="4" row="0" text="Linear density (ktex)">
+  </cell>
+  <cell col="5" row="0" text="Cost (dollar per meter)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Cotton 3-strand twisted rope">
+  </cell>
+  <cell col="1" row="1" text="14.5">
+  </cell>
+  <cell col="2" row="1" text="37.7">
+  </cell>
+  <cell col="3" row="1" text="96-thread, S-lay
+     
+
+       a">
+  </cell>
+  <cell col="4" row="1" text="35.253">
+  </cell>
+  <cell col="5" row="1" text="0.30">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Jute">
+  </cell>
+  <cell col="1" row="2" text="10.5">
+  </cell>
+  <cell col="2" row="2" text="36.5">
+  </cell>
+  <cell col="3" row="2" text="3-ply, 13-thread, twisted, Z-lay
+     
+
+       b">
+  </cell>
+  <cell col="4" row="2" text="46.898">
+  </cell>
+  <cell col="5" row="2" text="0.16">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Sisal">
+  </cell>
+  <cell col="1" row="3" text="11.0">
+  </cell>
+  <cell col="2" row="3" text="39.5">
+  </cell>
+  <cell col="3" row="3" text="3-ply, 8-thread, twisted, Z-lay
+     
+
+       b">
+  </cell>
+  <cell col="4" row="3" text="50.922">
+  </cell>
+  <cell col="5" row="3" text="0.35">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 3 types of Rope type in the given table." type="">
+  </statement>
+  <statement id="1" text="All the values given in the table consist of positive values." type="">
+  </statement>
+  <statement id="2" text="The highest Lay length 39.5 of Sisal rope type." type="">
+  </statement>
+  <statement id="5" text="There are 4 types of Rope type in the given table." type="">
+  </statement>
+  <statement id="6" text="The lowest Lay length 39.5 of Sisal rope type." type="">
+  </statement>
+  <statement id="8" text="All of the ropes were fabricated by the same company (Runya Chemical Fibre Rope Company, Shandong, China)." type="">
+  </statement>
+ </statements>
+</Table 1>

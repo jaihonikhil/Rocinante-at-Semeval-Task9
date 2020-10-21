@@ -1,0 +1,446 @@
+<Table 1>
+ <caption text="
+
+   An example fuzzy equivalence relation
+   
+    R
+   
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="R">
+  </cell>
+  <cell col="1" row="0" text="a">
+  </cell>
+  <cell col="2" row="0" text="b">
+  </cell>
+  <cell col="3" row="0" text="c">
+  </cell>
+  <cell col="4" row="0" text="d">
+  </cell>
+  <cell col="5" row="0" text="e">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="a">
+  </cell>
+  <cell col="1" row="1" text="1">
+  </cell>
+  <cell col="2" row="1" text="1">
+  </cell>
+  <cell col="3" row="1" text="0.5">
+  </cell>
+  <cell col="4" row="1" text="0">
+  </cell>
+  <cell col="5" row="1" text="0">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="b">
+  </cell>
+  <cell col="1" row="2" text="1">
+  </cell>
+  <cell col="2" row="2" text="1">
+  </cell>
+  <cell col="3" row="2" text="0.5">
+  </cell>
+  <cell col="4" row="2" text="0">
+  </cell>
+  <cell col="5" row="2" text="0">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="c">
+  </cell>
+  <cell col="1" row="3" text="0.5">
+  </cell>
+  <cell col="2" row="3" text="0.5">
+  </cell>
+  <cell col="3" row="3" text="1">
+  </cell>
+  <cell col="4" row="3" text="0">
+  </cell>
+  <cell col="5" row="3" text="0">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="d">
+  </cell>
+  <cell col="1" row="4" text="0">
+  </cell>
+  <cell col="2" row="4" text="0">
+  </cell>
+  <cell col="3" row="4" text="0">
+  </cell>
+  <cell col="4" row="4" text="1">
+  </cell>
+  <cell col="5" row="4" text="1">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="e">
+  </cell>
+  <cell col="1" row="5" text="0">
+  </cell>
+  <cell col="2" row="5" text="0">
+  </cell>
+  <cell col="3" row="5" text="0">
+  </cell>
+  <cell col="4" row="5" text="1">
+  </cell>
+  <cell col="5" row="5" text="1">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The highest value of a horizontal is 1." type="entailed">
+  </statement>
+  <statement id="1" text="The highest value of b horizontal is 1." type="entailed">
+  </statement>
+  <statement id="3" text="The lowest value of d horizontal is 0." type="entailed">
+  </statement>
+  <statement id="4" text="They have total 8 relation." type="refuted">
+  </statement>
+  <statement id="6" text="Relation e have the highest value i.e, 2.06." type="refuted">
+  </statement>
+  <statement id="10" text="The corresponding E = { ( x , y ) " type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 4>
+ <caption text="
+
+   Exact fuzzy sets of relation
+   
+    R
+   
+   from
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="A">
+  </cell>
+  <cell col="1" row="0" text="A
+     
+
+
+       S
+      
+
+     =
+     
+      A
+     
+
+
+       S">
+  </cell>
+  <cell col="2" row="0" text="μ
+        
+
+
+
+
+
+           [
+          
+
+           A
+          
+
+           ]
+          
+
+
+
+           R
+          
+
+
+
+
+
+       =
+      
+
+
+
+         μ
+        
+
+
+
+
+
+           [
+          
+
+           A
+          
+
+           ]
+          
+
+
+
+           R">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="∅">
+  </cell>
+  <cell col="1" row="1" text="∅">
+  </cell>
+  <cell col="2" row="1" text="{(
+     
+      a
+     
+     ,0),(
+     
+      b
+     
+     ,0),(
+     
+      c
+     
+     ,0),(
+     
+      d
+     
+     ,0)}">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="{
+     
+      d
+     
+     }">
+  </cell>
+  <cell col="1" row="2" text="{
+     
+      d
+     
+     }">
+  </cell>
+  <cell col="2" row="2" text="{(
+     
+      a
+     
+     ,0),(
+     
+      b
+     
+     ,0),(
+     
+      c
+     
+     ,0),(
+     
+      d
+     
+     ,1)}">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="{
+     
+      a
+     
+     ,
+     
+      b
+     
+     ,
+     
+      c
+     
+     }">
+  </cell>
+  <cell col="1" row="3" text="{
+     
+      a
+     
+     ,
+     
+      b
+     
+     ,
+     
+      c
+     
+     }">
+  </cell>
+  <cell col="2" row="3" text="{(
+     
+      a
+     
+     ,1),(
+     
+      b
+     
+     ,1),(
+     
+      c
+     
+     ,1),(
+     
+      d
+     
+     ,0)}">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="{
+     
+      a
+     
+     ,
+     
+      b
+     
+     ,
+     
+      c
+     
+     ,
+     
+      d
+     
+     }">
+  </cell>
+  <cell col="1" row="4" text="{
+     
+      a
+     
+     ,
+     
+      b
+     
+     ,
+     
+      c
+     
+     ,
+     
+      d
+     
+     }">
+  </cell>
+  <cell col="2" row="4" text="{(
+     
+      a
+     
+     ,1),(
+     
+      b
+     
+     ,1),(
+     
+      c
+     
+     ,1),(
+     
+      d
+     
+     ,1)}">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are four fuzzy sets of relation R in the table." type="entailed">
+  </statement>
+  <statement id="1" text="There are four types of variables in the A table." type="entailed">
+  </statement>
+  <statement id="4" text="Here, 0 and 1 are only numbers used for set." type="entailed">
+  </statement>
+ </statements>
+</Table 4>
+<Table 3>
+ <caption text="
+
+   An example fuzzy equivalence relation
+   
+    R
+   
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="R">
+  </cell>
+  <cell col="1" row="0" text="a">
+  </cell>
+  <cell col="2" row="0" text="b">
+  </cell>
+  <cell col="3" row="0" text="c">
+  </cell>
+  <cell col="4" row="0" text="d">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="a">
+  </cell>
+  <cell col="1" row="1" text="1">
+  </cell>
+  <cell col="2" row="1" text="1">
+  </cell>
+  <cell col="3" row="1" text="0.3">
+  </cell>
+  <cell col="4" row="1" text="0">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="b">
+  </cell>
+  <cell col="1" row="2" text="1">
+  </cell>
+  <cell col="2" row="2" text="1">
+  </cell>
+  <cell col="3" row="2" text="0.3">
+  </cell>
+  <cell col="4" row="2" text="0">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="c">
+  </cell>
+  <cell col="1" row="3" text="0.3">
+  </cell>
+  <cell col="2" row="3" text="0.3">
+  </cell>
+  <cell col="3" row="3" text="1">
+  </cell>
+  <cell col="4" row="3" text="0">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="d">
+  </cell>
+  <cell col="1" row="4" text="0">
+  </cell>
+  <cell col="2" row="4" text="0">
+  </cell>
+  <cell col="3" row="4" text="0">
+  </cell>
+  <cell col="4" row="4" text="1">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are four different relation R." type="entailed">
+  </statement>
+  <statement id="1" text="The value of b for relation R is 1." type="entailed">
+  </statement>
+  <statement id="2" text="The value of c for relation R is 0.3." type="entailed">
+  </statement>
+  <statement id="4" text="The value of a for relation R is 0.1." type="refuted">
+  </statement>
+  <statement id="5" text="The value of c for relation R is 1.3." type="refuted">
+  </statement>
+  <statement id="7" text="Let U = { a , b , c , d } and let R be a fuzzy relation given by Table 3 ." type="entailed">
+  </statement>
+ </statements>
+</Table 3>

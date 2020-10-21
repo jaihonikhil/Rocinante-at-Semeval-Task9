@@ -1,0 +1,219 @@
+<Table 1>
+ <caption text="
+
+   CO
+   
+    2
+   
+   prices assumptions by scenario in US$ (2010) per tCO
+   
+    2
+   
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Scenario">
+  </cell>
+  <cell col="1" row="0" text="2020">
+  </cell>
+  <cell col="2" row="0" text="2030">
+  </cell>
+  <cell col="3" row="0" text="2040">
+  </cell>
+  <cell col="4" row="0" text="2050">
+  </cell>
+  <cell col="5" row="0" text="2060">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Modern Jazz">
+  </cell>
+  <cell col="1" row="1" text="5–20">
+  </cell>
+  <cell col="2" row="1" text="15–35">
+  </cell>
+  <cell col="3" row="1" text="30–50">
+  </cell>
+  <cell col="4" row="1" text="45–70">
+  </cell>
+  <cell col="5" row="1" text="60–90">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Unfinished Symphony">
+  </cell>
+  <cell col="1" row="2" text="5–20">
+  </cell>
+  <cell col="2" row="2" text="35–50">
+  </cell>
+  <cell col="3" row="2" text="50–72">
+  </cell>
+  <cell col="4" row="2" text="90">
+  </cell>
+  <cell col="5" row="2" text="110">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Hard Rock">
+  </cell>
+  <cell col="1" row="3" text="2–8">
+  </cell>
+  <cell col="2" row="3" text="5–15">
+  </cell>
+  <cell col="3" row="3" text="6–25">
+  </cell>
+  <cell col="4" row="3" text="11–35">
+  </cell>
+  <cell col="5" row="3" text="19–45">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Modern Jazz has a lowest Scenario in 2020." type="">
+  </statement>
+  <statement id="1" text="Modern Jazz has a highest Scenario in 2020." type="">
+  </statement>
+  <statement id="2" text="In all three scenarios, a slowing population growth is assumed, with an increase compared to today by one third to 10 billion by 2060." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   Scenarios and projections of various institutions on the development of the global energy supply.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Organisation/Study">
+  </cell>
+  <cell col="1" row="0" text="Exploratory (plausible) Scenarios">
+  </cell>
+  <cell col="2" row="0" text="Outlook (Projections)">
+  </cell>
+  <cell col="3" row="0" text="Normative Scenarios">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="WEC
+     
+     (2019) World Energy Scenarios 2019">
+  </cell>
+  <cell col="1" row="1" text="- Modern Jazz (MJ)
+     
+     - Unfinished Symphony (US)
+     
+     - Hard Rock (HR)">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+  <cell col="3" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Shell
+     
+     [
+     
+      20
+     
+     ] New Lens Scenarios Mountain Ocean (2013) and Sky (2018) to 2100">
+  </cell>
+  <cell col="1" row="2" text="- Mountain (M)
+     
+     - Ocean (O)">
+  </cell>
+  <cell col="2" row="2" text="">
+  </cell>
+  <cell col="3" row="2" text="- Sky (S)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Equinor
+     
+     [
+     
+      21
+     
+     ] Energy Perspectives to 2050">
+  </cell>
+  <cell col="1" row="3" text="- Reform (Rf)
+     
+     - Rivalry (Rv)">
+  </cell>
+  <cell col="2" row="3" text="">
+  </cell>
+  <cell col="3" row="3" text="- Renewal (Rn)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="EIA
+     
+     (2019) International Energy Outlook 2019">
+  </cell>
+  <cell col="1" row="4" text="">
+  </cell>
+  <cell col="2" row="4" text="- Reference Case (RC)">
+  </cell>
+  <cell col="3" row="4" text="">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="IEA [
+     
+      22
+     
+     ] World Energy Outlook 2019">
+  </cell>
+  <cell col="1" row="5" text="">
+  </cell>
+  <cell col="2" row="5" text="- Stated Policies (SP)">
+  </cell>
+  <cell col="3" row="5" text="- Sustainable Development (SD)">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="BP [
+     
+      23
+     
+     ,
+     
+      24
+     
+     ] Energy Outlook 2019 edition
+     
+
+       a">
+  </cell>
+  <cell col="1" row="6" text="">
+  </cell>
+  <cell col="2" row="6" text="- Evolving Transition (ET)">
+  </cell>
+  <cell col="3" row="6" text="- Rapid Transition (RT)">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="ExxonMobil
+     
+     [
+     
+      25
+     
+     ] Outlook for Energy: A Perspective to 2040">
+  </cell>
+  <cell col="1" row="7" text="">
+  </cell>
+  <cell col="2" row="7" text="- Reference">
+  </cell>
+  <cell col="3" row="7" text="">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="EIA (2019) International Energy Outlook 2019 does not have Exploratory Scenarios." type="">
+  </statement>
+  <statement id="2" text="Renewal (Rn) is the Normative Scenarios of The study Equinor [ ] Energy Perspectives to 2050." type="">
+  </statement>
+ </statements>
+</Table 3>

@@ -1,0 +1,123 @@
+<Table 2>
+ <caption text="
+
+   Maximum allowable upper bound
+   
+    δ
+   
+
+    2
+   
+   for four different lower bounds of
+   
+    δ
+   
+
+    1
+   
+   in
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="δ
+     
+
+      1">
+  </cell>
+  <cell col="1" row="0" text="0.2">
+  </cell>
+  <cell col="2" row="0" text="0.4">
+  </cell>
+  <cell col="3" row="0" text="0.6">
+  </cell>
+  <cell col="4" row="0" text="0.8">
+  </cell>
+  <cell col="5" row="0" text="Method">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="0.7945">
+  </cell>
+  <cell col="2" row="1" text="0.8487">
+  </cell>
+  <cell col="3" row="1" text="0.9316">
+  </cell>
+  <cell col="4" row="1" text="1.0325">
+  </cell>
+  <cell col="5" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="">
+  </cell>
+  <cell col="1" row="2" text="1.141">
+  </cell>
+  <cell col="2" row="2" text="1.150">
+  </cell>
+  <cell col="3" row="2" text="1.72">
+  </cell>
+  <cell col="4" row="2" text="1.209">
+  </cell>
+  <cell col="5" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="δ
+     
+
+      2">
+  </cell>
+  <cell col="1" row="3" text="1.1639">
+  </cell>
+  <cell col="2" row="3" text="1.1734">
+  </cell>
+  <cell col="3" row="3" text="1.1994">
+  </cell>
+  <cell col="4" row="3" text="1.2532">
+  </cell>
+  <cell col="5" row="3" text="">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="">
+  </cell>
+  <cell col="1" row="4" text="1.3101">
+  </cell>
+  <cell col="2" row="4" text="1.3116">
+  </cell>
+  <cell col="3" row="4" text="1.2999">
+  </cell>
+  <cell col="4" row="4" text="1.2674">
+  </cell>
+  <cell col="5" row="4" text="">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="">
+  </cell>
+  <cell col="1" row="5" text="1.7410">
+  </cell>
+  <cell col="2" row="5" text="1.8628">
+  </cell>
+  <cell col="3" row="5" text="2.0433">
+  </cell>
+  <cell col="4" row="5" text="2.5410">
+  </cell>
+  <cell col="5" row="5" text="">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="They have upper bound and lower bounds." type="">
+  </statement>
+  <statement id="1" text="Lower bound of  1 in 0.2 is 0.7945." type="">
+  </statement>
+  <statement id="2" text="Lower bound of  1 in 0.6 is 0.9316." type="">
+  </statement>
+  <statement id="4" text="Upper bound of  2 in 0.6 is 2.5410." type="">
+  </statement>
+ </statements>
+</Table 2>

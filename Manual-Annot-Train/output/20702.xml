@@ -1,0 +1,316 @@
+<Table 1>
+ <caption text="
+
+   Main features of the exemplary rainfed and irrigated cropped fields selected for describing the model functioning in the 2018 growing season (
+   
+    Figs. 5 and 6
+   
+   ).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Crop type">
+  </cell>
+  <cell col="1" row="0" text="Sowing">
+  </cell>
+  <cell col="2" row="0" text="Transplanting">
+  </cell>
+  <cell col="3" row="0" text="Harvesting">
+  </cell>
+  <cell col="4" row="0" text="Irrigation">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Set-aside">
+  </cell>
+  <cell col="1" row="1" text="–">
+  </cell>
+  <cell col="2" row="1" text="–">
+  </cell>
+  <cell col="3" row="1" text="–">
+  </cell>
+  <cell col="4" row="1" text="No">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Winter wheat">
+  </cell>
+  <cell col="1" row="2" text="November (2017)">
+  </cell>
+  <cell col="2" row="2" text="">
+  </cell>
+  <cell col="3" row="2" text="Mid-June">
+  </cell>
+  <cell col="4" row="2" text="No">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Chickpea">
+  </cell>
+  <cell col="1" row="3" text="February">
+  </cell>
+  <cell col="2" row="3" text="">
+  </cell>
+  <cell col="3" row="3" text="Early July">
+  </cell>
+  <cell col="4" row="3" text="No">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Late tomato">
+  </cell>
+  <cell col="1" row="4" text="">
+  </cell>
+  <cell col="2" row="4" text="Late May">
+  </cell>
+  <cell col="3" row="4" text="Early September">
+  </cell>
+  <cell col="4" row="4" text="Yes">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Early corn">
+  </cell>
+  <cell col="1" row="5" text="Mid-April">
+  </cell>
+  <cell col="2" row="5" text="">
+  </cell>
+  <cell col="3" row="5" text="Late August">
+  </cell>
+  <cell col="4" row="5" text="Yes">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Late corn">
+  </cell>
+  <cell col="1" row="6" text="Mid-June">
+  </cell>
+  <cell col="2" row="6" text="">
+  </cell>
+  <cell col="3" row="6" text="Mid-October">
+  </cell>
+  <cell col="4" row="6" text="Yes">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Sowing month of Late tomato is not given." type="entailed">
+  </statement>
+  <statement id="2" text="Irrigation is done for tomato and corn." type="entailed">
+  </statement>
+  <statement id="3" text="Only two types of corns are given in tha table." type="refuted">
+  </statement>
+  <statement id="4" text="Late corn is transplanted in Late May." type="refuted">
+  </statement>
+  <statement id="5" text="Sowing month of Late tomato is February." type="refuted">
+  </statement>
+  <statement id="6" text="Irrigation is not done for tomato and corn." type="refuted">
+  </statement>
+  <statement id="8" text="6 AC are representative of two summer crops, tomato and corn, which are grown in irrigated condition (see Table 1 )." type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   Main features of the tomato and corn fields characterized by personal contact with local farmers in the 2018 and 2019 growing seasons (
+   
+    Fig. 9
+   
+   A–C), with respective estimated IW.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Crop type">
+  </cell>
+  <cell col="1" row="0" text="Year">
+  </cell>
+  <cell col="2" row="0" text="N. fields">
+  </cell>
+  <cell col="3" row="0" text="Sowing">
+  </cell>
+  <cell col="4" row="0" text="Transplanting">
+  </cell>
+  <cell col="5" row="0" text="Harvesting">
+  </cell>
+  <cell col="6" row="0" text="Estimated IW (mm)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Early tomato">
+  </cell>
+  <cell col="1" row="1" text="2018">
+  </cell>
+  <cell col="2" row="1" text="3">
+  </cell>
+  <cell col="3" row="1" text="">
+  </cell>
+  <cell col="4" row="1" text="End of April">
+  </cell>
+  <cell col="5" row="1" text="Beginning of August">
+  </cell>
+  <cell col="6" row="1" text="226">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Late tomato">
+  </cell>
+  <cell col="1" row="2" text="2018">
+  </cell>
+  <cell col="2" row="2" text="6">
+  </cell>
+  <cell col="3" row="2" text="">
+  </cell>
+  <cell col="4" row="2" text="Beginning of June">
+  </cell>
+  <cell col="5" row="2" text="Beginning of September">
+  </cell>
+  <cell col="6" row="2" text="308">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Early tomato">
+  </cell>
+  <cell col="1" row="3" text="2019">
+  </cell>
+  <cell col="2" row="3" text="5">
+  </cell>
+  <cell col="3" row="3" text="">
+  </cell>
+  <cell col="4" row="3" text="End of April">
+  </cell>
+  <cell col="5" row="3" text="Mid-August">
+  </cell>
+  <cell col="6" row="3" text="314">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Late tomato">
+  </cell>
+  <cell col="1" row="4" text="2019">
+  </cell>
+  <cell col="2" row="4" text="5">
+  </cell>
+  <cell col="3" row="4" text="">
+  </cell>
+  <cell col="4" row="4" text="End of May">
+  </cell>
+  <cell col="5" row="4" text="Beginning of September">
+  </cell>
+  <cell col="6" row="4" text="289">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Early corn">
+  </cell>
+  <cell col="1" row="5" text="2018">
+  </cell>
+  <cell col="2" row="5" text="4">
+  </cell>
+  <cell col="3" row="5" text="Mid-April">
+  </cell>
+  <cell col="4" row="5" text="">
+  </cell>
+  <cell col="5" row="5" text="End of August">
+  </cell>
+  <cell col="6" row="5" text="397">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Late corn">
+  </cell>
+  <cell col="1" row="6" text="2018">
+  </cell>
+  <cell col="2" row="6" text="6">
+  </cell>
+  <cell col="3" row="6" text="Mid-June">
+  </cell>
+  <cell col="4" row="6" text="">
+  </cell>
+  <cell col="5" row="6" text="Beginning of October">
+  </cell>
+  <cell col="6" row="6" text="339">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="Early corn has highest estimated IW (mm)." type="entailed">
+  </statement>
+  <statement id="3" text="The only early tomato of year 2019 is harvested in Mid-August." type="entailed">
+  </statement>
+  <statement id="4" text="The N.fields of early corn is six." type="refuted">
+  </statement>
+  <statement id="5" text="The only early tomato of year 2018 is harvested in Mid-August." type="refuted">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Main features of the experimental tomato and corn fields used for assessing the model functioning in the 2018 and 2019 growing seasons, respectively (
+   
+    Figs. 7 and 8
+   
+   ).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Crop type">
+  </cell>
+  <cell col="1" row="0" text="Position">
+  </cell>
+  <cell col="2" row="0" text="Sowing">
+  </cell>
+  <cell col="3" row="0" text="Transplanting">
+  </cell>
+  <cell col="4" row="0" text="Harvesting">
+  </cell>
+  <cell col="5" row="0" text="Measured IW (mm)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Early tomato">
+  </cell>
+  <cell col="1" row="1" text="42.833 °N,
+     
+     11.111 °E">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+  <cell col="3" row="1" text="28/04/2018">
+  </cell>
+  <cell col="4" row="1" text="31/07/2018">
+  </cell>
+  <cell col="5" row="1" text="221">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Early corn">
+  </cell>
+  <cell col="1" row="2" text="42.862 °N,
+     
+     11.050 °E">
+  </cell>
+  <cell col="2" row="2" text="18/04/2019">
+  </cell>
+  <cell col="3" row="2" text="">
+  </cell>
+  <cell col="4" row="2" text="19/08/2019">
+  </cell>
+  <cell col="5" row="2" text="299">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are two type of Crop given in table - Early tomato and Early corn ." type="entailed">
+  </statement>
+  <statement id="1" text="Early tomato has 42.833 N, 11.111 E as Position." type="entailed">
+  </statement>
+  <statement id="2" text="Sowing date for Early corn is 18/04/2019." type="entailed">
+  </statement>
+  <statement id="4" text="899 is the highest Measured IW (mm) for Early corn, compare to Early tomato." type="refuted">
+  </statement>
+  <statement id="6" text="Consequently, the total water amount provided by irrigation is higher than for tomato (around 300 mm), and is slightly overestimated by the described method (338 mm), mostly due to an IW overestimation around the end of the corn growing cycle (late August)." type="entailed">
+  </statement>
+ </statements>
+</Table 2>

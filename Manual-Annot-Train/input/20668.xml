@@ -1,0 +1,810 @@
+<Table 6>
+ <caption text="
+
+   The Change in Compressive Strength of Experimental samples compared to control ones.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Name of mine">
+  </cell>
+  <cell col="1" row="0" text="Control Samples">
+  </cell>
+  <cell col="2" row="0" text="Experimental Samples">
+  </cell>
+  <cell col="3" row="0" text="The Change (%)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="S
+     
+      E">
+  </cell>
+  <cell col="1" row="1" text="5.04">
+  </cell>
+  <cell col="2" row="1" text="8.11">
+  </cell>
+  <cell col="3" row="1" text="% 60.93">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="S
+     
+      M">
+  </cell>
+  <cell col="1" row="2" text="2.23">
+  </cell>
+  <cell col="2" row="2" text="5.23">
+  </cell>
+  <cell col="3" row="2" text="%134.84">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="S
+     
+      H">
+  </cell>
+  <cell col="1" row="3" text="4.9">
+  </cell>
+  <cell col="2" row="3" text="7.74">
+  </cell>
+  <cell col="3" row="3" text="% 58.04">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="S
+     
+      GH">
+  </cell>
+  <cell col="1" row="4" text="5.51">
+  </cell>
+  <cell col="2" row="4" text="7.11">
+  </cell>
+  <cell col="3" row="4" text="%29.09">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="S
+     
+      A">
+  </cell>
+  <cell col="1" row="5" text="2.41">
+  </cell>
+  <cell col="2" row="5" text="4.68">
+  </cell>
+  <cell col="3" row="5" text="% 94.27">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="S
+     
+      Z">
+  </cell>
+  <cell col="1" row="6" text="3.18">
+  </cell>
+  <cell col="2" row="6" text="6.34">
+  </cell>
+  <cell col="3" row="6" text="% 99.46">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 6 different Name of mine such as SE,SM,SH,SGH,SA,SZ." type="">
+  </statement>
+  <statement id="1" text="The table contains different control samples and Experimental samples." type="">
+  </statement>
+  <statement id="3" text="The highest percentage of The change(%) is 134.84." type="">
+  </statement>
+  <statement id="4" text="There are 8 different Name of mine." type="">
+  </statement>
+  <statement id="5" text="Furthermore, the average compressive strength in all six mines increased by 79.43 percent." type="">
+  </statement>
+ </statements>
+</Table 6>
+<Table 7>
+ <caption text="
+
+   The Change in Tensile Strength of Experimental samples compared to control ones.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Name of mine">
+  </cell>
+  <cell col="1" row="0" text="Control Samples">
+  </cell>
+  <cell col="2" row="0" text="Experimental Samples">
+  </cell>
+  <cell col="3" row="0" text="The Change (%)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="S
+     
+      E">
+  </cell>
+  <cell col="1" row="1" text="0.915">
+  </cell>
+  <cell col="2" row="1" text="1.308">
+  </cell>
+  <cell col="3" row="1" text="% 42.81">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="S
+     
+      M">
+  </cell>
+  <cell col="1" row="2" text="0.636">
+  </cell>
+  <cell col="2" row="2" text="0.971">
+  </cell>
+  <cell col="3" row="2" text="% 52.67">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="S
+     
+      H">
+  </cell>
+  <cell col="1" row="3" text="0.626">
+  </cell>
+  <cell col="2" row="3" text="0.917">
+  </cell>
+  <cell col="3" row="3" text="% 46.48">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="S
+     
+      GH">
+  </cell>
+  <cell col="1" row="4" text="0.518">
+  </cell>
+  <cell col="2" row="4" text="0.728">
+  </cell>
+  <cell col="3" row="4" text="% 40.54">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="S
+     
+      A">
+  </cell>
+  <cell col="1" row="5" text="0.432">
+  </cell>
+  <cell col="2" row="5" text="0.606">
+  </cell>
+  <cell col="3" row="5" text="% 40.27">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="S
+     
+      Z">
+  </cell>
+  <cell col="1" row="6" text="0.611">
+  </cell>
+  <cell col="2" row="6" text="0.809">
+  </cell>
+  <cell col="3" row="6" text="% 32.40">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="S A mine has the lowest Control Samples of 0.432 and Experimental Samples of 0.606." type="">
+  </statement>
+  <statement id="5" text="S Z mine has the highest percent of 32.40." type="">
+  </statement>
+ </statements>
+</Table 7>
+<Table 3>
+ <caption text="
+
+   Chemical composition (XRF) (Percentage of weight).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="La&amp;Lu">
+  </cell>
+  <cell col="1" row="0" text="MnO
+     
+      2">
+  </cell>
+  <cell col="2" row="0" text="BaO">
+  </cell>
+  <cell col="3" row="0" text="P
+     
+      2
+     
+     O
+     
+      5">
+  </cell>
+  <cell col="4" row="0" text="SrO">
+  </cell>
+  <cell col="5" row="0" text="Cl">
+  </cell>
+  <cell col="6" row="0" text="SO
+     
+      3">
+  </cell>
+  <cell col="7" row="0" text="TiO
+     
+      2">
+  </cell>
+  <cell col="8" row="0" text="K
+     
+      2
+     
+     O">
+  </cell>
+  <cell col="9" row="0" text="Na
+     
+      2
+     
+     O">
+  </cell>
+  <cell col="10" row="0" text="Fe
+     
+      2
+     
+     O
+     
+      3">
+  </cell>
+  <cell col="11" row="0" text="MgO">
+  </cell>
+  <cell col="12" row="0" text="Al
+     
+      2
+     
+     O
+     
+      3">
+  </cell>
+  <cell col="13" row="0" text="CaO">
+  </cell>
+  <cell col="14" row="0" text="L.O.I">
+  </cell>
+  <cell col="15" row="0" text="SiO
+     
+      2">
+  </cell>
+  <cell col="16" row="0" text="Chemical material">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="&lt;0.01">
+  </cell>
+  <cell col="1" row="1" text="–">
+  </cell>
+  <cell col="2" row="1" text="–">
+  </cell>
+  <cell col="3" row="1" text="&lt;0.01">
+  </cell>
+  <cell col="4" row="1" text="0.1">
+  </cell>
+  <cell col="5" row="1" text="0.5">
+  </cell>
+  <cell col="6" row="1" text="1.5">
+  </cell>
+  <cell col="7" row="1" text="0.7">
+  </cell>
+  <cell col="8" row="1" text="2.7">
+  </cell>
+  <cell col="9" row="1" text="1.5">
+  </cell>
+  <cell col="10" row="1" text="3.6">
+  </cell>
+  <cell col="11" row="1" text="5.7">
+  </cell>
+  <cell col="12" row="1" text="10.7">
+  </cell>
+  <cell col="13" row="1" text="15.7">
+  </cell>
+  <cell col="14" row="1" text="18.3">
+  </cell>
+  <cell col="15" row="1" text="39">
+  </cell>
+  <cell col="16" row="1" text="S
+     
+      E">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="&lt;0.01">
+  </cell>
+  <cell col="1" row="2" text="–">
+  </cell>
+  <cell col="2" row="2" text="–">
+  </cell>
+  <cell col="3" row="2" text="&lt;0.01">
+  </cell>
+  <cell col="4" row="2" text="0.1">
+  </cell>
+  <cell col="5" row="2" text="0.7">
+  </cell>
+  <cell col="6" row="2" text="1.5">
+  </cell>
+  <cell col="7" row="2" text="0.6">
+  </cell>
+  <cell col="8" row="2" text="2.5">
+  </cell>
+  <cell col="9" row="2" text="2.6">
+  </cell>
+  <cell col="10" row="2" text="3">
+  </cell>
+  <cell col="11" row="2" text="6.6">
+  </cell>
+  <cell col="12" row="2" text="9.8">
+  </cell>
+  <cell col="13" row="2" text="13.3">
+  </cell>
+  <cell col="14" row="2" text="18.3">
+  </cell>
+  <cell col="15" row="2" text="41">
+  </cell>
+  <cell col="16" row="2" text="S
+     
+      M">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="&lt;0.01">
+  </cell>
+  <cell col="1" row="3" text="–">
+  </cell>
+  <cell col="2" row="3" text="–">
+  </cell>
+  <cell col="3" row="3" text="&lt;0.01">
+  </cell>
+  <cell col="4" row="3" text="–">
+  </cell>
+  <cell col="5" row="3" text="0.6">
+  </cell>
+  <cell col="6" row="3" text="0.2">
+  </cell>
+  <cell col="7" row="3" text="0.7">
+  </cell>
+  <cell col="8" row="3" text="2.8">
+  </cell>
+  <cell col="9" row="3" text="1.4">
+  </cell>
+  <cell col="10" row="3" text="3.6">
+  </cell>
+  <cell col="11" row="3" text="6.8">
+  </cell>
+  <cell col="12" row="3" text="10.8">
+  </cell>
+  <cell col="13" row="3" text="12.9">
+  </cell>
+  <cell col="14" row="3" text="15.9">
+  </cell>
+  <cell col="15" row="3" text="44.9">
+  </cell>
+  <cell col="16" row="3" text="S
+     
+      H">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="&lt;0.01">
+  </cell>
+  <cell col="1" row="4" text="–">
+  </cell>
+  <cell col="2" row="4" text="–">
+  </cell>
+  <cell col="3" row="4" text="&lt;0.01">
+  </cell>
+  <cell col="4" row="4" text="0.2">
+  </cell>
+  <cell col="5" row="4" text="&lt;0.01">
+  </cell>
+  <cell col="6" row="4" text="&lt;0.01">
+  </cell>
+  <cell col="7" row="4" text="0.6">
+  </cell>
+  <cell col="8" row="4" text="2.4">
+  </cell>
+  <cell col="9" row="4" text="1">
+  </cell>
+  <cell col="10" row="4" text="3.2">
+  </cell>
+  <cell col="11" row="4" text="6.3">
+  </cell>
+  <cell col="12" row="4" text="8.5">
+  </cell>
+  <cell col="13" row="4" text="17.8">
+  </cell>
+  <cell col="14" row="4" text="17.8">
+  </cell>
+  <cell col="15" row="4" text="42.2">
+  </cell>
+  <cell col="16" row="4" text="S
+     
+      GH">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="&lt;0.01">
+  </cell>
+  <cell col="1" row="5" text="0.1">
+  </cell>
+  <cell col="2" row="5" text="0.1">
+  </cell>
+  <cell col="3" row="5" text="&lt;0.01">
+  </cell>
+  <cell col="4" row="5" text="">
+  </cell>
+  <cell col="5" row="5" text="&lt;0.01">
+  </cell>
+  <cell col="6" row="5" text="&lt;0.01">
+  </cell>
+  <cell col="7" row="5" text="0.7">
+  </cell>
+  <cell col="8" row="5" text="2.9">
+  </cell>
+  <cell col="9" row="5" text="1.3">
+  </cell>
+  <cell col="10" row="5" text="4.3">
+  </cell>
+  <cell col="11" row="5" text="5.6">
+  </cell>
+  <cell col="12" row="5" text="12.4">
+  </cell>
+  <cell col="13" row="5" text="14.3">
+  </cell>
+  <cell col="14" row="5" text="14.6">
+  </cell>
+  <cell col="15" row="5" text="43.7">
+  </cell>
+  <cell col="16" row="5" text="S
+     
+      A">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="&lt;0.01">
+  </cell>
+  <cell col="1" row="6" text="–">
+  </cell>
+  <cell col="2" row="6" text="–">
+  </cell>
+  <cell col="3" row="6" text="&lt;0.01">
+  </cell>
+  <cell col="4" row="6" text="0.1">
+  </cell>
+  <cell col="5" row="6" text="0.7">
+  </cell>
+  <cell col="6" row="6" text="0.3">
+  </cell>
+  <cell col="7" row="6" text="0.6">
+  </cell>
+  <cell col="8" row="6" text="2.5">
+  </cell>
+  <cell col="9" row="6" text="2">
+  </cell>
+  <cell col="10" row="6" text="3">
+  </cell>
+  <cell col="11" row="6" text="5.6">
+  </cell>
+  <cell col="12" row="6" text="10.6">
+  </cell>
+  <cell col="13" row="6" text="14.3">
+  </cell>
+  <cell col="14" row="6" text="17">
+  </cell>
+  <cell col="15" row="6" text="43.3">
+  </cell>
+  <cell col="16" row="6" text="S
+     
+      Z">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are six different Chemical material in table." type="">
+  </statement>
+  <statement id="1" text="The SiO 2 has highest value of 94.9." type="">
+  </statement>
+  <statement id="2" text="Compare to all the highest value under Na 2 O is 84.3." type="">
+  </statement>
+ </statements>
+</Table 3>
+<Table 8>
+ <caption text="
+
+   The Change in Flexural Strength of Experimental samples compared to control ones.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Name of mine">
+  </cell>
+  <cell col="1" row="0" text="Control Samples">
+  </cell>
+  <cell col="2" row="0" text="Experimental Samples">
+  </cell>
+  <cell col="3" row="0" text="The Change (%)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="S
+     
+      E">
+  </cell>
+  <cell col="1" row="1" text="1.13">
+  </cell>
+  <cell col="2" row="1" text="1.882">
+  </cell>
+  <cell col="3" row="1" text="% 66.54">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="S
+     
+      M">
+  </cell>
+  <cell col="1" row="2" text="1.06">
+  </cell>
+  <cell col="2" row="2" text="1.947">
+  </cell>
+  <cell col="3" row="2" text="% 83.67">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="S
+     
+      H">
+  </cell>
+  <cell col="1" row="3" text="0.76">
+  </cell>
+  <cell col="2" row="3" text="1.616">
+  </cell>
+  <cell col="3" row="3" text="% 112.63">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="S
+     
+      GH">
+  </cell>
+  <cell col="1" row="4" text="0.88">
+  </cell>
+  <cell col="2" row="4" text="1.347">
+  </cell>
+  <cell col="3" row="4" text="% 53.06">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="S
+     
+      A">
+  </cell>
+  <cell col="1" row="5" text="0.68">
+  </cell>
+  <cell col="2" row="5" text="1.186">
+  </cell>
+  <cell col="3" row="5" text="% 74.41">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="S
+     
+      Z">
+  </cell>
+  <cell col="1" row="6" text="0.74">
+  </cell>
+  <cell col="2" row="6" text="1.186">
+  </cell>
+  <cell col="3" row="6" text="% 60.27">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Each mine is having different control samples." type="">
+  </statement>
+  <statement id="2" text="The Change(%) of every mine is different." type="">
+  </statement>
+  <statement id="3" text="SM has highest percentage of The Change(%)." type="">
+  </statement>
+ </statements>
+</Table 8>
+<Table 5>
+ <caption text="
+
+   Performed tests to determine mechanical Strength of Adobe Samples.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Test type">
+  </cell>
+  <cell col="1" row="0" text="Standard Code">
+  </cell>
+  <cell col="2" row="0" text="Number of C. samples">
+  </cell>
+  <cell col="3" row="0" text="Number of E. samples">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Compressive Strength/ Cubic 5*5*5">
+  </cell>
+  <cell col="1" row="1" text="ASTM C109−90">
+  </cell>
+  <cell col="2" row="1" text="3">
+  </cell>
+  <cell col="3" row="1" text="3">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Flexural strength / 4*4*16 Prismatic">
+  </cell>
+  <cell col="1" row="2" text="ASTM
+     
+     C293">
+  </cell>
+  <cell col="2" row="2" text="3">
+  </cell>
+  <cell col="3" row="2" text="3">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Tensile Strength / Briquette">
+  </cell>
+  <cell col="1" row="3" text="ASTM C307 –99">
+  </cell>
+  <cell col="2" row="3" text="3">
+  </cell>
+  <cell col="3" row="3" text="3">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 3 Test type in the Table." type="">
+  </statement>
+  <statement id="1" text="Number of C. samples and Number of E. samples will have same value for all the Test type." type="">
+  </statement>
+  <statement id="2" text="Compressive Strength will have ASTM C109-90 Standard Code." type="">
+  </statement>
+  <statement id="3" text="Flexural strength will have ASTM C293 Standard Code." type="">
+  </statement>
+  <statement id="5" text="Compressive Strength will have ASTM C293 Standard Code." type="">
+  </statement>
+  <statement id="6" text="There are 3 Same Standard Code for all the Test type." type="">
+  </statement>
+  <statement id="7" text="In which P is the exerted force, l span length, b specimen width, h specimen height strengths of each group calculated based on Table 5 standards." type="">
+  </statement>
+ </statements>
+</Table 5>
+<Table 2>
+ <caption text="
+
+   Granulometric properties of the soils (mass %).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Clay">
+  </cell>
+  <cell col="1" row="0" text="Silt">
+  </cell>
+  <cell col="2" row="0" text="Sand">
+  </cell>
+  <cell col="3" row="0" text="Gravel">
+  </cell>
+  <cell col="4" row="0" text="Rubble">
+  </cell>
+  <cell col="5" row="0" text="Name of mine">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="37.9">
+  </cell>
+  <cell col="1" row="1" text="51.9">
+  </cell>
+  <cell col="2" row="1" text="9.9">
+  </cell>
+  <cell col="3" row="1" text="0.3">
+  </cell>
+  <cell col="4" row="1" text="–">
+  </cell>
+  <cell col="5" row="1" text="S
+     
+      E">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="31.4">
+  </cell>
+  <cell col="1" row="2" text="55.8">
+  </cell>
+  <cell col="2" row="2" text="12.8">
+  </cell>
+  <cell col="3" row="2" text="–">
+  </cell>
+  <cell col="4" row="2" text="–">
+  </cell>
+  <cell col="5" row="2" text="S
+     
+      M">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="34.7">
+  </cell>
+  <cell col="1" row="3" text="60.7">
+  </cell>
+  <cell col="2" row="3" text="4.6">
+  </cell>
+  <cell col="3" row="3" text="–">
+  </cell>
+  <cell col="4" row="3" text="–">
+  </cell>
+  <cell col="5" row="3" text="S
+     
+      H">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="29">
+  </cell>
+  <cell col="1" row="4" text="57.4">
+  </cell>
+  <cell col="2" row="4" text="9.3">
+  </cell>
+  <cell col="3" row="4" text="4.2">
+  </cell>
+  <cell col="4" row="4" text="–">
+  </cell>
+  <cell col="5" row="4" text="S
+     
+      GH">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="10">
+  </cell>
+  <cell col="1" row="5" text="79.7">
+  </cell>
+  <cell col="2" row="5" text="10.1">
+  </cell>
+  <cell col="3" row="5" text="0.1">
+  </cell>
+  <cell col="4" row="5" text="–">
+  </cell>
+  <cell col="5" row="5" text="S
+     
+      A">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="35.6">
+  </cell>
+  <cell col="1" row="6" text="52.5">
+  </cell>
+  <cell col="2" row="6" text="11.8">
+  </cell>
+  <cell col="3" row="6" text="0.1">
+  </cell>
+  <cell col="4" row="6" text="–">
+  </cell>
+  <cell col="5" row="6" text="S
+     
+      Z">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Name of mine contain 6 categories such as SE,SM,SH,SGH,SA,SZ." type="">
+  </statement>
+  <statement id="1" text="SA and SZ has same gravel value." type="">
+  </statement>
+  <statement id="2" text="The Rubble value is nill for all the categories ." type="">
+  </statement>
+  <statement id="3" text="Name of mine contain 8 categories." type="">
+  </statement>
+  <statement id="4" text="SA and SH has same gravel value." type="">
+  </statement>
+  <statement id="5" text="A look at Table 2 reveals that S E has the most amount of clay, while three mines of S M , S H , and S Z , have approximately a similar amount of clay." type="">
+  </statement>
+  <statement id="6" text="Comparing the amount of clay in the soils and also tensile strength of control and experimental samples, it is reasoned that there is a direct relationship between the two factors." type="">
+  </statement>
+ </statements>
+</Table 2>

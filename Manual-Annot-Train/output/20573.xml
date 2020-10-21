@@ -1,0 +1,400 @@
+<Table 4>
+ <caption text="
+
+   Min/max value and MAPE for the temperature of the drying air in the HPD TF1 during drying of separated digestate at different set values
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="T
+     
+      set
+     
+     °C">
+  </cell>
+  <cell col="1" row="0" text="T
+     
+      meas
+     
+     min°C">
+  </cell>
+  <cell col="2" row="0" text="T
+     
+      meas
+     
+     max°C">
+  </cell>
+  <cell col="3" row="0" text="MAPE (T)%">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="40">
+  </cell>
+  <cell col="1" row="1" text="39.5">
+  </cell>
+  <cell col="2" row="1" text="40.1">
+  </cell>
+  <cell col="3" row="1" text="0.11">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="60">
+  </cell>
+  <cell col="1" row="2" text="58.9">
+  </cell>
+  <cell col="2" row="2" text="60.2">
+  </cell>
+  <cell col="3" row="2" text="0.14">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="80">
+  </cell>
+  <cell col="1" row="3" text="79.7">
+  </cell>
+  <cell col="2" row="3" text="81.2">
+  </cell>
+  <cell col="3" row="3" text="0.21">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="The lowest T meas minC value is 39.5." type="entailed">
+  </statement>
+ </statements>
+</Table 4>
+<Table 1>
+ <caption text="
+
+   Measured and corrected values m
+   
+    meas
+   
+   and m
+   
+    corr
+   
+   for dead load m
+   
+    cal
+   
+   together with MAPE during calibration of the HPD TF1
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="m
+     
+      cal
+     
+     g">
+  </cell>
+  <cell col="1" row="0" text="m
+     
+      meas
+     
+     ming">
+  </cell>
+  <cell col="2" row="0" text="m
+     
+      meas
+     
+     maxg">
+  </cell>
+  <cell col="3" row="0" text="m
+     
+      corr
+     
+     ming">
+  </cell>
+  <cell col="4" row="0" text="m
+     
+      corr
+     
+     maxg">
+  </cell>
+  <cell col="5" row="0" text="MAPE (m
+     
+      meas
+     
+     )%">
+  </cell>
+  <cell col="6" row="0" text="MAPE (m
+     
+      corr
+     
+     )%">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="200.94">
+  </cell>
+  <cell col="1" row="1" text="200.12">
+  </cell>
+  <cell col="2" row="1" text="202.68">
+  </cell>
+  <cell col="3" row="1" text="200.34">
+  </cell>
+  <cell col="4" row="1" text="201.64">
+  </cell>
+  <cell col="5" row="1" text="0.28">
+  </cell>
+  <cell col="6" row="1" text="0.07">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The value of m meas maxg 802.68 in more compare to all" type="refuted">
+  </statement>
+  <statement id="1" text="The value of MAPE (m corr )% 0.09 is more than value of MAPE (m meas )% 0.58" type="refuted">
+  </statement>
+  <statement id="3" text="The corrected signal shows a better result than the raw signal." type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   Min/max value and MAPE for air velocity of the drying air in the HPD TF1 during drying of separated digestate at different set values
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="v
+     
+      set
+     
+     m·s
+     
+      -1">
+  </cell>
+  <cell col="1" row="0" text="v
+     
+      meas
+     
+     minm·s
+     
+      -1">
+  </cell>
+  <cell col="2" row="0" text="v
+     
+      meas
+     
+     maxm·s
+     
+      -1">
+  </cell>
+  <cell col="3" row="0" text="MAPE (v)%">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="0.3">
+  </cell>
+  <cell col="1" row="1" text="0.28">
+  </cell>
+  <cell col="2" row="1" text="0.38">
+  </cell>
+  <cell col="3" row="1" text="8.91">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="0.5">
+  </cell>
+  <cell col="1" row="2" text="0.48">
+  </cell>
+  <cell col="2" row="2" text="0.51">
+  </cell>
+  <cell col="3" row="2" text="0.63">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="0.7">
+  </cell>
+  <cell col="1" row="3" text="0.66">
+  </cell>
+  <cell col="2" row="3" text="0.70">
+  </cell>
+  <cell col="3" row="3" text="0.55">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Compare to all the least value under v meas maxms -1 is 0.38.." type="entailed">
+  </statement>
+  <statement id="1" text="comapre to all under v meas minms -1 has 0.28 as a least value" type="entailed">
+  </statement>
+  <statement id="2" text="The lowest value of MAPE (v)% is 0.55." type="entailed">
+  </statement>
+  <statement id="3" text="The highest value of MAPE (v)% is 38.91" type="refuted">
+  </statement>
+  <statement id="4" text="comapre to all under v meas minms -1 has 6.28 as a least value" type="refuted">
+  </statement>
+ </statements>
+</Table 3>
+<Table 5>
+ <caption text="
+
+   MAPE for temperature, relative humidity and calculated water content of the drying air in the HPD TF1 during drying of separated digestate; T
+   
+    set
+   
+   = 40 °C
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="X
+     
+      set">
+  </cell>
+  <cell col="1" row="0" text="RH
+     
+      set
+     
+     %">
+  </cell>
+  <cell col="2" row="0" text="RH
+     
+      meas
+     
+     min%">
+  </cell>
+  <cell col="3" row="0" text="RH
+     
+      meas
+     
+     max%">
+  </cell>
+  <cell col="4" row="0" text="X
+     
+      calc
+     
+     min">
+  </cell>
+  <cell col="5" row="0" text="X
+     
+      calc
+     
+     max">
+  </cell>
+  <cell col="6" row="0" text="MAPE (RH)%">
+  </cell>
+  <cell col="7" row="0" text="MAPE (X)%">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="0.01">
+  </cell>
+  <cell col="1" row="1" text="20.5">
+  </cell>
+  <cell col="2" row="1" text="21.0">
+  </cell>
+  <cell col="3" row="1" text="24.8">
+  </cell>
+  <cell col="4" row="1" text="0.0103">
+  </cell>
+  <cell col="5" row="1" text="0.0121">
+  </cell>
+  <cell col="6" row="1" text="5.47">
+  </cell>
+  <cell col="7" row="1" text="3.69">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="0.02">
+  </cell>
+  <cell col="1" row="2" text="40.5">
+  </cell>
+  <cell col="2" row="2" text="37.6">
+  </cell>
+  <cell col="3" row="2" text="44.9">
+  </cell>
+  <cell col="4" row="2" text="0.0187">
+  </cell>
+  <cell col="5" row="2" text="0.0217">
+  </cell>
+  <cell col="6" row="2" text="1.66">
+  </cell>
+  <cell col="7" row="2" text="3.43">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="0.03">
+  </cell>
+  <cell col="1" row="3" text="59.8">
+  </cell>
+  <cell col="2" row="3" text="55.1">
+  </cell>
+  <cell col="3" row="3" text="63.5">
+  </cell>
+  <cell col="4" row="3" text="0.0284">
+  </cell>
+  <cell col="5" row="3" text="0.0318">
+  </cell>
+  <cell col="6" row="3" text="2.06">
+  </cell>
+  <cell col="7" row="3" text="4.40">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="The Highest percentage in RH means max % is 63.5." type="entailed">
+  </statement>
+  <statement id="3" text="The Lowest value in X calc max is 0.0121." type="entailed">
+  </statement>
+  <statement id="4" text="They have 8 different sets from 0.01 - 0.08." type="refuted">
+  </statement>
+  <statement id="5" text="The Lowest value in X calc max is 55.1." type="refuted">
+  </statement>
+  <statement id="6" text="Results for MAPE are shown in Table 5 ." type="entailed">
+  </statement>
+  <statement id="8" text="The absolute error fluctuates by 5 %, which has a more pronounced effect on the MAPE at lower set values for RH." type="entailed">
+  </statement>
+ </statements>
+</Table 5>
+<Table 2>
+ <caption text="
+
+   Statistical evaluation of the mass calibration
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="n">
+  </cell>
+  <cell col="2" row="0" text="m
+     
+      average">
+  </cell>
+  <cell col="3" row="0" text="m
+     
+      cal">
+  </cell>
+  <cell col="4" row="0" text="Standard deviation">
+  </cell>
+  <cell col="5" row="0" text="Standard error of the mean value">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="m
+     
+      corr">
+  </cell>
+  <cell col="1" row="1" text="3013">
+  </cell>
+  <cell col="2" row="1" text="200.94">
+  </cell>
+  <cell col="3" row="1" text="200.94">
+  </cell>
+  <cell col="4" row="1" text="0.18630">
+  </cell>
+  <cell col="5" row="1" text="0.00339">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The m corr is having m cal 200.94 ." type="entailed">
+  </statement>
+  <statement id="1" text="The m corr is having Standard error of the mean value as 0.00339" type="entailed">
+  </statement>
+  <statement id="3" text="There is only one mass calibration found." type="refuted">
+  </statement>
+ </statements>
+</Table 2>

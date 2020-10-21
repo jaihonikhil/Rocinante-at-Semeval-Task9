@@ -1,0 +1,80 @@
+<Table 1>
+ <caption text="
+
+   Abbreviations and the corresponding explanation involving sample preparation and freezing operation.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Abbreviations">
+  </cell>
+  <cell col="1" row="0" text="Explanation">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="G
+     
+      X%">
+  </cell>
+  <cell col="1" row="1" text="X% (w/v) hydrolyzed gelatin solution (X = 10, 15, 20, 25 or 30)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="D">
+  </cell>
+  <cell col="1" row="2" text="Degassed samples (served as control)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="B">
+  </cell>
+  <cell col="1" row="3" text="Samples containing NBs.">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="IF">
+  </cell>
+  <cell col="1" row="4" text="Immersion freezing">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="CFUF">
+  </cell>
+  <cell col="1" row="5" text="Constant-frequency ultrasound-assisted freezing">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="VFUF">
+  </cell>
+  <cell col="1" row="6" text="Variable-frequency ultrasound-assisted freezing">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="I/II">
+  </cell>
+  <cell col="1" row="7" text="The first/second working segment of ultrasound (see operation details in
+     
+      Fig. 1
+     
+     B)">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="m kHz">
+  </cell>
+  <cell col="1" row="8" text="Working frequency of ultrasound (m = 28 or 40 kHz)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 8 different types of Abbreviations in the given table." type="">
+  </statement>
+  <statement id="1" text="The B has a Samples containing NBs." type="">
+  </statement>
+  <statement id="2" text="IF means Immersion freezing explanation." type="">
+  </statement>
+  <statement id="3" text="CFUF means Constant-frequency ultrasound-assisted freezing." type="">
+  </statement>
+  <statement id="4" text="The m kHz means Working frequency of ultrasound (m = 28 or 40 kHz)." type="">
+  </statement>
+ </statements>
+</Table 1>

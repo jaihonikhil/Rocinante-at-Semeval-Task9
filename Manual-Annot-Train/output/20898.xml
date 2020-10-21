@@ -1,0 +1,458 @@
+<Table 4>
+ <caption text="
+
+   Relationship of adaptive and maladaptive emotion regulation strategies and overall deficits in emotion regulation with hedonic and eudaimonic well-being.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Mean">
+  </cell>
+  <cell col="2" row="0" text="95% CI">
+  </cell>
+  <cell col="3" row="0" text="p-value">
+  </cell>
+  <cell col="4" row="0" text="k">
+  </cell>
+  <cell col="5" row="0" text="n">
+  </cell>
+  <cell col="6" row="0" text="Heterogeneity">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+  <cell col="3" row="1" text="">
+  </cell>
+  <cell col="4" row="1" text="">
+  </cell>
+  <cell col="5" row="1" text="">
+  </cell>
+  <cell col="6" row="1" text="Q-value">
+  </cell>
+  <cell col="7" row="1" text="I
+     
+      2">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Hedonic well-being">
+  </cell>
+  <cell col="1" row="2" text="">
+  </cell>
+  <cell col="2" row="2" text="">
+  </cell>
+  <cell col="3" row="2" text="">
+  </cell>
+  <cell col="4" row="2" text="">
+  </cell>
+  <cell col="5" row="2" text="">
+  </cell>
+  <cell col="6" row="2" text="">
+  </cell>
+  <cell col="7" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Adaptive strategies">
+  </cell>
+  <cell col="1" row="3" text="0.23">
+  </cell>
+  <cell col="2" row="3" text="[0.11; 0.35]">
+  </cell>
+  <cell col="3" row="3" text="&lt; 0.001">
+  </cell>
+  <cell col="4" row="3" text="8">
+  </cell>
+  <cell col="5" row="3" text="680">
+  </cell>
+  <cell col="6" row="3" text="16.99*">
+  </cell>
+  <cell col="7" row="3" text="58.81">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Maladaptive strategies">
+  </cell>
+  <cell col="1" row="4" text="−0.21">
+  </cell>
+  <cell col="2" row="4" text="[−0.30; −0.11]">
+  </cell>
+  <cell col="3" row="4" text="&lt; 0.001">
+  </cell>
+  <cell col="4" row="4" text="15">
+  </cell>
+  <cell col="5" row="4" text="1568">
+  </cell>
+  <cell col="6" row="4" text="46.37***">
+  </cell>
+  <cell col="7" row="4" text="69.81">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Overall deficits in emotion regulation">
+  </cell>
+  <cell col="1" row="5" text="−0.40">
+  </cell>
+  <cell col="2" row="5" text="[−0.51; −0.28]">
+  </cell>
+  <cell col="3" row="5" text="&lt; 0.001">
+  </cell>
+  <cell col="4" row="5" text="5">
+  </cell>
+  <cell col="5" row="5" text="323">
+  </cell>
+  <cell col="6" row="5" text="5.97">
+  </cell>
+  <cell col="7" row="5" text="33.03">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Eudaimonic well-being">
+  </cell>
+  <cell col="1" row="6" text="">
+  </cell>
+  <cell col="2" row="6" text="">
+  </cell>
+  <cell col="3" row="6" text="">
+  </cell>
+  <cell col="4" row="6" text="">
+  </cell>
+  <cell col="5" row="6" text="">
+  </cell>
+  <cell col="6" row="6" text="">
+  </cell>
+  <cell col="7" row="6" text="">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Adaptive strategies">
+  </cell>
+  <cell col="1" row="7" text="0.34">
+  </cell>
+  <cell col="2" row="7" text="[0.18; 0.49]">
+  </cell>
+  <cell col="3" row="7" text="&lt; 0.001">
+  </cell>
+  <cell col="4" row="7" text="3">
+  </cell>
+  <cell col="5" row="7" text="132">
+  </cell>
+  <cell col="6" row="7" text="0.14">
+  </cell>
+  <cell col="7" row="7" text="0.00">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Maladaptive strategies">
+  </cell>
+  <cell col="1" row="8" text="−0.18">
+  </cell>
+  <cell col="2" row="8" text="[−0.38; 0.04]">
+  </cell>
+  <cell col="3" row="8" text="0.10">
+  </cell>
+  <cell col="4" row="8" text="15">
+  </cell>
+  <cell col="5" row="8" text="933">
+  </cell>
+  <cell col="6" row="8" text="114.05***">
+  </cell>
+  <cell col="7" row="8" text="90.08">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Overall deficits in emotion regulation">
+  </cell>
+  <cell col="1" row="9" text="−0.50">
+  </cell>
+  <cell col="2" row="9" text="[−0.62; −0.35]">
+  </cell>
+  <cell col="3" row="9" text="&lt; 0.001">
+  </cell>
+  <cell col="4" row="9" text="4">
+  </cell>
+  <cell col="5" row="9" text="267">
+  </cell>
+  <cell col="6" row="9" text="6.09">
+  </cell>
+  <cell col="7" row="9" text="50.76">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="The Maladaptive strategies have the highest value for n of 1568." type="entailed">
+  </statement>
+  <statement id="2" text="The Adaptive strategies have the lowest value for Heterogeneity I 2 of 0.00." type="entailed">
+  </statement>
+  <statement id="3" text="There are four Relationship of adaptive and maladaptive emotion regulation strategies." type="refuted">
+  </statement>
+  <statement id="6" text="Findings regarding hedonic and eudaimonic well-being are summarized in Table 4 ." type="entailed">
+  </statement>
+ </statements>
+</Table 4>
+<Table 3>
+ <caption text="
+
+   Relationship of adaptive and maladaptive strategies and overall deficits in emotion regulation with well-being.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Mean">
+  </cell>
+  <cell col="2" row="0" text="95% CI">
+  </cell>
+  <cell col="3" row="0" text="p-value">
+  </cell>
+  <cell col="4" row="0" text="k">
+  </cell>
+  <cell col="5" row="0" text="n">
+  </cell>
+  <cell col="6" row="0" text="Heterogeneity">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+  <cell col="3" row="1" text="">
+  </cell>
+  <cell col="4" row="1" text="">
+  </cell>
+  <cell col="5" row="1" text="">
+  </cell>
+  <cell col="6" row="1" text="Q-value">
+  </cell>
+  <cell col="7" row="1" text="I
+     
+      2">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Adaptive strategies">
+  </cell>
+  <cell col="1" row="2" text="0.25">
+  </cell>
+  <cell col="2" row="2" text="[0.15; 0.35]">
+  </cell>
+  <cell col="3" row="2" text="&lt; 0.001">
+  </cell>
+  <cell col="4" row="2" text="10">
+  </cell>
+  <cell col="5" row="2" text="758">
+  </cell>
+  <cell col="6" row="2" text="17.62*">
+  </cell>
+  <cell col="7" row="2" text="48.91">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Maladaptive strategies">
+  </cell>
+  <cell col="1" row="3" text="−0.21">
+  </cell>
+  <cell col="2" row="3" text="[−0.31;.-0.10]">
+  </cell>
+  <cell col="3" row="3" text="&lt; 0.001">
+  </cell>
+  <cell col="4" row="3" text="27">
+  </cell>
+  <cell col="5" row="3" text="2263">
+  </cell>
+  <cell col="6" row="3" text="139.76***">
+  </cell>
+  <cell col="7" row="3" text="81.40">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Overall deficits in emotion regulation">
+  </cell>
+  <cell col="1" row="4" text="−0.47">
+  </cell>
+  <cell col="2" row="4" text="[−0.56; −0.38]">
+  </cell>
+  <cell col="3" row="4" text="&lt; 0.001">
+  </cell>
+  <cell col="4" row="4" text="9">
+  </cell>
+  <cell col="5" row="4" text="566">
+  </cell>
+  <cell col="6" row="4" text="13.75">
+  </cell>
+  <cell col="7" row="4" text="41.82">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Adaptive strategies Mean is 0.25." type="entailed">
+  </statement>
+  <statement id="1" text="Heterogeneity Q-value is 17.62*." type="entailed">
+  </statement>
+  <statement id="5" text="The difference in the correlations with well-being between maladaptive strategies and overall deficits in emotion regulation was significant" type="entailed">
+  </statement>
+  <statement id="7" text="Findings regarding adaptive and maladaptive emotion regulation strategies and overall deficits in emotion regulation are summarized in Table 3 ." type="entailed">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Relationship of specific emotion regulation strategies and well-being.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Mean">
+  </cell>
+  <cell col="2" row="0" text="95% CI">
+  </cell>
+  <cell col="3" row="0" text="p
+     
+     -value">
+  </cell>
+  <cell col="4" row="0" text="k">
+  </cell>
+  <cell col="5" row="0" text="n">
+  </cell>
+  <cell col="6" row="0" text="Heterogeneity">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+  <cell col="3" row="1" text="">
+  </cell>
+  <cell col="4" row="1" text="">
+  </cell>
+  <cell col="5" row="1" text="">
+  </cell>
+  <cell col="6" row="1" text="Q-value">
+  </cell>
+  <cell col="7" row="1" text="I
+     
+      2">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Reappraisal">
+  </cell>
+  <cell col="1" row="2" text="0.19">
+  </cell>
+  <cell col="2" row="2" text="[0.10; 0.27]">
+  </cell>
+  <cell col="3" row="2" text="&lt; 0.001">
+  </cell>
+  <cell col="4" row="2" text="8">
+  </cell>
+  <cell col="5" row="2" text="498">
+  </cell>
+  <cell col="6" row="2" text="6.14">
+  </cell>
+  <cell col="7" row="2" text="0.00">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Acceptance">
+  </cell>
+  <cell col="1" row="3" text="0.42">
+  </cell>
+  <cell col="2" row="3" text="[0.32; 0.52]">
+  </cell>
+  <cell col="3" row="3" text="&lt; 0.001">
+  </cell>
+  <cell col="4" row="3" text="3">
+  </cell>
+  <cell col="5" row="3" text="271">
+  </cell>
+  <cell col="6" row="3" text="1.29">
+  </cell>
+  <cell col="7" row="3" text="0.00">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Avoidance">
+  </cell>
+  <cell col="1" row="4" text="−0.31">
+  </cell>
+  <cell col="2" row="4" text="[−0.45; −0.14]">
+  </cell>
+  <cell col="3" row="4" text="&lt; 0.001">
+  </cell>
+  <cell col="4" row="4" text="14">
+  </cell>
+  <cell col="5" row="4" text="1013">
+  </cell>
+  <cell col="6" row="4" text="82.18***">
+  </cell>
+  <cell col="7" row="4" text="84.18">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Rumination">
+  </cell>
+  <cell col="1" row="5" text="−0.19">
+  </cell>
+  <cell col="2" row="5" text="[−0.28; −0.10]">
+  </cell>
+  <cell col="3" row="5" text="&lt; 0.001">
+  </cell>
+  <cell col="4" row="5" text="10">
+  </cell>
+  <cell col="5" row="5" text="1065">
+  </cell>
+  <cell col="6" row="5" text="16.10">
+  </cell>
+  <cell col="7" row="5" text="44.09">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Suppression">
+  </cell>
+  <cell col="1" row="6" text="−0.02">
+  </cell>
+  <cell col="2" row="6" text="[−0.16; 0.12]">
+  </cell>
+  <cell col="3" row="6" text="0.75">
+  </cell>
+  <cell col="4" row="6" text="8">
+  </cell>
+  <cell col="5" row="6" text="505">
+  </cell>
+  <cell col="6" row="6" text="14.95*">
+  </cell>
+  <cell col="7" row="6" text="53.19">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The p-value of all scenarios is &lt;0.001 except in suppression." type="entailed">
+  </statement>
+  <statement id="1" text="The lowest k value is 3 in Acceptance." type="entailed">
+  </statement>
+  <statement id="3" text="There are 7 types of scenarios in the given table." type="refuted">
+  </statement>
+  <statement id="4" text="The I 2 value for Reappraisal and Acceptance is 1.00." type="refuted">
+  </statement>
+  <statement id="5" text="The lowest mean value is 0.31 in Avoidance." type="refuted">
+  </statement>
+  <statement id="6" text="Findings regarding specific emotion regulation strategies are summarized in Table 2 ." type="entailed">
+  </statement>
+  <statement id="7" text="0.10 to 0.27, p &lt; .001)" type="entailed">
+  </statement>
+ </statements>
+</Table 2>

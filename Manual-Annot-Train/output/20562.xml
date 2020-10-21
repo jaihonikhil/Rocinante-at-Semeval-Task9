@@ -1,0 +1,84 @@
+<Table 1>
+ <caption text="
+
+   Validation of Correct Gene Fusion Generation by Overlap Extension PCR.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Step1">
+  </cell>
+  <cell col="3" row="0" text="Step 2 &amp; 3">
+  </cell>
+  <cell col="4" row="0" text="">
+  </cell>
+  <cell col="5" row="0" text="">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Construct">
+  </cell>
+  <cell col="1" row="1" text="Size of Fragment 1 (Kb)">
+  </cell>
+  <cell col="2" row="1" text="Size of Fragment 2 (Kb)">
+  </cell>
+  <cell col="3" row="1" text="Size of Final Gene Fusion (Kb)">
+  </cell>
+  <cell col="4" row="1" text="Number of Clones Sequenced">
+  </cell>
+  <cell col="5" row="1" text="Number Correct">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Gene fusion A">
+  </cell>
+  <cell col="1" row="2" text="0.95">
+  </cell>
+  <cell col="2" row="2" text="0.44">
+  </cell>
+  <cell col="3" row="2" text="1.4">
+  </cell>
+  <cell col="4" row="2" text="5">
+  </cell>
+  <cell col="5" row="2" text="4">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Gene fusion B">
+  </cell>
+  <cell col="1" row="3" text="1.6">
+  </cell>
+  <cell col="2" row="3" text="0.78">
+  </cell>
+  <cell col="3" row="3" text="2.38">
+  </cell>
+  <cell col="4" row="3" text="5">
+  </cell>
+  <cell col="5" row="3" text="3">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Gene fusion C">
+  </cell>
+  <cell col="1" row="4" text="1.0">
+  </cell>
+  <cell col="2" row="4" text="1.1">
+  </cell>
+  <cell col="3" row="4" text="2.1">
+  </cell>
+  <cell col="4" row="4" text="5">
+  </cell>
+  <cell col="5" row="4" text="5">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="The number of clones sequenced in every Gene fusion is 5." type="entailed">
+  </statement>
+  <statement id="4" text="The size of final Gene fusion c (Kb) is 2.37." type="refuted">
+  </statement>
+  <statement id="5" text="There are five Gene fusions ." type="refuted">
+  </statement>
+ </statements>
+</Table 1>

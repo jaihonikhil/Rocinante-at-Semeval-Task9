@@ -1,0 +1,468 @@
+<Table 1>
+ <caption text="
+
+   Proximate analysis for raw palm fibre.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Parameter">
+  </cell>
+  <cell col="1" row="0" text="Percentage weight (wt%)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Moisture content">
+  </cell>
+  <cell col="1" row="1" text="4.23">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Volatile matter">
+  </cell>
+  <cell col="1" row="2" text="59.41">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Ash content">
+  </cell>
+  <cell col="1" row="3" text="2.82">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Fixed carbon">
+  </cell>
+  <cell col="1" row="4" text="37.77">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Volatile matter Parameter will have Highest Percentage weight." type="">
+  </statement>
+  <statement id="1" text="Ash content Parameter will have Lowest Percentage weight." type="">
+  </statement>
+  <statement id="2" text="Moisture content Parameter will have 4.23 Percentage weight." type="">
+  </statement>
+  <statement id="3" text="Fixed carbon Parameter will have 4.23 Percentage weight." type="">
+  </statement>
+  <statement id="4" text="It was observed that the raw palm fibre had a high percentage weight of volatile matter and relatively low ash content." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 4>
+ <caption text="
+
+   Contents of elements from EDX.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Element line">
+  </cell>
+  <cell col="1" row="0" text="Raw EFB (wt%)">
+  </cell>
+  <cell col="2" row="0" text="300 °C char (wt%)">
+  </cell>
+  <cell col="3" row="0" text="500 °C char (wt%)">
+  </cell>
+  <cell col="4" row="0" text="700 °C char (wt%)">
+  </cell>
+  <cell col="5" row="0" text="900 °C char (wt%)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="C K">
+  </cell>
+  <cell col="1" row="1" text="57.01">
+  </cell>
+  <cell col="2" row="1" text="68.85">
+  </cell>
+  <cell col="3" row="1" text="73.95">
+  </cell>
+  <cell col="4" row="1" text="70.70">
+  </cell>
+  <cell col="5" row="1" text="71.58">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="O K">
+  </cell>
+  <cell col="1" row="2" text="41.04">
+  </cell>
+  <cell col="2" row="2" text="26.10">
+  </cell>
+  <cell col="3" row="2" text="19.14">
+  </cell>
+  <cell col="4" row="2" text="16.30">
+  </cell>
+  <cell col="5" row="2" text="20.15">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Al K">
+  </cell>
+  <cell col="1" row="3" text="0.18">
+  </cell>
+  <cell col="2" row="3" text="0.54">
+  </cell>
+  <cell col="3" row="3" text="0.22">
+  </cell>
+  <cell col="4" row="3" text="0.52">
+  </cell>
+  <cell col="5" row="3" text="0.34">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Si K">
+  </cell>
+  <cell col="1" row="4" text="0.46">
+  </cell>
+  <cell col="2" row="4" text="0.71">
+  </cell>
+  <cell col="3" row="4" text="0.88">
+  </cell>
+  <cell col="4" row="4" text="1.91">
+  </cell>
+  <cell col="5" row="4" text="1.62">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Cl K">
+  </cell>
+  <cell col="1" row="5" text="0.20">
+  </cell>
+  <cell col="2" row="5" text="0.81">
+  </cell>
+  <cell col="3" row="5" text="0.93">
+  </cell>
+  <cell col="4" row="5" text="1.31">
+  </cell>
+  <cell col="5" row="5" text="0.24">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="K K">
+  </cell>
+  <cell col="1" row="6" text="0.84">
+  </cell>
+  <cell col="2" row="6" text="2.71">
+  </cell>
+  <cell col="3" row="6" text="4.18">
+  </cell>
+  <cell col="4" row="6" text="8.81">
+  </cell>
+  <cell col="5" row="6" text="5.60">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Ca K">
+  </cell>
+  <cell col="1" row="7" text="0.12">
+  </cell>
+  <cell col="2" row="7" text="0.07">
+  </cell>
+  <cell col="3" row="7" text="0.39">
+  </cell>
+  <cell col="4" row="7" text="0.17">
+  </cell>
+  <cell col="5" row="7" text="0.21">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Mg K">
+  </cell>
+  <cell col="1" row="8" text="0.13">
+  </cell>
+  <cell col="2" row="8" text="0.17">
+  </cell>
+  <cell col="3" row="8" text="0.27">
+  </cell>
+  <cell col="4" row="8" text="0.20">
+  </cell>
+  <cell col="5" row="8" text="0.22">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="P K">
+  </cell>
+  <cell col="1" row="9" text="0.02">
+  </cell>
+  <cell col="2" row="9" text="0.04">
+  </cell>
+  <cell col="3" row="9" text="0.04">
+  </cell>
+  <cell col="4" row="9" text="0.08">
+  </cell>
+  <cell col="5" row="9" text="0.04">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Total">
+  </cell>
+  <cell col="1" row="10" text="100">
+  </cell>
+  <cell col="2" row="10" text="100">
+  </cell>
+  <cell col="3" row="10" text="100">
+  </cell>
+  <cell col="4" row="10" text="100">
+  </cell>
+  <cell col="5" row="10" text="100">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Element line P K has least wt% in Raw EFB." type="">
+  </statement>
+  <statement id="2" text="Element Mg K does not have Raw EFB wt%." type="">
+  </statement>
+  <statement id="3" text="5 , it can be observed that the 700 C biochar showed poor reactivity at several gasification temperatures as compared to the other char samples and this could be due to the high K content of 8.81 wt% in that char sample as shown in Table 4 ." type="">
+  </statement>
+ </statements>
+</Table 4>
+<Table 3>
+ <caption text="
+
+   Higher heating value for raw and biochar samples.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Sample">
+  </cell>
+  <cell col="1" row="0" text="HHV (MJ/kg)">
+  </cell>
+  <cell col="2" row="0" text="Energy yield (%)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Raw biomass">
+  </cell>
+  <cell col="1" row="1" text="16.61">
+  </cell>
+  <cell col="2" row="1" text="–">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="300 °C char">
+  </cell>
+  <cell col="1" row="2" text="23.06">
+  </cell>
+  <cell col="2" row="2" text="76.12">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="500 °C char">
+  </cell>
+  <cell col="1" row="3" text="26.60">
+  </cell>
+  <cell col="2" row="3" text="47.93">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="700 °C char">
+  </cell>
+  <cell col="1" row="4" text="26.77">
+  </cell>
+  <cell col="2" row="4" text="45.72">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="900 °C char">
+  </cell>
+  <cell col="1" row="5" text="25.61">
+  </cell>
+  <cell col="2" row="5" text="41.12">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Energy yield (%) 41.12 Sample 900 C char." type="">
+  </statement>
+  <statement id="2" text="HHV (MJ/kg) 26.77 Sample 700 C char." type="">
+  </statement>
+  <statement id="3" text="47.93 Energy yield (%) Sample is 500 C char." type="">
+  </statement>
+  <statement id="4" text="Energy yield (%) 41.12 Sample 700 C char." type="">
+  </statement>
+  <statement id="5" text="Sample Raw biomass HHV (MJ/kg) is 26.77 ." type="">
+  </statement>
+  <statement id="6" text="HHV (MJ/kg) 26.77 Sample 500 C char." type="">
+  </statement>
+ </statements>
+</Table 3>
+<Table 6>
+ <caption text="
+
+   Pyrolysis products yield.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Temperature">
+  </cell>
+  <cell col="1" row="0" text="Biochar yield (wt%)">
+  </cell>
+  <cell col="2" row="0" text="Bio-oil yield (wt%)">
+  </cell>
+  <cell col="3" row="0" text="Gas yield (wt%)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="300 °C">
+  </cell>
+  <cell col="1" row="1" text="54.83">
+  </cell>
+  <cell col="2" row="1" text="0.00">
+  </cell>
+  <cell col="3" row="1" text="45.17">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="500 °C">
+  </cell>
+  <cell col="1" row="2" text="29.93">
+  </cell>
+  <cell col="2" row="2" text="13.91">
+  </cell>
+  <cell col="3" row="2" text="56.16">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="700 °C">
+  </cell>
+  <cell col="1" row="3" text="28.37">
+  </cell>
+  <cell col="2" row="3" text="28.48">
+  </cell>
+  <cell col="3" row="3" text="43.16">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="900 °C">
+  </cell>
+  <cell col="1" row="4" text="26.67">
+  </cell>
+  <cell col="2" row="4" text="7.38">
+  </cell>
+  <cell col="3" row="4" text="65.96">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="45.17 Gas yield (wt%) Temperature is 300 C." type="">
+  </statement>
+  <statement id="1" text="0.00 Bio-oil yield (wt%) Temperature is 900 C ." type="">
+  </statement>
+  <statement id="2" text="Temperature 300 C Biochar yield (wt%) is 43.16." type="">
+  </statement>
+  <statement id="3" text="Gas yield (wt%) 28.48 Temperature is 700 C." type="">
+  </statement>
+  <statement id="5" text="Biochar yield decreased from 54.83% to 26.67 over the temperature range of 300 to 900 C." type="">
+  </statement>
+ </statements>
+</Table 6>
+<Table 5>
+ <caption text="
+
+   BET analysis for biochar samples.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Sample">
+  </cell>
+  <cell col="1" row="0" text="BET surface area (m
+     
+      2
+     
+     /g)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="300 °C char">
+  </cell>
+  <cell col="1" row="1" text="0.0218">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="500 °C char">
+  </cell>
+  <cell col="1" row="2" text="0.0899">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="700 °C char">
+  </cell>
+  <cell col="1" row="3" text="0.2720">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="900 °C char">
+  </cell>
+  <cell col="1" row="4" text="0.2115">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Sample 300 C char BET surface area (m 2 /g) is 0.0218." type="">
+  </statement>
+  <statement id="1" text="0.0899 BET surface area (m 2 /g) Sample is 500 C char." type="">
+  </statement>
+  <statement id="2" text="0.0218 BET surface area (m 2 /g) Sample is 300 C char." type="">
+  </statement>
+  <statement id="3" text="0.0899 BET surface area (m 2 /g) Sample is 300 C char." type="">
+  </statement>
+ </statements>
+</Table 5>
+<Table 2>
+ <caption text="
+
+   Moisture and volatile matter content for biochar.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Temperature">
+  </cell>
+  <cell col="1" row="0" text="300 °C">
+  </cell>
+  <cell col="2" row="0" text="500 °C">
+  </cell>
+  <cell col="3" row="0" text="700 °C">
+  </cell>
+  <cell col="4" row="0" text="900 °C">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Moisture content">
+  </cell>
+  <cell col="1" row="1" text="2.81">
+  </cell>
+  <cell col="2" row="1" text="4.49">
+  </cell>
+  <cell col="3" row="1" text="3.43">
+  </cell>
+  <cell col="4" row="1" text="4.74">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Volatile matter">
+  </cell>
+  <cell col="1" row="2" text="68.14">
+  </cell>
+  <cell col="2" row="2" text="37.63">
+  </cell>
+  <cell col="3" row="2" text="30.15">
+  </cell>
+  <cell col="4" row="2" text="38.27">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="The highest value is 68.14 of 300 C in Volatile matter." type="">
+  </statement>
+  <statement id="3" text="The lowest value is 3.43 of 700 C in Moisture content." type="">
+  </statement>
+  <statement id="4" text="The highest value is 30.15 of 700 C in Volatile matter." type="">
+  </statement>
+  <statement id="5" text="The moisture and volatile matter content for the char produced at different pyrolysis temperature is shown in Table 2 ." type="">
+  </statement>
+  <statement id="7" text="The range of moisture content in all biochar are from 2.81 to 4.74 %wt." type="">
+  </statement>
+ </statements>
+</Table 2>

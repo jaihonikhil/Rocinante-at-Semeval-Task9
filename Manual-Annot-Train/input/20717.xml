@@ -1,0 +1,136 @@
+<Table 2>
+ <caption text="
+
+   Phenotypes of conditional glutamine synthetase knockout mice
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Organ/Cell">
+  </cell>
+  <cell col="1" row="0" text="Phenotypes">
+  </cell>
+  <cell col="2" row="0" text="Ref.">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Global
+     
+     (all cells from conception)">
+  </cell>
+  <cell col="1" row="1" text="The blastocyst fail to implant and die at ED3.4">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Brain/most CNS astrocytes
+     
+     (hGFAP-Cre)">
+  </cell>
+  <cell col="1" row="2" text="The mice die soon after birth. They fail to feed and have slightly increased cortical ammonia levels">
+  </cell>
+  <cell col="2" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Cerebral cortex
+     
+     (glutamatergic neurons and glia; Emx1-IRES-Cre)">
+  </cell>
+  <cell col="1" row="3" text="The mice are viable, but have reduced life span, develop spontaneous seizures from 6 weeks of age, and have decreased locomotive activities with episodes of wild running">
+  </cell>
+  <cell col="2" row="3" text="">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Oligodendrocytes
+     
+     (MOGi-Cre)">
+  </cell>
+  <cell col="1" row="4" text="The mice are viable, but neuronal glutamatergic transmission is disrupted in a myelin-independent way. There are deficits in cocaine-induced locomotor sensitization">
+  </cell>
+  <cell col="2" row="4" text="">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Macrophages
+     
+     (CSF1R-Cre
+     
+      ERT
+     
+     )">
+  </cell>
+  <cell col="1" row="5" text="The mice are viable, but with an increased capacity to induce T-cell recruitment, a reduced T-cell suppressive potential and an impaired ability to foster endothelial cell branching or cancer cell motility">
+  </cell>
+  <cell col="2" row="5" text="">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Endothelial cells
+     
+     (VE-cadherin(PAC)-cre
+     
+      ERT2
+     
+     and Pdgfb-cre
+     
+      ERT2
+     
+     )">
+  </cell>
+  <cell col="1" row="6" text="The mice are viable, but have impaired retinal vessel sprouting during vascular development">
+  </cell>
+  <cell col="2" row="6" text="">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Liver
+     
+     (Alb-Cre and Alfp-Cre)">
+  </cell>
+  <cell col="1" row="7" text="The mice are viable, but have systemic hyperammonia, increased locomotion, impaired fear memory, a slightly reduced life span, reduced exploratory activity, and delayed habituation to a novel environment">
+  </cell>
+  <cell col="2" row="7" text=";
+     
+     ;">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Muscle
+     
+     (MCK-Cre)">
+  </cell>
+  <cell col="1" row="8" text="The mice are healthy, fertile, but 5-fold higher escaped ammonia when fasting">
+  </cell>
+  <cell col="2" row="8" text="">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Kidney
+     
+     (PEPCK-Cre)">
+  </cell>
+  <cell col="1" row="9" text="The mice are viable, but under basal conditions there is increased urinary ammonia excretion, impaired adaptive responses in ammonia excretion during metabolic acidosis or during dietary protein restriction">
+  </cell>
+  <cell col="2" row="9" text=";">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Pancreas
+     
+     (Pdx1-Cre)">
+  </cell>
+  <cell col="1" row="10" text="Pancreatic ductal carcinoma development is supressed">
+  </cell>
+  <cell col="2" row="10" text="">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="Pancreatic ductal carcinoma development is supressed is a phenotype of Pancreas (Pdx1-Cre)." type="">
+  </statement>
+  <statement id="3" text="The Phenotype for Global is give as The blastocyst fail to implant and die at ED3.4." type="">
+  </statement>
+ </statements>
+</Table 2>

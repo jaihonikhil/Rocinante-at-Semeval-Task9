@@ -1,0 +1,200 @@
+<Table 3>
+ <caption text="
+
+   Items measuring perceived service quality at follow-up (T3).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Items">
+  </cell>
+  <cell col="1" row="0" text="N">
+  </cell>
+  <cell col="2" row="0" text="Mean">
+  </cell>
+  <cell col="3" row="0" text="SD">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Have had easy access to follow-up services">
+  </cell>
+  <cell col="1" row="1" text="174">
+  </cell>
+  <cell col="2" row="1" text="3.24">
+  </cell>
+  <cell col="3" row="1" text="0.96">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Have benefited from follow-up services">
+  </cell>
+  <cell col="1" row="2" text="167">
+  </cell>
+  <cell col="2" row="2" text="2.92">
+  </cell>
+  <cell col="3" row="2" text="1.13">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Have been involved in service needs decisions">
+  </cell>
+  <cell col="1" row="3" text="160">
+  </cell>
+  <cell col="2" row="3" text="3.16">
+  </cell>
+  <cell col="3" row="3" text="0.94">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Have had opportunities to affect plans for follow-up">
+  </cell>
+  <cell col="1" row="4" text="162">
+  </cell>
+  <cell col="2" row="4" text="3.40">
+  </cell>
+  <cell col="3" row="4" text="0.86">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="3.40 mean for Have had opportunities to affect plans for follow-up." type="entailed">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Items measuring patient satisfaction at discharge.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Items">
+  </cell>
+  <cell col="1" row="0" text="N">
+  </cell>
+  <cell col="2" row="0" text="Mean">
+  </cell>
+  <cell col="3" row="0" text="SD">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Availability of staff counseling">
+  </cell>
+  <cell col="1" row="1" text="172">
+  </cell>
+  <cell col="2" row="1" text="4.09">
+  </cell>
+  <cell col="3" row="1" text="0.72">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Have benefited from treatment">
+  </cell>
+  <cell col="1" row="2" text="171">
+  </cell>
+  <cell col="2" row="2" text="4.25">
+  </cell>
+  <cell col="3" row="2" text="0.75">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Problems understood by staff">
+  </cell>
+  <cell col="1" row="3" text="172">
+  </cell>
+  <cell col="2" row="3" text="4.26">
+  </cell>
+  <cell col="3" row="3" text="0.72">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Opportunities to affect treatment plan">
+  </cell>
+  <cell col="1" row="4" text="171">
+  </cell>
+  <cell col="2" row="4" text="3.78">
+  </cell>
+  <cell col="3" row="4" text="0.92">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Felt safe at the institution
+     
+
+       a">
+  </cell>
+  <cell col="1" row="5" text="171">
+  </cell>
+  <cell col="2" row="5" text="171">
+  </cell>
+  <cell col="3" row="5" text="4.54">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Satisfactory activities were offered">
+  </cell>
+  <cell col="1" row="6" text="170">
+  </cell>
+  <cell col="2" row="6" text="3.86">
+  </cell>
+  <cell col="3" row="6" text="0.85">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Personnel cooperated with next of kin
+     
+
+       b">
+  </cell>
+  <cell col="1" row="7" text="136">
+  </cell>
+  <cell col="2" row="7" text="3.83">
+  </cell>
+  <cell col="3" row="7" text="0.83">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Had been prepared for the time after discharge">
+  </cell>
+  <cell col="1" row="8" text="169">
+  </cell>
+  <cell col="2" row="8" text="3.89">
+  </cell>
+  <cell col="3" row="8" text="0.79">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Enough time in treatment to sort out problems">
+  </cell>
+  <cell col="1" row="9" text="171">
+  </cell>
+  <cell col="2" row="9" text="3.86">
+  </cell>
+  <cell col="3" row="9" text="0.95">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Overall treatment was satisfactory">
+  </cell>
+  <cell col="1" row="10" text="172">
+  </cell>
+  <cell col="2" row="10" text="4.21">
+  </cell>
+  <cell col="3" row="10" text="0.68">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The highest SD value is 4.54." type="entailed">
+  </statement>
+  <statement id="1" text="They have 5 items measuring patient satisfaction." type="refuted">
+  </statement>
+  <statement id="3" text="The Lowest SD value is 4.54." type="refuted">
+  </statement>
+  <statement id="4" text="Availability of staff counseling value of N is 169." type="refuted">
+  </statement>
+  <statement id="5" text="The aspects of treatment receiving the highest ratings were staff perceptions, staff understanding the type of problem, and availability of staff counseling." type="entailed">
+  </statement>
+  <statement id="7" text="Table 2 presents means and variance for each patient satisfaction item." type="entailed">
+  </statement>
+ </statements>
+</Table 2>

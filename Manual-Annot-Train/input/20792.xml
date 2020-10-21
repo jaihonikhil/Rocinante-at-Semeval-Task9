@@ -1,0 +1,315 @@
+<Table 1>
+ <caption text="
+
+   The Taguchi L9 array for the investigation of areal surface texture in relation to HSS process parameters and porosity.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Set number">
+  </cell>
+  <cell col="1" row="0" text="Energy-related parameter">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="Sinter speed (mm/s)">
+  </cell>
+  <cell col="2" row="1" text="Lamp power (W)">
+  </cell>
+  <cell col="3" row="1" text="Ink Grey level">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="1">
+  </cell>
+  <cell col="1" row="2" text="80">
+  </cell>
+  <cell col="2" row="2" text="750">
+  </cell>
+  <cell col="3" row="2" text="2">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="2">
+  </cell>
+  <cell col="1" row="3" text="80">
+  </cell>
+  <cell col="2" row="3" text="875">
+  </cell>
+  <cell col="3" row="3" text="3">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="3">
+  </cell>
+  <cell col="1" row="4" text="80">
+  </cell>
+  <cell col="2" row="4" text="1000">
+  </cell>
+  <cell col="3" row="4" text="4">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="4">
+  </cell>
+  <cell col="1" row="5" text="100">
+  </cell>
+  <cell col="2" row="5" text="750">
+  </cell>
+  <cell col="3" row="5" text="3">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="5">
+  </cell>
+  <cell col="1" row="6" text="100">
+  </cell>
+  <cell col="2" row="6" text="875">
+  </cell>
+  <cell col="3" row="6" text="4">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="6">
+  </cell>
+  <cell col="1" row="7" text="100">
+  </cell>
+  <cell col="2" row="7" text="1000">
+  </cell>
+  <cell col="3" row="7" text="2">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="7">
+  </cell>
+  <cell col="1" row="8" text="120">
+  </cell>
+  <cell col="2" row="8" text="750">
+  </cell>
+  <cell col="3" row="8" text="4">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="8">
+  </cell>
+  <cell col="1" row="9" text="120">
+  </cell>
+  <cell col="2" row="9" text="875">
+  </cell>
+  <cell col="3" row="9" text="2">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="9">
+  </cell>
+  <cell col="1" row="10" text="120">
+  </cell>
+  <cell col="2" row="10" text="1000">
+  </cell>
+  <cell col="3" row="10" text="3">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 9 set numbers given in the table." type="">
+  </statement>
+  <statement id="1" text="The sinter speed is calculated in mm/s." type="">
+  </statement>
+  <statement id="3" text="The sinter speed is calculated in cm/s." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   Surface topographies of up-skins and porosities. The XCT images show the front view of a projection slice, and the build direction is from bottom to top.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Set number">
+  </cell>
+  <cell col="1" row="0" text="Height map">
+  </cell>
+  <cell col="2" row="0" text="Porosity tomography image">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Set 1
+     
+
+      Sa
+     
+     =13.71 μm Porosity = 14.54% (measured by XCT), 14.77% (measured by MIP)">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Set 2
+     
+
+      Sa
+     
+     =10.54 μm Porosity = 6.79% (XCT), 6.94% (MIP)">
+  </cell>
+  <cell col="1" row="2" text="">
+  </cell>
+  <cell col="2" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Set 3
+     
+
+      Sa
+     
+     =8.56 μm Porosity = 4.71% (XCT), 4.55% (MIP)">
+  </cell>
+  <cell col="1" row="3" text="">
+  </cell>
+  <cell col="2" row="3" text="">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Set 4
+     
+
+      Sa
+     
+     =14.62 μm Porosity = 24.11% (XCT), 24.68% (MIP)">
+  </cell>
+  <cell col="1" row="4" text="">
+  </cell>
+  <cell col="2" row="4" text="">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Set 5
+     
+
+      Sa
+     
+     =12.90 μm
+     
+     Porosity = 11.13 % (XCT), 10.96 % (MIP)">
+  </cell>
+  <cell col="1" row="5" text="">
+  </cell>
+  <cell col="2" row="5" text="">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Set 6
+     
+
+      Sa
+     
+     =16.00 μm Porosity = 14.95% (XCT), 15.27% (MIP)">
+  </cell>
+  <cell col="1" row="6" text="">
+  </cell>
+  <cell col="2" row="6" text="">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Set 7
+     
+
+      Sa
+     
+     =18.63 μm Porosity = 34.92% (XCT), 34.49% (MIP)">
+  </cell>
+  <cell col="1" row="7" text="">
+  </cell>
+  <cell col="2" row="7" text="">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Set 8
+     
+
+      Sa
+     
+     =18.08 μm Porosity = 32.08% (XCT), 32.36% (MIP)">
+  </cell>
+  <cell col="1" row="8" text="">
+  </cell>
+  <cell col="2" row="8" text="">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Set 9
+     
+
+      Sa
+     
+     =15.24 μm Porosity = 18.78% (XCT), 19.01% (MIP)">
+  </cell>
+  <cell col="1" row="9" text="">
+  </cell>
+  <cell col="2" row="9" text="">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Set 3 has Sa =8.56 m Porosity = 4.71% (XCT), 4.55% (MIP) ." type="">
+  </statement>
+  <statement id="2" text="Every set has same values given." type="">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Areal surface texture parameters measured in this study.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Parameter">
+  </cell>
+  <cell col="1" row="0" text="Description">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Sa">
+  </cell>
+  <cell col="1" row="1" text="Arithmetic mean height of selected area">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Sq">
+  </cell>
+  <cell col="1" row="2" text="Root-Mean-Square height of selected area">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Sv">
+  </cell>
+  <cell col="1" row="3" text="Maximum valley depth of selected area">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Ssk">
+  </cell>
+  <cell col="1" row="4" text="Skewness of selected area. It describes how the mass is distributed around the mean plane.">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Sku">
+  </cell>
+  <cell col="1" row="5" text="Kurtosis of selected area. It is a measure of the sharpness of the surface roughness over the area.">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="Root-Mean-Square height of selected area is the description for Sq parameter." type="">
+  </statement>
+  <statement id="3" text="The description of Sv is Maximum valley depth of selected area." type="">
+  </statement>
+  <statement id="4" text="All the parameters has same description." type="">
+  </statement>
+  <statement id="5" text="Root-Mean-Square height of selected area is the description for Sa parameter." type="">
+  </statement>
+ </statements>
+</Table 2>

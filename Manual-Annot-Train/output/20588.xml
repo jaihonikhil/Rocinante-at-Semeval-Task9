@@ -1,0 +1,92 @@
+<Table 1>
+ <caption text="
+
+   Examples of PIV measurements reporting instantaneous flow fields with achieved resolution and field size sorted by their optical magnification
+   
+    M
+   
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Experiment">
+  </cell>
+  <cell col="1" row="0" text="Reference">
+  </cell>
+  <cell col="2" row="0" text="RES in mm">
+  </cell>
+  <cell col="3" row="0" text="FOV in mm
+     
+      2">
+  </cell>
+  <cell col="4" row="0" text="M
+     
+     in m/m">
+  </cell>
+  <cell col="5" row="0" text="DSR">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Atmospheric boundary layer">
+  </cell>
+  <cell col="1" row="1" text="Heisel et al.">
+  </cell>
+  <cell col="2" row="1" text="540">
+  </cell>
+  <cell col="3" row="1" text="17, 000 ×  17,000">
+  </cell>
+  <cell col="4" row="1" text="0.00035">
+  </cell>
+  <cell col="5" row="1" text="32 × 32">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Boundary layer (16 cameras)">
+  </cell>
+  <cell col="1" row="2" text="Cuvier et al.">
+  </cell>
+  <cell col="2" row="2" text="2.56">
+  </cell>
+  <cell col="3" row="2" text="3466 × 255">
+  </cell>
+  <cell col="4" row="2" text="0.06">
+  </cell>
+  <cell col="5" row="2" text="1354 × 100">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Boundary layer (time resolved)">
+  </cell>
+  <cell col="1" row="3" text="Willert et al.">
+  </cell>
+  <cell col="2" row="3" text="0.15">
+  </cell>
+  <cell col="3" row="3" text="5.08 × 25.6">
+  </cell>
+  <cell col="4" row="3" text="0.43">
+  </cell>
+  <cell col="5" row="3" text="3 × 170">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Free-stream turbulence">
+  </cell>
+  <cell col="1" row="4" text="Scharnowski et al.">
+  </cell>
+  <cell col="2" row="4" text="0.12">
+  </cell>
+  <cell col="3" row="4" text="26 × 22">
+  </cell>
+  <cell col="4" row="4" text="0.63">
+  </cell>
+  <cell col="5" row="4" text="216 × 183">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="Cuvier et al reference is used in Boundary layer (16 cameras)." type="entailed">
+  </statement>
+  <statement id="7" text="Extreme DSR values are presented by Cuvier et al." type="entailed">
+  </statement>
+ </statements>
+</Table 1>

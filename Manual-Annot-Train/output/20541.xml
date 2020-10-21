@@ -1,0 +1,44 @@
+<Table 1>
+ <caption text="
+
+   Chemical compositions of Fe based metallic glass powder used in this study.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Wt%">
+  </cell>
+  <cell col="1" row="0" text="Fe">
+  </cell>
+  <cell col="2" row="0" text="B">
+  </cell>
+  <cell col="3" row="0" text="Cr">
+  </cell>
+  <cell col="4" row="0" text="Mo">
+  </cell>
+  <cell col="5" row="0" text="C">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="46.8">
+  </cell>
+  <cell col="2" row="1" text="1.7">
+  </cell>
+  <cell col="3" row="1" text="16.6">
+  </cell>
+  <cell col="4" row="1" text="30.6">
+  </cell>
+  <cell col="5" row="1" text="4.3">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 5 elements in the table." type="entailed">
+  </statement>
+  <statement id="1" text="Chemical compositions of Fe based metallic glass powder is observed in the table." type="entailed">
+  </statement>
+  <statement id="2" text="Element Mo is having 30.6 value which is second highest." type="entailed">
+  </statement>
+ </statements>
+</Table 1>

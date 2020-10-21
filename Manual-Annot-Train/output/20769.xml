@@ -1,0 +1,172 @@
+<Table A.11>
+ <caption text="
+
+   Robustness tests.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Controlling for sibship structure">
+  </cell>
+  <cell col="4" row="0" text="Excluding migrants">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="Level">
+  </cell>
+  <cell col="2" row="1" text="Log">
+  </cell>
+  <cell col="3" row="1" text="Zero spending">
+  </cell>
+  <cell col="4" row="1" text="Level">
+  </cell>
+  <cell col="5" row="1" text="Log">
+  </cell>
+  <cell col="6" row="1" text="Zero spending">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="">
+  </cell>
+  <cell col="1" row="2" text="(1)">
+  </cell>
+  <cell col="2" row="2" text="(2)">
+  </cell>
+  <cell col="3" row="2" text="(3)">
+  </cell>
+  <cell col="4" row="2" text="(4)">
+  </cell>
+  <cell col="5" row="2" text="(5)">
+  </cell>
+  <cell col="6" row="2" text="(6)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Post
+     
+
+       ×
+      
+
+     Prevalence">
+  </cell>
+  <cell col="1" row="3" text="5.651">
+  </cell>
+  <cell col="2" row="3" text="2.758**">
+  </cell>
+  <cell col="3" row="3" text="−0.300*">
+  </cell>
+  <cell col="4" row="3" text="7.280">
+  </cell>
+  <cell col="5" row="3" text="3.032**">
+  </cell>
+  <cell col="6" row="3" text="−0.344*">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="">
+  </cell>
+  <cell col="1" row="4" text="(5.585)">
+  </cell>
+  <cell col="2" row="4" text="(1.384)">
+  </cell>
+  <cell col="3" row="4" text="(0.173)">
+  </cell>
+  <cell col="4" row="4" text="(6.396)">
+  </cell>
+  <cell col="5" row="4" text="(1.405)">
+  </cell>
+  <cell col="6" row="4" text="(0.176)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Post">
+  </cell>
+  <cell col="1" row="5" text="1.647">
+  </cell>
+  <cell col="2" row="5" text="0.255">
+  </cell>
+  <cell col="3" row="5" text="−0.035">
+  </cell>
+  <cell col="4" row="5" text="0.571">
+  </cell>
+  <cell col="5" row="5" text="0.148">
+  </cell>
+  <cell col="6" row="5" text="−0.019">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="">
+  </cell>
+  <cell col="1" row="6" text="(1.849)">
+  </cell>
+  <cell col="2" row="6" text="(0.373)">
+  </cell>
+  <cell col="3" row="6" text="(0.043)">
+  </cell>
+  <cell col="4" row="6" text="(1.863)">
+  </cell>
+  <cell col="5" row="6" text="(0.347)">
+  </cell>
+  <cell col="6" row="6" text="(0.041)">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Mother FE">
+  </cell>
+  <cell col="1" row="7" text="Yes">
+  </cell>
+  <cell col="2" row="7" text="Yes">
+  </cell>
+  <cell col="3" row="7" text="Yes">
+  </cell>
+  <cell col="4" row="7" text="Yes">
+  </cell>
+  <cell col="5" row="7" text="Yes">
+  </cell>
+  <cell col="6" row="7" text="Yes">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="N">
+  </cell>
+  <cell col="1" row="8" text="4550">
+  </cell>
+  <cell col="2" row="8" text="4550">
+  </cell>
+  <cell col="3" row="8" text="4550">
+  </cell>
+  <cell col="4" row="8" text="2974">
+  </cell>
+  <cell col="5" row="8" text="2974">
+  </cell>
+  <cell col="6" row="8" text="2974">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Mean of dep. var. in 2006">
+  </cell>
+  <cell col="1" row="9" text="5.24">
+  </cell>
+  <cell col="2" row="9" text="−3.67">
+  </cell>
+  <cell col="3" row="9" text="0.61">
+  </cell>
+  <cell col="4" row="9" text="4.18">
+  </cell>
+  <cell col="5" row="9" text="−3.73">
+  </cell>
+  <cell col="6" row="9" text="0.61">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="N value is same for level, log and zero spending." type="entailed">
+  </statement>
+  <statement id="2" text="N value is different for level, log and zero spending." type="refuted">
+  </statement>
+ </statements>
+</Table A.11>

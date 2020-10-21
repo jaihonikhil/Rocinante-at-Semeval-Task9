@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="t0010" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 2
+       </label>
+<caption id="cn0065">
+<simple-para id="sp0070" view="all">
+         Parameters of the proposed 1-D CNN architecture.
+        </simple-para>
+</caption>
+<tgroup cols="5">
+<colspec align="left" colname="col1"/>
+<colspec align="left" colname="col2"/>
+<colspec align="left" colname="col3"/>
+<colspec align="left" colname="col4"/>
+<colspec align="left" colname="col5"/>
+<thead>
+<tr trsep="1" valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           No.
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Layer type
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Kernel size/Stride
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Kernel number
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Output Size
+          </td>
+</tr>
+</thead>
+<tbody>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Convolution1 (C1)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           3/1
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           32
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           38 × 32
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Convolution2 (C2)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           3/1
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           32
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           36 × 32
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           3
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Pooling1 (P1)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2/2
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           32
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           18 × 32
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           4
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Convolution3 (C3)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           3/1
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           32
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           16 × 32
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           5
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Convolution4 (C4)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           3/1
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           32
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           14 × 32
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           6
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Pooling2 (P2)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2/2
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           32
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           7 × 32
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           7
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Fully-connected (F2)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           256
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           100 × 1
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           8
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Softmax
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           4
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           4
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html>
+<!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="t0015" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 3
+       </label>
+<caption id="cn0070">
+<simple-para id="sp0075" view="all">
+         Comparison of testing accuracy of the 1D-CNN between different channels of vibration inputs.
+        </simple-para>
+</caption>
+<tgroup cols="5">
+<colspec align="left" colname="col1"/>
+<colspec align="left" colname="col2"/>
+<colspec align="left" colname="col3"/>
+<colspec align="left" colname="col4"/>
+<colspec align="left" colname="col5"/>
+<thead>
+<tr trsep="1" valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Input vibration signal
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            x
+           </italic>
+           -direction
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            y
+           </italic>
+           -direction
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            z
+           </italic>
+           -direction
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            x
+           </italic>
+           ,
+           <italic>
+            y
+           </italic>
+           and
+           <italic>
+            z
+           </italic>
+           -directions
+          </td>
+</tr>
+</thead>
+<tbody>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Accuracy
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           99.2%
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           99.8%
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           99.4%
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           100%
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html>

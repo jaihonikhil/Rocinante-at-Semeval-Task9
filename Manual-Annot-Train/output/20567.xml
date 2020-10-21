@@ -1,0 +1,555 @@
+<Table 4>
+ <caption text="
+
+   Contents of the dataset.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="File name">
+  </cell>
+  <cell col="1" row="0" text="Contents">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="EFELE.pdf">
+  </cell>
+  <cell col="1" row="1" text="PROs and TS/MO trials maps - locations of the experimental treatments">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Climate.xls">
+  </cell>
+  <cell col="1" row="2" text="Precipitation (mm)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="">
+  </cell>
+  <cell col="1" row="3" text="Min. daily air temperature (°C)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="">
+  </cell>
+  <cell col="1" row="4" text="Max. daily air temperature (°C)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="">
+  </cell>
+  <cell col="1" row="5" text="Global radiation (J cm
+     
+      −2
+     
+     )">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="">
+  </cell>
+  <cell col="1" row="6" text="Penman evapotranspiration (mm)">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Lysimeter.xls">
+  </cell>
+  <cell col="1" row="7" text="Drainage (mm)">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="">
+  </cell>
+  <cell col="1" row="8" text="Cumulative drainage (mm)">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="">
+  </cell>
+  <cell col="1" row="9" text="Nitrate concentration (mg NO
+     
+      3
+     
+     l
+     
+      −
+     
+
+      1
+     
+     )">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="">
+  </cell>
+  <cell col="1" row="10" text="Nitrite concentration (mg NO
+     
+      2
+     
+     l
+     
+      −
+     
+
+      1
+     
+     )">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="">
+  </cell>
+  <cell col="1" row="11" text="Dissolved organic carbon (mg C l
+     
+      −
+     
+
+      1
+     
+     )">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Mineral_N_fert.xls">
+  </cell>
+  <cell col="1" row="12" text="Mineral N application (kg N ha
+     
+      −1
+     
+     )">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="data_OWP.xls">
+  </cell>
+  <cell col="1" row="13" text="Application rates (t ha
+     
+      −1
+     
+     )">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="">
+  </cell>
+  <cell col="1" row="14" text="Dry matter content (g 100
+     
+      g
+     
+
+      −
+     
+
+      1
+     
+     )">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="">
+  </cell>
+  <cell col="1" row="15" text="Ammonium content (g N kg
+     
+      −1
+     
+     raw product)">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="">
+  </cell>
+  <cell col="1" row="16" text="Total N content (g N kg
+     
+      −1
+     
+     raw product)">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="">
+  </cell>
+  <cell col="1" row="17" text="Organic N content (g N kg
+     
+      −1
+     
+     raw product)">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="">
+  </cell>
+  <cell col="1" row="18" text="Organic matter content (g kg
+     
+      −1
+     
+     dry matter)">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="">
+  </cell>
+  <cell col="1" row="19" text="Organic C content (g C kg
+     
+      −1
+     
+     dry matter)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 5 different types of file name." type="entailed">
+  </statement>
+  <statement id="2" text="Mineral N application (kg N ha 1 ) is the content for Mineral_N_fert.xls." type="entailed">
+  </statement>
+  <statement id="3" text="All the file names has same content." type="refuted">
+  </statement>
+  <statement id="4" text="Only EFELE.pdf and Mineral_N_fert.xls has 3 contents." type="refuted">
+  </statement>
+  <statement id="7" text="It includes layouts of the PROs and TS/MO trial; daily weather data; drainage data and nitrate, nitrite and DOC concentrations measured by date and lysimeter; mineral N applications; OWP application rates and composition." type="entailed">
+  </statement>
+  <statement id="8" text="The dataset is available via the Data INRAE portal." type="entailed">
+  </statement>
+ </statements>
+</Table 4>
+<Table 3>
+ <caption text="
+
+   Mean (and 1 standard error,
+   
+    n
+   
+   = 39) of soil mineral nitrogen (N) (SMN) measured in early autumn from 2014 to 2017, and its distribution in the soil profile.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Horizon">
+  </cell>
+  <cell col="1" row="0" text="6 Oct 2014">
+  </cell>
+  <cell col="2" row="0" text="12 Oct 2015">
+  </cell>
+  <cell col="3" row="0" text="19 Oct 2016">
+  </cell>
+  <cell col="4" row="0" text="16 Oct 2017">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="0–30 cm">
+  </cell>
+  <cell col="1" row="1" text="24.2 (0.3)">
+  </cell>
+  <cell col="2" row="1" text="33.3 (0.2)">
+  </cell>
+  <cell col="3" row="1" text="40.3 (0.4)">
+  </cell>
+  <cell col="4" row="1" text="17.9 (0.1)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="30–60 cm">
+  </cell>
+  <cell col="1" row="2" text="5.8 (0.1)">
+  </cell>
+  <cell col="2" row="2" text="20.6 (0.3)">
+  </cell>
+  <cell col="3" row="2" text="8.9 (0.1)">
+  </cell>
+  <cell col="4" row="2" text="18.0 (0.1)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="60–90 cm">
+  </cell>
+  <cell col="1" row="3" text="3.3 (0.07)">
+  </cell>
+  <cell col="2" row="3" text="3.0 (0.03)">
+  </cell>
+  <cell col="3" row="3" text="4.4 (0.06)">
+  </cell>
+  <cell col="4" row="3" text="3.9 (0.03)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The highest 6 Oct 2014 is 24.2(0.3)." type="entailed">
+  </statement>
+  <statement id="1" text="The lowest 12 Oct 2015 is 3.0(0.03)." type="entailed">
+  </statement>
+  <statement id="2" text="The highest 19 Oct 2016 is 40.3(0.4)." type="entailed">
+  </statement>
+  <statement id="3" text="The highest 12 Oct 2015 is 24.2(0.3)." type="refuted">
+  </statement>
+  <statement id="6" text="The data include amounts of organic waste product (OWP) and of carbon (C) and nitrogen (N) applied to the experimental treatments from 2014 to 2017 ( Tables 1 and 2 , respectively), dynamics of monthly rainfall and mean daily air temperature for the 4 years ( Fig. 1 ), intra- and inter-annual dynamics of nitrate concentrations ( Fig. 2 ) and DOC concentrations ( Fig. 3 ), mean amounts of soil mineral N measured in early autumn and its distribution in the soil profile ( Table 3 )." type="entailed">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Rates of mineral and organic nitrogen (N) applied per year from 2014 to 2017 (mineral N is the sum of ammoniacal N of the organic waste product (OWP) and the N from the mineral fertilizer).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Parameter">
+  </cell>
+  <cell col="1" row="0" text="Date">
+  </cell>
+  <cell col="2" row="0" text="PROs trial">
+  </cell>
+  <cell col="7" row="0" text="TS/MO trial">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="MIN">
+  </cell>
+  <cell col="3" row="1" text="CM+
+     
+      N">
+  </cell>
+  <cell col="4" row="1" text="PoM">
+  </cell>
+  <cell col="5" row="1" text="CPigM+
+     
+      N">
+  </cell>
+  <cell col="6" row="1" text="PS">
+  </cell>
+  <cell col="7" row="1" text="PS-DIG">
+  </cell>
+  <cell col="8" row="1" text="CT_MIN">
+  </cell>
+  <cell col="9" row="1" text="CT_CM">
+  </cell>
+  <cell col="10" row="1" text="RT_MIN">
+  </cell>
+  <cell col="11" row="1" text="RT_CM">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Mineral N (kg N ha
+     
+      −1
+     
+     )">
+  </cell>
+  <cell col="1" row="2" text="2014">
+  </cell>
+  <cell col="2" row="2" text="102">
+  </cell>
+  <cell col="3" row="2" text="84">
+  </cell>
+  <cell col="4" row="2" text="84">
+  </cell>
+  <cell col="5" row="2" text="45">
+  </cell>
+  <cell col="6" row="2" text="114">
+  </cell>
+  <cell col="7" row="2" text="132">
+  </cell>
+  <cell col="8" row="2" text="113">
+  </cell>
+  <cell col="9" row="2" text="27.4">
+  </cell>
+  <cell col="10" row="2" text="113">
+  </cell>
+  <cell col="11" row="2" text="27.4">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="">
+  </cell>
+  <cell col="1" row="3" text="2015">
+  </cell>
+  <cell col="2" row="3" text="120">
+  </cell>
+  <cell col="3" row="3" text="120">
+  </cell>
+  <cell col="4" row="3" text="54">
+  </cell>
+  <cell col="5" row="3" text="120">
+  </cell>
+  <cell col="6" row="3" text="160">
+  </cell>
+  <cell col="7" row="3" text="135">
+  </cell>
+  <cell col="8" row="3" text="120">
+  </cell>
+  <cell col="9" row="3" text="120">
+  </cell>
+  <cell col="10" row="3" text="80">
+  </cell>
+  <cell col="11" row="3" text="80">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="">
+  </cell>
+  <cell col="1" row="4" text="2016">
+  </cell>
+  <cell col="2" row="4" text="96">
+  </cell>
+  <cell col="3" row="4" text="98">
+  </cell>
+  <cell col="4" row="4" text="61">
+  </cell>
+  <cell col="5" row="4" text="57">
+  </cell>
+  <cell col="6" row="4" text="98">
+  </cell>
+  <cell col="7" row="4" text="92">
+  </cell>
+  <cell col="8" row="4" text="102">
+  </cell>
+  <cell col="9" row="4" text="68">
+  </cell>
+  <cell col="10" row="4" text="102">
+  </cell>
+  <cell col="11" row="4" text="68">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="">
+  </cell>
+  <cell col="1" row="5" text="2017">
+  </cell>
+  <cell col="2" row="5" text="80">
+  </cell>
+  <cell col="3" row="5" text="76">
+  </cell>
+  <cell col="4" row="5" text="48">
+  </cell>
+  <cell col="5" row="5" text="91">
+  </cell>
+  <cell col="6" row="5" text="89">
+  </cell>
+  <cell col="7" row="5" text="111">
+  </cell>
+  <cell col="8" row="5" text="95">
+  </cell>
+  <cell col="9" row="5" text="80">
+  </cell>
+  <cell col="10" row="5" text="95">
+  </cell>
+  <cell col="11" row="5" text="80">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Organic N (kg N ha
+     
+      −1
+     
+     )">
+  </cell>
+  <cell col="1" row="6" text="2014">
+  </cell>
+  <cell col="2" row="6" text="0">
+  </cell>
+  <cell col="3" row="6" text="233">
+  </cell>
+  <cell col="4" row="6" text="23">
+  </cell>
+  <cell col="5" row="6" text="156">
+  </cell>
+  <cell col="6" row="6" text="30">
+  </cell>
+  <cell col="7" row="6" text="42">
+  </cell>
+  <cell col="8" row="6" text="0">
+  </cell>
+  <cell col="9" row="6" text="233">
+  </cell>
+  <cell col="10" row="6" text="0">
+  </cell>
+  <cell col="11" row="6" text="233">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="">
+  </cell>
+  <cell col="1" row="7" text="2015">
+  </cell>
+  <cell col="2" row="7" text="0">
+  </cell>
+  <cell col="3" row="7" text="0">
+  </cell>
+  <cell col="4" row="7" text="21">
+  </cell>
+  <cell col="5" row="7" text="0">
+  </cell>
+  <cell col="6" row="7" text="47">
+  </cell>
+  <cell col="7" row="7" text="38">
+  </cell>
+  <cell col="8" row="7" text="0">
+  </cell>
+  <cell col="9" row="7" text="0">
+  </cell>
+  <cell col="10" row="7" text="0">
+  </cell>
+  <cell col="11" row="7" text="0">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="">
+  </cell>
+  <cell col="1" row="8" text="2016">
+  </cell>
+  <cell col="2" row="8" text="0">
+  </cell>
+  <cell col="3" row="8" text="201">
+  </cell>
+  <cell col="4" row="8" text="27">
+  </cell>
+  <cell col="5" row="8" text="131">
+  </cell>
+  <cell col="6" row="8" text="40">
+  </cell>
+  <cell col="7" row="8" text="31">
+  </cell>
+  <cell col="8" row="8" text="0">
+  </cell>
+  <cell col="9" row="8" text="201">
+  </cell>
+  <cell col="10" row="8" text="0">
+  </cell>
+  <cell col="11" row="8" text="201">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="">
+  </cell>
+  <cell col="1" row="9" text="2017">
+  </cell>
+  <cell col="2" row="9" text="0">
+  </cell>
+  <cell col="3" row="9" text="0">
+  </cell>
+  <cell col="4" row="9" text="29">
+  </cell>
+  <cell col="5" row="9" text="0">
+  </cell>
+  <cell col="6" row="9" text="34">
+  </cell>
+  <cell col="7" row="9" text="35">
+  </cell>
+  <cell col="8" row="9" text="0">
+  </cell>
+  <cell col="9" row="9" text="0">
+  </cell>
+  <cell col="10" row="9" text="0">
+  </cell>
+  <cell col="11" row="9" text="0">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Mineral Nitrogen has same rates of CT_MIN and RT_MIN of TS/MO trial." type="entailed">
+  </statement>
+  <statement id="3" text="The rate of mineral and organic nitrogen applied year is from 2015 to 2018.." type="refuted">
+  </statement>
+ </statements>
+</Table 2>

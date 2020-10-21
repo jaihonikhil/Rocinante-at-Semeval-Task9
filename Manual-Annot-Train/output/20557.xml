@@ -1,0 +1,551 @@
+<Table 1>
+ <caption text="
+
+
+    H
+   
+
+
+     n
+    
+
+   values used in this study.
+   
+    H
+   
+
+
+     n
+    
+
+
+
+     max
+    
+
+   and
+   
+    H
+   
+
+
+     n
+    
+
+
+
+     min
+    
+
+   are the limits based on boiling and melting points.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Experiment">
+  </cell>
+  <cell col="1" row="0" text="316L
+     
+      H
+     
+
+
+       n">
+  </cell>
+  <cell col="2" row="0" text="Ti-6Al-4V
+     
+      H
+     
+
+
+       n">
+  </cell>
+  <cell col="3" row="0" text="IN718
+     
+      H
+     
+
+
+       n">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="H
+     
+
+
+       n
+      
+
+
+
+       max">
+  </cell>
+  <cell col="1" row="1" text="5.5">
+  </cell>
+  <cell col="2" row="1" text="6">
+  </cell>
+  <cell col="3" row="1" text="6">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="E1">
+  </cell>
+  <cell col="1" row="2" text="5.1 [24]">
+  </cell>
+  <cell col="2" row="2" text="6 [25]">
+  </cell>
+  <cell col="3" row="2" text="5.5 [26]">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="E2">
+  </cell>
+  <cell col="1" row="3" text="4.75 [8]">
+  </cell>
+  <cell col="2" row="3" text="5 [31]">
+  </cell>
+  <cell col="3" row="3" text="5.3 [27]">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="E3">
+  </cell>
+  <cell col="1" row="4" text="3.9 [11]">
+  </cell>
+  <cell col="2" row="4" text="4.4 [33]">
+  </cell>
+  <cell col="3" row="4" text="5 [28]">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="E4">
+  </cell>
+  <cell col="1" row="5" text="3.5 [29]">
+  </cell>
+  <cell col="2" row="5" text="4.2 [31]">
+  </cell>
+  <cell col="3" row="5" text="4.4 [12]">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="E5">
+  </cell>
+  <cell col="1" row="6" text="3.4 [30]">
+  </cell>
+  <cell col="2" row="6" text="–">
+  </cell>
+  <cell col="3" row="6" text="3 [10]">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="E6">
+  </cell>
+  <cell col="1" row="7" text="3.2 [32]">
+  </cell>
+  <cell col="2" row="7" text="–">
+  </cell>
+  <cell col="3" row="7" text="–">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="H
+     
+
+
+       n
+      
+
+
+
+       min">
+  </cell>
+  <cell col="1" row="8" text="3">
+  </cell>
+  <cell col="2" row="8" text="3">
+  </cell>
+  <cell col="3" row="8" text="3">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="The value of Ti-6Al-4V H n is not given in E5 and E6." type="entailed">
+  </statement>
+  <statement id="3" text="E6 contains only 316L H n value as 3.2 [32]." type="entailed">
+  </statement>
+  <statement id="4" text="There are 7 types of experiments given in the table." type="refuted">
+  </statement>
+ </statements>
+</Table 1>
+<Table 6>
+ <caption text="
+
+   The contribution of hardening and softening during LPBF of different alloys in different processing conditions.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Experiment">
+  </cell>
+  <cell col="1" row="0" text="Hardening,
+     
+
+
+
+         k
+        
+
+         1
+        
+
+
+        b
+       
+
+
+
+        ρ">
+  </cell>
+  <cell col="4" row="0" text="Softening,
+     
+      fρ">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="316L SS">
+  </cell>
+  <cell col="2" row="1" text="Ti-6Al-4V">
+  </cell>
+  <cell col="3" row="1" text="IN718">
+  </cell>
+  <cell col="4" row="1" text="316L SS">
+  </cell>
+  <cell col="5" row="1" text="Ti-6Al-4V">
+  </cell>
+  <cell col="6" row="1" text="IN718">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="E1">
+  </cell>
+  <cell col="1" row="2" text="9.799×10
+     
+      14">
+  </cell>
+  <cell col="2" row="2" text="3.698×10
+     
+      15">
+  </cell>
+  <cell col="3" row="2" text="3.150×10
+     
+      15">
+  </cell>
+  <cell col="4" row="2" text="9.815×10
+     
+      14">
+  </cell>
+  <cell col="5" row="2" text="3.620×10
+     
+      15">
+  </cell>
+  <cell col="6" row="2" text="3.106×10
+     
+      15">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="E2">
+  </cell>
+  <cell col="1" row="3" text="7.082×10
+     
+      14">
+  </cell>
+  <cell col="2" row="3" text="2.820×10
+     
+      15">
+  </cell>
+  <cell col="3" row="3" text="2.850×10
+     
+      15">
+  </cell>
+  <cell col="4" row="3" text="7.093×10
+     
+      14">
+  </cell>
+  <cell col="5" row="3" text="2.793×10
+     
+      15">
+  </cell>
+  <cell col="6" row="3" text="2.826×10
+     
+      15">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="E3">
+  </cell>
+  <cell col="1" row="4" text="5.332×10
+     
+      14">
+  </cell>
+  <cell col="2" row="4" text="2.260×10
+     
+      15">
+  </cell>
+  <cell col="3" row="4" text="2.77×10
+     
+      15">
+  </cell>
+  <cell col="4" row="4" text="5.337×10
+     
+      14">
+  </cell>
+  <cell col="5" row="4" text="2.156×10
+     
+      15">
+  </cell>
+  <cell col="6" row="4" text="2.752×10
+     
+      15">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="E4">
+  </cell>
+  <cell col="1" row="5" text="4.234×10
+     
+      14">
+  </cell>
+  <cell col="2" row="5" text="2.340×10
+     
+      15">
+  </cell>
+  <cell col="3" row="5" text="2.53×10
+     
+      15">
+  </cell>
+  <cell col="4" row="5" text="4.239×10
+     
+      14">
+  </cell>
+  <cell col="5" row="5" text="2.332×10
+     
+      15">
+  </cell>
+  <cell col="6" row="5" text="2.523×10
+     
+      15">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="E5">
+  </cell>
+  <cell col="1" row="6" text="4.025×10
+     
+      14">
+  </cell>
+  <cell col="2" row="6" text="–">
+  </cell>
+  <cell col="3" row="6" text="2.095×10
+     
+      15">
+  </cell>
+  <cell col="4" row="6" text="4.028×10
+     
+      14">
+  </cell>
+  <cell col="5" row="6" text="–">
+  </cell>
+  <cell col="6" row="6" text="2.097×10
+     
+      15">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="E6">
+  </cell>
+  <cell col="1" row="7" text="4.021×10
+     
+      14">
+  </cell>
+  <cell col="2" row="7" text="–">
+  </cell>
+  <cell col="3" row="7" text="–">
+  </cell>
+  <cell col="4" row="7" text="4.024×10
+     
+      14">
+  </cell>
+  <cell col="5" row="7" text="–">
+  </cell>
+  <cell col="6" row="7" text="–">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="The Ti-6Al-4V value of Softening, f is less than the Ti-6Al-4V value of Hardening, k 1 b ." type="entailed">
+  </statement>
+  <statement id="2" text="The Ti-6Al-4V value of Softening, f is more than the Ti-6Al-4V value of Hardening, k 1 b ." type="refuted">
+  </statement>
+  <statement id="3" text="There are 7 types of experiments." type="refuted">
+  </statement>
+ </statements>
+</Table 6>
+<Table 5>
+ <caption text="
+
+   The values of
+   
+    k
+   
+
+    1
+   
+   ,
+   
+    f
+   
+   used for solving the KM type equations.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Experiment">
+  </cell>
+  <cell col="1" row="0" text="316L SS">
+  </cell>
+  <cell col="3" row="0" text="Ti-6Al-4V">
+  </cell>
+  <cell col="5" row="0" text="IN718">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="k
+     
+
+      1">
+  </cell>
+  <cell col="2" row="1" text="f">
+  </cell>
+  <cell col="3" row="1" text="k
+     
+
+      1">
+  </cell>
+  <cell col="4" row="1" text="f">
+  </cell>
+  <cell col="5" row="1" text="k
+     
+
+      1">
+  </cell>
+  <cell col="6" row="1" text="f">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="E1">
+  </cell>
+  <cell col="1" row="2" text="0.023">
+  </cell>
+  <cell col="2" row="2" text="8.38">
+  </cell>
+  <cell col="3" row="2" text="0.026">
+  </cell>
+  <cell col="4" row="2" text="2.13">
+  </cell>
+  <cell col="5" row="2" text="0.028">
+  </cell>
+  <cell col="6" row="2" text="3.8">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="E2">
+  </cell>
+  <cell col="1" row="3" text="0.023">
+  </cell>
+  <cell col="2" row="3" text="11.59">
+  </cell>
+  <cell col="3" row="3" text="0.026">
+  </cell>
+  <cell col="4" row="3" text="2.83">
+  </cell>
+  <cell col="5" row="3" text="0.028">
+  </cell>
+  <cell col="6" row="3" text="4.22">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="E3">
+  </cell>
+  <cell col="1" row="4" text="0.023">
+  </cell>
+  <cell col="2" row="4" text="15.39">
+  </cell>
+  <cell col="3" row="4" text="0.026">
+  </cell>
+  <cell col="4" row="4" text="3.55">
+  </cell>
+  <cell col="5" row="4" text="0.028">
+  </cell>
+  <cell col="6" row="4" text="4.35">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="E4">
+  </cell>
+  <cell col="1" row="5" text="0.023">
+  </cell>
+  <cell col="2" row="5" text="19.39">
+  </cell>
+  <cell col="3" row="5" text="0.026">
+  </cell>
+  <cell col="4" row="5" text="3.42">
+  </cell>
+  <cell col="5" row="5" text="0.028">
+  </cell>
+  <cell col="6" row="5" text="4.78">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="E5">
+  </cell>
+  <cell col="1" row="6" text="0.023">
+  </cell>
+  <cell col="2" row="6" text="20.38">
+  </cell>
+  <cell col="3" row="6" text="–">
+  </cell>
+  <cell col="4" row="6" text="–">
+  </cell>
+  <cell col="5" row="6" text="0.028">
+  </cell>
+  <cell col="6" row="6" text="5.8">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="E6">
+  </cell>
+  <cell col="1" row="7" text="0.023">
+  </cell>
+  <cell col="2" row="7" text="20.41">
+  </cell>
+  <cell col="3" row="7" text="–">
+  </cell>
+  <cell col="4" row="7" text="–">
+  </cell>
+  <cell col="5" row="7" text="–">
+  </cell>
+  <cell col="6" row="7" text="–">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="KM type equations is solved by taking values of k 1 and f." type="entailed">
+  </statement>
+  <statement id="1" text="There are six experiments ranges from E1 to E6." type="entailed">
+  </statement>
+  <statement id="3" text="There are three heads for KM type Experiment 316L SS , Ti-6Al-4V and IN718." type="entailed">
+  </statement>
+ </statements>
+</Table 5>

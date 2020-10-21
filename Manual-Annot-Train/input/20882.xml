@@ -1,0 +1,198 @@
+<Table 2>
+ <caption text="
+
+   Mixes proportions.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Mix ID">
+  </cell>
+  <cell col="1" row="0" text="Proportions by Wight (%)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="Clay">
+  </cell>
+  <cell col="2" row="1" text="Sludge">
+  </cell>
+  <cell col="3" row="1" text="RSA">
+  </cell>
+  <cell col="4" row="1" text="SBA">
+  </cell>
+  <cell col="5" row="1" text="WSA">
+  </cell>
+  <cell col="6" row="1" text="Water to raw materials%">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Control">
+  </cell>
+  <cell col="1" row="2" text="50">
+  </cell>
+  <cell col="2" row="2" text="50">
+  </cell>
+  <cell col="3" row="2" text="–">
+  </cell>
+  <cell col="4" row="2" text="–">
+  </cell>
+  <cell col="5" row="2" text="–">
+  </cell>
+  <cell col="6" row="2" text="35">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="M-5RSA">
+  </cell>
+  <cell col="1" row="3" text="50">
+  </cell>
+  <cell col="2" row="3" text="45">
+  </cell>
+  <cell col="3" row="3" text="5">
+  </cell>
+  <cell col="4" row="3" text="–">
+  </cell>
+  <cell col="5" row="3" text="–">
+  </cell>
+  <cell col="6" row="3" text="35">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="M-10RSA">
+  </cell>
+  <cell col="1" row="4" text="50">
+  </cell>
+  <cell col="2" row="4" text="40">
+  </cell>
+  <cell col="3" row="4" text="10">
+  </cell>
+  <cell col="4" row="4" text="–">
+  </cell>
+  <cell col="5" row="4" text="–">
+  </cell>
+  <cell col="6" row="4" text="38">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="M-15RSA">
+  </cell>
+  <cell col="1" row="5" text="50">
+  </cell>
+  <cell col="2" row="5" text="35">
+  </cell>
+  <cell col="3" row="5" text="15">
+  </cell>
+  <cell col="4" row="5" text="–">
+  </cell>
+  <cell col="5" row="5" text="–">
+  </cell>
+  <cell col="6" row="5" text="38">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="M-5SBA">
+  </cell>
+  <cell col="1" row="6" text="50">
+  </cell>
+  <cell col="2" row="6" text="45">
+  </cell>
+  <cell col="3" row="6" text="–">
+  </cell>
+  <cell col="4" row="6" text="5">
+  </cell>
+  <cell col="5" row="6" text="–">
+  </cell>
+  <cell col="6" row="6" text="38">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="M-10SBA">
+  </cell>
+  <cell col="1" row="7" text="50">
+  </cell>
+  <cell col="2" row="7" text="40">
+  </cell>
+  <cell col="3" row="7" text="–">
+  </cell>
+  <cell col="4" row="7" text="10">
+  </cell>
+  <cell col="5" row="7" text="–">
+  </cell>
+  <cell col="6" row="7" text="40">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="M-15SBA">
+  </cell>
+  <cell col="1" row="8" text="50">
+  </cell>
+  <cell col="2" row="8" text="35">
+  </cell>
+  <cell col="3" row="8" text="–">
+  </cell>
+  <cell col="4" row="8" text="15">
+  </cell>
+  <cell col="5" row="8" text="–">
+  </cell>
+  <cell col="6" row="8" text="40">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="M-5WSA">
+  </cell>
+  <cell col="1" row="9" text="50">
+  </cell>
+  <cell col="2" row="9" text="45">
+  </cell>
+  <cell col="3" row="9" text="–">
+  </cell>
+  <cell col="4" row="9" text="–">
+  </cell>
+  <cell col="5" row="9" text="5">
+  </cell>
+  <cell col="6" row="9" text="38">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="M-10WSA">
+  </cell>
+  <cell col="1" row="10" text="50">
+  </cell>
+  <cell col="2" row="10" text="40">
+  </cell>
+  <cell col="3" row="10" text="–">
+  </cell>
+  <cell col="4" row="10" text="–">
+  </cell>
+  <cell col="5" row="10" text="10">
+  </cell>
+  <cell col="6" row="10" text="38">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="M-15WSA">
+  </cell>
+  <cell col="1" row="11" text="50">
+  </cell>
+  <cell col="2" row="11" text="35">
+  </cell>
+  <cell col="3" row="11" text="–">
+  </cell>
+  <cell col="4" row="11" text="–">
+  </cell>
+  <cell col="5" row="11" text="15">
+  </cell>
+  <cell col="6" row="11" text="40">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="The lowest sludge value is 35 for M-15RSA, M-15SBA and M-15WSA." type="">
+  </statement>
+  <statement id="2" text="The highest water to raw materials value is 40 for M-10SBA, M-15SBA and M-15WSA." type="">
+  </statement>
+  <statement id="5" text="The highest water to raw materials value is 38 for M-10SBA, M-15SBA and M-15WSA." type="">
+  </statement>
+  <statement id="7" text="The nine mixtures were divided into three groups, namely, RSA, SBA and WSA." type="">
+  </statement>
+ </statements>
+</Table 2>

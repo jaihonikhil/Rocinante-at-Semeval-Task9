@@ -1,0 +1,440 @@
+<Table 3>
+ <caption text="
+
+   Area statistics of targeted landscape in the study site (unit: hectare).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Index">
+  </cell>
+  <cell col="1" row="0" text="Statistics">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Road">
+  </cell>
+  <cell col="1" row="1" text="0.25111">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Water Channel">
+  </cell>
+  <cell col="1" row="2" text="0.05125">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Ancient Building">
+  </cell>
+  <cell col="1" row="3" text="0.0307">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Modern Building">
+  </cell>
+  <cell col="1" row="4" text="0.0307">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Vegetated Area">
+  </cell>
+  <cell col="1" row="5" text="2.542">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Road Statistics is 0.25111." type="">
+  </statement>
+  <statement id="1" text="Water Channel Statistics is 0.05125." type="">
+  </statement>
+  <statement id="2" text="Ancient Building Statistics is 0.0307." type="">
+  </statement>
+  <statement id="3" text="Modern Building Statistics is 0.0307." type="">
+  </statement>
+  <statement id="4" text="Road Statistics is 0.0307." type="">
+  </statement>
+  <statement id="5" text="Ancient Building Statistics is 0.05125." type="">
+  </statement>
+ </statements>
+</Table 3>
+<Table 6>
+ <caption text="
+
+   Distance statistics between the ancient village and the six surrounding mountains (unit: meter).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Index">
+  </cell>
+  <cell col="1" row="0" text="AVERAGE">
+  </cell>
+  <cell col="2" row="0" text="STDEV.S">
+  </cell>
+  <cell col="3" row="0" text="MIN">
+  </cell>
+  <cell col="4" row="0" text="MAX">
+  </cell>
+  <cell col="5" row="0" text="MEDIAN">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Mountain 1">
+  </cell>
+  <cell col="1" row="1" text="181.139">
+  </cell>
+  <cell col="2" row="1" text="73.191">
+  </cell>
+  <cell col="3" row="1" text="72.803">
+  </cell>
+  <cell col="4" row="1" text="396.94">
+  </cell>
+  <cell col="5" row="1" text="174.843">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Mountain 2">
+  </cell>
+  <cell col="1" row="2" text="445.555">
+  </cell>
+  <cell col="2" row="2" text="76.931">
+  </cell>
+  <cell col="3" row="2" text="203.8">
+  </cell>
+  <cell col="4" row="2" text="619.482">
+  </cell>
+  <cell col="5" row="2" text="440.325">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Mountain 3">
+  </cell>
+  <cell col="1" row="3" text="450.773">
+  </cell>
+  <cell col="2" row="3" text="53.717">
+  </cell>
+  <cell col="3" row="3" text="252.431">
+  </cell>
+  <cell col="4" row="3" text="556.799">
+  </cell>
+  <cell col="5" row="3" text="452.57">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Mountain 4">
+  </cell>
+  <cell col="1" row="4" text="367.804">
+  </cell>
+  <cell col="2" row="4" text="81.323">
+  </cell>
+  <cell col="3" row="4" text="162.519">
+  </cell>
+  <cell col="4" row="4" text="568.373">
+  </cell>
+  <cell col="5" row="4" text="370.881">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Mountain 5">
+  </cell>
+  <cell col="1" row="5" text="754.965">
+  </cell>
+  <cell col="2" row="5" text="96.9">
+  </cell>
+  <cell col="3" row="5" text="524.316">
+  </cell>
+  <cell col="4" row="5" text="962.63">
+  </cell>
+  <cell col="5" row="5" text="752.208">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Mountain 6">
+  </cell>
+  <cell col="1" row="6" text="666.508">
+  </cell>
+  <cell col="2" row="6" text="60.099">
+  </cell>
+  <cell col="3" row="6" text="444.036">
+  </cell>
+  <cell col="4" row="6" text="787.497">
+  </cell>
+  <cell col="5" row="6" text="669.915">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 6 mountains ranges from mountain 1 to mountain 6." type="">
+  </statement>
+  <statement id="2" text="There are 7 mountains ranges from mountain 1 to mountain 7." type="">
+  </statement>
+  <statement id="4" text="The highest AVERAGE value is 450.773 of Mountain 5." type="">
+  </statement>
+  <statement id="7" text="The distance between the ancient village and the six surrounding mountains is displayed in Table 6 (also see Fig. 9 )." type="">
+  </statement>
+ </statements>
+</Table 6>
+<Table 5>
+ <caption text="
+
+   Distance statistics between ancient buildings within the ancient village and the Bao’s ancestral hall (unit: meter).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Index">
+  </cell>
+  <cell col="1" row="0" text="Distance">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="AVERAGE">
+  </cell>
+  <cell col="1" row="1" text="114.307">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="STDEV.S">
+  </cell>
+  <cell col="1" row="2" text="72.720">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="MIN">
+  </cell>
+  <cell col="1" row="3" text="15.156">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="MAX">
+  </cell>
+  <cell col="1" row="4" text="308.108">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="MEDIAN">
+  </cell>
+  <cell col="1" row="5" text="98.904">
+  </cell>
+ </row>
+ <statements>
+  <statement id="3" text="The MIN row has got the heighest value in the table." type="">
+  </statement>
+  <statement id="4" text="The median distance of the building is 76.604." type="">
+  </statement>
+ </statements>
+</Table 5>
+<Table 7>
+ <caption text="
+
+   Distance statistics to investigate the changes in the spatial distribution among ancient buildings, modern buildings and their spatial clustering centers (unit: meter).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Index">
+  </cell>
+  <cell col="1" row="0" text="Ancient building">
+  </cell>
+  <cell col="2" row="0" text="Modern building">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="AVERAGE">
+  </cell>
+  <cell col="1" row="1" text="106.996">
+  </cell>
+  <cell col="2" row="1" text="190.761">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="STDEV.S">
+  </cell>
+  <cell col="1" row="2" text="72.664">
+  </cell>
+  <cell col="2" row="2" text="112.324">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="MIN">
+  </cell>
+  <cell col="1" row="3" text="5.930">
+  </cell>
+  <cell col="2" row="3" text="7.634">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="MAX">
+  </cell>
+  <cell col="1" row="4" text="308.987">
+  </cell>
+  <cell col="2" row="4" text="505.028">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="MEDIAN">
+  </cell>
+  <cell col="1" row="5" text="80.988">
+  </cell>
+  <cell col="2" row="5" text="158.405">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Ancient building Average meter is 106.996." type="">
+  </statement>
+  <statement id="1" text="Modern building Stdev.s meter is 112.324." type="">
+  </statement>
+  <statement id="2" text="Modern building max is higher than Ancient building." type="">
+  </statement>
+  <statement id="3" text="Ancient building median is 80.988." type="">
+  </statement>
+  <statement id="5" text="Ancient building Min meter is 112.324." type="">
+  </statement>
+ </statements>
+</Table 7>
+<Table 2>
+ <caption text="
+
+   The assessment results of the customized scheme and samples assigned to each module. The average overall accuracy and the average KIA represent mean values of the ten group results of ten-fold cross validation.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Item">
+  </cell>
+  <cell col="1" row="0" text="Overall accuracy of ten-fold cross validation">
+  </cell>
+  <cell col="2" row="0" text="Average KIA of ten-fold cross validation">
+  </cell>
+  <cell col="3" row="0" text="The number of samples">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1st Classification">
+  </cell>
+  <cell col="1" row="1" text="96.1%">
+  </cell>
+  <cell col="2" row="1" text="91.5%">
+  </cell>
+  <cell col="3" row="1" text="3069">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2nd Classification">
+  </cell>
+  <cell col="1" row="2" text="–">
+  </cell>
+  <cell col="2" row="2" text="–">
+  </cell>
+  <cell col="3" row="2" text="–">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3rd Classification">
+  </cell>
+  <cell col="1" row="3" text="94.0%">
+  </cell>
+  <cell col="2" row="3" text="79.8%">
+  </cell>
+  <cell col="3" row="3" text="1874">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4th Classification">
+  </cell>
+  <cell col="1" row="4" text="90.7%">
+  </cell>
+  <cell col="2" row="4" text="82.2%">
+  </cell>
+  <cell col="3" row="4" text="1581">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="5th Classification">
+  </cell>
+  <cell col="1" row="5" text="84.3%">
+  </cell>
+  <cell col="2" row="5" text="76.3%">
+  </cell>
+  <cell col="3" row="5" text="823">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Item 1st Classification Overall accuracy of ten-fold cross validation is 96.1%." type="">
+  </statement>
+  <statement id="1" text="3rd Classification Average KIA of ten-fold cross validation is 79.8%." type="">
+  </statement>
+  <statement id="2" text="4rd Classification Average KIA of ten-fold cross validation is 79.8%." type="">
+  </statement>
+  <statement id="3" text="4th Classification The number of samples is 823." type="">
+  </statement>
+ </statements>
+</Table 2>
+<Table 4>
+ <caption text="
+
+   Distance statistics between buildings of ancient buildings and modern buildings to the main water channel (unit: meter).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Index">
+  </cell>
+  <cell col="1" row="0" text="Ancient building">
+  </cell>
+  <cell col="2" row="0" text="Modern building">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="AVERAGE">
+  </cell>
+  <cell col="1" row="1" text="174.095">
+  </cell>
+  <cell col="2" row="1" text="273.917">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="STDEV.S">
+  </cell>
+  <cell col="1" row="2" text="58.780">
+  </cell>
+  <cell col="2" row="2" text="190.928">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="MIN">
+  </cell>
+  <cell col="1" row="3" text="6.763">
+  </cell>
+  <cell col="2" row="3" text="4.868">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="MAX">
+  </cell>
+  <cell col="1" row="4" text="321.608">
+  </cell>
+  <cell col="2" row="4" text="912.368">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="MEDIAN">
+  </cell>
+  <cell col="1" row="5" text="173.010">
+  </cell>
+  <cell col="2" row="5" text="243.885">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 3 types of building." type="">
+  </statement>
+  <statement id="1" text="The value of Modern building is is lesser than Ancient building in AVERAGE." type="">
+  </statement>
+  <statement id="2" text="The value of Modern building is is highest than Ancient building in AVERAGE." type="">
+  </statement>
+  <statement id="3" text="The MIN value of Ancient building is less than Modern building." type="">
+  </statement>
+  <statement id="4" text="All the values of Ancient building is less than Modern building except MIN value." type="">
+  </statement>
+  <statement id="5" text="There are 2 types of building - Ancient building and Modern building." type="">
+  </statement>
+ </statements>
+</Table 4>

@@ -1,0 +1,200 @@
+<Table 1>
+ <caption text="
+
+   Chemical composition of the substrate and the wire in weight percent.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Grade">
+  </cell>
+  <cell col="2" row="0" text="Al, wt%">
+  </cell>
+  <cell col="3" row="0" text="Cr, wt%">
+  </cell>
+  <cell col="4" row="0" text="Cu, wt%">
+  </cell>
+  <cell col="5" row="0" text="Fe, wt%">
+  </cell>
+  <cell col="6" row="0" text="Mg, wt%">
+  </cell>
+  <cell col="7" row="0" text="Mn, wt%">
+  </cell>
+  <cell col="8" row="0" text="Si, wt%">
+  </cell>
+  <cell col="9" row="0" text="Zn, wt%">
+  </cell>
+  <cell col="10" row="0" text="Ti, wt%">
+  </cell>
+  <cell col="11" row="0" text="Zr, wt%">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Substrate">
+  </cell>
+  <cell col="1" row="1" text="5056">
+  </cell>
+  <cell col="2" row="1" text="92.9–95.4">
+  </cell>
+  <cell col="3" row="1" text="0.05–0.20">
+  </cell>
+  <cell col="4" row="1" text="≤ 0.10">
+  </cell>
+  <cell col="5" row="1" text="≤ 0.40">
+  </cell>
+  <cell col="6" row="1" text="4.5–5.6">
+  </cell>
+  <cell col="7" row="1" text="0.05–0.20">
+  </cell>
+  <cell col="8" row="1" text="≤ 0.30">
+  </cell>
+  <cell col="9" row="1" text="≤ 0.10">
+  </cell>
+  <cell col="10" row="1" text="≤ 0.05">
+  </cell>
+  <cell col="11" row="1" text="≤ 0.05">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Wire">
+  </cell>
+  <cell col="1" row="2" text="OK Autrod 18.22 (ESAB)">
+  </cell>
+  <cell col="2" row="2" text="92.93">
+  </cell>
+  <cell col="3" row="2" text="–">
+  </cell>
+  <cell col="4" row="2" text="0.03">
+  </cell>
+  <cell col="5" row="2" text="–">
+  </cell>
+  <cell col="6" row="2" text="5.8">
+  </cell>
+  <cell col="7" row="2" text="0.8">
+  </cell>
+  <cell col="8" row="2" text="0.06">
+  </cell>
+  <cell col="9" row="2" text="–">
+  </cell>
+  <cell col="10" row="2" text="0.03">
+  </cell>
+  <cell col="11" row="2" text="0.1">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="They have two chemical composition i.e, Substrate and Wire." type="entailed">
+  </statement>
+  <statement id="1" text="Substrate grade is 5056." type="entailed">
+  </statement>
+  <statement id="2" text="Wire Cu, wt% is 0.03." type="entailed">
+  </statement>
+  <statement id="4" text="Substrate Cr, wt% is 4.55.6 ." type="refuted">
+  </statement>
+  <statement id="7" text="The chemical compositions of the substrate and the wire are given in Table 1 ." type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   List of measured parameters.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Parameter">
+  </cell>
+  <cell col="1" row="0" text="Units">
+  </cell>
+  <cell col="2" row="0" text="Description">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="I
+     
+      SC max">
+  </cell>
+  <cell col="1" row="1" text="A">
+  </cell>
+  <cell col="2" row="1" text="Maximum current of a short circuit stage">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="I
+     
+      SC mean">
+  </cell>
+  <cell col="1" row="2" text="A">
+  </cell>
+  <cell col="2" row="2" text="Mean current of a short circuit stage">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="I
+     
+      arc mean">
+  </cell>
+  <cell col="1" row="3" text="A">
+  </cell>
+  <cell col="2" row="3" text="Mean current of an arcing stage">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="I
+     
+      cycle mean">
+  </cell>
+  <cell col="1" row="4" text="A">
+  </cell>
+  <cell col="2" row="4" text="Mean current of the cycle">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="E
+     
+      SC">
+  </cell>
+  <cell col="1" row="5" text="J">
+  </cell>
+  <cell col="2" row="5" text="Total energy of a short circuit stage">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="E
+     
+      arc">
+  </cell>
+  <cell col="1" row="6" text="J">
+  </cell>
+  <cell col="2" row="6" text="Total energy of an arcing stage">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="E
+     
+      SC
+     
+     / E
+     
+      arc">
+  </cell>
+  <cell col="1" row="7" text="–">
+  </cell>
+  <cell col="2" row="7" text="Ratio of short circuit energy to arcing energy">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The table has been divided into 3 columns - Parameter , Units and Description." type="entailed">
+  </statement>
+  <statement id="1" text="There are five different types of Parameter." type="refuted">
+  </statement>
+  <statement id="2" text="A C R H and J are the five Units given." type="refuted">
+  </statement>
+  <statement id="5" text="A set of current and energy parameters was measured for each cycle ( Table 2 )." type="entailed">
+  </statement>
+  <statement id="6" text="The measured parameters were stored in corresponding arrays." type="entailed">
+  </statement>
+ </statements>
+</Table 2>

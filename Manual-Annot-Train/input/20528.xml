@@ -1,0 +1,517 @@
+<Table 1>
+ <caption text="
+
+   Descriptive Statistics and Bivariate Correlations among Key Variables (N= 4,960)
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Variable">
+  </cell>
+  <cell col="1" row="0" text="M/%">
+  </cell>
+  <cell col="2" row="0" text="SD">
+  </cell>
+  <cell col="3" row="0" text="Correlations
+     
+      a">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+  <cell col="3" row="1" text="1">
+  </cell>
+  <cell col="4" row="1" text="2">
+  </cell>
+  <cell col="5" row="1" text="3">
+  </cell>
+  <cell col="6" row="1" text="4">
+  </cell>
+  <cell col="7" row="1" text="5">
+  </cell>
+  <cell col="8" row="1" text="6">
+  </cell>
+  <cell col="9" row="1" text="7">
+  </cell>
+  <cell col="10" row="1" text="8">
+  </cell>
+  <cell col="11" row="1" text="9">
+  </cell>
+  <cell col="12" row="1" text="10">
+  </cell>
+  <cell col="13" row="1" text="11">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Mental health conditions">
+  </cell>
+  <cell col="1" row="2" text="">
+  </cell>
+  <cell col="2" row="2" text="">
+  </cell>
+  <cell col="3" row="2" text="">
+  </cell>
+  <cell col="4" row="2" text="">
+  </cell>
+  <cell col="5" row="2" text="">
+  </cell>
+  <cell col="6" row="2" text="">
+  </cell>
+  <cell col="7" row="2" text="">
+  </cell>
+  <cell col="8" row="2" text="">
+  </cell>
+  <cell col="9" row="2" text="">
+  </cell>
+  <cell col="10" row="2" text="">
+  </cell>
+  <cell col="11" row="2" text="">
+  </cell>
+  <cell col="12" row="2" text="">
+  </cell>
+  <cell col="13" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="1.
+       
+
+        Depression
+        
+         b">
+  </cell>
+  <cell col="1" row="3" text="2.8">
+  </cell>
+  <cell col="2" row="3" text="">
+  </cell>
+  <cell col="3" row="3" text="-">
+  </cell>
+  <cell col="4" row="3" text="">
+  </cell>
+  <cell col="5" row="3" text="">
+  </cell>
+  <cell col="6" row="3" text="">
+  </cell>
+  <cell col="7" row="3" text="">
+  </cell>
+  <cell col="8" row="3" text="">
+  </cell>
+  <cell col="9" row="3" text="">
+  </cell>
+  <cell col="10" row="3" text="">
+  </cell>
+  <cell col="11" row="3" text="">
+  </cell>
+  <cell col="12" row="3" text="">
+  </cell>
+  <cell col="13" row="3" text="">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="2.
+       
+
+        Bipolar-SD
+        
+         b">
+  </cell>
+  <cell col="1" row="4" text="2.6">
+  </cell>
+  <cell col="2" row="4" text="">
+  </cell>
+  <cell col="3" row="4" text=".14***">
+  </cell>
+  <cell col="4" row="4" text="-">
+  </cell>
+  <cell col="5" row="4" text="">
+  </cell>
+  <cell col="6" row="4" text="">
+  </cell>
+  <cell col="7" row="4" text="">
+  </cell>
+  <cell col="8" row="4" text="">
+  </cell>
+  <cell col="9" row="4" text="">
+  </cell>
+  <cell col="10" row="4" text="">
+  </cell>
+  <cell col="11" row="4" text="">
+  </cell>
+  <cell col="12" row="4" text="">
+  </cell>
+  <cell col="13" row="4" text="">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="3.
+       
+
+        Borderline-PD
+        
+         b">
+  </cell>
+  <cell col="1" row="5" text="4.6">
+  </cell>
+  <cell col="2" row="5" text="">
+  </cell>
+  <cell col="3" row="5" text=".26***">
+  </cell>
+  <cell col="4" row="5" text=".26***">
+  </cell>
+  <cell col="5" row="5" text="-">
+  </cell>
+  <cell col="6" row="5" text="">
+  </cell>
+  <cell col="7" row="5" text="">
+  </cell>
+  <cell col="8" row="5" text="">
+  </cell>
+  <cell col="9" row="5" text="">
+  </cell>
+  <cell col="10" row="5" text="">
+  </cell>
+  <cell col="11" row="5" text="">
+  </cell>
+  <cell col="12" row="5" text="">
+  </cell>
+  <cell col="13" row="5" text="">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="4.
+       
+
+        SAD
+        
+         b">
+  </cell>
+  <cell col="1" row="6" text="16.5">
+  </cell>
+  <cell col="2" row="6" text="">
+  </cell>
+  <cell col="3" row="6" text=".17***">
+  </cell>
+  <cell col="4" row="6" text=".10***">
+  </cell>
+  <cell col="5" row="6" text=".20***">
+  </cell>
+  <cell col="6" row="6" text="-">
+  </cell>
+  <cell col="7" row="6" text="">
+  </cell>
+  <cell col="8" row="6" text="">
+  </cell>
+  <cell col="9" row="6" text="">
+  </cell>
+  <cell col="10" row="6" text="">
+  </cell>
+  <cell col="11" row="6" text="">
+  </cell>
+  <cell col="12" row="6" text="">
+  </cell>
+  <cell col="13" row="6" text="">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="PBS use">
+  </cell>
+  <cell col="1" row="7" text="">
+  </cell>
+  <cell col="2" row="7" text="">
+  </cell>
+  <cell col="3" row="7" text="">
+  </cell>
+  <cell col="4" row="7" text="">
+  </cell>
+  <cell col="5" row="7" text="">
+  </cell>
+  <cell col="6" row="7" text="">
+  </cell>
+  <cell col="7" row="7" text="">
+  </cell>
+  <cell col="8" row="7" text="">
+  </cell>
+  <cell col="9" row="7" text="">
+  </cell>
+  <cell col="10" row="7" text="">
+  </cell>
+  <cell col="11" row="7" text="">
+  </cell>
+  <cell col="12" row="7" text="">
+  </cell>
+  <cell col="13" row="7" text="">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="5.
+       
+
+        PBS-total">
+  </cell>
+  <cell col="1" row="8" text="3.3">
+  </cell>
+  <cell col="2" row="8" text="0.98">
+  </cell>
+  <cell col="3" row="8" text="-.06***">
+  </cell>
+  <cell col="4" row="8" text="-.03*">
+  </cell>
+  <cell col="5" row="8" text="-.02">
+  </cell>
+  <cell col="6" row="8" text="-.01">
+  </cell>
+  <cell col="7" row="8" text="-">
+  </cell>
+  <cell col="8" row="8" text="">
+  </cell>
+  <cell col="9" row="8" text="">
+  </cell>
+  <cell col="10" row="8" text="">
+  </cell>
+  <cell col="11" row="8" text="">
+  </cell>
+  <cell col="12" row="8" text="">
+  </cell>
+  <cell col="13" row="8" text="">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="6.
+       
+
+        PBS-MoD">
+  </cell>
+  <cell col="1" row="9" text="3.27">
+  </cell>
+  <cell col="2" row="9" text="1.26">
+  </cell>
+  <cell col="3" row="9" text="-.06***">
+  </cell>
+  <cell col="4" row="9" text="-.03*">
+  </cell>
+  <cell col="5" row="9" text="-.02">
+  </cell>
+  <cell col="6" row="9" text=".01">
+  </cell>
+  <cell col="7" row="9" text=".82***">
+  </cell>
+  <cell col="8" row="9" text="-">
+  </cell>
+  <cell col="9" row="9" text="">
+  </cell>
+  <cell col="10" row="9" text="">
+  </cell>
+  <cell col="11" row="9" text="">
+  </cell>
+  <cell col="12" row="9" text="">
+  </cell>
+  <cell col="13" row="9" text="">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="7.
+       
+
+        PBS-SHR">
+  </cell>
+  <cell col="1" row="10" text="3.77">
+  </cell>
+  <cell col="2" row="10" text="1.19">
+  </cell>
+  <cell col="3" row="10" text="-.07***">
+  </cell>
+  <cell col="4" row="10" text="-.04***">
+  </cell>
+  <cell col="5" row="10" text="-.03*">
+  </cell>
+  <cell col="6" row="10" text="-.05**">
+  </cell>
+  <cell col="7" row="10" text=".88***">
+  </cell>
+  <cell col="8" row="10" text=".59***">
+  </cell>
+  <cell col="9" row="10" text="-">
+  </cell>
+  <cell col="10" row="10" text="">
+  </cell>
+  <cell col="11" row="10" text="">
+  </cell>
+  <cell col="12" row="10" text="">
+  </cell>
+  <cell col="13" row="10" text="">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="8.
+       
+
+        PBS-LSDm">
+  </cell>
+  <cell col="1" row="11" text="3.43">
+  </cell>
+  <cell col="2" row="11" text="1.23">
+  </cell>
+  <cell col="3" row="11" text="-.04***">
+  </cell>
+  <cell col="4" row="11" text="-.01">
+  </cell>
+  <cell col="5" row="11" text=".01">
+  </cell>
+  <cell col="6" row="11" text="-.04**">
+  </cell>
+  <cell col="7" row="11" text=".70***">
+  </cell>
+  <cell col="8" row="11" text=".45***">
+  </cell>
+  <cell col="9" row="11" text=".48***">
+  </cell>
+  <cell col="10" row="11" text="-">
+  </cell>
+  <cell col="11" row="11" text="">
+  </cell>
+  <cell col="12" row="11" text="">
+  </cell>
+  <cell col="13" row="11" text="">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="9.
+       
+
+        PBS-LSDp">
+  </cell>
+  <cell col="1" row="12" text="2.3">
+  </cell>
+  <cell col="2" row="12" text="1.1">
+  </cell>
+  <cell col="3" row="12" text="-.01">
+  </cell>
+  <cell col="4" row="12" text="-.02">
+  </cell>
+  <cell col="5" row="12" text=".01">
+  </cell>
+  <cell col="6" row="12" text=".08***">
+  </cell>
+  <cell col="7" row="12" text=".70***">
+  </cell>
+  <cell col="8" row="12" text=".52***">
+  </cell>
+  <cell col="9" row="12" text=".48***">
+  </cell>
+  <cell col="10" row="12" text=".42***">
+  </cell>
+  <cell col="11" row="12" text="-">
+  </cell>
+  <cell col="12" row="12" text="">
+  </cell>
+  <cell col="13" row="12" text="">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Alcohol outcomes">
+  </cell>
+  <cell col="1" row="13" text="">
+  </cell>
+  <cell col="2" row="13" text="">
+  </cell>
+  <cell col="3" row="13" text="">
+  </cell>
+  <cell col="4" row="13" text="">
+  </cell>
+  <cell col="5" row="13" text="">
+  </cell>
+  <cell col="6" row="13" text="">
+  </cell>
+  <cell col="7" row="13" text="">
+  </cell>
+  <cell col="8" row="13" text="">
+  </cell>
+  <cell col="9" row="13" text="">
+  </cell>
+  <cell col="10" row="13" text="">
+  </cell>
+  <cell col="11" row="13" text="">
+  </cell>
+  <cell col="12" row="13" text="">
+  </cell>
+  <cell col="13" row="13" text="">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="10.
+       
+
+        Drinks/week">
+  </cell>
+  <cell col="1" row="14" text="7.71">
+  </cell>
+  <cell col="2" row="14" text="9.41">
+  </cell>
+  <cell col="3" row="14" text=".02">
+  </cell>
+  <cell col="4" row="14" text=".04**">
+  </cell>
+  <cell col="5" row="14" text=".05**">
+  </cell>
+  <cell col="6" row="14" text=".01">
+  </cell>
+  <cell col="7" row="14" text="-.15***">
+  </cell>
+  <cell col="8" row="14" text="-.16***">
+  </cell>
+  <cell col="9" row="14" text="-.11***">
+  </cell>
+  <cell col="10" row="14" text="-.04**">
+  </cell>
+  <cell col="11" row="14" text="-.08***">
+  </cell>
+  <cell col="12" row="14" text="-">
+  </cell>
+  <cell col="13" row="14" text="">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="11.
+       
+
+        Consequences">
+  </cell>
+  <cell col="1" row="15" text="1.1">
+  </cell>
+  <cell col="2" row="15" text="1.51">
+  </cell>
+  <cell col="3" row="15" text=".07***">
+  </cell>
+  <cell col="4" row="15" text=".11***">
+  </cell>
+  <cell col="5" row="15" text=".12***">
+  </cell>
+  <cell col="6" row="15" text=".06***">
+  </cell>
+  <cell col="7" row="15" text="-.13***">
+  </cell>
+  <cell col="8" row="15" text="-.18***">
+  </cell>
+  <cell col="9" row="15" text="-.11***">
+  </cell>
+  <cell col="10" row="15" text="-.03">
+  </cell>
+  <cell col="11" row="15" text="-.02">
+  </cell>
+  <cell col="12" row="15" text=".44***">
+  </cell>
+  <cell col="13" row="15" text="-">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="The M/% ranges from 1.1 to 16.5." type="">
+  </statement>
+  <statement id="7" text="There are 4 types of Mental health conditions ." type="">
+  </statement>
+ </statements>
+</Table 1>

@@ -1,0 +1,216 @@
+<Table 1>
+ <caption text="
+
+   Drug name, clinical indication and FDA/EMA approval reported in the review.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Drug name">
+  </cell>
+  <cell col="1" row="0" text="Target">
+  </cell>
+  <cell col="2" row="0" text="FDA approval date and indication">
+  </cell>
+  <cell col="3" row="0" text="EMA approval date and indication">
+  </cell>
+  <cell col="4" row="0" text="Ongoing trials">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Secukinumab">
+  </cell>
+  <cell col="1" row="1" text="IL-17A">
+  </cell>
+  <cell col="2" row="1" text="2015 PsO, 2016 PsA and AS">
+  </cell>
+  <cell col="3" row="1" text="2015 PsO, 2016 PsA e AS">
+  </cell>
+  <cell col="4" row="1" text="/">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Ixekizumab">
+  </cell>
+  <cell col="1" row="2" text="IL-17A">
+  </cell>
+  <cell col="2" row="2" text="2016 PsO, 2017 PsA, 2019 AS">
+  </cell>
+  <cell col="3" row="2" text="2018 PsO, 2019 PsA">
+  </cell>
+  <cell col="4" row="2" text="Phase III AS">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Brodalumab">
+  </cell>
+  <cell col="1" row="3" text="IL17-RA (IL-17A, IL-17E, IL-17F)">
+  </cell>
+  <cell col="2" row="3" text="2017 PsO">
+  </cell>
+  <cell col="3" row="3" text="Not approved">
+  </cell>
+  <cell col="4" row="3" text="Phase II PsA">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Bimekizumab">
+  </cell>
+  <cell col="1" row="4" text="IL-17A, IL-17F">
+  </cell>
+  <cell col="2" row="4" text="Not approved">
+  </cell>
+  <cell col="3" row="4" text="Not approved">
+  </cell>
+  <cell col="4" row="4" text="Phase II PsA
+     
+     Phase II AS">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Ustekinumab">
+  </cell>
+  <cell col="1" row="5" text="p40 subunit of IL12 and IL23">
+  </cell>
+  <cell col="2" row="5" text="2009 PsO, 2013 PsA, 2016 CD">
+  </cell>
+  <cell col="3" row="5" text="2009 PsO,
+     
+     2013 PsA,
+     
+     2018 CD">
+  </cell>
+  <cell col="4" row="5" text="/">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Guselkumab">
+  </cell>
+  <cell col="1" row="6" text="p19 subunit of IL23">
+  </cell>
+  <cell col="2" row="6" text="2017 PsO">
+  </cell>
+  <cell col="3" row="6" text="2017 PsO">
+  </cell>
+  <cell col="4" row="6" text="Phase II PsA">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Tildrakizumab">
+  </cell>
+  <cell col="1" row="7" text="p19 subunit of IL23">
+  </cell>
+  <cell col="2" row="7" text="2018 PsO">
+  </cell>
+  <cell col="3" row="7" text="2018 PsO">
+  </cell>
+  <cell col="4" row="7" text="Phase II PsA">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Risankizumab">
+  </cell>
+  <cell col="1" row="8" text="p19 subunit of IL23">
+  </cell>
+  <cell col="2" row="8" text="2019 PsO">
+  </cell>
+  <cell col="3" row="8" text="2019 PsO">
+  </cell>
+  <cell col="4" row="8" text="Phase III PsA
+     
+     Phase II AS">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Tofacitinib">
+  </cell>
+  <cell col="1" row="9" text="JAK1/JAK3">
+  </cell>
+  <cell col="2" row="9" text="2012 RA, 2017 PsA, 2018 UC">
+  </cell>
+  <cell col="3" row="9" text="2017 RA, 2018 PsA, 2018 UC">
+  </cell>
+  <cell col="4" row="9" text="Phase II/III AS">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Upadacitinib">
+  </cell>
+  <cell col="1" row="10" text="JAK1">
+  </cell>
+  <cell col="2" row="10" text="2019 RA">
+  </cell>
+  <cell col="3" row="10" text="2019 RA">
+  </cell>
+  <cell col="4" row="10" text="Phase II PsA
+     
+     Phase II AS
+     
+     Phase II Axial nr-SpA">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Filgotinib">
+  </cell>
+  <cell col="1" row="11" text="JAK1">
+  </cell>
+  <cell col="2" row="11" text="Not approved">
+  </cell>
+  <cell col="3" row="11" text="Not approved">
+  </cell>
+  <cell col="4" row="11" text="Phase II PsA
+     
+     Phase II AS">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Abatacept">
+  </cell>
+  <cell col="1" row="12" text="CD80 and CD86 receptors">
+  </cell>
+  <cell col="2" row="12" text="2005 RA, 2017 PsA">
+  </cell>
+  <cell col="3" row="12" text="2017 PsA">
+  </cell>
+  <cell col="4" row="12" text="/">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="CF101">
+  </cell>
+  <cell col="1" row="13" text="A3 adenosine receptor">
+  </cell>
+  <cell col="2" row="13" text="Not approved">
+  </cell>
+  <cell col="3" row="13" text="Not approved">
+  </cell>
+  <cell col="4" row="13" text="/">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="ABT-122">
+  </cell>
+  <cell col="1" row="14" text="TNF and IL-17A">
+  </cell>
+  <cell col="2" row="14" text="Not approved">
+  </cell>
+  <cell col="3" row="14" text="Not approved">
+  </cell>
+  <cell col="4" row="14" text="Phase II PsA">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 14 types of drug names given in the table." type="entailed">
+  </statement>
+  <statement id="1" text="There are 5 different types of columns." type="entailed">
+  </statement>
+  <statement id="2" text="Ongoing trials are differentiated into Phase III AS, Phase II AS, Phase II PsA, Phase III PsA and Phase II Axial nr-SpA." type="entailed">
+  </statement>
+  <statement id="3" text="There are 18 types of drug names given in the table." type="refuted">
+  </statement>
+  <statement id="4" text="The FDA approval date ranges from 2001 to 2020." type="refuted">
+  </statement>
+  <statement id="6" text="The ASAS-EULAR recommendations for the management of patients with spondylarthritis are dated back to 2016 [ 96 ] and since then there have been major advances in pharmacological treatments, including old and new pathogenic mechanisms used as therapeutic targets." type="entailed">
+  </statement>
+ </statements>
+</Table 1>

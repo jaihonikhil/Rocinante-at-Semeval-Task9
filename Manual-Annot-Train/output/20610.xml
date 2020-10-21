@@ -1,0 +1,228 @@
+<Table 3>
+ <caption text="
+
+   Comparison between the printed lattices and packed beds filled with GAC and PAC.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Packing material">
+  </cell>
+  <cell col="1" row="0" text="k
+     
+      1
+     
+     (10
+     
+      −9
+     
+     m
+     
+      2
+     
+     )">
+  </cell>
+  <cell col="2" row="0" text="k
+     
+      2
+     
+     (10
+     
+      −4
+     
+     m)">
+  </cell>
+  <cell col="3" row="0" text="d
+     
+      p
+     
+     (mm)">
+  </cell>
+  <cell col="4" row="0" text="ε (%)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Lattice">
+  </cell>
+  <cell col="1" row="1" text="7.23">
+  </cell>
+  <cell col="2" row="1" text="1.29">
+  </cell>
+  <cell col="3" row="1" text="–">
+  </cell>
+  <cell col="4" row="1" text="45">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="GAC">
+  </cell>
+  <cell col="1" row="2" text="0.98">
+  </cell>
+  <cell col="2" row="2" text="0.66">
+  </cell>
+  <cell col="3" row="2" text="1.00">
+  </cell>
+  <cell col="4" row="2" text="45">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="PAC">
+  </cell>
+  <cell col="1" row="3" text="0.01">
+  </cell>
+  <cell col="2" row="3" text="0.07">
+  </cell>
+  <cell col="3" row="3" text="0.10">
+  </cell>
+  <cell col="4" row="3" text="45">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Packing material PAC is 0.01 k 1 (10 -9 m 2 )." type="entailed">
+  </statement>
+ </statements>
+</Table 3>
+<Table 4>
+ <caption text="
+
+   Composition (%
+   
+    wt
+   
+   and molar ratios) of the samples before the washing procedure and the ion exchange tests and after the 4th cycle of the ion exchange tests.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="SiO
+     
+      2
+     
+     (%
+     
+      wt
+     
+     )">
+  </cell>
+  <cell col="2" row="0" text="Al
+     
+      2
+     
+     O
+     
+      3
+     
+     (%
+     
+      wt
+     
+     )">
+  </cell>
+  <cell col="3" row="0" text="Na
+     
+      2
+     
+     O (%
+     
+      wt
+     
+     )">
+  </cell>
+  <cell col="4" row="0" text="LOI (%
+     
+      wt
+     
+     )">
+  </cell>
+  <cell col="5" row="0" text="SiO
+     
+      2
+     
+     /Al
+     
+      2
+     
+     O
+     
+      3
+     
+     (mol/mol)">
+  </cell>
+  <cell col="6" row="0" text="Na
+     
+      2
+     
+     O/Al
+     
+      2
+     
+     O
+     
+      3
+     
+     (mol/mol)">
+  </cell>
+  <cell col="7" row="0" text="H
+     
+      2
+     
+     O/Al
+     
+      2
+     
+     O
+     
+      3
+     
+     (mol/mol)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Before">
+  </cell>
+  <cell col="1" row="1" text="46.8">
+  </cell>
+  <cell col="2" row="1" text="18.7">
+  </cell>
+  <cell col="3" row="1" text="11.5">
+  </cell>
+  <cell col="4" row="1" text="23.0">
+  </cell>
+  <cell col="5" row="1" text="4.2">
+  </cell>
+  <cell col="6" row="1" text="1.0">
+  </cell>
+  <cell col="7" row="1" text="5.5">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="After">
+  </cell>
+  <cell col="1" row="2" text="51.3">
+  </cell>
+  <cell col="2" row="2" text="20.9">
+  </cell>
+  <cell col="3" row="2" text="9.7">
+  </cell>
+  <cell col="4" row="2" text="18.2">
+  </cell>
+  <cell col="5" row="2" text="4.2">
+  </cell>
+  <cell col="6" row="2" text="0.8">
+  </cell>
+  <cell col="7" row="2" text="4.9">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="SiO 2 (% wt ) Before is 46.8." type="entailed">
+  </statement>
+  <statement id="1" text="11.5 is Na 2 O (% wt ) for Before." type="entailed">
+  </statement>
+  <statement id="4" text="SiO 2 (% wt ) Before is 4.2." type="refuted">
+  </statement>
+  <statement id="5" text="Na 2 O/Al 2 O 3 (mol/mol) Before is 0.8." type="refuted">
+  </statement>
+ </statements>
+</Table 4>

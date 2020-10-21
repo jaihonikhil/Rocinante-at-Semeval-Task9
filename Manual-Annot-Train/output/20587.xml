@@ -1,0 +1,630 @@
+<Table 3>
+ <caption text="
+
+   Model estimates explaining the effect of field percentage on nest predation in mammal and avian predator species. Intercept includes the field percentage of the nests predated by the raccoon dog.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Estimate">
+  </cell>
+  <cell col="2" row="0" text="SE">
+  </cell>
+  <cell col="3" row="0" text="t
+     
+     -value">
+  </cell>
+  <cell col="4" row="0" text="P">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Intercept (raccoon dog)">
+  </cell>
+  <cell col="1" row="1" text="25.617">
+  </cell>
+  <cell col="2" row="1" text="4.447">
+  </cell>
+  <cell col="3" row="1" text="5.760">
+  </cell>
+  <cell col="4" row="1" text="&lt; 0.001">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Martes
+     
+     spp.">
+  </cell>
+  <cell col="1" row="2" text="-9.388">
+  </cell>
+  <cell col="2" row="2" text="7.262">
+  </cell>
+  <cell col="3" row="2" text="-1.293">
+  </cell>
+  <cell col="4" row="2" text="0.198">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="European badger">
+  </cell>
+  <cell col="1" row="3" text="17.399">
+  </cell>
+  <cell col="2" row="3" text="9.944">
+  </cell>
+  <cell col="3" row="3" text="1.750">
+  </cell>
+  <cell col="4" row="3" text="0.083">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Red fox">
+  </cell>
+  <cell col="1" row="4" text="36.732">
+  </cell>
+  <cell col="2" row="4" text="7.466">
+  </cell>
+  <cell col="3" row="4" text="4.920">
+  </cell>
+  <cell col="4" row="4" text="&lt; 0.001">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Hooded crow">
+  </cell>
+  <cell col="1" row="5" text="23.727">
+  </cell>
+  <cell col="2" row="5" text="5.781">
+  </cell>
+  <cell col="3" row="5" text="4.104">
+  </cell>
+  <cell col="4" row="5" text="&lt; 0.001">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Eurasian magpie">
+  </cell>
+  <cell col="1" row="6" text="24.084">
+  </cell>
+  <cell col="2" row="6" text="5.704">
+  </cell>
+  <cell col="3" row="6" text="4.222">
+  </cell>
+  <cell col="4" row="6" text="&lt; 0.001">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Common raven">
+  </cell>
+  <cell col="1" row="7" text="-8.622">
+  </cell>
+  <cell col="2" row="7" text="8.734">
+  </cell>
+  <cell col="3" row="7" text="-0.987">
+  </cell>
+  <cell col="4" row="7" text="0.325">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Eurasian jay">
+  </cell>
+  <cell col="1" row="8" text="-9.487">
+  </cell>
+  <cell col="2" row="8" text="7.703">
+  </cell>
+  <cell col="3" row="8" text="-1.232">
+  </cell>
+  <cell col="4" row="8" text="0.220">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Western marsh harrier">
+  </cell>
+  <cell col="1" row="9" text="18.052">
+  </cell>
+  <cell col="2" row="9" text="7.262">
+  </cell>
+  <cell col="3" row="9" text="2.486">
+  </cell>
+  <cell col="4" row="9" text="0.014">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Gulls">
+  </cell>
+  <cell col="1" row="10" text="58.061">
+  </cell>
+  <cell col="2" row="10" text="9.258">
+  </cell>
+  <cell col="3" row="10" text="6.272">
+  </cell>
+  <cell col="4" row="10" text="&lt; 0.001">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="">
+  </cell>
+  <cell col="1" row="11" text="">
+  </cell>
+  <cell col="2" row="11" text="">
+  </cell>
+  <cell col="3" row="11" text="">
+  </cell>
+  <cell col="4" row="11" text="">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Gulls has highest Estimate value of 58.061." type="entailed">
+  </statement>
+  <statement id="1" text="Common raven has lowest P value of 0.377." type="refuted">
+  </statement>
+  <statement id="2" text="Gulls has lowest t-value of 7.277." type="refuted">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Model estimates for the daily survival rate of artificial nests on lake and pond shoreline. Day = exposure day, Habitat = a three-level factor, representing forest (Intercept), lake shoreline and wetland, Field = a two-level factor, representing low %Field (low percentage area of field cover around the nest; Intercept) and high %Field. Random effect standard deviation for Nest ID in Finland = 0.925.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Model">
+  </cell>
+  <cell col="1" row="0" text="Estimate">
+  </cell>
+  <cell col="2" row="0" text="SE">
+  </cell>
+  <cell col="3" row="0" text="z-value">
+  </cell>
+  <cell col="4" row="0" text="P">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Finland">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+  <cell col="3" row="1" text="">
+  </cell>
+  <cell col="4" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="(Intercept)">
+  </cell>
+  <cell col="1" row="2" text="3.487">
+  </cell>
+  <cell col="2" row="2" text="0.500">
+  </cell>
+  <cell col="3" row="2" text="6.965">
+  </cell>
+  <cell col="4" row="2" text="&lt; 0.001">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Day">
+  </cell>
+  <cell col="1" row="3" text="0.431">
+  </cell>
+  <cell col="2" row="3" text="0.079">
+  </cell>
+  <cell col="3" row="3" text="5.473">
+  </cell>
+  <cell col="4" row="3" text="&lt; 0.001">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Habitat: Shoreline">
+  </cell>
+  <cell col="1" row="4" text="-1.288">
+  </cell>
+  <cell col="2" row="4" text="0.394">
+  </cell>
+  <cell col="3" row="4" text="-3.268">
+  </cell>
+  <cell col="4" row="4" text="0.001">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Habitat: Wetland">
+  </cell>
+  <cell col="1" row="5" text="-0.056">
+  </cell>
+  <cell col="2" row="5" text="0.366">
+  </cell>
+  <cell col="3" row="5" text="-0.153">
+  </cell>
+  <cell col="4" row="5" text="0.878">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="High %Field">
+  </cell>
+  <cell col="1" row="6" text="-2.053">
+  </cell>
+  <cell col="2" row="6" text="0.378">
+  </cell>
+  <cell col="3" row="6" text="-5.435">
+  </cell>
+  <cell col="4" row="6" text="&lt; 0.001">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Denmark">
+  </cell>
+  <cell col="1" row="7" text="">
+  </cell>
+  <cell col="2" row="7" text="">
+  </cell>
+  <cell col="3" row="7" text="">
+  </cell>
+  <cell col="4" row="7" text="">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="(Intercept)">
+  </cell>
+  <cell col="1" row="8" text="3.862">
+  </cell>
+  <cell col="2" row="8" text="0.747">
+  </cell>
+  <cell col="3" row="8" text="5.172">
+  </cell>
+  <cell col="4" row="8" text="&lt; 0.001">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Day">
+  </cell>
+  <cell col="1" row="9" text="0.567">
+  </cell>
+  <cell col="2" row="9" text="0.086">
+  </cell>
+  <cell col="3" row="9" text="6.620">
+  </cell>
+  <cell col="4" row="9" text="&lt; 0.001">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Habitat: Shoreline">
+  </cell>
+  <cell col="1" row="10" text="-1.420">
+  </cell>
+  <cell col="2" row="10" text="0.617">
+  </cell>
+  <cell col="3" row="10" text="-2.301">
+  </cell>
+  <cell col="4" row="10" text="0.021">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Habitat: Wetland">
+  </cell>
+  <cell col="1" row="11" text="-1.664">
+  </cell>
+  <cell col="2" row="11" text="0.626">
+  </cell>
+  <cell col="3" row="11" text="-2.658">
+  </cell>
+  <cell col="4" row="11" text="0.008">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="High %Field">
+  </cell>
+  <cell col="1" row="12" text="-1.253">
+  </cell>
+  <cell col="2" row="12" text="0.480">
+  </cell>
+  <cell col="3" row="12" text="-2.606">
+  </cell>
+  <cell col="4" row="12" text="0.009">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Random effect standard deviation for Nest ID in Finland = 0.925." type="entailed">
+  </statement>
+  <statement id="1" text="The p value for day Finland and Denmark are same &lt;0.001." type="entailed">
+  </statement>
+  <statement id="2" text="The SE values of Denmark in all regions are more than Finland." type="entailed">
+  </statement>
+  <statement id="5" text="The %Field had a significant negative effect on overall nest survival, both in Finland and Denmark" type="entailed">
+  </statement>
+  <statement id="7" text="The Finland and Denmark have five different fields." type="entailed">
+  </statement>
+  <statement id="8" text="The daily survival rate of artificial nests have unique ." type="entailed">
+  </statement>
+ </statements>
+</Table 2>
+<Table 1>
+ <caption text="
+
+   The number of artificial nests predated by different species in Finland and Denmark. In total the data consist of results from 208 and 125 nests from Finland and Denmark, respectively.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Species">
+  </cell>
+  <cell col="1" row="0" text="Denmark">
+  </cell>
+  <cell col="2" row="0" text="Finland">
+  </cell>
+  <cell col="3" row="0" text="Total">
+  </cell>
+  <cell col="4" row="0" text="Total %">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Mammalian predators">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+  <cell col="3" row="1" text="">
+  </cell>
+  <cell col="4" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Raccoon dog
+     
+      Nyctereutes procyonoides">
+  </cell>
+  <cell col="1" row="2" text="3">
+  </cell>
+  <cell col="2" row="2" text="17">
+  </cell>
+  <cell col="3" row="2" text="20">
+  </cell>
+  <cell col="4" row="2" text="13,2">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Red fox
+     
+      Vulpes vulpes">
+  </cell>
+  <cell col="1" row="3" text="10">
+  </cell>
+  <cell col="2" row="3" text="1">
+  </cell>
+  <cell col="3" row="3" text="11">
+  </cell>
+  <cell col="4" row="3" text="7,3">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Pine or stone marten
+     
+      Martes martes/foina">
+  </cell>
+  <cell col="1" row="4" text="5">
+  </cell>
+  <cell col="2" row="4" text="7">
+  </cell>
+  <cell col="3" row="4" text="12">
+  </cell>
+  <cell col="4" row="4" text="7,9">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="European badger
+     
+      Meles meles">
+  </cell>
+  <cell col="1" row="5" text="4">
+  </cell>
+  <cell col="2" row="5" text="1">
+  </cell>
+  <cell col="3" row="5" text="5">
+  </cell>
+  <cell col="4" row="5" text="3,3">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="American mink
+     
+      Neovison vison">
+  </cell>
+  <cell col="1" row="6" text="0">
+  </cell>
+  <cell col="2" row="6" text="1">
+  </cell>
+  <cell col="3" row="6" text="1">
+  </cell>
+  <cell col="4" row="6" text="0,7">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Domestic dog
+     
+      Canis lupus familiaris">
+  </cell>
+  <cell col="1" row="7" text="0">
+  </cell>
+  <cell col="2" row="7" text="1">
+  </cell>
+  <cell col="3" row="7" text="1">
+  </cell>
+  <cell col="4" row="7" text="0,7">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Avian predators">
+  </cell>
+  <cell col="1" row="8" text="">
+  </cell>
+  <cell col="2" row="8" text="">
+  </cell>
+  <cell col="3" row="8" text="">
+  </cell>
+  <cell col="4" row="8" text="">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Eurasian magpie
+     
+      Pica pica">
+  </cell>
+  <cell col="1" row="9" text="0">
+  </cell>
+  <cell col="2" row="9" text="31">
+  </cell>
+  <cell col="3" row="9" text="31">
+  </cell>
+  <cell col="4" row="9" text="20,5">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Hooded crow
+     
+      Corvus corone cornix">
+  </cell>
+  <cell col="1" row="10" text="12">
+  </cell>
+  <cell col="2" row="10" text="17">
+  </cell>
+  <cell col="3" row="10" text="29">
+  </cell>
+  <cell col="4" row="10" text="19,2">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Western marsh harrier
+     
+      Circus aeruginosus">
+  </cell>
+  <cell col="1" row="11" text="11">
+  </cell>
+  <cell col="2" row="11" text="1">
+  </cell>
+  <cell col="3" row="11" text="12">
+  </cell>
+  <cell col="4" row="11" text="7,9">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Eurasian jay
+     
+      Garrulus glandarius">
+  </cell>
+  <cell col="1" row="12" text="2">
+  </cell>
+  <cell col="2" row="12" text="8">
+  </cell>
+  <cell col="3" row="12" text="10">
+  </cell>
+  <cell col="4" row="12" text="6,6">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Common raven
+     
+      Corvus corax">
+  </cell>
+  <cell col="1" row="13" text="2">
+  </cell>
+  <cell col="2" row="13" text="5">
+  </cell>
+  <cell col="3" row="13" text="7">
+  </cell>
+  <cell col="4" row="13" text="4,6">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Common gull
+     
+      Larus canus">
+  </cell>
+  <cell col="1" row="14" text="4">
+  </cell>
+  <cell col="2" row="14" text="0">
+  </cell>
+  <cell col="3" row="14" text="4">
+  </cell>
+  <cell col="4" row="14" text="2,6">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="Herring gull
+     
+      Larus argentatus">
+  </cell>
+  <cell col="1" row="15" text="1">
+  </cell>
+  <cell col="2" row="15" text="0">
+  </cell>
+  <cell col="3" row="15" text="1">
+  </cell>
+  <cell col="4" row="15" text="0,7">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="Great black-backed gull
+     
+      Larus marinus">
+  </cell>
+  <cell col="1" row="16" text="1">
+  </cell>
+  <cell col="2" row="16" text="0">
+  </cell>
+  <cell col="3" row="16" text="1">
+  </cell>
+  <cell col="4" row="16" text="0,7">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="Common crane
+     
+      Grus Grus">
+  </cell>
+  <cell col="1" row="17" text="0">
+  </cell>
+  <cell col="2" row="17" text="1">
+  </cell>
+  <cell col="3" row="17" text="1">
+  </cell>
+  <cell col="4" row="17" text="0,7">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="Unknown">
+  </cell>
+  <cell col="1" row="18" text="2">
+  </cell>
+  <cell col="2" row="18" text="3">
+  </cell>
+  <cell col="3" row="18" text="5">
+  </cell>
+  <cell col="4" row="18" text="3,3">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="Sum">
+  </cell>
+  <cell col="1" row="19" text="57">
+  </cell>
+  <cell col="2" row="19" text="94">
+  </cell>
+  <cell col="3" row="19" text="151">
+  </cell>
+  <cell col="4" row="19" text="100">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="Finland is having highest Sum of 94 nests." type="entailed">
+  </statement>
+  <statement id="3" text="The nests in Finland ranges from 0 to 31." type="entailed">
+  </statement>
+  <statement id="5" text="The nests in Denmark ranges from 0 to 12." type="refuted">
+  </statement>
+  <statement id="7" text="From the 333 nests, 151 (45%) were predated (in Finland 45% and in Denmark 46%), involving 16 species of primary predators ( Table 1 ., Appendix E)." type="entailed">
+  </statement>
+ </statements>
+</Table 1>

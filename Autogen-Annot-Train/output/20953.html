@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="tbl1" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 1
+       </label>
+<caption id="d1e383">
+<simple-para id="d1e384" view="all">
+         Matrix types in
+         <small-caps>
+          Dune-ISTL
+         </small-caps>
+         , the first three matrix types cannot be used as a block matrices.
+        </simple-para>
+</caption>
+<tgroup cols="2">
+<colspec align="left" colname="col1" colnum="1"/>
+<colspec align="left" colname="col2" colnum="2"/>
+<thead>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Class
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Implements
+          </td>
+</tr>
+</thead>
+<tbody>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           FieldMatrix
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           (small) matrix with size known at compile time
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           DiagonalMatrix
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Storage optimal representation of a diagonal matrix with size known at compile time
+          </td>
+</tr>
+<tr trsep="1" valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           ScaledIdentityMatrix
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Storage optimal representation of a scaled identity matrix with size known at compile time
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           BCRSMatrix
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           (block) compressed tr storage matrix
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           BDMatrix
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           (block) diagonal matrix
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           BTDMatrix
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           (block) tri-diagonal matrix
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Matrix
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Generic dynamic dense (block) matrix
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           MultiTypeBlockMatrix
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Dense block matrix with differing block type known at compile time
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html>
+<!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="tbl2" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 2
+       </label>
+<caption id="d1e442">
+<simple-para id="d1e443" view="all">
+         Vector types in
+         <small-caps>
+          Dune-ISTL
+         </small-caps>
+         , the first vector type cannot be used as a block vector.
+        </simple-para>
+</caption>
+<tgroup cols="2">
+<colspec align="left" colname="col1" colnum="1"/>
+<colspec align="left" colname="col2" colnum="2"/>
+<thead>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Class
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Implements
+          </td>
+</tr>
+</thead>
+<tbody>
+<tr trsep="1" valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           FieldVector
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           (small) vector with size known at compile time
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           BVector
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           (block) vector, blocks have same size
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           VariableBlockVector
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Block vector where each block may vary in size
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           MultiTypeBlockVector
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Block vector with differing block type known at compile time
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html>

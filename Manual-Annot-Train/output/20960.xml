@@ -1,0 +1,614 @@
+<Table 4>
+ <caption text="
+
+   Detailed performance on Pascal VOC 2012 test set.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Method">
+  </cell>
+  <cell col="1" row="0" text="Aero">
+  </cell>
+  <cell col="2" row="0" text="Bike">
+  </cell>
+  <cell col="3" row="0" text="Bird">
+  </cell>
+  <cell col="4" row="0" text="Boat">
+  </cell>
+  <cell col="5" row="0" text="Bottle">
+  </cell>
+  <cell col="6" row="0" text="Bus">
+  </cell>
+  <cell col="7" row="0" text="Car">
+  </cell>
+  <cell col="8" row="0" text="Cat">
+  </cell>
+  <cell col="9" row="0" text="Chair">
+  </cell>
+  <cell col="10" row="0" text="Cow">
+  </cell>
+  <cell col="11" row="0" text="Table">
+  </cell>
+  <cell col="12" row="0" text="Dog">
+  </cell>
+  <cell col="13" row="0" text="Horse">
+  </cell>
+  <cell col="14" row="0" text="Mbike">
+  </cell>
+  <cell col="15" row="0" text="Person">
+  </cell>
+  <cell col="16" row="0" text="Plant">
+  </cell>
+  <cell col="17" row="0" text="Sheep">
+  </cell>
+  <cell col="18" row="0" text="Sofa">
+  </cell>
+  <cell col="19" row="0" text="Train">
+  </cell>
+  <cell col="20" row="0" text="Tv">
+  </cell>
+  <cell col="21" row="0" text="mIoU(%)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="FCN
+     
+      [5]">
+  </cell>
+  <cell col="1" row="1" text="76.8">
+  </cell>
+  <cell col="2" row="1" text="34.2">
+  </cell>
+  <cell col="3" row="1" text="68.9">
+  </cell>
+  <cell col="4" row="1" text="49.4">
+  </cell>
+  <cell col="5" row="1" text="60.3">
+  </cell>
+  <cell col="6" row="1" text="75.3">
+  </cell>
+  <cell col="7" row="1" text="74.7">
+  </cell>
+  <cell col="8" row="1" text="77.6">
+  </cell>
+  <cell col="9" row="1" text="21.4">
+  </cell>
+  <cell col="10" row="1" text="62.5">
+  </cell>
+  <cell col="11" row="1" text="46.8">
+  </cell>
+  <cell col="12" row="1" text="71.8">
+  </cell>
+  <cell col="13" row="1" text="63.9">
+  </cell>
+  <cell col="14" row="1" text="76.5">
+  </cell>
+  <cell col="15" row="1" text="73.9">
+  </cell>
+  <cell col="16" row="1" text="45.2">
+  </cell>
+  <cell col="17" row="1" text="72.4">
+  </cell>
+  <cell col="18" row="1" text="37.4">
+  </cell>
+  <cell col="19" row="1" text="70.9">
+  </cell>
+  <cell col="20" row="1" text="55.1">
+  </cell>
+  <cell col="21" row="1" text="62.2">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="DeepLabv2
+     
+      [10]">
+  </cell>
+  <cell col="1" row="2" text="84.4">
+  </cell>
+  <cell col="2" row="2" text="54.5">
+  </cell>
+  <cell col="3" row="2" text="81.5">
+  </cell>
+  <cell col="4" row="2" text="63.6">
+  </cell>
+  <cell col="5" row="2" text="65.9">
+  </cell>
+  <cell col="6" row="2" text="85.1">
+  </cell>
+  <cell col="7" row="2" text="79.1">
+  </cell>
+  <cell col="8" row="2" text="83.4">
+  </cell>
+  <cell col="9" row="2" text="30.7">
+  </cell>
+  <cell col="10" row="2" text="74.1">
+  </cell>
+  <cell col="11" row="2" text="59.8">
+  </cell>
+  <cell col="12" row="2" text="79.0">
+  </cell>
+  <cell col="13" row="2" text="76.1">
+  </cell>
+  <cell col="14" row="2" text="83.27">
+  </cell>
+  <cell col="15" row="2" text="80.8">
+  </cell>
+  <cell col="16" row="2" text="59.7">
+  </cell>
+  <cell col="17" row="2" text="82.2">
+  </cell>
+  <cell col="18" row="2" text="50.4">
+  </cell>
+  <cell col="19" row="2" text="73.1">
+  </cell>
+  <cell col="20" row="2" text="63.7">
+  </cell>
+  <cell col="21" row="2" text="71.6">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="CRF-RNN
+     
+      [36]">
+  </cell>
+  <cell col="1" row="3" text="87.5">
+  </cell>
+  <cell col="2" row="3" text="39.0">
+  </cell>
+  <cell col="3" row="3" text="79.7">
+  </cell>
+  <cell col="4" row="3" text="64.2">
+  </cell>
+  <cell col="5" row="3" text="68.3">
+  </cell>
+  <cell col="6" row="3" text="87.6">
+  </cell>
+  <cell col="7" row="3" text="80.8">
+  </cell>
+  <cell col="8" row="3" text="84.4">
+  </cell>
+  <cell col="9" row="3" text="30.4">
+  </cell>
+  <cell col="10" row="3" text="78.2">
+  </cell>
+  <cell col="11" row="3" text="60.4">
+  </cell>
+  <cell col="12" row="3" text="80.5">
+  </cell>
+  <cell col="13" row="3" text="77.8">
+  </cell>
+  <cell col="14" row="3" text="83.1">
+  </cell>
+  <cell col="15" row="3" text="80.6">
+  </cell>
+  <cell col="16" row="3" text="59.5">
+  </cell>
+  <cell col="17" row="3" text="82.8">
+  </cell>
+  <cell col="18" row="3" text="47.8">
+  </cell>
+  <cell col="19" row="3" text="78.3">
+  </cell>
+  <cell col="20" row="3" text="67.1">
+  </cell>
+  <cell col="21" row="3" text="72.0">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="DeconvNet
+     
+      [32]">
+  </cell>
+  <cell col="1" row="4" text="89.9">
+  </cell>
+  <cell col="2" row="4" text="39.3">
+  </cell>
+  <cell col="3" row="4" text="79.7">
+  </cell>
+  <cell col="4" row="4" text="63.9">
+  </cell>
+  <cell col="5" row="4" text="68.2">
+  </cell>
+  <cell col="6" row="4" text="87.4">
+  </cell>
+  <cell col="7" row="4" text="81.2">
+  </cell>
+  <cell col="8" row="4" text="86.1">
+  </cell>
+  <cell col="9" row="4" text="28.5">
+  </cell>
+  <cell col="10" row="4" text="77.0">
+  </cell>
+  <cell col="11" row="4" text="62.0">
+  </cell>
+  <cell col="12" row="4" text="79.0">
+  </cell>
+  <cell col="13" row="4" text="80.3">
+  </cell>
+  <cell col="14" row="4" text="83.6">
+  </cell>
+  <cell col="15" row="4" text="80.2">
+  </cell>
+  <cell col="16" row="4" text="58.8">
+  </cell>
+  <cell col="17" row="4" text="83.4">
+  </cell>
+  <cell col="18" row="4" text="54.3">
+  </cell>
+  <cell col="19" row="4" text="80.7">
+  </cell>
+  <cell col="20" row="4" text="65.0">
+  </cell>
+  <cell col="21" row="4" text="72.5">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="DPN
+     
+      [4]">
+  </cell>
+  <cell col="1" row="5" text="87.7">
+  </cell>
+  <cell col="2" row="5" text="59.4">
+  </cell>
+  <cell col="3" row="5" text="78.4">
+  </cell>
+  <cell col="4" row="5" text="64.9">
+  </cell>
+  <cell col="5" row="5" text="70.3">
+  </cell>
+  <cell col="6" row="5" text="89.3">
+  </cell>
+  <cell col="7" row="5" text="83.5">
+  </cell>
+  <cell col="8" row="5" text="86.1">
+  </cell>
+  <cell col="9" row="5" text="31.7">
+  </cell>
+  <cell col="10" row="5" text="79.9">
+  </cell>
+  <cell col="11" row="5" text="62.6">
+  </cell>
+  <cell col="12" row="5" text="81.9">
+  </cell>
+  <cell col="13" row="5" text="80.0">
+  </cell>
+  <cell col="14" row="5" text="83.5">
+  </cell>
+  <cell col="15" row="5" text="82.3">
+  </cell>
+  <cell col="16" row="5" text="60.5">
+  </cell>
+  <cell col="17" row="5" text="83.2">
+  </cell>
+  <cell col="18" row="5" text="53.4">
+  </cell>
+  <cell col="19" row="5" text="77.9">
+  </cell>
+  <cell col="20" row="5" text="65.0">
+  </cell>
+  <cell col="21" row="5" text="74.1">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Piecewise
+     
+      [37]">
+  </cell>
+  <cell col="1" row="6" text="90.6">
+  </cell>
+  <cell col="2" row="6" text="37.6">
+  </cell>
+  <cell col="3" row="6" text="80.0">
+  </cell>
+  <cell col="4" row="6" text="67.8">
+  </cell>
+  <cell col="5" row="6" text="74.4">
+  </cell>
+  <cell col="6" row="6" text="92.0">
+  </cell>
+  <cell col="7" row="6" text="85.2">
+  </cell>
+  <cell col="8" row="6" text="86.2">
+  </cell>
+  <cell col="9" row="6" text="39.1">
+  </cell>
+  <cell col="10" row="6" text="81.2">
+  </cell>
+  <cell col="11" row="6" text="58.9">
+  </cell>
+  <cell col="12" row="6" text="83.8">
+  </cell>
+  <cell col="13" row="6" text="83.9">
+  </cell>
+  <cell col="14" row="6" text="84.3">
+  </cell>
+  <cell col="15" row="6" text="84.8">
+  </cell>
+  <cell col="16" row="6" text="62.1">
+  </cell>
+  <cell col="17" row="6" text="83.2">
+  </cell>
+  <cell col="18" row="6" text="58.2">
+  </cell>
+  <cell col="19" row="6" text="80.8">
+  </cell>
+  <cell col="20" row="6" text="72.3">
+  </cell>
+  <cell col="21" row="6" text="75.3">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="PSPNet
+     
+      [9]">
+  </cell>
+  <cell col="1" row="7" text="91.8">
+  </cell>
+  <cell col="2" row="7" text="71.9">
+  </cell>
+  <cell col="3" row="7" text="94.7">
+  </cell>
+  <cell col="4" row="7" text="71.2">
+  </cell>
+  <cell col="5" row="7" text="75.8">
+  </cell>
+  <cell col="6" row="7" text="95.2">
+  </cell>
+  <cell col="7" row="7" text="89.9">
+  </cell>
+  <cell col="8" row="7" text="95.9">
+  </cell>
+  <cell col="9" row="7" text="39.3">
+  </cell>
+  <cell col="10" row="7" text="90.7">
+  </cell>
+  <cell col="11" row="7" text="71.7">
+  </cell>
+  <cell col="12" row="7" text="90.5">
+  </cell>
+  <cell col="13" row="7" text="94.5">
+  </cell>
+  <cell col="14" row="7" text="88.8">
+  </cell>
+  <cell col="15" row="7" text="89.6">
+  </cell>
+  <cell col="16" row="7" text="72.8">
+  </cell>
+  <cell col="17" row="7" text="89.6">
+  </cell>
+  <cell col="18" row="7" text="64.0">
+  </cell>
+  <cell col="19" row="7" text="85.1">
+  </cell>
+  <cell col="20" row="7" text="76.3">
+  </cell>
+  <cell col="21" row="7" text="82.6">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="EncNet
+     
+      [26]">
+  </cell>
+  <cell col="1" row="8" text="94.1">
+  </cell>
+  <cell col="2" row="8" text="69.2">
+  </cell>
+  <cell col="3" row="8" text="96.3">
+  </cell>
+  <cell col="4" row="8" text="76.7">
+  </cell>
+  <cell col="5" row="8" text="86.2">
+  </cell>
+  <cell col="6" row="8" text="96.3">
+  </cell>
+  <cell col="7" row="8" text="90.7">
+  </cell>
+  <cell col="8" row="8" text="94.2">
+  </cell>
+  <cell col="9" row="8" text="38.8">
+  </cell>
+  <cell col="10" row="8" text="90.7">
+  </cell>
+  <cell col="11" row="8" text="73.3">
+  </cell>
+  <cell col="12" row="8" text="90.0">
+  </cell>
+  <cell col="13" row="8" text="92.5">
+  </cell>
+  <cell col="14" row="8" text="88.8">
+  </cell>
+  <cell col="15" row="8" text="87.9">
+  </cell>
+  <cell col="16" row="8" text="68.7">
+  </cell>
+  <cell col="17" row="8" text="92.6">
+  </cell>
+  <cell col="18" row="8" text="59.0">
+  </cell>
+  <cell col="19" row="8" text="86.4">
+  </cell>
+  <cell col="20" row="8" text="73.4">
+  </cell>
+  <cell col="21" row="8" text="82.9">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="PCANet">
+  </cell>
+  <cell col="1" row="9" text="93.8">
+  </cell>
+  <cell col="2" row="9" text="74.7">
+  </cell>
+  <cell col="3" row="9" text="95.6">
+  </cell>
+  <cell col="4" row="9" text="72.0">
+  </cell>
+  <cell col="5" row="9" text="86.9">
+  </cell>
+  <cell col="6" row="9" text="95.2">
+  </cell>
+  <cell col="7" row="9" text="92.3">
+  </cell>
+  <cell col="8" row="9" text="96.3">
+  </cell>
+  <cell col="9" row="9" text="39.2">
+  </cell>
+  <cell col="10" row="9" text="92.5">
+  </cell>
+  <cell col="11" row="9" text="75.6">
+  </cell>
+  <cell col="12" row="9" text="93.7">
+  </cell>
+  <cell col="13" row="9" text="95.8">
+  </cell>
+  <cell col="14" row="9" text="90.3">
+  </cell>
+  <cell col="15" row="9" text="89.1">
+  </cell>
+  <cell col="16" row="9" text="71.8">
+  </cell>
+  <cell col="17" row="9" text="94.1">
+  </cell>
+  <cell col="18" row="9" text="61.0">
+  </cell>
+  <cell col="19" row="9" text="85.3">
+  </cell>
+  <cell col="20" row="9" text="76.9">
+  </cell>
+  <cell col="21" row="9" text="84.2">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="FCN Method will have Less Chair." type="entailed">
+  </statement>
+  <statement id="3" text="More details of final result as listed in Table 4 ." type="entailed">
+  </statement>
+ </statements>
+</Table 4>
+<Table 5>
+ <caption text="
+
+   Detailed performance on Cityscapes test set. Coarse: Use the extra 20,000 coarsely annotated training images.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Method">
+  </cell>
+  <cell col="1" row="0" text="Coarse">
+  </cell>
+  <cell col="2" row="0" text="Mean IoU(%)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="DeepLabv2-CRF
+     
+      [11]">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="70.4">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="LRR-4
+     
+     ×
+     
+      [38]">
+  </cell>
+  <cell col="1" row="2" text="✓">
+  </cell>
+  <cell col="2" row="2" text="71.8">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="RefineNet
+     
+      [33]">
+  </cell>
+  <cell col="1" row="3" text="">
+  </cell>
+  <cell col="2" row="3" text="73.6">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="DUC
+     
+      [12]">
+  </cell>
+  <cell col="1" row="4" text="">
+  </cell>
+  <cell col="2" row="4" text="77.6">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="PSPNet
+     
+      [9]">
+  </cell>
+  <cell col="1" row="5" text="">
+  </cell>
+  <cell col="2" row="5" text="78.4">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="PAN
+     
+      [19]">
+  </cell>
+  <cell col="1" row="6" text="">
+  </cell>
+  <cell col="2" row="6" text="78.6">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="BiSeNet
+     
+      [25]">
+  </cell>
+  <cell col="1" row="7" text="">
+  </cell>
+  <cell col="2" row="7" text="78.9">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="SegNet
+     
+      [39]">
+  </cell>
+  <cell col="1" row="8" text="✓">
+  </cell>
+  <cell col="2" row="8" text="79.2">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="DFN
+     
+      [18]">
+  </cell>
+  <cell col="1" row="9" text="">
+  </cell>
+  <cell col="2" row="9" text="79.3">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="PCANet">
+  </cell>
+  <cell col="1" row="10" text="">
+  </cell>
+  <cell col="2" row="10" text="80.1">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are ten methods given in the table." type="entailed">
+  </statement>
+  <statement id="2" text="Mean percentage is different for each method." type="entailed">
+  </statement>
+  <statement id="4" text="Coarse are marked only for RefineNet method." type="refuted">
+  </statement>
+ </statements>
+</Table 5>

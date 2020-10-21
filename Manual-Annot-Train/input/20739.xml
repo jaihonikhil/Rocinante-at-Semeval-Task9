@@ -1,0 +1,436 @@
+<Table 1>
+ <caption text="
+
+   Physical and mechanical properties of granite dust.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="№">
+  </cell>
+  <cell col="1" row="0" text="Specification">
+  </cell>
+  <cell col="2" row="0" text="Value">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1">
+  </cell>
+  <cell col="1" row="1" text="Specific surface, m
+     
+      2
+     
+     /kg">
+  </cell>
+  <cell col="2" row="1" text="220 … 250">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2">
+  </cell>
+  <cell col="1" row="2" text="Bulk density, kg/m
+     
+      3">
+  </cell>
+  <cell col="2" row="2" text="920 … 970">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3">
+  </cell>
+  <cell col="1" row="3" text="Clay content, %">
+  </cell>
+  <cell col="2" row="3" text="0,2 … 0.5">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4">
+  </cell>
+  <cell col="1" row="4" text="Humidity, %">
+  </cell>
+  <cell col="2" row="4" text="0,3 … 0,5">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="5">
+  </cell>
+  <cell col="1" row="5" text="Water soluble contaminants, %">
+  </cell>
+  <cell col="2" row="5" text="none">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are five different Specification." type="">
+  </statement>
+  <statement id="1" text="Bulk density, kg/m 3 has the value of 920 ... 970." type="">
+  </statement>
+  <statement id="2" text="Clay content, % ha the value of 0,2 ... 0.5." type="">
+  </statement>
+  <statement id="3" text="Specific surface, m 2 /kg has the value of 110 ... 150." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   Experimental results of the studied compositions of concrete mixtures.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Mix number">
+  </cell>
+  <cell col="1" row="0" text="Slump cone, cm">
+  </cell>
+  <cell col="2" row="0" text="Average density, kg/m
+     
+      3">
+  </cell>
+  <cell col="3" row="0" text="Compressive strength, MPa">
+  </cell>
+  <cell col="8" row="0" text="Water penetration, mm">
+  </cell>
+  <cell col="9" row="0" text="Water absorption, %">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="3" row="1" text="3 days">
+  </cell>
+  <cell col="4" row="1" text="7 days">
+  </cell>
+  <cell col="5" row="1" text="28 days">
+  </cell>
+  <cell col="6" row="1" text="90 days">
+  </cell>
+  <cell col="7" row="1" text="180 days">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="42,5-G0">
+  </cell>
+  <cell col="1" row="2" text="12">
+  </cell>
+  <cell col="2" row="2" text="2344">
+  </cell>
+  <cell col="3" row="2" text="28,8">
+  </cell>
+  <cell col="4" row="2" text="37,4">
+  </cell>
+  <cell col="5" row="2" text="44,8">
+  </cell>
+  <cell col="6" row="2" text="53,5">
+  </cell>
+  <cell col="7" row="2" text="61,2">
+  </cell>
+  <cell col="8" row="2" text="67">
+  </cell>
+  <cell col="9" row="2" text="4,92">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="32,5-G0">
+  </cell>
+  <cell col="1" row="3" text="11">
+  </cell>
+  <cell col="2" row="3" text="2325">
+  </cell>
+  <cell col="3" row="3" text="21,0">
+  </cell>
+  <cell col="4" row="3" text="28,1">
+  </cell>
+  <cell col="5" row="3" text="35,4">
+  </cell>
+  <cell col="6" row="3" text="42,2">
+  </cell>
+  <cell col="7" row="3" text="50,1">
+  </cell>
+  <cell col="8" row="3" text="81">
+  </cell>
+  <cell col="9" row="3" text="4,86">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="42,5-G200">
+  </cell>
+  <cell col="1" row="4" text="16">
+  </cell>
+  <cell col="2" row="4" text="2376">
+  </cell>
+  <cell col="3" row="4" text="34,2">
+  </cell>
+  <cell col="4" row="4" text="43,7">
+  </cell>
+  <cell col="5" row="4" text="52,2">
+  </cell>
+  <cell col="6" row="4" text="59,1">
+  </cell>
+  <cell col="7" row="4" text="65,1">
+  </cell>
+  <cell col="8" row="4" text="27">
+  </cell>
+  <cell col="9" row="4" text="3,45">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="32,5-G200">
+  </cell>
+  <cell col="1" row="5" text="15">
+  </cell>
+  <cell col="2" row="5" text="2362">
+  </cell>
+  <cell col="3" row="5" text="26,3">
+  </cell>
+  <cell col="4" row="5" text="35,0">
+  </cell>
+  <cell col="5" row="5" text="43,0">
+  </cell>
+  <cell col="6" row="5" text="51,2">
+  </cell>
+  <cell col="7" row="5" text="57,8">
+  </cell>
+  <cell col="8" row="5" text="41">
+  </cell>
+  <cell col="9" row="5" text="3,90">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="42,5-G300">
+  </cell>
+  <cell col="1" row="6" text="15">
+  </cell>
+  <cell col="2" row="6" text="2408">
+  </cell>
+  <cell col="3" row="6" text="37,2">
+  </cell>
+  <cell col="4" row="6" text="46,3">
+  </cell>
+  <cell col="5" row="6" text="54,2">
+  </cell>
+  <cell col="6" row="6" text="60,4">
+  </cell>
+  <cell col="7" row="6" text="66,2">
+  </cell>
+  <cell col="8" row="6" text="18">
+  </cell>
+  <cell col="9" row="6" text="3,02">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="32,5-G300">
+  </cell>
+  <cell col="1" row="7" text="14,5">
+  </cell>
+  <cell col="2" row="7" text="2385">
+  </cell>
+  <cell col="3" row="7" text="27,8">
+  </cell>
+  <cell col="4" row="7" text="39,8">
+  </cell>
+  <cell col="5" row="7" text="47,1">
+  </cell>
+  <cell col="6" row="7" text="52,2">
+  </cell>
+  <cell col="7" row="7" text="58,4">
+  </cell>
+  <cell col="8" row="7" text="31">
+  </cell>
+  <cell col="9" row="7" text="3,30">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Water absorption, % level will high for 42,5-G0 Mix number." type="">
+  </statement>
+  <statement id="1" text="Average density will be from 2325 to 2408." type="">
+  </statement>
+  <statement id="2" text="There are 8 types of Unique Mix number." type="">
+  </statement>
+  <statement id="3" text="Compressive strength, MPa will have Same values for different number of days." type="">
+  </statement>
+  <statement id="5" text="After 72 h the samples were split and the depth of water penetration measured." type="">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Mix proportions of concrete.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Mix">
+  </cell>
+  <cell col="1" row="0" text="Component consumption, kg/m
+     
+      3">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="CEM I 42,5 R">
+  </cell>
+  <cell col="2" row="1" text="CEM I 32,5 R">
+  </cell>
+  <cell col="3" row="1" text="Granite dust">
+  </cell>
+  <cell col="4" row="1" text="Sand">
+  </cell>
+  <cell col="5" row="1" text="Coarse aggregate (granite, fraction)">
+  </cell>
+  <cell col="8" row="1" text="SP">
+  </cell>
+  <cell col="9" row="1" text="Water">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="5" row="2" text="6−8 mm">
+  </cell>
+  <cell col="6" row="2" text="8−11 mm">
+  </cell>
+  <cell col="7" row="2" text="11−16 mm">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="42,5-G0">
+  </cell>
+  <cell col="1" row="3" text="350">
+  </cell>
+  <cell col="2" row="3" text="–">
+  </cell>
+  <cell col="3" row="3" text="0">
+  </cell>
+  <cell col="4" row="3" text="730">
+  </cell>
+  <cell col="5" row="3" text="400">
+  </cell>
+  <cell col="6" row="3" text="400">
+  </cell>
+  <cell col="7" row="3" text="400">
+  </cell>
+  <cell col="8" row="3" text="3,5">
+  </cell>
+  <cell col="9" row="3" text="180">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="32,5-G0">
+  </cell>
+  <cell col="1" row="4" text="–">
+  </cell>
+  <cell col="2" row="4" text="350">
+  </cell>
+  <cell col="3" row="4" text="0">
+  </cell>
+  <cell col="4" row="4" text="730">
+  </cell>
+  <cell col="5" row="4" text="400">
+  </cell>
+  <cell col="6" row="4" text="400">
+  </cell>
+  <cell col="7" row="4" text="400">
+  </cell>
+  <cell col="8" row="4" text="3,5">
+  </cell>
+  <cell col="9" row="4" text="180">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="42,5-G200">
+  </cell>
+  <cell col="1" row="5" text="350">
+  </cell>
+  <cell col="2" row="5" text="–">
+  </cell>
+  <cell col="3" row="5" text="200">
+  </cell>
+  <cell col="4" row="5" text="530">
+  </cell>
+  <cell col="5" row="5" text="400">
+  </cell>
+  <cell col="6" row="5" text="400">
+  </cell>
+  <cell col="7" row="5" text="400">
+  </cell>
+  <cell col="8" row="5" text="3,5">
+  </cell>
+  <cell col="9" row="5" text="180">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="32,5-G200">
+  </cell>
+  <cell col="1" row="6" text="–">
+  </cell>
+  <cell col="2" row="6" text="350">
+  </cell>
+  <cell col="3" row="6" text="200">
+  </cell>
+  <cell col="4" row="6" text="530">
+  </cell>
+  <cell col="5" row="6" text="400">
+  </cell>
+  <cell col="6" row="6" text="400">
+  </cell>
+  <cell col="7" row="6" text="400">
+  </cell>
+  <cell col="8" row="6" text="3,5">
+  </cell>
+  <cell col="9" row="6" text="180">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="42,5-G300">
+  </cell>
+  <cell col="1" row="7" text="350">
+  </cell>
+  <cell col="2" row="7" text="–">
+  </cell>
+  <cell col="3" row="7" text="300">
+  </cell>
+  <cell col="4" row="7" text="430">
+  </cell>
+  <cell col="5" row="7" text="400">
+  </cell>
+  <cell col="6" row="7" text="400">
+  </cell>
+  <cell col="7" row="7" text="400">
+  </cell>
+  <cell col="8" row="7" text="3,5">
+  </cell>
+  <cell col="9" row="7" text="180">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="32,5-G300">
+  </cell>
+  <cell col="1" row="8" text="–">
+  </cell>
+  <cell col="2" row="8" text="350">
+  </cell>
+  <cell col="3" row="8" text="300">
+  </cell>
+  <cell col="4" row="8" text="430">
+  </cell>
+  <cell col="5" row="8" text="400">
+  </cell>
+  <cell col="6" row="8" text="400">
+  </cell>
+  <cell col="7" row="8" text="400">
+  </cell>
+  <cell col="8" row="8" text="3,5">
+  </cell>
+  <cell col="9" row="8" text="180">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="SP for all Mix is same 3,5." type="">
+  </statement>
+  <statement id="1" text="Water for all Mix is same 180." type="">
+  </statement>
+  <statement id="2" text="Sand for Mix 42,5-G0 is 430." type="">
+  </statement>
+  <statement id="3" text="CEM I 42,5 R for mix 32,5-G200 is 200." type="">
+  </statement>
+  <statement id="5" text="The components of concrete mixtures are shown in Table 2 ." type="">
+  </statement>
+ </statements>
+</Table 2>

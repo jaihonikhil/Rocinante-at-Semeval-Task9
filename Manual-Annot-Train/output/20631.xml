@@ -1,0 +1,158 @@
+<Table 1>
+ <caption text="
+
+   Output parameters from the parametric optimisation (Eq. (
+   )), for varying envelope widths
+   
+    δ
+   
+   when finding the optimal length (
+   
+    L
+   
+   ), width (
+   
+    W
+   
+   ), flange thickness (
+   
+    F
+   
+   ), web thickness (
+   
+    T
+   
+   ) and corner depth (
+   
+    C
+   
+   ). Units are pixels in the images in
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Initial">
+  </cell>
+  <cell col="2" row="0" text="δ
+     
+     = 2">
+  </cell>
+  <cell col="3" row="0" text="δ
+     
+     = 10">
+  </cell>
+  <cell col="4" row="0" text="δ
+     
+     = 20">
+  </cell>
+  <cell col="5" row="0" text="δ
+     
+     = 28">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="L">
+  </cell>
+  <cell col="1" row="1" text="80">
+  </cell>
+  <cell col="2" row="1" text="80">
+  </cell>
+  <cell col="3" row="1" text="83">
+  </cell>
+  <cell col="4" row="1" text="82">
+  </cell>
+  <cell col="5" row="1" text="69">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="W">
+  </cell>
+  <cell col="1" row="2" text="50">
+  </cell>
+  <cell col="2" row="2" text="50">
+  </cell>
+  <cell col="3" row="2" text="45">
+  </cell>
+  <cell col="4" row="2" text="47">
+  </cell>
+  <cell col="5" row="2" text="45">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="F">
+  </cell>
+  <cell col="1" row="3" text="9">
+  </cell>
+  <cell col="2" row="3" text="9">
+  </cell>
+  <cell col="3" row="3" text="9">
+  </cell>
+  <cell col="4" row="3" text="4">
+  </cell>
+  <cell col="5" row="3" text="5">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="T">
+  </cell>
+  <cell col="1" row="4" text="18">
+  </cell>
+  <cell col="2" row="4" text="18">
+  </cell>
+  <cell col="3" row="4" text="17">
+  </cell>
+  <cell col="4" row="4" text="22">
+  </cell>
+  <cell col="5" row="4" text="25">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="C">
+  </cell>
+  <cell col="1" row="5" text="1">
+  </cell>
+  <cell col="2" row="5" text="2">
+  </cell>
+  <cell col="3" row="5" text="2">
+  </cell>
+  <cell col="4" row="5" text="5">
+  </cell>
+  <cell col="5" row="5" text="4">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="E
+     
+
+
+       LL
+      
+
+
+      ∗">
+  </cell>
+  <cell col="1" row="6" text="3.08">
+  </cell>
+  <cell col="2" row="6" text="3.73">
+  </cell>
+  <cell col="3" row="6" text="3.76">
+  </cell>
+  <cell col="4" row="6" text="5.01">
+  </cell>
+  <cell col="5" row="6" text="5.21">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="The genetic algorithm optimisation is performed with four increasing envelope widths  (2, 10, 20 and 28 pixels) and using a = 0.5." type="entailed">
+  </statement>
+  <statement id="4" text="The corner depth ( C ) has lowest value at  = 2 that is 2." type="refuted">
+  </statement>
+  <statement id="5" text="At  = 10 L has highest value 83 ." type="entailed">
+  </statement>
+  <statement id="7" text="At  = 20 L has highest value 82 ." type="entailed">
+  </statement>
+ </statements>
+</Table 1>

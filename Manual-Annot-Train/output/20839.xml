@@ -1,0 +1,322 @@
+<Table 9>
+ <caption text="
+
+   Monte Carlo simulation parameters and results of validation.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Parameter">
+  </cell>
+  <cell col="1" row="0" text="Isotropic media (
+     
+      g
+     
+     = 0)">
+  </cell>
+  <cell col="2" row="0" text="Anisotropic media (
+     
+      g
+     
+     = 0.9)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Absorption coefficient (μ
+     
+      a
+     
+     , cm
+     
+      −1
+     
+     )">
+  </cell>
+  <cell col="1" row="1" text="0.1056">
+  </cell>
+  <cell col="2" row="1" text="0.1056">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Scattering coefficient (μ
+     
+      s
+     
+     , cm
+     
+      −1
+     
+     )">
+  </cell>
+  <cell col="1" row="2" text="2.529">
+  </cell>
+  <cell col="2" row="2" text="25.29">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Anisotropy factor (g)">
+  </cell>
+  <cell col="1" row="3" text="0">
+  </cell>
+  <cell col="2" row="3" text="0.9">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Refractive index">
+  </cell>
+  <cell col="1" row="4" text="1.35">
+  </cell>
+  <cell col="2" row="4" text="1.35">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Number of photons">
+  </cell>
+  <cell col="1" row="5" text="10
+     
+      6">
+  </cell>
+  <cell col="2" row="5" text="10
+     
+      6">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Beam radius, cm">
+  </cell>
+  <cell col="1" row="6" text="0.05">
+  </cell>
+  <cell col="2" row="6" text="0.05">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Limiting energy level for photons">
+  </cell>
+  <cell col="1" row="7" text="10
+     
+      −9">
+  </cell>
+  <cell col="2" row="7" text="10
+     
+      −9">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Observed radius, cm">
+  </cell>
+  <cell col="1" row="8" text="3">
+  </cell>
+  <cell col="2" row="8" text="3">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Spatial resolution, cm/pixel">
+  </cell>
+  <cell col="1" row="9" text="0.05">
+  </cell>
+  <cell col="2" row="9" text="0.05">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Correlation with diffusion model">
+  </cell>
+  <cell col="1" row="10" text="0.9903">
+  </cell>
+  <cell col="2" row="10" text="0.9529">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="RMSE with diffusion model, cm
+     
+      −2">
+  </cell>
+  <cell col="1" row="11" text="0.0534">
+  </cell>
+  <cell col="2" row="11" text="0.1744">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Scattering coefficient ( s , cm 1 ) has 2.529 as Isotropic media value." type="entailed">
+  </statement>
+  <statement id="3" text="Scattering coefficient ( s , cm 1 ) has 92.529 as Isotropic media value." type="refuted">
+  </statement>
+  <statement id="4" text="10.05 is eth Isotropic media value for Beam radius, cm." type="refuted">
+  </statement>
+  <statement id="6" text="= 0.1056 cm 1 and  s  = 2.529 cm 1 at 680 nm." type="entailed">
+  </statement>
+  <statement id="8" text="Simulation parameters are listed in Table 9 ." type="entailed">
+  </statement>
+ </statements>
+</Table 9>
+<Table 10>
+ <caption text="
+
+   Comparison of computer vision system measurement with simulation results.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Parameter">
+  </cell>
+  <cell col="1" row="0" text="Diffusion theory model">
+  </cell>
+  <cell col="2" row="0" text="Monte Carlo simulation">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="Isotropic media (
+     
+      g
+     
+     = 0)">
+  </cell>
+  <cell col="3" row="1" text="Anisotropic media (
+     
+      g
+     
+     = 0.9)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Correlation">
+  </cell>
+  <cell col="1" row="2" text="0.9937">
+  </cell>
+  <cell col="2" row="2" text="0.9532">
+  </cell>
+  <cell col="3" row="2" text="0.9867">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="RMSE, cm
+     
+      −2">
+  </cell>
+  <cell col="1" row="3" text="0.0947">
+  </cell>
+  <cell col="2" row="3" text="0.1421">
+  </cell>
+  <cell col="3" row="3" text="0.0942">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are two different Comparison of computer vision system measurement with simulation results." type="entailed">
+  </statement>
+  <statement id="1" text="Diffusion theory model for Parameter Correlation is 0.9937." type="entailed">
+  </statement>
+  <statement id="2" text="Diffusion theory model for Parameter RMSE, cm 2 is 0.0947." type="entailed">
+  </statement>
+ </statements>
+</Table 10>
+<Table 8>
+ <caption text="
+
+   Random vectors of R implementation of Monte Carlo simulation.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Vector name">
+  </cell>
+  <cell col="1" row="0" text="Value range">
+  </cell>
+  <cell col="2" row="0" text="Created by function">
+  </cell>
+  <cell col="3" row="0" text="Used by function">
+  </cell>
+  <cell col="4" row="0" text="Comment">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="rbr">
+  </cell>
+  <cell col="1" row="1" text="0 – r
+     
+      b
+     
+     *">
+  </cell>
+  <cell col="2" row="1" text="Setup">
+  </cell>
+  <cell col="3" row="1" text="Launch">
+  </cell>
+  <cell col="4" row="1" text="Launch position polar coordinate, radius in light beam">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="rba">
+  </cell>
+  <cell col="1" row="2" text="0 – 2π">
+  </cell>
+  <cell col="2" row="2" text="Setup">
+  </cell>
+  <cell col="3" row="2" text="Launch">
+  </cell>
+  <cell col="4" row="2" text="Launch position polar coordinate, angle">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="rmv">
+  </cell>
+  <cell col="1" row="3" text="0 – 1">
+  </cell>
+  <cell col="2" row="3" text="Randomize">
+  </cell>
+  <cell col="3" row="3" text="Move">
+  </cell>
+  <cell col="4" row="3" text="Length of straight segment of trajectory">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="rabs">
+  </cell>
+  <cell col="1" row="4" text="0 – 1">
+  </cell>
+  <cell col="2" row="4" text="Randomize">
+  </cell>
+  <cell col="3" row="4" text="Absorb">
+  </cell>
+  <cell col="4" row="4" text="Photon survival decision is made after interaction">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="rx1, rx2">
+  </cell>
+  <cell col="1" row="5" text="−1 – +1">
+  </cell>
+  <cell col="2" row="5" text="Randomize">
+  </cell>
+  <cell col="3" row="5" text="Scatter">
+  </cell>
+  <cell col="4" row="5" text="New direction coordinates after scattering">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="rmu">
+  </cell>
+  <cell col="1" row="6" text="0 – 1">
+  </cell>
+  <cell col="2" row="6" text="Randomize">
+  </cell>
+  <cell col="3" row="6" text="Scatter">
+  </cell>
+  <cell col="4" row="6" text="Anisotropic scattering by Henyey-Greenstein function">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Vector rbr has value range of 0  r b *." type="entailed">
+  </statement>
+  <statement id="1" text="Vector rbr and rba has same Used by function." type="entailed">
+  </statement>
+  <statement id="3" text="Vector rbr has value range of 0  2." type="refuted">
+  </statement>
+  <statement id="7" text="Trajectory random variables are generated in vectors with the length calculated from limiting energy and transport albedo ( Table 5 )." type="entailed">
+  </statement>
+  <statement id="8" text="Table 8 presents the random vectors used int the R implementation." type="entailed">
+  </statement>
+ </statements>
+</Table 8>

@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+elementFormDefault="qualified">
+
+<xs:element name="table">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="row">
+        <xs:complexType>
+          <xs:attribute name="row" type="xs:positiveInteger"/>
+          <xs:sequence>
+           <xs:element name="cell">
+             <xs:complexType>
+               <xs:attribute name="col" type="xs:positiveInteger"/>
+               <xs:attribute name="row" type="xs:positiveInteger"/>
+               <xs:attribute name="text" type="xs:string"/>
+               <xs:sequence>
+                 <xs:element name="evidence">
+                   <xs:simpleType>
+                     <xs:attribute name="statement_id" type="xs:positiveInteger"/>  
+                     <xs:attribute name="type" type="xs:string">               
+                       <xs:restriction base="xs:string">
+                         <xs:enumeration value="relevant"/>
+                         <xs:enumeration value="irrelevant"/>
+                       </xs:restriction>
+                    </xs:attribute>
+		   <xs:attribute name="version" type="xs:positiveInteger"/>  
+                  </xs:simpleType>
+                 </xs:element>
+               </xs:sequence>
+             </xs:complexType>
+           </xs:element>
+         </xs:sequence>
+       </xs:complexType>
+     </xs:element>
+   </xs:sequence>
+ </xs:complexType>
+<xs:element name="statements">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="statement">
+        <xs:simpleType>
+          <xs:attribute name="id" type="xs:positiveInteger"/>  
+          <xs:attribute name="text" type="xs:string"/>     
+          <xs:attribute name="type" type="xs:string">               
+            <xs:restriction base="xs:string">
+              <xs:enumeration value="entailed"/>
+              <xs:enumeration value="refuted"/>
+              <xs:enumeration value="unknown"/>
+            </xs:restriction>
+          </xs:attribute>
+        </xs:simpleType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+</xs:element>
+
+</xs:schema>

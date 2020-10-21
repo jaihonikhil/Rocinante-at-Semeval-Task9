@@ -1,0 +1,379 @@
+<Table 3>
+ <caption text="
+
+   Summarizing comparison between the hexachloroiridate and hexacyanoferrate redox couple.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Hexachloroiridate">
+  </cell>
+  <cell col="2" row="0" text="Hexacyanoferrate">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Reaction">
+  </cell>
+  <cell col="1" row="1" text="IrCl
+     
+      6
+     
+
+      3−
+     
+     ⇌ IrCl
+     
+      6
+     
+
+      2−
+     
+     + e
+     
+      −">
+  </cell>
+  <cell col="2" row="1" text="Fe(CN)
+     
+      6
+     
+
+      4−
+     
+     ⇌ Fe(CN)
+     
+      6
+     
+
+      3−
+     
+     + e
+     
+      −">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Redox potential">
+  </cell>
+  <cell col="1" row="2" text="+0.8665 V
+     
+      /SHE
+     
+     [
+     
+      4
+     
+     ]">
+  </cell>
+  <cell col="2" row="2" text="+0.358 V
+     
+      /SHE
+     
+     [
+     
+      4
+     
+     ]">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Reduction plateau (Pt)">
+  </cell>
+  <cell col="1" row="3" text="+0.75 V
+     
+      /SHE
+     
+     to −0.25 V
+     
+      /SHE">
+  </cell>
+  <cell col="2" row="3" text="+0.2 V
+     
+      /SHE
+     
+     to −0.6 V
+     
+      /SHE">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Oxidation plateau (Pt)">
+  </cell>
+  <cell col="1" row="4" text="+0.95 V
+     
+      /SHE
+     
+     to +1.1 V
+     
+      /SHE">
+  </cell>
+  <cell col="2" row="4" text="+0.5 V
+     
+      /SHE
+     
+     to +1.1 V
+     
+      /SHE">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Diffusion coefficient">
+  </cell>
+  <cell col="1" row="5" text="8.38 * 10
+     
+      −10
+     
+     m
+     
+      2
+     
+     /s">
+  </cell>
+  <cell col="2" row="5" text="6.09 * 10
+     
+      −10
+     
+     m
+     
+      2
+     
+     /s">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Solution pH">
+  </cell>
+  <cell col="1" row="6" text="pH &lt; 5">
+  </cell>
+  <cell col="2" row="6" text="Avoid strong acids">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Stability in solution:">
+  </cell>
+  <cell col="1" row="7" text="A few days to weeks [
+     
+      18
+     
+     ]">
+  </cell>
+  <cell col="2" row="7" text="Refresh daily [
+     
+      12
+     
+     ]">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Stability during reduction (RDE)">
+  </cell>
+  <cell col="1" row="8" text="39.2% loss after 16 h">
+  </cell>
+  <cell col="2" row="8" text="19.5% loss after 16 h">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Loss of concentration due to:">
+  </cell>
+  <cell col="1" row="9" text="Spontaneous reduction
+     
+     Hydroxide formation">
+  </cell>
+  <cell col="2" row="9" text="Electrode poisoning
+     
+     Photosensitivity">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="UV-VIS Extinction coefficient">
+  </cell>
+  <cell col="1" row="10" text="4.06 mM
+     
+      −1
+     
+     cm
+     
+      −1
+     
+     at 488 nm">
+  </cell>
+  <cell col="2" row="10" text="1.064 mM
+     
+      −1
+     
+     cm
+     
+      −1
+     
+     at 420 nm">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Hexachloroiridate and Hexacyanoferrate are two redox couple given in the given." type="entailed">
+  </statement>
+  <statement id="1" text="Hexacyanoferrate has lowest percent of Stability during reduction (RDE)." type="entailed">
+  </statement>
+  <statement id="2" text="Stability during reduction (RDE) does not have PH value." type="entailed">
+  </statement>
+  <statement id="6" text="In Table 3 the main differences between both redox couples are summarized." type="entailed">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Selected diffusion coefficients from literature in comparison to this work.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Redox couple">
+  </cell>
+  <cell col="1" row="0" text="Medium">
+  </cell>
+  <cell col="2" row="0" text="D
+     
+      ox
+     
+     /10
+     
+      −10
+     
+     m
+     
+      2
+     
+     /s">
+  </cell>
+  <cell col="3" row="0" text="D
+     
+      red
+     
+     /10
+     
+      −10
+     
+     m
+     
+      2
+     
+     /s">
+  </cell>
+  <cell col="4" row="0" text="Reference">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Hexacyanoferrate">
+  </cell>
+  <cell col="1" row="1" text="1.0 M KCl">
+  </cell>
+  <cell col="2" row="1" text="5.88">
+  </cell>
+  <cell col="3" row="1" text="6.77">
+  </cell>
+  <cell col="4" row="1" text="[
+     
+      28
+     
+     ,
+     
+      29
+     
+     ]">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Hexacyanoferrate">
+  </cell>
+  <cell col="1" row="2" text="0.5 M NaOH">
+  </cell>
+  <cell col="2" row="2" text="6.29">
+  </cell>
+  <cell col="3" row="2" text="7.17">
+  </cell>
+  <cell col="4" row="2" text="[
+     
+      30
+     
+     ]">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Hexacyanoferrate">
+  </cell>
+  <cell col="1" row="3" text="0.5 M KNO
+     
+      3">
+  </cell>
+  <cell col="2" row="3" text="6.09">
+  </cell>
+  <cell col="3" row="3" text="7.09">
+  </cell>
+  <cell col="4" row="3" text="This work">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Hexachloroiridate">
+  </cell>
+  <cell col="1" row="4" text="0.1 M KNO
+     
+      3">
+  </cell>
+  <cell col="2" row="4" text="8.93">
+  </cell>
+  <cell col="3" row="4" text="//">
+  </cell>
+  <cell col="4" row="4" text="[
+     
+      18
+     
+     ]">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Hexachloroiridate">
+  </cell>
+  <cell col="1" row="5" text="0.5 M KNO
+     
+      3">
+  </cell>
+  <cell col="2" row="5" text="8.46">
+  </cell>
+  <cell col="3" row="5" text="//">
+  </cell>
+  <cell col="4" row="5" text="[
+     
+      31
+     
+     ]">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Hexachloroiridate">
+  </cell>
+  <cell col="1" row="6" text="0.5 M KNO
+     
+      3
+     
+
+     0.1 M Acetate">
+  </cell>
+  <cell col="2" row="6" text="8.38">
+  </cell>
+  <cell col="3" row="6" text="6.10
+     
+      ⁎">
+  </cell>
+  <cell col="4" row="6" text="This work">
+  </cell>
+ </row>
+ <statements>
+  <statement id="3" text="Every Redox couple has different D ox /10 10 m 2 /s value." type="entailed">
+  </statement>
+  <statement id="4" text="Hexachloroiridate with medium 0.5 M KNO 3 does not have D red value." type="entailed">
+  </statement>
+  <statement id="5" text="Hexacyanoferrate and Hexachloroiridate has same medium." type="refuted">
+  </statement>
+ </statements>
+</Table 2>

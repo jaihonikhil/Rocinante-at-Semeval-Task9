@@ -1,0 +1,3186 @@
+<Table 1>
+ <caption text="
+
+   Taxonomy of space–time series clustering algorithms.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Class">
+  </cell>
+  <cell col="1" row="0" text="Algorithms">
+  </cell>
+  <cell col="2" row="0" text="Variants">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="Rodriguez and Laio (2014)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="">
+  </cell>
+  <cell col="1" row="2" text="Agglomerative clustering">
+  </cell>
+  <cell col="2" row="2" text="Shen and Cheng (2016)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="">
+  </cell>
+  <cell col="1" row="3" text="">
+  </cell>
+  <cell col="2" row="3" text="Wang et al. (2019)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Hierarchical">
+  </cell>
+  <cell col="1" row="4" text="Hierarchical self organizing map">
+  </cell>
+  <cell col="2" row="4" text="Steiger et al. (2016b)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="">
+  </cell>
+  <cell col="1" row="5" text="">
+  </cell>
+  <cell col="2" row="5" text="Wu et al. (2017)">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="">
+  </cell>
+  <cell col="1" row="6" text="Machine learning">
+  </cell>
+  <cell col="2" row="6" text="Ferstl et al. (2017)">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="">
+  </cell>
+  <cell col="1" row="7" text="">
+  </cell>
+  <cell col="2" row="7" text="Deng et al. (2018)">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="">
+  </cell>
+  <cell col="1" row="8" text="">
+  </cell>
+  <cell col="2" row="8" text="Andrienko and Andrienko (2013)">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="">
+  </cell>
+  <cell col="1" row="9" text="">
+  </cell>
+  <cell col="2" row="9" text="Gharavi and Hu (2017)">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="">
+  </cell>
+  <cell col="1" row="10" text="">
+  </cell>
+  <cell col="2" row="10" text="Cho et al. (2014)">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="">
+  </cell>
+  <cell col="1" row="11" text="kmeans">
+  </cell>
+  <cell col="2" row="11" text="Yu et al. (2015)">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="">
+  </cell>
+  <cell col="1" row="12" text="">
+  </cell>
+  <cell col="2" row="12" text="Jiang et al. (2018b)">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="">
+  </cell>
+  <cell col="1" row="13" text="">
+  </cell>
+  <cell col="2" row="13" text="Bai et al. (2014)">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="">
+  </cell>
+  <cell col="1" row="14" text="">
+  </cell>
+  <cell col="2" row="14" text="Krüger et al. (2017)">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="Pure partitioning">
+  </cell>
+  <cell col="1" row="15" text="">
+  </cell>
+  <cell col="2" row="15" text="Von Landesberger et al. (2016)">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="">
+  </cell>
+  <cell col="1" row="16" text="PAM">
+  </cell>
+  <cell col="2" row="16" text="Penfold et al. (2016)">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="">
+  </cell>
+  <cell col="1" row="17" text="">
+  </cell>
+  <cell col="2" row="17" text="Sun et al. (2017)">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="">
+  </cell>
+  <cell col="1" row="18" text="">
+  </cell>
+  <cell col="2" row="18" text="Jiang et al. (2019)">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="">
+  </cell>
+  <cell col="1" row="19" text="Peak density">
+  </cell>
+  <cell col="2" row="19" text="Putri et al. (2019)">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="">
+  </cell>
+  <cell col="1" row="20" text="">
+  </cell>
+  <cell col="2" row="20" text="Heredia and Mor (2019)">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="">
+  </cell>
+  <cell col="1" row="21" text="">
+  </cell>
+  <cell col="2" row="21" text="Li (2019)">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="">
+  </cell>
+  <cell col="1" row="22" text="">
+  </cell>
+  <cell col="2" row="22" text="Izakian et al. (2013)">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="">
+  </cell>
+  <cell col="1" row="23" text="Fuzzy kmeans">
+  </cell>
+  <cell col="2" row="23" text="Izakian et al. (2015)">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="Overlapping partitioning">
+  </cell>
+  <cell col="1" row="24" text="">
+  </cell>
+  <cell col="2" row="24" text="Disegna et al. (2017)">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="">
+  </cell>
+  <cell col="1" row="25" text="">
+  </cell>
+  <cell col="2" row="25" text="Paci and Finazzi (2017)">
+  </cell>
+ </row>
+ <row row="26">
+  <cell col="0" row="26" text="">
+  </cell>
+  <cell col="1" row="26" text="Machine learning">
+  </cell>
+  <cell col="2" row="26" text="Gholami and Pavlovic (2017)">
+  </cell>
+ </row>
+ <row row="27">
+  <cell col="0" row="27" text="">
+  </cell>
+  <cell col="1" row="27" text="">
+  </cell>
+  <cell col="2" row="27" text="Zhang et al. (2017)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Hierarchical has four different types of algorithms." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 4>
+ <caption text="
+
+   Characteristics of space–time series clustering algorithms.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Category">
+  </cell>
+  <cell col="1" row="0" text="Merits">
+  </cell>
+  <cell col="2" row="0" text="Limits">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Hierarchical clustering">
+  </cell>
+  <cell col="1" row="1" text="Free-parameters">
+  </cell>
+  <cell col="2" row="1" text="High time and memory consuming">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="">
+  </cell>
+  <cell col="1" row="2" text="Different level of granularities">
+  </cell>
+  <cell col="2" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Pure clustering">
+  </cell>
+  <cell col="1" row="3" text="Fast time and memory consuming">
+  </cell>
+  <cell col="2" row="3" text="Difficult to fix the number of clusters">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Overlapping clustering">
+  </cell>
+  <cell col="1" row="4" text="Finding overlapping clusters">
+  </cell>
+  <cell col="2" row="4" text="High time consuming">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="">
+  </cell>
+  <cell col="1" row="5" text="">
+  </cell>
+  <cell col="2" row="5" text="Need parameters adjustments">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Difficult to fix the number of clusters Limits for Category is Pure clustering." type="">
+  </statement>
+  <statement id="4" text="We can classify the spacetime series algorithms into three groups, according to various clustering models:" type="">
+  </statement>
+ </statements>
+</Table 4>
+<Table 3>
+ <caption text="
+
+   Time series distances.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Distance">
+  </cell>
+  <cell col="1" row="0" text="Formula">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="DTW(
+     
+
+
+        x
+       
+
+
+         (
+        
+
+         t
+        
+
+         )
+        
+
+
+        ,
+       
+
+        y
+       
+
+
+         (
+        
+
+         t
+        
+
+         )
+        
+
+
+
+     )">
+  </cell>
+  <cell col="1" row="1" text="0
+           
+
+
+
+            if
+           
+
+
+             |
+            
+
+             x
+            
+
+
+              (
+             
+
+              t
+             
+
+              )
+             
+
+
+             |
+            
+
+
+            −
+           
+
+            1
+           
+
+            =
+           
+
+
+             |
+            
+
+             y
+            
+
+
+              (
+             
+
+              t
+             
+
+              )
+             
+
+
+             |
+            
+
+
+            −
+           
+
+            1
+           
+
+            =
+           
+
+            0
+           
+
+
+
+
+
+            ∞
+           
+
+
+
+            if
+           
+
+
+             |
+            
+
+             x
+            
+
+
+              (
+             
+
+              t
+             
+
+              )
+             
+
+
+             |
+            
+
+
+            −
+           
+
+            1
+           
+
+            =
+           
+
+            0
+           
+
+            ∥
+           
+
+
+
+             |
+            
+
+             y
+            
+
+
+              (
+             
+
+              t
+             
+
+              )
+             
+
+
+             |
+            
+
+
+            −
+           
+
+            1
+           
+
+            =
+           
+
+            0
+           
+
+
+
+
+
+
+
+              x
+             
+
+
+
+              0
+             
+
+
+
+
+             (
+            
+
+             t
+            
+
+             )
+            
+
+
+            −
+           
+
+
+
+              y
+             
+
+
+
+              0
+             
+
+
+
+
+             (
+            
+
+             t
+            
+
+             )
+            
+
+
+            +
+           
+
+            m
+           
+
+            i
+           
+
+            n
+           
+
+
+             {
+            
+
+
+            D
+           
+
+            T
+           
+
+            W
+           
+
+
+             (
+            
+
+
+            x
+           
+
+
+             (
+            
+
+             t
+            
+
+             )
+            
+
+
+            ∕
+           
+
+
+
+              x
+             
+
+
+
+              0
+             
+
+
+
+
+             (
+            
+
+             t
+            
+
+             )
+            
+
+
+            ,
+           
+
+
+
+
+
+
+            y
+           
+
+
+             (
+            
+
+             t
+            
+
+             )
+            
+
+
+            ∕
+           
+
+
+
+              y
+             
+
+
+
+              0
+             
+
+
+
+
+             (
+            
+
+             t
+            
+
+             )
+            
+
+
+
+             )
+            
+
+
+            ,
+           
+
+            D
+           
+
+            T
+           
+
+            W
+           
+
+
+             (
+            
+
+             x
+            
+
+
+              (
+             
+
+              t
+             
+
+              )
+             
+
+
+             ,
+            
+
+             y
+            
+
+
+              (
+             
+
+              t
+             
+
+              )
+             
+
+
+             ∕
+            
+
+
+
+               y
+              
+
+
+
+               0
+              
+
+
+
+
+              (
+             
+
+              t
+             
+
+              )
+             
+
+
+             )
+            
+
+
+            ,
+           
+
+
+
+            otherwise
+           
+
+
+
+
+
+            D
+           
+
+            T
+           
+
+            W
+           
+
+
+             (
+            
+
+             x
+            
+
+
+              (
+             
+
+              t
+             
+
+              )
+             
+
+
+             ∕
+            
+
+
+
+               x
+              
+
+
+
+               0
+              
+
+
+
+
+              (
+             
+
+              t
+             
+
+              )
+             
+
+
+             ,
+            
+
+             y
+            
+
+
+              (
+             
+
+              t
+             
+
+              )
+             
+
+
+             )
+            
+
+
+
+             }">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="STS(
+     
+
+
+        x
+       
+
+
+         (
+        
+
+         t
+        
+
+         )
+        
+
+
+        ,
+       
+
+        y
+       
+
+
+         (
+        
+
+         t
+        
+
+         )
+        
+
+
+
+     )">
+  </cell>
+  <cell col="1" row="2" text="∑
+          
+
+
+
+
+
+             x
+            
+
+
+
+             i
+            
+
+
+
+
+            (
+           
+
+            t
+           
+
+            )
+           
+
+
+           ∈
+          
+
+           x
+          
+
+
+            (
+           
+
+            t
+           
+
+            )
+           
+
+
+           ∨
+          
+
+
+
+             y
+            
+
+
+
+             i
+            
+
+
+
+
+            (
+           
+
+            t
+           
+
+            )
+           
+
+
+           y
+          
+
+
+            (
+           
+
+            t
+           
+
+            )
+           
+
+
+
+
+
+
+
+
+
+
+               y
+              
+
+
+
+               i
+              
+
+               +
+              
+
+               1
+              
+
+
+
+
+              (
+             
+
+              t
+             
+
+              )
+             
+
+
+             −
+            
+
+
+
+               y
+              
+
+
+
+               i
+              
+
+
+
+
+              (
+             
+
+              t
+             
+
+              )
+             
+
+
+
+
+
+
+               t
+              
+
+
+
+               i
+              
+
+               +
+              
+
+               1
+              
+
+
+
+             −
+            
+
+
+
+               t
+              
+
+
+
+               i
+              
+
+
+
+
+
+           −
+          
+
+
+
+
+
+               x
+              
+
+
+
+               i
+              
+
+               +
+              
+
+               1
+              
+
+
+
+
+              (
+             
+
+              t
+             
+
+              )
+             
+
+
+             −
+            
+
+
+
+               x
+              
+
+
+
+               i
+              
+
+
+
+
+              (
+             
+
+              t
+             
+
+              )
+             
+
+
+
+
+
+
+               t
+              
+
+
+
+               i
+              
+
+               +
+              
+
+               1
+              
+
+
+
+             −
+            
+
+
+
+               t
+              
+
+
+
+               i">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Dissim(
+     
+
+
+        x
+       
+
+
+         (
+        
+
+         t
+        
+
+         )
+        
+
+
+        ,
+       
+
+        y
+       
+
+
+         (
+        
+
+         t
+        
+
+         )
+        
+
+
+
+     )">
+  </cell>
+  <cell col="1" row="3" text="∑
+         
+
+
+
+
+
+            x
+           
+
+
+
+            i
+           
+
+
+
+
+           (
+          
+
+           t
+          
+
+           )
+          
+
+
+          ∈
+         
+
+          x
+         
+
+
+           (
+          
+
+           t
+          
+
+           )
+          
+
+
+          ∨
+         
+
+
+
+            y
+           
+
+
+
+            i
+           
+
+
+
+
+           (
+          
+
+           t
+          
+
+           )
+          
+
+
+          y
+         
+
+
+           (
+          
+
+           t
+          
+
+           )
+          
+
+
+
+
+
+         (
+        
+
+
+
+           x
+          
+
+
+
+           i
+          
+
+
+
+
+          (
+         
+
+          t
+         
+
+          )
+         
+
+
+         −
+        
+
+
+
+           y
+          
+
+
+
+           i
+          
+
+
+
+
+          (
+         
+
+          t
+         
+
+          )
+         
+
+
+         +
+        
+
+
+
+           x
+          
+
+
+
+           i
+          
+
+           +
+          
+
+           1
+          
+
+
+
+
+          (
+         
+
+          t
+         
+
+          )
+         
+
+
+         −
+        
+
+
+
+           y
+          
+
+
+
+           i
+          
+
+           +
+          
+
+           1
+          
+
+
+
+
+          (
+         
+
+          t
+         
+
+          )
+         
+
+
+         )
+        
+
+
+        ×
+       
+
+
+         (
+        
+
+
+
+           t
+          
+
+
+
+           i
+          
+
+           +
+          
+
+           1
+          
+
+
+
+         −
+        
+
+
+
+           t
+          
+
+
+
+           i
+          
+
+
+
+         )">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="PC(
+     
+
+
+        x
+       
+
+
+         (
+        
+
+         t
+        
+
+         )
+        
+
+
+        ,
+       
+
+        y
+       
+
+
+         (
+        
+
+         t
+        
+
+         )
+        
+
+
+
+     )">
+  </cell>
+  <cell col="1" row="4" text="∑
+          
+
+
+
+
+
+             x
+            
+
+
+
+             i
+            
+
+
+
+
+            (
+           
+
+            t
+           
+
+            )
+           
+
+
+           ∈
+          
+
+           x
+          
+
+
+            (
+           
+
+            t
+           
+
+            )
+           
+
+
+           ∨
+          
+
+
+
+             y
+            
+
+
+
+             i
+            
+
+
+
+
+            (
+           
+
+            t
+           
+
+            )
+           
+
+
+           y
+          
+
+
+            (
+           
+
+            t
+           
+
+            )
+           
+
+
+
+
+
+          (
+         
+
+
+
+            x
+           
+
+
+
+            i
+           
+
+
+
+
+           (
+          
+
+           t
+          
+
+           )
+          
+
+
+          −
+         
+
+
+
+            x
+           
+
+
+             (
+            
+
+             t
+            
+
+             )
+            
+
+
+
+           ¯
+          
+
+
+          )
+         
+
+
+         ×
+        
+
+
+          (
+         
+
+
+
+            y
+           
+
+
+
+            i
+           
+
+
+
+
+           (
+          
+
+           t
+          
+
+           )
+          
+
+
+          −
+         
+
+
+
+            y
+           
+
+
+             (
+            
+
+             t
+            
+
+             )
+            
+
+
+
+           ¯
+          
+
+
+          )
+         
+
+
+
+
+
+
+
+
+
+              (
+             
+
+
+
+                x
+               
+
+
+
+                i
+               
+
+
+
+
+               (
+              
+
+               t
+              
+
+               )
+              
+
+
+              −
+             
+
+
+
+                x
+               
+
+
+                 (
+                
+
+                 t
+                
+
+                 )
+                
+
+
+
+               ¯
+              
+
+
+              )
+             
+
+
+
+
+             2
+            
+
+
+
+
+
+         ×
+        
+
+
+
+
+
+
+              (
+             
+
+
+
+                y
+               
+
+
+
+                i
+               
+
+
+
+
+               (
+              
+
+               t
+              
+
+               )
+              
+
+
+              −
+             
+
+
+
+                y
+               
+
+
+                 (
+                
+
+                 t
+                
+
+                 )
+                
+
+
+
+               ¯
+              
+
+
+              )
+             
+
+
+
+
+             2">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="">
+  </cell>
+  <cell col="1" row="5" text="Note that
+     
+
+
+
+         x
+        
+
+
+          (
+         
+
+          t
+         
+
+          )
+         
+
+
+
+        ¯
+       
+
+
+     and
+     
+
+
+
+         y
+        
+
+
+          (
+         
+
+          t
+         
+
+          )
+         
+
+
+
+        ¯
+       
+
+
+     are the mean values of time series
+     
+
+
+        x
+       
+
+
+         (
+        
+
+         t
+        
+
+         )
+        
+
+
+
+     and
+     
+
+
+        y
+       
+
+
+         (
+        
+
+         t
+        
+
+         )
+        
+
+
+
+     , respectively.">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The table is related to Time series distances." type="">
+  </statement>
+  <statement id="1" text="There are four different Distance observed ." type="">
+  </statement>
+  <statement id="2" text="The x ( t )   is mean values of time series x ( t )." type="">
+  </statement>
+  <statement id="3" text="They ( t )   is mean values of time series y ( t )." type="">
+  </statement>
+  <statement id="7" text="Table 3 presents the description of DTW, STS, Dissim, and PC formulas." type="">
+  </statement>
+  <statement id="8" text="The interested readers may also find the alternative distances with SAX (Symbolic Aggregate approXimation)" type="">
+  </statement>
+ </statements>
+</Table 3>
+<Table 6>
+ <caption text="
+
+   Comparison of the space–time series clustering in terms of runtime (seconds), the quality of returned clusters (ESS), and the memory usage (MB) using standard time series databases.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Algorithm">
+  </cell>
+  <cell col="1" row="0" text="Dataset">
+  </cell>
+  <cell col="2" row="0" text="CPU">
+  </cell>
+  <cell col="3" row="0" text="ESS">
+  </cell>
+  <cell col="4" row="0" text="Memory">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="Air quality">
+  </cell>
+  <cell col="2" row="1" text="25">
+  </cell>
+  <cell col="3" row="1" text="1.80">
+  </cell>
+  <cell col="4" row="1" text="29">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="">
+  </cell>
+  <cell col="1" row="2" text="Appliances energy prediction">
+  </cell>
+  <cell col="2" row="2" text="29">
+  </cell>
+  <cell col="3" row="2" text="2.21">
+  </cell>
+  <cell col="4" row="2" text="31">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="kmeans">
+  </cell>
+  <cell col="1" row="3" text="EEG eye state">
+  </cell>
+  <cell col="2" row="3" text="31">
+  </cell>
+  <cell col="3" row="3" text="2.25">
+  </cell>
+  <cell col="4" row="3" text="35">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="">
+  </cell>
+  <cell col="1" row="4" text="Real-time election">
+  </cell>
+  <cell col="2" row="4" text="35">
+  </cell>
+  <cell col="3" row="4" text="2.51">
+  </cell>
+  <cell col="4" row="4" text="38">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="">
+  </cell>
+  <cell col="1" row="5" text="Beijing multi-site air-quality">
+  </cell>
+  <cell col="2" row="5" text="38">
+  </cell>
+  <cell col="3" row="5" text="2.59">
+  </cell>
+  <cell col="4" row="5" text="40">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="">
+  </cell>
+  <cell col="1" row="6" text="Beijing PM2.5">
+  </cell>
+  <cell col="2" row="6" text="42">
+  </cell>
+  <cell col="3" row="6" text="2.71">
+  </cell>
+  <cell col="4" row="6" text="45">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="">
+  </cell>
+  <cell col="1" row="7" text="Air quality">
+  </cell>
+  <cell col="2" row="7" text="27">
+  </cell>
+  <cell col="3" row="7" text="1.71">
+  </cell>
+  <cell col="4" row="7" text="30">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="">
+  </cell>
+  <cell col="1" row="8" text="Appliances energy prediction">
+  </cell>
+  <cell col="2" row="8" text="31">
+  </cell>
+  <cell col="3" row="8" text="2.25">
+  </cell>
+  <cell col="4" row="8" text="33">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="DBSCAN">
+  </cell>
+  <cell col="1" row="9" text="EEG eye state">
+  </cell>
+  <cell col="2" row="9" text="32">
+  </cell>
+  <cell col="3" row="9" text="2.28">
+  </cell>
+  <cell col="4" row="9" text="37">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="">
+  </cell>
+  <cell col="1" row="10" text="Real-time election">
+  </cell>
+  <cell col="2" row="10" text="37">
+  </cell>
+  <cell col="3" row="10" text="2.35">
+  </cell>
+  <cell col="4" row="10" text="41">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="">
+  </cell>
+  <cell col="1" row="11" text="Beijing multi-site air-quality">
+  </cell>
+  <cell col="2" row="11" text="39">
+  </cell>
+  <cell col="3" row="11" text="2.57">
+  </cell>
+  <cell col="4" row="11" text="43">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="">
+  </cell>
+  <cell col="1" row="12" text="Beijing PM2.5">
+  </cell>
+  <cell col="2" row="12" text="41">
+  </cell>
+  <cell col="3" row="12" text="2.95">
+  </cell>
+  <cell col="4" row="12" text="47">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="">
+  </cell>
+  <cell col="1" row="13" text="Air quality">
+  </cell>
+  <cell col="2" row="13" text="25">
+  </cell>
+  <cell col="3" row="13" text="1.80">
+  </cell>
+  <cell col="4" row="13" text="29">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="">
+  </cell>
+  <cell col="1" row="14" text="Appliances energy prediction">
+  </cell>
+  <cell col="2" row="14" text="33">
+  </cell>
+  <cell col="3" row="14" text="2.57">
+  </cell>
+  <cell col="4" row="14" text="39">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="Fuzzy cmeans">
+  </cell>
+  <cell col="1" row="15" text="EEG eye state">
+  </cell>
+  <cell col="2" row="15" text="41">
+  </cell>
+  <cell col="3" row="15" text="2.59">
+  </cell>
+  <cell col="4" row="15" text="45">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="">
+  </cell>
+  <cell col="1" row="16" text="Real-time election">
+  </cell>
+  <cell col="2" row="16" text="45">
+  </cell>
+  <cell col="3" row="16" text="2.99">
+  </cell>
+  <cell col="4" row="16" text="49">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="">
+  </cell>
+  <cell col="1" row="17" text="Beijing multi-site air-quality">
+  </cell>
+  <cell col="2" row="17" text="49">
+  </cell>
+  <cell col="3" row="17" text="3.11">
+  </cell>
+  <cell col="4" row="17" text="59">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="">
+  </cell>
+  <cell col="1" row="18" text="Beijing PM2.5">
+  </cell>
+  <cell col="2" row="18" text="55">
+  </cell>
+  <cell col="3" row="18" text="3.05">
+  </cell>
+  <cell col="4" row="18" text="52">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="">
+  </cell>
+  <cell col="1" row="19" text="Air quality">
+  </cell>
+  <cell col="2" row="19" text="42">
+  </cell>
+  <cell col="3" row="19" text="0.99">
+  </cell>
+  <cell col="4" row="19" text="40">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="">
+  </cell>
+  <cell col="1" row="20" text="Appliances energy prediction">
+  </cell>
+  <cell col="2" row="20" text="43">
+  </cell>
+  <cell col="3" row="20" text="1.05">
+  </cell>
+  <cell col="4" row="20" text="51">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="CHA">
+  </cell>
+  <cell col="1" row="21" text="EEG eye state">
+  </cell>
+  <cell col="2" row="21" text="49">
+  </cell>
+  <cell col="3" row="21" text="1.12">
+  </cell>
+  <cell col="4" row="21" text="56">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="">
+  </cell>
+  <cell col="1" row="22" text="Real-time election">
+  </cell>
+  <cell col="2" row="22" text="56">
+  </cell>
+  <cell col="3" row="22" text="1.19">
+  </cell>
+  <cell col="4" row="22" text="62">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="">
+  </cell>
+  <cell col="1" row="23" text="Beijing multi-site air-quality">
+  </cell>
+  <cell col="2" row="23" text="63">
+  </cell>
+  <cell col="3" row="23" text="1.68">
+  </cell>
+  <cell col="4" row="23" text="66">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="">
+  </cell>
+  <cell col="1" row="24" text="Beijing PM2.5">
+  </cell>
+  <cell col="2" row="24" text="67">
+  </cell>
+  <cell col="3" row="24" text="1.81">
+  </cell>
+  <cell col="4" row="24" text="71">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="">
+  </cell>
+  <cell col="1" row="25" text="Air quality">
+  </cell>
+  <cell col="2" row="25" text="22">
+  </cell>
+  <cell col="3" row="25" text="1.52">
+  </cell>
+  <cell col="4" row="25" text="31">
+  </cell>
+ </row>
+ <row row="26">
+  <cell col="0" row="26" text="">
+  </cell>
+  <cell col="1" row="26" text="Appliances energy prediction">
+  </cell>
+  <cell col="2" row="26" text="31">
+  </cell>
+  <cell col="3" row="26" text="1.71">
+  </cell>
+  <cell col="4" row="26" text="30">
+  </cell>
+ </row>
+ <row row="27">
+  <cell col="0" row="27" text="Density peak">
+  </cell>
+  <cell col="1" row="27" text="EEG eye state">
+  </cell>
+  <cell col="2" row="27" text="32">
+  </cell>
+  <cell col="3" row="27" text="1.75">
+  </cell>
+  <cell col="4" row="27" text="40">
+  </cell>
+ </row>
+ <row row="28">
+  <cell col="0" row="28" text="">
+  </cell>
+  <cell col="1" row="28" text="Real-time election">
+  </cell>
+  <cell col="2" row="28" text="35">
+  </cell>
+  <cell col="3" row="28" text="1.74">
+  </cell>
+  <cell col="4" row="28" text="51">
+  </cell>
+ </row>
+ <row row="29">
+  <cell col="0" row="29" text="">
+  </cell>
+  <cell col="1" row="29" text="Beijing multi-site air-quality">
+  </cell>
+  <cell col="2" row="29" text="39">
+  </cell>
+  <cell col="3" row="29" text="1.77">
+  </cell>
+  <cell col="4" row="29" text="53">
+  </cell>
+ </row>
+ <row row="30">
+  <cell col="0" row="30" text="">
+  </cell>
+  <cell col="1" row="30" text="Beijing PM2.5">
+  </cell>
+  <cell col="2" row="30" text="45">
+  </cell>
+  <cell col="3" row="30" text="1.92">
+  </cell>
+  <cell col="4" row="30" text="54">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Algorithm has been divided into 2 types." type="">
+  </statement>
+  <statement id="1" text="ESS value for Real-time election is 12.51 CHA." type="">
+  </statement>
+  <statement id="3" text="Table 6 lists the runtime, the ESS value, and the memory usage for different used time series databases." type="">
+  </statement>
+  <statement id="4" text="Fuzzy c-means and Density Peak are less competitive than k -means and DBSCAN." type="">
+  </statement>
+ </statements>
+</Table 6>
+<Table 5>
+ <caption text="
+
+   Odense data description.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Address">
+  </cell>
+  <cell col="1" row="0" text="ID">
+  </cell>
+  <cell col="2" row="0" text="Type">
+  </cell>
+  <cell col="3" row="0" text="#(Cars or Bikes)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Falen">
+  </cell>
+  <cell col="1" row="1" text="L
+        
+
+
+
+         1">
+  </cell>
+  <cell col="2" row="1" text="Cars">
+  </cell>
+  <cell col="3" row="1" text="16.932">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Anderupvej">
+  </cell>
+  <cell col="1" row="2" text="L
+        
+
+
+
+         2">
+  </cell>
+  <cell col="2" row="2" text="Cars">
+  </cell>
+  <cell col="3" row="2" text="25.310">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Aløkke Alle">
+  </cell>
+  <cell col="1" row="3" text="L
+        
+
+
+
+         3">
+  </cell>
+  <cell col="2" row="3" text="Cars">
+  </cell>
+  <cell col="3" row="3" text="238.775">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Thomas B Thriges Gade">
+  </cell>
+  <cell col="1" row="4" text="L
+        
+
+
+
+         4">
+  </cell>
+  <cell col="2" row="4" text="Bikes">
+  </cell>
+  <cell col="3" row="4" text="46.978">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Niels Bohrs Alle">
+  </cell>
+  <cell col="1" row="5" text="L
+        
+
+
+
+         5">
+  </cell>
+  <cell col="2" row="5" text="Bikes">
+  </cell>
+  <cell col="3" row="5" text="445.883">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Rødegårdsvej Østgående">
+  </cell>
+  <cell col="1" row="6" text="L
+        
+
+
+
+         6">
+  </cell>
+  <cell col="2" row="6" text="Bikes">
+  </cell>
+  <cell col="3" row="6" text="575.089">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Rugårdsvej">
+  </cell>
+  <cell col="1" row="7" text="L
+        
+
+
+
+         7">
+  </cell>
+  <cell col="2" row="7" text="Cars">
+  </cell>
+  <cell col="3" row="7" text="2.318.852">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Nyborgvej">
+  </cell>
+  <cell col="1" row="8" text="L
+        
+
+
+
+         8">
+  </cell>
+  <cell col="2" row="8" text="Cars">
+  </cell>
+  <cell col="3" row="8" text="2.352.930">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Grønlandsgade">
+  </cell>
+  <cell col="1" row="9" text="L
+        
+
+
+
+         9">
+  </cell>
+  <cell col="2" row="9" text="Cars">
+  </cell>
+  <cell col="3" row="9" text="2.955.464">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Odins Bro">
+  </cell>
+  <cell col="1" row="10" text="L
+        
+
+
+
+         10">
+  </cell>
+  <cell col="2" row="10" text="Cars">
+  </cell>
+  <cell col="3" row="10" text="3.921.746">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Address Grnlandsgade ID is L 9." type="">
+  </statement>
+  <statement id="2" text="Address Grnlandsgade ID is L 10." type="">
+  </statement>
+  <statement id="3" text="Address Odins Bro #(Cars or Bikes) is 238.775." type="">
+  </statement>
+  <statement id="5" text="It consists of more than 12 million vehicles and bikes." type="">
+  </statement>
+ </statements>
+</Table 5>
+<Table 2>
+ <caption text="
+
+
+
+
+
+       L
+      
+
+
+
+       p
+      
+
+
+
+   distances.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Distance">
+  </cell>
+  <cell col="1" row="0" text="p">
+  </cell>
+  <cell col="2" row="0" text="Formula">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Manhattan">
+  </cell>
+  <cell col="1" row="1" text="1">
+  </cell>
+  <cell col="2" row="1" text="∑
+         
+
+
+
+
+
+            x
+           
+
+
+
+            i
+           
+
+
+
+
+           (
+          
+
+           t
+          
+
+           )
+          
+
+
+          ∈
+         
+
+          x
+         
+
+
+           (
+          
+
+           t
+          
+
+           )
+          
+
+
+          ∨
+         
+
+
+
+            y
+           
+
+
+
+            i
+           
+
+
+
+
+           (
+          
+
+           t
+          
+
+           )
+          
+
+
+          y
+         
+
+
+           (
+          
+
+           t
+          
+
+           )
+          
+
+
+
+
+
+         |
+        
+
+
+
+           x
+          
+
+
+
+           i
+          
+
+
+
+
+          (
+         
+
+          t
+         
+
+          )
+         
+
+
+         −
+        
+
+
+
+           y
+          
+
+
+
+           i
+          
+
+
+
+
+          (
+         
+
+          t
+         
+
+          )
+         
+
+
+         |">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Euclidean">
+  </cell>
+  <cell col="1" row="2" text="2">
+  </cell>
+  <cell col="2" row="2" text="∑
+          
+
+
+
+
+
+             x
+            
+
+
+
+             i
+            
+
+
+
+
+            (
+           
+
+            t
+           
+
+            )
+           
+
+
+           ∈
+          
+
+           x
+          
+
+
+            (
+           
+
+            t
+           
+
+            )
+           
+
+
+           ∨
+          
+
+
+
+             y
+            
+
+
+
+             i
+            
+
+
+
+
+            (
+           
+
+            t
+           
+
+            )
+           
+
+
+           y
+          
+
+
+            (
+           
+
+            t
+           
+
+            )
+           
+
+
+
+
+
+
+
+            (
+           
+
+
+
+              x
+             
+
+
+
+              i
+             
+
+
+
+
+             (
+            
+
+             t
+            
+
+             )
+            
+
+
+            −
+           
+
+
+
+              y
+             
+
+
+
+              i
+             
+
+
+
+
+             (
+            
+
+             t
+            
+
+             )
+            
+
+
+            )
+           
+
+
+
+
+           2">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Minkowski">
+  </cell>
+  <cell col="1" row="3" text="[
+       
+
+        1
+       
+
+        …
+       
+
+        ∞
+       
+
+        ]">
+  </cell>
+  <cell col="2" row="3" text="∑
+          
+
+
+
+
+
+             x
+            
+
+
+
+             i
+            
+
+
+
+
+            (
+           
+
+            t
+           
+
+            )
+           
+
+
+           ∈
+          
+
+           x
+          
+
+
+            (
+           
+
+            t
+           
+
+            )
+           
+
+
+           ∨
+          
+
+
+
+             y
+            
+
+
+
+             i
+            
+
+
+
+
+            (
+           
+
+            t
+           
+
+            )
+           
+
+
+           y
+          
+
+
+            (
+           
+
+            t
+           
+
+            )
+           
+
+
+
+
+
+
+
+            (
+           
+
+
+
+              x
+             
+
+
+
+              i
+             
+
+
+
+
+             (
+            
+
+             t
+            
+
+             )
+            
+
+
+            −
+           
+
+
+
+              y
+             
+
+
+
+              i
+             
+
+
+
+
+             (
+            
+
+             t
+            
+
+             )
+            
+
+
+            )
+           
+
+
+
+
+           1
+          
+
+           ∕
+          
+
+           p
+          
+
+
+
+
+
+         p">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Infinite norm">
+  </cell>
+  <cell col="1" row="4" text="∞">
+  </cell>
+  <cell col="2" row="4" text="max
+         
+
+
+
+
+
+            x
+           
+
+
+
+            i
+           
+
+
+
+
+           (
+          
+
+           t
+          
+
+           )
+          
+
+
+          ∈
+         
+
+          x
+         
+
+
+           (
+          
+
+           t
+          
+
+           )
+          
+
+
+          ∨
+         
+
+
+
+            y
+           
+
+
+
+            i
+           
+
+
+
+
+           (
+          
+
+           t
+          
+
+           )
+          
+
+
+          y
+         
+
+
+           (
+          
+
+           t
+          
+
+           )
+          
+
+
+
+
+
+         {
+        
+
+
+          |
+         
+
+
+
+            x
+           
+
+
+
+            i
+           
+
+
+
+
+           (
+          
+
+           t
+          
+
+           )
+          
+
+
+          −
+         
+
+
+
+            y
+           
+
+
+
+            i
+           
+
+
+
+
+           (
+          
+
+           t
+          
+
+           )
+          
+
+
+          |
+         
+
+
+         }">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="All the distance has unique p value." type="">
+  </statement>
+  <statement id="2" text="Infinite norm is calculated by using the formula  x i ( t )  x ( t )  y i ( t ) y ( t ) ( x i ( t )  y i ( t ) ) 1  p p." type="">
+  </statement>
+  <statement id="4" text="L p distances are the rigid metrics that can only compare series of the same length." type="">
+  </statement>
+ </statements>
+</Table 2>

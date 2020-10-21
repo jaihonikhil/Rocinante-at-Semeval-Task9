@@ -1,0 +1,392 @@
+<Table 4>
+ <caption text="
+
+   Methodology to study the integrity of LC-NE system in humans.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Method">
+  </cell>
+  <cell col="1" row="0" text="Relation to LC-NE system">
+  </cell>
+  <cell col="2" row="0" text="Advantages">
+  </cell>
+  <cell col="3" row="0" text="Limitations">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Pharmacological challenge (e.g. atomoxetine)">
+  </cell>
+  <cell col="1" row="1" text="Changes in synaptic concentrations of NE mimic the effects of elevated/ reduced NE release by LC.">
+  </cell>
+  <cell col="2" row="1" text="Allows within-subject comparison of behavior and physiology (i.e. normal vs. elevated NE levels).">
+  </cell>
+  <cell col="3" row="1" text="Pharmacological agents are rarely specific of one neuromodulatory system and likely interact with other systems; each individual may have different responsivity; invasive.">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="PET">
+  </cell>
+  <cell col="1" row="2" text="NE transporter availability reflects functionality of LC projections.">
+  </cell>
+  <cell col="2" row="2" text="Allows for direct molecular quantification.">
+  </cell>
+  <cell col="3" row="2" text="Very low temporal resolution; invasive.">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Pupillometry">
+  </cell>
+  <cell col="1" row="3" text="Non-reflexive pupil dilation accompanies LC phasic activation and tracks changes in tonic LC firing.">
+  </cell>
+  <cell col="2" row="3" text="Relatively high temporal resolution to study task-evoked LC activity with low budget; non-invasive.">
+  </cell>
+  <cell col="3" row="3" text="Constitutes an indirect measurement of LC activity; other neuromodulators may contribute to changes in pupil size.">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Neuromelanin-sensitive MRI">
+  </cell>
+  <cell col="1" row="4" text="LC is rich in neuromelanin, a molecule that is paramagnetic and can be detected through MRI.">
+  </cell>
+  <cell col="2" row="4" text="Allows the highest precision in LC localization in humans in vivo; non-invasive.">
+  </cell>
+  <cell col="3" row="4" text="Does not provide information about LC function; intensity in LC may vary with age.">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="fMRI">
+  </cell>
+  <cell col="1" row="5" text="Blood oxygen level dependent (BOLD) changes in LC reflect the level of neuronal activation in the nuclei.">
+  </cell>
+  <cell col="2" row="5" text="Allows measuring task-related and resting state changes of activity with relatively high spatial resolution; non-invasive.">
+  </cell>
+  <cell col="3" row="5" text="Many sources of artifacts affect the quality of the measurements, i.e. head movement and confounds from cerebro-spinal fluid vicinity; the small size of LC may also provide a low signal-to-noise ratio; requires specific brainstem co-registration steps.">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="ERP (P300)">
+  </cell>
+  <cell col="1" row="6" text="P3 indexes phasic LC response.">
+  </cell>
+  <cell col="2" row="6" text="Allows high temporal resolution of a relatively well characterized component; non-invasive.">
+  </cell>
+  <cell col="3" row="6" text="LC contributes only in part to the component.">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Each method has its own limitations." type="">
+  </statement>
+  <statement id="1" text="PET method does not have any limitations." type="">
+  </statement>
+  <statement id="2" text="Every method is having same advantages." type="">
+  </statement>
+  <statement id="5" text="The inclusion of neuromodulatory markers, such as ocular measures ( Table 4 ), will allow inspecting the neurobiological factors contributing to inter-individual differences in SCZ ( Diminich and Goff, 2016 )." type="">
+  </statement>
+ </statements>
+</Table 4>
+<Table 3>
+ <caption text="
+
+   Experimental and theoretical progress on LC-NE system and proposed link to SCZ symptoms.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Advance of knowledge regarding LC-NE system">
+  </cell>
+  <cell col="1" row="0" text="Relation to schizophrenia">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Specificity in LC projections to frontal regions, neuronal constitution and physiology (Section
+     
+      2.1.1
+     
+     )">
+  </cell>
+  <cell col="1" row="1" text="A disruption of the specific action that NE exerts on PFC circuits may underlie cognitive abnormalities observed in SCZ (Section
+     
+      3.2
+     
+     ).">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="LC activity coupled to brain oscillatory activity (Section
+     
+      2.1.1
+     
+     )">
+  </cell>
+  <cell col="1" row="2" text="Signatures of abnormal brain oscillatory activity are related to neurotransmitters and neuromodulators (Section
+     
+      3.3
+     
+     )">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="NE and DA co-release from LC terminals (Section
+     
+      2.1.4
+     
+     )">
+  </cell>
+  <cell col="1" row="3" text="NE/DA co-release may mediate the action of atypical pharmacological agents (Section
+     
+      3.5.2
+     
+     )">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Signatures of LC activity during cognition in humans (Section
+     
+      2.2.3
+     
+     )">
+  </cell>
+  <cell col="1" row="4" text="Reduction of pupillometry and P3 signatures in SCZ during attention (Section
+     
+      3.3
+     
+     )">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Role of LC in motivation to engage effort (Section
+     
+      2.2.3
+     
+     )">
+  </cell>
+  <cell col="1" row="5" text="Reduction of pupillometry signatures with increased effort (Section
+     
+      3.3
+     
+     )">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="GANE model of NE-glutamate interplay explains arousal-mediated effect of salient events (Section
+     
+      2.1.3
+     
+     )">
+  </cell>
+  <cell col="1" row="6" text="Altered function of molecules related to synaptic plasticity abnormally interact with neuromodulation in SCZ (Section
+     
+      3.2
+     
+     )">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Network-reset and gain models of the effects of LC-NE system on switching and enhancement of brain networks’ activity (Section
+     
+      2.2.2
+     
+     )">
+  </cell>
+  <cell col="1" row="7" text="Lower signal-to-noise ratio of cortical circuits in SCZ (Section
+     
+      3.2
+     
+     )">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Models of variability in LC recruitment and regulation of networks interaction explains traits such as working memory capacity (Section
+     
+      2.2.3
+     
+     )">
+  </cell>
+  <cell col="1" row="8" text="Triple-network model and reduced working memory capacity in SCZ (Section
+     
+      3.3
+     
+     )">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Models of how LC-NE system controls the expression of brain states, i.e. stress (Section
+     
+      2.3.2
+     
+     )">
+  </cell>
+  <cell col="1" row="9" text="Susceptibility to stress is related to the symptomatology of SCZ (Sections
+     
+      3.3
+     
+     and
+     
+      3.4
+     
+     )">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Specificity in LC projections to frontal regions, neuronal constitution and physiology (Section ) it is Advance of knowledge regarding LC-NE system." type="">
+  </statement>
+  <statement id="1" text="LC activity coupled to brain oscillatory activity (Section ) is the Advance of knowledge regarding LC-NE system ." type="">
+  </statement>
+  <statement id="4" text="Reduction of pupillometry and P3 signatures in SCZ during attention (Section ) is the Advance of knowledge regarding LC-NE system." type="">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Membrane receptors present in LC neurons.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Neurotransmitter/neuromodulator">
+  </cell>
+  <cell col="1" row="0" text="Receptors in LC">
+  </cell>
+  <cell col="2" row="0" text="Effect on LC">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Glutamate">
+  </cell>
+  <cell col="1" row="1" text="NMDA, AMPA">
+  </cell>
+  <cell col="2" row="1" text="Excitatory">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="GABA">
+  </cell>
+  <cell col="1" row="2" text="GABA
+     
+      A">
+  </cell>
+  <cell col="2" row="2" text="Inhibitory">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="NE">
+  </cell>
+  <cell col="1" row="3" text="Alpha-2">
+  </cell>
+  <cell col="2" row="3" text="Inhibitory">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="DA">
+  </cell>
+  <cell col="1" row="4" text="D
+     
+      1
+     
+     , D
+     
+      2">
+  </cell>
+  <cell col="2" row="4" text="Inhibitory">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Acetylcholine">
+  </cell>
+  <cell col="1" row="5" text="Nicotinic">
+  </cell>
+  <cell col="2" row="5" text="Excitatory">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Serotonin">
+  </cell>
+  <cell col="1" row="6" text="Serotonin
+     
+      1A">
+  </cell>
+  <cell col="2" row="6" text="Inhibitory">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Orexin">
+  </cell>
+  <cell col="1" row="7" text="ORX-A">
+  </cell>
+  <cell col="2" row="7" text="Excitatory">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Corticotrophin-releasing factor">
+  </cell>
+  <cell col="1" row="8" text="CRF-1">
+  </cell>
+  <cell col="2" row="8" text="Excitatory">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Glucocorticoids">
+  </cell>
+  <cell col="1" row="9" text="GR, MR">
+  </cell>
+  <cell col="2" row="9" text="">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Opioids">
+  </cell>
+  <cell col="1" row="10" text="Cannabinoid-1 Mu, Kappa">
+  </cell>
+  <cell col="2" row="10" text="Inhibitory">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Substance P">
+  </cell>
+  <cell col="1" row="11" text="SP">
+  </cell>
+  <cell col="2" row="11" text="Excitatory">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Melanin concentrating hormone">
+  </cell>
+  <cell col="1" row="12" text="MCH-1">
+  </cell>
+  <cell col="2" row="12" text="Inhibitory">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Somatostatin">
+  </cell>
+  <cell col="1" row="13" text="SS-1−3">
+  </cell>
+  <cell col="2" row="13" text="Inhibitory">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Neuropeptide Y">
+  </cell>
+  <cell col="1" row="14" text="NPY">
+  </cell>
+  <cell col="2" row="14" text="Inhibitory">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="NE is the only Neurotransmitter which has Alpha-2 receptor." type="">
+  </statement>
+  <statement id="1" text="Glucocorticoids is the neurotransmitter which does not have effect on LC." type="">
+  </statement>
+  <statement id="3" text="Serotonin does not have any receptor." type="">
+  </statement>
+  <statement id="4" text="Acetylcholine has Inhibitory effect on LC." type="">
+  </statement>
+  <statement id="5" text="Orexin, Neuropeptide Y has more than one receptor." type="">
+  </statement>
+  <statement id="6" text="In addition to detecting NE (through alpha-2 autoreceptors, which are the most abundant receptors within LC nuclei), they respond to several neurotransmitter and neuromodulators ( Table 2 )." type="">
+  </statement>
+ </statements>
+</Table 2>

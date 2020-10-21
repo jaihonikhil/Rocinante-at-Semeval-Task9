@@ -1,0 +1,280 @@
+<Table 2>
+ <caption text="
+
+   CECs analyzed and their mobility, solubility, and potential degradation pathways (
+   ;
+   ;
+   ;
+   ;
+   ). Compounds that are less likely to degrade (e.g. via processes such as biodegradation, photolysis, volatilization) are considered persistent, such as carbamazepine and dioxins. Limit of detection (LOD) and limit of quantification (LOQ) are in ng/L.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="CEC">
+  </cell>
+  <cell col="1" row="0" text="Chemical Formula">
+  </cell>
+  <cell col="2" row="0" text="Use">
+  </cell>
+  <cell col="3" row="0" text="Mobility/solubility">
+  </cell>
+  <cell col="4" row="0" text="Degradation Pathways">
+  </cell>
+  <cell col="5" row="0" text="pKa">
+  </cell>
+  <cell col="6" row="0" text="LOD (LOQ)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Carbamazepine">
+  </cell>
+  <cell col="1" row="1" text="C
+     
+      15
+     
+     H
+     
+      12
+     
+     N
+     
+      2
+     
+     O">
+  </cell>
+  <cell col="2" row="1" text="Anti-convulsant">
+  </cell>
+  <cell col="3" row="1" text="Immobile, insoluble">
+  </cell>
+  <cell col="4" row="1" text="Resistant">
+  </cell>
+  <cell col="5" row="1" text="14">
+  </cell>
+  <cell col="6" row="1" text="10
+     
+     (20)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Caffeine">
+  </cell>
+  <cell col="1" row="2" text="C
+     
+      8
+     
+     H
+     
+      10
+     
+     N
+     
+      4
+     
+     O
+     
+      2">
+  </cell>
+  <cell col="2" row="2" text="Lifestyle compound">
+  </cell>
+  <cell col="3" row="2" text="Highly mobile, highly soluble">
+  </cell>
+  <cell col="4" row="2" text="Biodegradable">
+  </cell>
+  <cell col="5" row="2" text="6.1">
+  </cell>
+  <cell col="6" row="2" text="47 (150)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Fluoroquinolones:
+     
+     Enrofloxacin Danofloxacin Ciprofloxacin">
+  </cell>
+  <cell col="1" row="3" text="C
+     
+      19
+     
+     H
+     
+      22
+     
+     FN
+     
+      3
+     
+     O
+     
+      3
+     
+
+     C
+     
+      19
+     
+     H
+     
+      20
+     
+     FN
+     
+      3
+     
+     O
+     
+      3
+     
+
+     C
+     
+      17
+     
+     H
+     
+      18
+     
+     FN
+     
+      3
+     
+     O
+     
+      3">
+  </cell>
+  <cell col="2" row="3" text="Antibiotic">
+  </cell>
+  <cell col="3" row="3" text="Somewhat mobile, soluble">
+  </cell>
+  <cell col="4" row="3" text="Highly photolytic">
+  </cell>
+  <cell col="5" row="3" text="5.7–8.6">
+  </cell>
+  <cell col="6" row="3" text="10
+     
+     (16)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Ibuprofen">
+  </cell>
+  <cell col="1" row="4" text="C
+     
+      13
+     
+     H
+     
+      18
+     
+     O
+     
+      2">
+  </cell>
+  <cell col="2" row="4" text="Anti-inflammatory, pain reliever">
+  </cell>
+  <cell col="3" row="4" text="Highly mobile, highly soluble">
+  </cell>
+  <cell col="4" row="4" text="Biodegradable">
+  </cell>
+  <cell col="5" row="4" text="4.4">
+  </cell>
+  <cell col="6" row="4" text="20 (132)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Sulfamethoxazole">
+  </cell>
+  <cell col="1" row="5" text="C
+     
+      10
+     
+     H
+     
+      11
+     
+     N
+     
+      3
+     
+     O
+     
+      3
+     
+     S">
+  </cell>
+  <cell col="2" row="5" text="Antibiotic">
+  </cell>
+  <cell col="3" row="5" text="Mobile, insoluble">
+  </cell>
+  <cell col="4" row="5" text="Highly photolytic">
+  </cell>
+  <cell col="5" row="5" text="8.6">
+  </cell>
+  <cell col="6" row="5" text="12
+     
+     (29)">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Dioxins:
+     
+     2,3,7,8-TCDD
+     
+     1,2,3,7,8-PnCDD">
+  </cell>
+  <cell col="1" row="6" text="C
+     
+      12
+     
+     H
+     
+      4
+     
+     Cl
+     
+      4
+     
+     O
+     
+      2
+     
+
+     C
+     
+      12
+     
+     H
+     
+      3
+     
+     Cl
+     
+      5
+     
+     O
+     
+      2">
+  </cell>
+  <cell col="2" row="6" text="Combustion waste product">
+  </cell>
+  <cell col="3" row="6" text="Immobile, insoluble">
+  </cell>
+  <cell col="4" row="6" text="Resistant">
+  </cell>
+  <cell col="5" row="6" text="6.8">
+  </cell>
+  <cell col="6" row="6" text="0.24 (2.8)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The Caffeine is used as Lifestyle compound." type="">
+  </statement>
+  <statement id="1" text="The Ibuprofen is Biodegradable." type="">
+  </statement>
+  <statement id="3" text="The Ibuprofen is Immobile, insoluble ." type="">
+  </statement>
+  <statement id="4" text="The Degradation Pathways Carbamazepine is Biodegradable." type="">
+  </statement>
+  <statement id="5" text="(more basic) was also observed (Fig. S4)." type="">
+  </statement>
+ </statements>
+</Table 2>

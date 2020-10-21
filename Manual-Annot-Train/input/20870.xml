@@ -1,0 +1,498 @@
+<Table 2>
+ <caption text="
+
+   Composition of 3-hydroxy fatty acid methyl esters (FAMEs) in the rhamnolipid produced by
+   
+    Pseudomonas aeruginosa
+   
+   SS14 (RL-SS14) using glycerol as the carbon source. The analysis was carried out by GC–MS.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="FAME">
+  </cell>
+  <cell col="1" row="0" text="Retention time (min)">
+  </cell>
+  <cell col="2" row="0" text="Abundance (%)">
+  </cell>
+  <cell col="3" row="0" text="Molecular formula">
+  </cell>
+  <cell col="4" row="0" text="Molecular weight">
+  </cell>
+  <cell col="5" row="0" text="Component of Rhamnolipid">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="C
+     
+      8:2">
+  </cell>
+  <cell col="1" row="1" text="5.27">
+  </cell>
+  <cell col="2" row="1" text="0.62">
+  </cell>
+  <cell col="3" row="1" text="C
+     
+      9
+     
+     H
+     
+      14
+     
+     O
+     
+      3">
+  </cell>
+  <cell col="4" row="1" text="170.20">
+  </cell>
+  <cell col="5" row="1" text="Rha-C
+     
+      8:2">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="C
+     
+      8:0">
+  </cell>
+  <cell col="1" row="2" text="5.53">
+  </cell>
+  <cell col="2" row="2" text="8.42">
+  </cell>
+  <cell col="3" row="2" text="C
+     
+      9
+     
+     H
+     
+      18
+     
+     O
+     
+      3">
+  </cell>
+  <cell col="4" row="2" text="174.23">
+  </cell>
+  <cell col="5" row="2" text="Rha-C
+     
+      8
+     
+     -C
+     
+      10
+     
+     , Rha
+     
+      2
+     
+     -C
+     
+      8
+     
+     -C
+     
+      10
+     
+     , Rha
+     
+      2
+     
+     -C
+     
+      8
+     
+     -C
+     
+      10:1">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="C
+     
+      9:2">
+  </cell>
+  <cell col="1" row="3" text="5.78">
+  </cell>
+  <cell col="2" row="3" text="2.78">
+  </cell>
+  <cell col="3" row="3" text="C
+     
+      10
+     
+     H
+     
+      16
+     
+     O
+     
+      3">
+  </cell>
+  <cell col="4" row="3" text="184.23">
+  </cell>
+  <cell col="5" row="3" text="Rha-C
+     
+      9:2">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="C
+     
+      10:2">
+  </cell>
+  <cell col="1" row="4" text="5.99">
+  </cell>
+  <cell col="2" row="4" text="0.11">
+  </cell>
+  <cell col="3" row="4" text="C
+     
+      11
+     
+     H
+     
+      18
+     
+     O
+     
+      3">
+  </cell>
+  <cell col="4" row="4" text="198.26">
+  </cell>
+  <cell col="5" row="4" text="Rha-C
+     
+      10:2">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="C
+     
+      10:1">
+  </cell>
+  <cell col="1" row="5" text="6.03">
+  </cell>
+  <cell col="2" row="5" text="1.63">
+  </cell>
+  <cell col="3" row="5" text="C
+     
+      11
+     
+     H
+     
+      20
+     
+     O
+     
+      3">
+  </cell>
+  <cell col="4" row="5" text="200.27">
+  </cell>
+  <cell col="5" row="5" text="Rha-C
+     
+      10:1
+     
+     , Rha
+     
+      2
+     
+     -C
+     
+      8
+     
+     -C
+     
+      10:1">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="C
+     
+      10">
+  </cell>
+  <cell col="1" row="6" text="6.48">
+  </cell>
+  <cell col="2" row="6" text="44.90">
+  </cell>
+  <cell col="3" row="6" text="C
+     
+      11
+     
+     H
+     
+      22
+     
+     O
+     
+      3">
+  </cell>
+  <cell col="4" row="6" text="202.29">
+  </cell>
+  <cell col="5" row="6" text="Rha-C
+     
+      8
+     
+     -C
+     
+      10
+     
+     , Rha-C
+     
+      10
+     
+     -C
+     
+      12:2
+     
+     , Rha
+     
+      2
+     
+     -C
+     
+      10
+     
+     , Rha
+     
+      2
+     
+     -C
+     
+      8
+     
+     -C
+     
+      10
+     
+     , Rha
+     
+      2
+     
+     -C
+     
+      10
+     
+     -C
+     
+      10">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="C
+     
+      12:2">
+  </cell>
+  <cell col="1" row="7" text="7.45">
+  </cell>
+  <cell col="2" row="7" text="3.65">
+  </cell>
+  <cell col="3" row="7" text="C
+     
+      13
+     
+     H
+     
+      22
+     
+     O
+     
+      3">
+  </cell>
+  <cell col="4" row="7" text="226.31">
+  </cell>
+  <cell col="5" row="7" text="Rha-C
+     
+      12:2
+     
+     , Rha-C
+     
+      10
+     
+     -C
+     
+      12:2
+     
+     , Rha
+     
+      2
+     
+     -C
+     
+      12
+     
+     -C
+     
+      12:2">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="C
+     
+      12:0">
+  </cell>
+  <cell col="1" row="8" text="7.52">
+  </cell>
+  <cell col="2" row="8" text="5.73">
+  </cell>
+  <cell col="3" row="8" text="C
+     
+      13
+     
+     H
+     
+      26
+     
+     O
+     
+      3">
+  </cell>
+  <cell col="4" row="8" text="230.34">
+  </cell>
+  <cell col="5" row="8" text="Rha-C
+     
+      12
+     
+     -C
+     
+      12
+     
+     , Rha-C
+     
+      12
+     
+     -C
+     
+      14:1
+     
+     , Rha-C
+     
+      12
+     
+     -C
+     
+      14
+     
+     , Rha
+     
+      2
+     
+     -C
+     
+      12
+     
+     , Rha
+     
+      2
+     
+     -C
+     
+      12
+     
+     -C
+     
+      12:2">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="C
+     
+      14:2">
+  </cell>
+  <cell col="1" row="9" text="7.59">
+  </cell>
+  <cell col="2" row="9" text="0.09">
+  </cell>
+  <cell col="3" row="9" text="C
+     
+      15
+     
+     H
+     
+      26
+     
+     O
+     
+      3">
+  </cell>
+  <cell col="4" row="9" text="254.36">
+  </cell>
+  <cell col="5" row="9" text="Rha-C
+     
+      14:2">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="C
+     
+      14:1">
+  </cell>
+  <cell col="1" row="10" text="7.63">
+  </cell>
+  <cell col="2" row="10" text="0.15">
+  </cell>
+  <cell col="3" row="10" text="C
+     
+      15
+     
+     H
+     
+      28
+     
+     O
+     
+      3">
+  </cell>
+  <cell col="4" row="10" text="256.38">
+  </cell>
+  <cell col="5" row="10" text="Rha-C
+     
+      12
+     
+     -C
+     
+      14:1">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="C
+     
+      14:0">
+  </cell>
+  <cell col="1" row="11" text="7.68">
+  </cell>
+  <cell col="2" row="11" text="8.18">
+  </cell>
+  <cell col="3" row="11" text="C
+     
+      15
+     
+     H
+     
+      30
+     
+     O
+     
+      3">
+  </cell>
+  <cell col="4" row="11" text="258.40">
+  </cell>
+  <cell col="5" row="11" text="Rha-C
+     
+      12
+     
+     -C
+     
+      14">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="FAME C 8:2 Component of Rhamnolipid is Rha-C 8:2." type="">
+  </statement>
+  <statement id="2" text="Molecular formula C 11 H 20 O 3 FAME is C 10:1." type="">
+  </statement>
+  <statement id="3" text="C 10 FAME Abundance (%) is 44.90." type="">
+  </statement>
+  <statement id="4" text="Component of Rhamnolipid Rha-C 14:2 FAME is C C 10:2 ." type="">
+  </statement>
+  <statement id="5" text="FAME C 14:2 Component of Rhamnolipid is Rha-C 8:2." type="">
+  </statement>
+ </statements>
+</Table 2>

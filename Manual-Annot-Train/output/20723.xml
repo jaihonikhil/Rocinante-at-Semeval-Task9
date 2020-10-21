@@ -1,0 +1,88 @@
+<Table 2>
+ <caption text="
+
+   Frequency of IgE reactivity to major HDM allergens in relation to clinical symptoms.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="nDer p 1">
+  </cell>
+  <cell col="2" row="0" text="nDer p 2">
+  </cell>
+  <cell col="3" row="0" text="rDer p 2.0101">
+  </cell>
+  <cell col="4" row="0" text="rDer p 23">
+  </cell>
+  <cell col="5" row="0" text="nDer p 1 or nDer p 2">
+  </cell>
+  <cell col="6" row="0" text="rDer p 23 only">
+  </cell>
+  <cell col="7" row="0" text="Any">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="All">
+  </cell>
+  <cell col="1" row="1" text="72.1%">
+  </cell>
+  <cell col="2" row="1" text="81.7%">
+  </cell>
+  <cell col="3" row="1" text="78.3%">
+  </cell>
+  <cell col="4" row="1" text="70.9%">
+  </cell>
+  <cell col="5" row="1" text="90.4%">
+  </cell>
+  <cell col="6" row="1" text="4.6%">
+  </cell>
+  <cell col="7" row="1" text="95.0%">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="AA">
+  </cell>
+  <cell col="1" row="2" text="83.0%">
+  </cell>
+  <cell col="2" row="2" text="83.3%">
+  </cell>
+  <cell col="3" row="2" text="82.4%">
+  </cell>
+  <cell col="4" row="2" text="82.4%">
+  </cell>
+  <cell col="5" row="2" text="90.8%">
+  </cell>
+  <cell col="6" row="2" text="4.5%">
+  </cell>
+  <cell col="7" row="2" text="95.3%">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="AR">
+  </cell>
+  <cell col="1" row="3" text="62.5%">
+  </cell>
+  <cell col="2" row="3" text="80.0%">
+  </cell>
+  <cell col="3" row="3" text="74.7%">
+  </cell>
+  <cell col="4" row="3" text="60.7%">
+  </cell>
+  <cell col="5" row="3" text="90.0%">
+  </cell>
+  <cell col="6" row="3" text="4.7%">
+  </cell>
+  <cell col="7" row="3" text="94.7%">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="nDer p 1 or nDer p 2 has same HDM allergens for All,AA,AR ." type="entailed">
+  </statement>
+  <statement id="2" text="rDer p 23 only ranges from 5.5% to 6.7%." type="refuted">
+  </statement>
+  <statement id="3" text="Positive IgE ELISA to either nDer p 1 or nDer p 2 was demonstrated in 90.4% of patients, while the frequency of HDM-APs developing sensitization to any of the studied allergens reached 95.0% of patients ( Table 2 )." type="entailed">
+  </statement>
+ </statements>
+</Table 2>

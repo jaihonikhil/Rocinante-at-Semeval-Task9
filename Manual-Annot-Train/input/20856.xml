@@ -1,0 +1,410 @@
+<Table 4>
+ <caption text="
+
+   Calibrated values of
+   
+    Gsh
+   
+   and
+   
+    Gsc
+   
+   and the corresponding velocities (Eq.2).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Gsh">
+  </cell>
+  <cell col="2" row="0" text="Gsc">
+  </cell>
+  <cell col="3" row="0" text="Pmid [m]">
+  </cell>
+  <cell col="4" row="0" text="Mean velocity [m/s]">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="GK">
+  </cell>
+  <cell col="1" row="1" text="2.23">
+  </cell>
+  <cell col="2" row="1" text="0.00029">
+  </cell>
+  <cell col="3" row="1" text="47.0">
+  </cell>
+  <cell col="4" row="1" text="5.1*10
+     
+      −5">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="RIS">
+  </cell>
+  <cell col="1" row="2" text="2.97">
+  </cell>
+  <cell col="2" row="2" text="0.00026">
+  </cell>
+  <cell col="3" row="2" text="31.0">
+  </cell>
+  <cell col="4" row="2" text="4.0*10
+     
+      −5">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are two different Calibrated values." type="">
+  </statement>
+  <statement id="1" text="RIS has the highest value in Gsh of 2.97." type="">
+  </statement>
+  <statement id="2" text="RIS has the lowest value in Pmid [m] of 31.0." type="">
+  </statement>
+  <statement id="3" text="There are five different Calibrated values." type="">
+  </statement>
+  <statement id="4" text="RIS has the highest value in Pmid [m] of 31.7." type="">
+  </statement>
+  <statement id="5" text="Table 4 shows the calibrated values of Gsh and Gsc together with the corresponding estimates of mean subsurface velocity." type="">
+  </statement>
+ </statements>
+</Table 4>
+<Table 3>
+ <caption text="
+
+   Skill score (KGE), bias, evapotranspiration and average fraction of flow from P-areas for RIS and GK. Bold face indicate timeseries used for calibration.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Period">
+  </cell>
+  <cell col="2" row="0" text="KGE">
+  </cell>
+  <cell col="3" row="0" text="Bias">
+  </cell>
+  <cell col="4" row="0" text="Ea/Precip">
+  </cell>
+  <cell col="5" row="0" text="Average fractional contribution of flow from P areas">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="RIS1">
+  </cell>
+  <cell col="1" row="1" text="1993–1-1 00:00 – 1994–10-4 15:20">
+  </cell>
+  <cell col="2" row="1" text="0.56">
+  </cell>
+  <cell col="3" row="1" text="1.03">
+  </cell>
+  <cell col="4" row="1" text="0.29">
+  </cell>
+  <cell col="5" row="1" text="0.46">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="RIS2">
+  </cell>
+  <cell col="1" row="2" text="1994–10-12 15:50 – 1997–7-25 18:50">
+  </cell>
+  <cell col="2" row="2" text="0.62">
+  </cell>
+  <cell col="3" row="2" text="1.05">
+  </cell>
+  <cell col="4" row="2" text="0.21">
+  </cell>
+  <cell col="5" row="2" text="0.48">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="RIS3">
+  </cell>
+  <cell col="1" row="3" text="1997–7-28 11:00 – 1997–9-23 07:20">
+  </cell>
+  <cell col="2" row="3" text="0.92">
+  </cell>
+  <cell col="3" row="3" text="1.03">
+  </cell>
+  <cell col="4" row="3" text="0.19">
+  </cell>
+  <cell col="5" row="3" text="0.45">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="RIS4">
+  </cell>
+  <cell col="1" row="4" text="1997–11-18 16:00 – 1998–8-31 23:50">
+  </cell>
+  <cell col="2" row="4" text="0.6">
+  </cell>
+  <cell col="3" row="4" text="0.86">
+  </cell>
+  <cell col="4" row="4" text="0.30">
+  </cell>
+  <cell col="5" row="4" text="0.45">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="GK1">
+  </cell>
+  <cell col="1" row="5" text="2010–6-30 10:0 – 2010–8-31 23:50">
+  </cell>
+  <cell col="2" row="5" text="0.69">
+  </cell>
+  <cell col="3" row="5" text="1.04">
+  </cell>
+  <cell col="4" row="5" text="0.42">
+  </cell>
+  <cell col="5" row="5" text="0.57">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="GK2">
+  </cell>
+  <cell col="1" row="6" text="2010–9-1 00:00 – 2010–11-15 12:20">
+  </cell>
+  <cell col="2" row="6" text="0.81">
+  </cell>
+  <cell col="3" row="6" text="0.90">
+  </cell>
+  <cell col="4" row="6" text="0.16">
+  </cell>
+  <cell col="5" row="6" text="0.70">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The highest KGE value is 0.92 of RIS3." type="">
+  </statement>
+  <statement id="1" text="The bias value for RIS1 and RIS3 is same as 1.73." type="">
+  </statement>
+  <statement id="2" text="There are 8 periods given in the table." type="">
+  </statement>
+  <statement id="3" text="The highest Ea/Precip value is 0.16 of GK2." type="">
+  </statement>
+  <statement id="4" text="The highest KGE value is 0.69 of GK1." type="">
+  </statement>
+ </statements>
+</Table 3>
+<Table 6>
+ <caption text="
+
+   The effect of using different CA and river networks at GK. The CA marked with an * is the suggested CA by GRASS GIS for GK and is the CA applied in the results of this study.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="CA [m
+     
+      2
+     
+     ]">
+  </cell>
+  <cell col="1" row="0" text="KGE">
+  </cell>
+  <cell col="2" row="0" text="Mean velocity [m/s]">
+  </cell>
+  <cell col="3" row="0" text="M [mm]">
+  </cell>
+  <cell col="4" row="0" text="Mean distance P areas [m]">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1000">
+  </cell>
+  <cell col="1" row="1" text="0.53">
+  </cell>
+  <cell col="2" row="1" text="9.6*10
+     
+      −6">
+  </cell>
+  <cell col="3" row="1" text="79.1">
+  </cell>
+  <cell col="4" row="1" text="13.5">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2500">
+  </cell>
+  <cell col="1" row="2" text="0.6">
+  </cell>
+  <cell col="2" row="2" text="1.43*10
+     
+      −5">
+  </cell>
+  <cell col="3" row="2" text="84.1">
+  </cell>
+  <cell col="4" row="2" text="19.4">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="5000">
+  </cell>
+  <cell col="1" row="3" text="0.72">
+  </cell>
+  <cell col="2" row="3" text="2.88*10
+     
+      −5">
+  </cell>
+  <cell col="3" row="3" text="79.8">
+  </cell>
+  <cell col="4" row="3" text="31.9">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="10000*">
+  </cell>
+  <cell col="1" row="4" text="0.81">
+  </cell>
+  <cell col="2" row="4" text="5.1*10
+     
+      −5">
+  </cell>
+  <cell col="3" row="4" text="63">
+  </cell>
+  <cell col="4" row="4" text="47.0">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="15,000">
+  </cell>
+  <cell col="1" row="5" text="0.82">
+  </cell>
+  <cell col="2" row="5" text="7.6*10
+     
+      −5">
+  </cell>
+  <cell col="3" row="5" text="57.8">
+  </cell>
+  <cell col="4" row="5" text="57.3">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="20,000">
+  </cell>
+  <cell col="1" row="6" text="0.84">
+  </cell>
+  <cell col="2" row="6" text="8.0*10
+     
+      −5">
+  </cell>
+  <cell col="3" row="6" text="58.7">
+  </cell>
+  <cell col="4" row="6" text="72.2">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="25,000">
+  </cell>
+  <cell col="1" row="7" text="0.82">
+  </cell>
+  <cell col="2" row="7" text="9.6*10
+     
+      −5">
+  </cell>
+  <cell col="3" row="7" text="58.9">
+  </cell>
+  <cell col="4" row="7" text="75.4">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The highest M [mm] is 84.1." type="">
+  </statement>
+  <statement id="1" text="The lowest Mean distance P areas [m] is 13.5." type="">
+  </statement>
+  <statement id="2" text="The highest KGE is 0.002." type="">
+  </statement>
+ </statements>
+</Table 6>
+<Table 5>
+ <caption text="
+
+   NSE of H&amp;A (2018) and DDDUrban for time periods of validation. The NSE of H&amp;A (2018) is the averaged value over the different parameter sets.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Period">
+  </cell>
+  <cell col="2" row="0" text="NSE(H&amp;A,2018)">
+  </cell>
+  <cell col="3" row="0" text="NSE(DDDUrban)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="RIS1(S)">
+  </cell>
+  <cell col="1" row="1" text="1993–8-1 00:00– 1993–8-1 12:00">
+  </cell>
+  <cell col="2" row="1" text="0.48">
+  </cell>
+  <cell col="3" row="1" text="−0.27">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="RIS1(S)">
+  </cell>
+  <cell col="1" row="2" text="1994–9-28 00:00 – 1994–9-30 00:00">
+  </cell>
+  <cell col="2" row="2" text="0.17">
+  </cell>
+  <cell col="3" row="2" text="0.61">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="RIS2(S)">
+  </cell>
+  <cell col="1" row="3" text="1995–6-9 00:00 – 1995–6-11 00:00">
+  </cell>
+  <cell col="2" row="3" text="0.21">
+  </cell>
+  <cell col="3" row="3" text="0.80">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="RIS2(SA)">
+  </cell>
+  <cell col="1" row="4" text="1995–6-1 00:00 – 1995–10-1 00:00">
+  </cell>
+  <cell col="2" row="4" text="0.56">
+  </cell>
+  <cell col="3" row="4" text="0.69">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="RIS4(S)">
+  </cell>
+  <cell col="1" row="5" text="1998–8-15 12:00– 1998–8-15 20:00">
+  </cell>
+  <cell col="2" row="5" text="0.41">
+  </cell>
+  <cell col="3" row="5" text="0.36">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="">
+  </cell>
+  <cell col="1" row="6" text="Mean">
+  </cell>
+  <cell col="2" row="6" text="0.37">
+  </cell>
+  <cell col="3" row="6" text="0.44">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="RIS4(S) has 0.41 value under NSE(H&amp;A,2018)." type="">
+  </statement>
+  <statement id="1" text="0.37 is the Mean." type="">
+  </statement>
+  <statement id="2" text="NSE(DDDUrban) has the highest value of 0.80 compare to all other." type="">
+  </statement>
+  <statement id="3" text="RIS4(S) has 8.41 value under NSE(H&amp;A,2018)." type="">
+  </statement>
+  <statement id="4" text="0.997 is the Mean." type="">
+  </statement>
+  <statement id="6" text="The time periods of validation are very short (12 days), excepting the fourth period which is 4 months in length." type="">
+  </statement>
+ </statements>
+</Table 5>

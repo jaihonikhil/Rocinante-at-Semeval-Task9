@@ -1,0 +1,258 @@
+<Table 1>
+ <caption text="
+
+   Columns data type.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="No">
+  </cell>
+  <cell col="1" row="0" text="Column">
+  </cell>
+  <cell col="2" row="0" text="Count">
+  </cell>
+  <cell col="3" row="0" text="Data type">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1">
+  </cell>
+  <cell col="1" row="1" text="responses_header">
+  </cell>
+  <cell col="2" row="1" text="16,659">
+  </cell>
+  <cell col="3" row="1" text="object">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2">
+  </cell>
+  <cell col="1" row="2" text="responses_rating_grade">
+  </cell>
+  <cell col="2" row="2" text="11,222">
+  </cell>
+  <cell col="3" row="2" text="float64">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3">
+  </cell>
+  <cell col="1" row="3" text="responses_status">
+  </cell>
+  <cell col="2" row="3" text="7559">
+  </cell>
+  <cell col="3" row="3" text="object">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4">
+  </cell>
+  <cell col="1" row="4" text="responses_message">
+  </cell>
+  <cell col="2" row="4" text="16,659">
+  </cell>
+  <cell col="3" row="4" text="object">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="5">
+  </cell>
+  <cell col="1" row="5" text="responses_datetime">
+  </cell>
+  <cell col="2" row="5" text="16,659">
+  </cell>
+  <cell col="3" row="5" text="datetime64[ns]">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="6">
+  </cell>
+  <cell col="1" row="6" text="reviewer">
+  </cell>
+  <cell col="2" row="6" text="16,659">
+  </cell>
+  <cell col="3" row="6" text="object">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="7">
+  </cell>
+  <cell col="1" row="7" text="comments">
+  </cell>
+  <cell col="2" row="7" text="16,659">
+  </cell>
+  <cell col="3" row="7" text="int64">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="8">
+  </cell>
+  <cell col="1" row="8" text="views">
+  </cell>
+  <cell col="2" row="8" text="16,659">
+  </cell>
+  <cell col="3" row="8" text="int64">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="9">
+  </cell>
+  <cell col="1" row="9" text="id">
+  </cell>
+  <cell col="2" row="9" text="16,659">
+  </cell>
+  <cell col="3" row="9" text="int64">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="10">
+  </cell>
+  <cell col="1" row="10" text="have_email">
+  </cell>
+  <cell col="2" row="10" text="16,659">
+  </cell>
+  <cell col="3" row="10" text="int64">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="11">
+  </cell>
+  <cell col="1" row="11" text="responses_message_length">
+  </cell>
+  <cell col="2" row="11" text="16,659">
+  </cell>
+  <cell col="3" row="11" text="int64">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="12">
+  </cell>
+  <cell col="1" row="12" text="gunning_fog_index">
+  </cell>
+  <cell col="2" row="12" text="16,659">
+  </cell>
+  <cell col="3" row="12" text="float64">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="13">
+  </cell>
+  <cell col="1" row="13" text="binary_score">
+  </cell>
+  <cell col="2" row="13" text="16,659">
+  </cell>
+  <cell col="3" row="13" text="object">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are thirteen different type of Columns data type." type="">
+  </statement>
+  <statement id="1" text="Column responses_rating_grade has the count of 11,222." type="">
+  </statement>
+  <statement id="2" text="Column responses_status has the lowest count of 7559." type="">
+  </statement>
+  <statement id="3" text="Eleven Column has lowest and different Count of 16,679." type="">
+  </statement>
+  <statement id="4" text="Column responses_rating_grade has the count of 10,121." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   The number of views depending on the rating.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="responses_rating_grade">
+  </cell>
+  <cell col="1" row="0" text="views">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1.0">
+  </cell>
+  <cell col="1" row="1" text="1192.8">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2.0">
+  </cell>
+  <cell col="1" row="2" text="1278.9">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3.0">
+  </cell>
+  <cell col="1" row="3" text="1391.4">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4.0">
+  </cell>
+  <cell col="1" row="4" text="1169.8">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="5.0">
+  </cell>
+  <cell col="1" row="5" text="990">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Rating grade 3.0 having more views." type="">
+  </statement>
+  <statement id="1" text="Rating grade 5.0 has less number of views." type="">
+  </statement>
+  <statement id="2" text="There are six rating grades given in the table." type="">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Comparison of the lengths of positive and negative reviews.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="binary_score">
+  </cell>
+  <cell col="1" row="0" text="responses_message_length">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="negative">
+  </cell>
+  <cell col="1" row="1" text="1474.2">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="positive">
+  </cell>
+  <cell col="1" row="2" text="1041.6">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Binary score is classified into positive and negative." type="">
+  </statement>
+  <statement id="1" text="There are 2 columns in the given table." type="">
+  </statement>
+  <statement id="2" text="Both the values are with decimal point." type="">
+  </statement>
+  <statement id="3" text="All the value are in positive values." type="">
+  </statement>
+  <statement id="4" text="There are 4 columns in the given table." type="">
+  </statement>
+  <statement id="5" text="Binary score is classified into 3 types." type="">
+  </statement>
+  <statement id="6" text="All the value are in negative values." type="">
+  </statement>
+  <statement id="7" text="Both the values are without decimal point." type="">
+  </statement>
+  <statement id="8" text="Table 2 shows the correspondence of the average length of reviews concerning the binary classification." type="">
+  </statement>
+ </statements>
+</Table 2>

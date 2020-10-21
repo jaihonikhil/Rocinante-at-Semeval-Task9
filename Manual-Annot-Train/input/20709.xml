@@ -1,0 +1,586 @@
+<Table 1>
+ <caption text="
+
+   Laboratory finding on admission.
+  
+
+   AST, asparate aminotransferase; ALT, alanine transaminase; LDH, lactate dehydrogenase; ALP, alkaline phosphatase; GTP, glutamyl transferase; eGFR, estimated glomerular filtration ratio; HDL, high density lipoprotein; LDL, low density lipoprotein; CRP, C-reactive protein. iPTH, intact parathyroid hormone.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Normal range">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Age">
+  </cell>
+  <cell col="1" row="1" text="56">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+  <cell col="3" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Body weight">
+  </cell>
+  <cell col="1" row="2" text="54.5">
+  </cell>
+  <cell col="2" row="2" text="">
+  </cell>
+  <cell col="3" row="2" text="kg">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="White blood cells">
+  </cell>
+  <cell col="1" row="3" text="7700">
+  </cell>
+  <cell col="2" row="3" text="3200–7900">
+  </cell>
+  <cell col="3" row="3" text="/μL">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Hemoglobin">
+  </cell>
+  <cell col="1" row="4" text="9.8">
+  </cell>
+  <cell col="2" row="4" text="11.3–15.0">
+  </cell>
+  <cell col="3" row="4" text="g/dL">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Hematocrit">
+  </cell>
+  <cell col="1" row="5" text="30.8">
+  </cell>
+  <cell col="2" row="5" text="34.0–46.3">
+  </cell>
+  <cell col="3" row="5" text="%">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Platelets">
+  </cell>
+  <cell col="1" row="6" text="223">
+  </cell>
+  <cell col="2" row="6" text="155–350">
+  </cell>
+  <cell col="3" row="6" text="*10
+     
+      3
+     
+     /μL">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Total protein">
+  </cell>
+  <cell col="1" row="7" text="6.3">
+  </cell>
+  <cell col="2" row="7" text="6.9–8.4">
+  </cell>
+  <cell col="3" row="7" text="g/dL">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Albumin">
+  </cell>
+  <cell col="1" row="8" text="3.2">
+  </cell>
+  <cell col="2" row="8" text="3.9–5.2">
+  </cell>
+  <cell col="3" row="8" text="g/dL">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="AST">
+  </cell>
+  <cell col="1" row="9" text="21">
+  </cell>
+  <cell col="2" row="9" text="13–33">
+  </cell>
+  <cell col="3" row="9" text="IU/L">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="ALT">
+  </cell>
+  <cell col="1" row="10" text="22">
+  </cell>
+  <cell col="2" row="10" text="7–23">
+  </cell>
+  <cell col="3" row="10" text="IU/L">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="LDH">
+  </cell>
+  <cell col="1" row="11" text="119">
+  </cell>
+  <cell col="2" row="11" text="119–229">
+  </cell>
+  <cell col="3" row="11" text="IU/L">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="ALP">
+  </cell>
+  <cell col="1" row="12" text="258">
+  </cell>
+  <cell col="2" row="12" text="117–350">
+  </cell>
+  <cell col="3" row="12" text="IU/L">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="γ-GTP">
+  </cell>
+  <cell col="1" row="13" text="28">
+  </cell>
+  <cell col="2" row="13" text="9–109">
+  </cell>
+  <cell col="3" row="13" text="IU/L">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Urea nitrogen">
+  </cell>
+  <cell col="1" row="14" text="21">
+  </cell>
+  <cell col="2" row="14" text="8–21">
+  </cell>
+  <cell col="3" row="14" text="mg/dL">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="Creatinine">
+  </cell>
+  <cell col="1" row="15" text="0.33">
+  </cell>
+  <cell col="2" row="15" text="0.46–0.78">
+  </cell>
+  <cell col="3" row="15" text="mg/dl">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="eGFR">
+  </cell>
+  <cell col="1" row="16" text="151.9">
+  </cell>
+  <cell col="2" row="16" text="&gt;90">
+  </cell>
+  <cell col="3" row="16" text="ml/min/1.73m
+     
+      2">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="Uremic acid">
+  </cell>
+  <cell col="1" row="17" text="5.7">
+  </cell>
+  <cell col="2" row="17" text="2.5–7.0">
+  </cell>
+  <cell col="3" row="17" text="mg/dL">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="Triglyceride">
+  </cell>
+  <cell col="1" row="18" text="35">
+  </cell>
+  <cell col="2" row="18" text="30–150">
+  </cell>
+  <cell col="3" row="18" text="mg/dL">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="Total cholesterol">
+  </cell>
+  <cell col="1" row="19" text="96">
+  </cell>
+  <cell col="2" row="19" text="122–240">
+  </cell>
+  <cell col="3" row="19" text="mg/dL">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="HDL cholesterol">
+  </cell>
+  <cell col="1" row="20" text="46">
+  </cell>
+  <cell col="2" row="20" text="35–70">
+  </cell>
+  <cell col="3" row="20" text="mg/dL">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="LDL cholesterol">
+  </cell>
+  <cell col="1" row="21" text="34">
+  </cell>
+  <cell col="2" row="21" text="&lt;140">
+  </cell>
+  <cell col="3" row="21" text="mg/dL">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="Na">
+  </cell>
+  <cell col="1" row="22" text="143">
+  </cell>
+  <cell col="2" row="22" text="139–146">
+  </cell>
+  <cell col="3" row="22" text="mmol/L">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="K">
+  </cell>
+  <cell col="1" row="23" text="3.7">
+  </cell>
+  <cell col="2" row="23" text="3.7–4.8">
+  </cell>
+  <cell col="3" row="23" text="mmol/L">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="Cl">
+  </cell>
+  <cell col="1" row="24" text="109">
+  </cell>
+  <cell col="2" row="24" text="101–109">
+  </cell>
+  <cell col="3" row="24" text="mmol/L">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="Corrected Ca">
+  </cell>
+  <cell col="1" row="25" text="10.2">
+  </cell>
+  <cell col="2" row="25" text="8.7–10.1">
+  </cell>
+  <cell col="3" row="25" text="mg/dL">
+  </cell>
+ </row>
+ <row row="26">
+  <cell col="0" row="26" text="P">
+  </cell>
+  <cell col="1" row="26" text="4.6">
+  </cell>
+  <cell col="2" row="26" text="2.8–4.6">
+  </cell>
+  <cell col="3" row="26" text="mg/dL">
+  </cell>
+ </row>
+ <row row="27">
+  <cell col="0" row="27" text="CRP">
+  </cell>
+  <cell col="1" row="27" text="0.2">
+  </cell>
+  <cell col="2" row="27" text="&lt;0.14">
+  </cell>
+  <cell col="3" row="27" text="mg/dL">
+  </cell>
+ </row>
+ <row row="28">
+  <cell col="0" row="28" text="Ferritin">
+  </cell>
+  <cell col="1" row="28" text="101">
+  </cell>
+  <cell col="2" row="28" text="5–80">
+  </cell>
+  <cell col="3" row="28" text="μg/L">
+  </cell>
+ </row>
+ <row row="29">
+  <cell col="0" row="29" text="RF">
+  </cell>
+  <cell col="1" row="29" text="1">
+  </cell>
+  <cell col="2" row="29" text="&lt;10">
+  </cell>
+  <cell col="3" row="29" text="U/mL">
+  </cell>
+ </row>
+ <row row="30">
+  <cell col="0" row="30" text="Anti-CCP antibody">
+  </cell>
+  <cell col="1" row="30" text="&lt;0.5">
+  </cell>
+  <cell col="2" row="30" text="&lt;4.5">
+  </cell>
+  <cell col="3" row="30" text="U/mL">
+  </cell>
+ </row>
+ <row row="31">
+  <cell col="0" row="31" text="ANA">
+  </cell>
+  <cell col="1" row="31" text="&lt;40">
+  </cell>
+  <cell col="2" row="31" text="&lt;40">
+  </cell>
+  <cell col="3" row="31" text="">
+  </cell>
+ </row>
+ <row row="32">
+  <cell col="0" row="32" text="C3">
+  </cell>
+  <cell col="1" row="32" text="106">
+  </cell>
+  <cell col="2" row="32" text="&gt;8.6">
+  </cell>
+  <cell col="3" row="32" text="mg/dL">
+  </cell>
+ </row>
+ <row row="33">
+  <cell col="0" row="33" text="C4">
+  </cell>
+  <cell col="1" row="33" text="18">
+  </cell>
+  <cell col="2" row="33" text="&gt;17">
+  </cell>
+  <cell col="3" row="33" text="mg/dL">
+  </cell>
+ </row>
+ <row row="34">
+  <cell col="0" row="34" text="CH50">
+  </cell>
+  <cell col="1" row="34" text="44">
+  </cell>
+  <cell col="2" row="34" text="&gt;30">
+  </cell>
+  <cell col="3" row="34" text="U/mL">
+  </cell>
+ </row>
+ <row row="35">
+  <cell col="0" row="35" text="IgG">
+  </cell>
+  <cell col="1" row="35" text="1705">
+  </cell>
+  <cell col="2" row="35" text="870–1700">
+  </cell>
+  <cell col="3" row="35" text="mg/dL">
+  </cell>
+ </row>
+ <row row="36">
+  <cell col="0" row="36" text="IgA">
+  </cell>
+  <cell col="1" row="36" text="265.9">
+  </cell>
+  <cell col="2" row="36" text="110–410">
+  </cell>
+  <cell col="3" row="36" text="mg/dL">
+  </cell>
+ </row>
+ <row row="37">
+  <cell col="0" row="37" text="IgM">
+  </cell>
+  <cell col="1" row="37" text="61.2">
+  </cell>
+  <cell col="2" row="37" text="33–190">
+  </cell>
+  <cell col="3" row="37" text="mg/dL">
+  </cell>
+ </row>
+ <row row="38">
+  <cell col="0" row="38" text="Bone specific ALP">
+  </cell>
+  <cell col="1" row="38" text="90.8">
+  </cell>
+  <cell col="2" row="38" text="3.8–22.6">
+  </cell>
+  <cell col="3" row="38" text="μg/L">
+  </cell>
+ </row>
+ <row row="39">
+  <cell col="0" row="39" text="TRACP-5b">
+  </cell>
+  <cell col="1" row="39" text="965">
+  </cell>
+  <cell col="2" row="39" text="250–760">
+  </cell>
+  <cell col="3" row="39" text="mU/dL">
+  </cell>
+ </row>
+ <row row="40">
+  <cell col="0" row="40" text="1,25dihydroxyvitaminD">
+  </cell>
+  <cell col="1" row="40" text="54">
+  </cell>
+  <cell col="2" row="40" text="20.0–60.0">
+  </cell>
+  <cell col="3" row="40" text="ng/L">
+  </cell>
+ </row>
+ <row row="41">
+  <cell col="0" row="41" text="Corrected Ca">
+  </cell>
+  <cell col="1" row="41" text="9">
+  </cell>
+  <cell col="2" row="41" text="8.7–10.1">
+  </cell>
+  <cell col="3" row="41" text="mg/dL">
+  </cell>
+ </row>
+ <row row="42">
+  <cell col="0" row="42" text="iPTH">
+  </cell>
+  <cell col="1" row="42" text="177">
+  </cell>
+  <cell col="2" row="42" text="15–65">
+  </cell>
+  <cell col="3" row="42" text="pg/mL">
+  </cell>
+ </row>
+ <row row="43">
+  <cell col="0" row="43" text="Osteocalcin">
+  </cell>
+  <cell col="1" row="43" text="26.7">
+  </cell>
+  <cell col="2" row="43" text="14.2–54.8">
+  </cell>
+  <cell col="3" row="43" text="ng/mL">
+  </cell>
+ </row>
+ <row row="44">
+  <cell col="0" row="44" text="Deoxypyridinoline(Urine)">
+  </cell>
+  <cell col="1" row="44" text="12.2">
+  </cell>
+  <cell col="2" row="44" text="2.8–7.6">
+  </cell>
+  <cell col="3" row="44" text="nmol/mmol･Cr">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The result of AST and Urea nitrogen is same as 21." type="">
+  </statement>
+  <statement id="1" text="There are 49 different types of categories in the given table." type="">
+  </statement>
+  <statement id="2" text="(normal: 250 to 760), and intact parathyroid hormone was 117 pg/mL" type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   Bone marker before and after treatment.
+  
+
+   ALP, alkaline phosphatase; iPTH, intact parathyroid hormone.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Before treatment">
+  </cell>
+  <cell col="2" row="0" text="After treatment">
+  </cell>
+  <cell col="3" row="0" text="Normal range">
+  </cell>
+  <cell col="4" row="0" text="">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Bone specific ALP">
+  </cell>
+  <cell col="1" row="1" text="90.8">
+  </cell>
+  <cell col="2" row="1" text="22.8">
+  </cell>
+  <cell col="3" row="1" text="3.8–22.6">
+  </cell>
+  <cell col="4" row="1" text="μg/L">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="TRACP-5b">
+  </cell>
+  <cell col="1" row="2" text="965">
+  </cell>
+  <cell col="2" row="2" text="514">
+  </cell>
+  <cell col="3" row="2" text="250–760">
+  </cell>
+  <cell col="4" row="2" text="mU/dL">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="1,25dihydroxyvitaminD">
+  </cell>
+  <cell col="1" row="3" text="54">
+  </cell>
+  <cell col="2" row="3" text="26">
+  </cell>
+  <cell col="3" row="3" text="20.0–60.0">
+  </cell>
+  <cell col="4" row="3" text="ng/L">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Corrected Ca">
+  </cell>
+  <cell col="1" row="4" text="9">
+  </cell>
+  <cell col="2" row="4" text="9.5">
+  </cell>
+  <cell col="3" row="4" text="8.7–10.1">
+  </cell>
+  <cell col="4" row="4" text="mg/dL">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="iPTH">
+  </cell>
+  <cell col="1" row="5" text="177">
+  </cell>
+  <cell col="2" row="5" text="39">
+  </cell>
+  <cell col="3" row="5" text="15–65">
+  </cell>
+  <cell col="4" row="5" text="pg/mL">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Osteocalcin">
+  </cell>
+  <cell col="1" row="6" text="26.7">
+  </cell>
+  <cell col="2" row="6" text="26.1">
+  </cell>
+  <cell col="3" row="6" text="14.2–54.8">
+  </cell>
+  <cell col="4" row="6" text="ng/mL">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Deoxypyridinoline(Urine)">
+  </cell>
+  <cell col="1" row="7" text="12.2">
+  </cell>
+  <cell col="2" row="7" text="23">
+  </cell>
+  <cell col="3" row="7" text="2.8–7.6">
+  </cell>
+  <cell col="4" row="7" text="nmol/mmol･Cr">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Bone specific ALP normal range is 3.8 - 22.6." type="">
+  </statement>
+  <statement id="2" text="iPTH after treatment is 39." type="">
+  </statement>
+  <statement id="4" text="TRACP - %b before treatment is 9." type="">
+  </statement>
+  <statement id="6" text="levels in the bone declined ( Table 2 )." type="">
+  </statement>
+ </statements>
+</Table 2>

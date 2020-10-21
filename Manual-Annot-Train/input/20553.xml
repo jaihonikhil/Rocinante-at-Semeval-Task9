@@ -1,0 +1,381 @@
+<Table 2>
+ <caption text="
+
+   Column efficiency characterization using a mid-level calibrator prepared at 62.5 ng/mL for all analytes and 250 ng/mL for all IS compounds.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Analyte / IS">
+  </cell>
+  <cell col="1" row="0" text="MS/MS transition">
+  </cell>
+  <cell col="2" row="0" text="Column Length (L; cm)">
+  </cell>
+  <cell col="3" row="0" text="Retention Time (τ
+     
+      R;
+     
+     min)">
+  </cell>
+  <cell col="4" row="0" text="Full width at half-max (W
+     
+      1/2
+     
+     ; mins)">
+  </cell>
+  <cell col="5" row="0" text="HETP (cm/plate)">
+  </cell>
+  <cell col="6" row="0" text="Plates per meter (N/m)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="CA">
+  </cell>
+  <cell col="1" row="1" text="407 &gt; 343">
+  </cell>
+  <cell col="2" row="1" text="10">
+  </cell>
+  <cell col="3" row="1" text="3.56">
+  </cell>
+  <cell col="4" row="1" text="0.035">
+  </cell>
+  <cell col="5" row="1" text="0.00017">
+  </cell>
+  <cell col="6" row="1" text="590,000">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="D
+     
+      4
+     
+
+     CA (IS)">
+  </cell>
+  <cell col="1" row="2" text="411 &gt; 347">
+  </cell>
+  <cell col="2" row="2" text="10">
+  </cell>
+  <cell col="3" row="2" text="3.56">
+  </cell>
+  <cell col="4" row="2" text="0.031">
+  </cell>
+  <cell col="5" row="2" text="0.00014">
+  </cell>
+  <cell col="6" row="2" text="720,000">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="DCA">
+  </cell>
+  <cell col="1" row="3" text="391 &gt; 345">
+  </cell>
+  <cell col="2" row="3" text="10">
+  </cell>
+  <cell col="3" row="3" text="4.23">
+  </cell>
+  <cell col="4" row="3" text="0.040">
+  </cell>
+  <cell col="5" row="3" text="0.00016">
+  </cell>
+  <cell col="6" row="3" text="640,000">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="D
+     
+      4
+     
+     -DCA (IS)">
+  </cell>
+  <cell col="1" row="4" text="395 &gt; 349">
+  </cell>
+  <cell col="2" row="4" text="10">
+  </cell>
+  <cell col="3" row="4" text="4.22">
+  </cell>
+  <cell col="4" row="4" text="0.039">
+  </cell>
+  <cell col="5" row="4" text="0.00015">
+  </cell>
+  <cell col="6" row="4" text="670,000">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="TCA">
+  </cell>
+  <cell col="1" row="5" text="514 &gt; 124">
+  </cell>
+  <cell col="2" row="5" text="10">
+  </cell>
+  <cell col="3" row="5" text="3.04">
+  </cell>
+  <cell col="4" row="5" text="0.031">
+  </cell>
+  <cell col="5" row="5" text="0.00019">
+  </cell>
+  <cell col="6" row="5" text="520,000">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="DCA is having Retention Time 4.23 which is higher." type="">
+  </statement>
+  <statement id="3" text="Full width at half-max (W 1/2 ; mins) ranges from 0.31 to 0.40." type="">
+  </statement>
+  <statement id="6" text="DCA has Retention Time 4.23 which is higher." type="">
+  </statement>
+ </statements>
+</Table 2>
+<Table 1>
+ <caption text="
+
+   Serial dilution scheme for the preparation of the bile acid/salt Calibrators.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Calibrator">
+  </cell>
+  <cell col="1" row="0" text="CA, DCA, and TCA concentration in each Calibrator (ng/mL)">
+  </cell>
+  <cell col="2" row="0" text="Source Solution">
+  </cell>
+  <cell col="3" row="0" text="Volume of Source Solution (µL)">
+  </cell>
+  <cell col="4" row="0" text="Volume of Working IS-B Solution (µL)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="F">
+  </cell>
+  <cell col="1" row="1" text="1000">
+  </cell>
+  <cell col="2" row="1" text="Working Analyte Solution">
+  </cell>
+  <cell col="3" row="1" text="10">
+  </cell>
+  <cell col="4" row="1" text="990">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="E">
+  </cell>
+  <cell col="1" row="2" text="250">
+  </cell>
+  <cell col="2" row="2" text="F">
+  </cell>
+  <cell col="3" row="2" text="100">
+  </cell>
+  <cell col="4" row="2" text="300">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="D">
+  </cell>
+  <cell col="1" row="3" text="62.5">
+  </cell>
+  <cell col="2" row="3" text="E">
+  </cell>
+  <cell col="3" row="3" text="100">
+  </cell>
+  <cell col="4" row="3" text="300">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="C">
+  </cell>
+  <cell col="1" row="4" text="15.6">
+  </cell>
+  <cell col="2" row="4" text="D">
+  </cell>
+  <cell col="3" row="4" text="100">
+  </cell>
+  <cell col="4" row="4" text="300">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="B">
+  </cell>
+  <cell col="1" row="5" text="3.90">
+  </cell>
+  <cell col="2" row="5" text="C">
+  </cell>
+  <cell col="3" row="5" text="100">
+  </cell>
+  <cell col="4" row="5" text="300">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="A">
+  </cell>
+  <cell col="1" row="6" text="0.977">
+  </cell>
+  <cell col="2" row="6" text="B">
+  </cell>
+  <cell col="3" row="6" text="100">
+  </cell>
+  <cell col="4" row="6" text="300">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Column Calibrator has four categories under it." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   The molecule-specific MS parameters for cholic acid, deoxycholic acid, and taurocholic acid.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Q1 (
+     
+      m/z
+     
+     )">
+  </cell>
+  <cell col="1" row="0" text="Q3 (
+     
+      m/z
+     
+     )">
+  </cell>
+  <cell col="2" row="0" text="Dwell Time (mS)">
+  </cell>
+  <cell col="3" row="0" text="ID">
+  </cell>
+  <cell col="4" row="0" text="Collision energy (CE) (V)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="407.3">
+  </cell>
+  <cell col="1" row="1" text="343.3">
+  </cell>
+  <cell col="2" row="1" text="50">
+  </cell>
+  <cell col="3" row="1" text="Cholic acid 407 &gt; 343">
+  </cell>
+  <cell col="4" row="1" text="−47">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="407.3">
+  </cell>
+  <cell col="1" row="2" text="289.3">
+  </cell>
+  <cell col="2" row="2" text="50">
+  </cell>
+  <cell col="3" row="2" text="Cholic acid 407 &gt; 289">
+  </cell>
+  <cell col="4" row="2" text="−52">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="411.3">
+  </cell>
+  <cell col="1" row="3" text="347.3">
+  </cell>
+  <cell col="2" row="3" text="50">
+  </cell>
+  <cell col="3" row="3" text="Cholic acid-D4 411 &gt; 347">
+  </cell>
+  <cell col="4" row="3" text="−47">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="411.3">
+  </cell>
+  <cell col="1" row="4" text="290.3">
+  </cell>
+  <cell col="2" row="4" text="50">
+  </cell>
+  <cell col="3" row="4" text="Cholic acid-D4 411 &gt; 290">
+  </cell>
+  <cell col="4" row="4" text="−52">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="391.3">
+  </cell>
+  <cell col="1" row="5" text="345.3">
+  </cell>
+  <cell col="2" row="5" text="50">
+  </cell>
+  <cell col="3" row="5" text="Deoxycholic acid 391 &gt; 345">
+  </cell>
+  <cell col="4" row="5" text="−47">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="391.3">
+  </cell>
+  <cell col="1" row="6" text="355.3">
+  </cell>
+  <cell col="2" row="6" text="50">
+  </cell>
+  <cell col="3" row="6" text="Deoxycholic acid 391 &gt; 355">
+  </cell>
+  <cell col="4" row="6" text="−46">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="395.3">
+  </cell>
+  <cell col="1" row="7" text="349.3">
+  </cell>
+  <cell col="2" row="7" text="50">
+  </cell>
+  <cell col="3" row="7" text="Deoxycholic acid-D4 395 &gt; 349">
+  </cell>
+  <cell col="4" row="7" text="−47">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="395.3">
+  </cell>
+  <cell col="1" row="8" text="359.3">
+  </cell>
+  <cell col="2" row="8" text="50">
+  </cell>
+  <cell col="3" row="8" text="Deoxycholic acid-D4 395 &gt; 359">
+  </cell>
+  <cell col="4" row="8" text="−46">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="514.3">
+  </cell>
+  <cell col="1" row="9" text="124.1">
+  </cell>
+  <cell col="2" row="9" text="50">
+  </cell>
+  <cell col="3" row="9" text="Taurocholic acid 514&gt;124">
+  </cell>
+  <cell col="4" row="9" text="−64">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="514.3">
+  </cell>
+  <cell col="1" row="10" text="107.0">
+  </cell>
+  <cell col="2" row="10" text="50">
+  </cell>
+  <cell col="3" row="10" text="Taurocholic acid 514 &gt; 107">
+  </cell>
+  <cell col="4" row="10" text="−64">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Dwell Time is constant for all three acids." type="">
+  </statement>
+  <statement id="3" text="Cholic acid 407 &gt; 343 and Cholic acid 407 &gt; 289 has equal Q1 ( m/z ) value." type="">
+  </statement>
+  <statement id="6" text="The Q3 value of Taurocholic acid 514 &gt; 107 is 124.1." type="">
+  </statement>
+ </statements>
+</Table 3>

@@ -1,0 +1,72 @@
+<Table 2>
+ <caption text="
+
+   Most common alarms per day/bed.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Alarm">
+  </cell>
+  <cell col="1" row="0" text="General ICU">
+  </cell>
+  <cell col="2" row="0" text="Cardiac">
+  </cell>
+  <cell col="3" row="0" text="Pediatric ICU">
+  </cell>
+  <cell col="4" row="0" text="Intermediate Care Unit">
+  </cell>
+  <cell col="5" row="0" text="Total">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="ABPm, n (%)">
+  </cell>
+  <cell col="1" row="1" text="30 (19.4)">
+  </cell>
+  <cell col="2" row="1" text="53 (9.0)">
+  </cell>
+  <cell col="3" row="1" text="27 (26.2)">
+  </cell>
+  <cell col="4" row="1" text="125 (20.9)">
+  </cell>
+  <cell col="5" row="1" text="235 (19)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="SpO2, n (%)">
+  </cell>
+  <cell col="1" row="2" text="30 (18.9)">
+  </cell>
+  <cell col="2" row="2" text="22 (16.3)">
+  </cell>
+  <cell col="3" row="2" text="36 (12.6)">
+  </cell>
+  <cell col="4" row="2" text="57 (25.2)">
+  </cell>
+  <cell col="5" row="2" text="145 (20.3)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="HR, n (%)">
+  </cell>
+  <cell col="1" row="3" text="34 (11.3)">
+  </cell>
+  <cell col="2" row="3" text="44 (11.8)">
+  </cell>
+  <cell col="3" row="3" text="23 (11.3)">
+  </cell>
+  <cell col="4" row="3" text="93 (19.7)">
+  </cell>
+  <cell col="5" row="3" text="194 (15.3)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Intermediate Care Unit is 93(19.7) of HR, n (%)." type="entailed">
+  </statement>
+  <statement id="3" text="The highest Pediatric ICU is 23(11.3)." type="refuted">
+  </statement>
+  <statement id="6" text="Average alarms per day per bed were different per unit with the lowest average number in the general ICU (129 alarms) and the highest number in the IMCU (239 alarms)." type="entailed">
+  </statement>
+ </statements>
+</Table 2>

@@ -1,0 +1,1430 @@
+<Table 3>
+ <caption text="
+
+   3-D printed components
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="3D Printed Parts">
+  </cell>
+  <cell col="1" row="0" text="Quantity">
+  </cell>
+  <cell col="2" row="0" text="Material">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="E3D_Thermocouple_Board">
+  </cell>
+  <cell col="1" row="1" text="1">
+  </cell>
+  <cell col="2" row="1" text="PETG">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="SiliconeLockRing">
+  </cell>
+  <cell col="1" row="2" text="1">
+  </cell>
+  <cell col="2" row="2" text="PETG">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="PCB_Case">
+  </cell>
+  <cell col="1" row="3" text="1">
+  </cell>
+  <cell col="2" row="3" text="PETG">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="LargeFunnel_R">
+  </cell>
+  <cell col="1" row="4" text="1">
+  </cell>
+  <cell col="2" row="4" text="PETG">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="LargeFunnel_L">
+  </cell>
+  <cell col="1" row="5" text="1">
+  </cell>
+  <cell col="2" row="5" text="PETG">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="DoorLatch_Pin">
+  </cell>
+  <cell col="1" row="6" text="1">
+  </cell>
+  <cell col="2" row="6" text="PETG">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="SwitchCover2">
+  </cell>
+  <cell col="1" row="7" text="1">
+  </cell>
+  <cell col="2" row="7" text="PETG">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Switch_Cover">
+  </cell>
+  <cell col="1" row="8" text="1">
+  </cell>
+  <cell col="2" row="8" text="PETG">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="CableClamp">
+  </cell>
+  <cell col="1" row="9" text="1">
+  </cell>
+  <cell col="2" row="9" text="PETG">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="CableClamp2">
+  </cell>
+  <cell col="1" row="10" text="1">
+  </cell>
+  <cell col="2" row="10" text="PETG">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Extruder_Base">
+  </cell>
+  <cell col="1" row="11" text="2">
+  </cell>
+  <cell col="2" row="11" text="PETG">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Extruder_Arm">
+  </cell>
+  <cell col="1" row="12" text="2">
+  </cell>
+  <cell col="2" row="12" text="PETG">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="TopBearingArm">
+  </cell>
+  <cell col="1" row="13" text="1">
+  </cell>
+  <cell col="2" row="13" text="PETG">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="PelletFeeder_Mount">
+  </cell>
+  <cell col="1" row="14" text="1">
+  </cell>
+  <cell col="2" row="14" text="PETG">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="Z_Motor_Mount_Plate">
+  </cell>
+  <cell col="1" row="15" text="1">
+  </cell>
+  <cell col="2" row="15" text="PETG">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="LCD_Cover">
+  </cell>
+  <cell col="1" row="16" text="1">
+  </cell>
+  <cell col="2" row="16" text="PETG">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="DoorSwitchSensorTrigger">
+  </cell>
+  <cell col="1" row="17" text="1">
+  </cell>
+  <cell col="2" row="17" text="PETG">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="DoorSwitchSensorMount">
+  </cell>
+  <cell col="1" row="18" text="1">
+  </cell>
+  <cell col="2" row="18" text="PETG">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="DoorHinge1">
+  </cell>
+  <cell col="1" row="19" text="2">
+  </cell>
+  <cell col="2" row="19" text="PETG">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="DoorHinge2">
+  </cell>
+  <cell col="1" row="20" text="2">
+  </cell>
+  <cell col="2" row="20" text="PETG">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="FanMount_MIR">
+  </cell>
+  <cell col="1" row="21" text="1">
+  </cell>
+  <cell col="2" row="21" text="PETG">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="FanMount">
+  </cell>
+  <cell col="1" row="22" text="1">
+  </cell>
+  <cell col="2" row="22" text="PETG">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="Fan_Inlet_Shroud">
+  </cell>
+  <cell col="1" row="23" text="1">
+  </cell>
+  <cell col="2" row="23" text="PETG">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="FanShroudTube">
+  </cell>
+  <cell col="1" row="24" text="1">
+  </cell>
+  <cell col="2" row="24" text="PETG">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="FanShroud">
+  </cell>
+  <cell col="1" row="25" text="1">
+  </cell>
+  <cell col="2" row="25" text="PETG">
+  </cell>
+ </row>
+ <row row="26">
+  <cell col="0" row="26" text="PulleyCleat2">
+  </cell>
+  <cell col="1" row="26" text="1">
+  </cell>
+  <cell col="2" row="26" text="PETG">
+  </cell>
+ </row>
+ <row row="27">
+  <cell col="0" row="27" text="BearingSupport">
+  </cell>
+  <cell col="1" row="27" text="1">
+  </cell>
+  <cell col="2" row="27" text="PETG">
+  </cell>
+ </row>
+ <row row="28">
+  <cell col="0" row="28" text="TurntableMountV2">
+  </cell>
+  <cell col="1" row="28" text="1">
+  </cell>
+  <cell col="2" row="28" text="PETG">
+  </cell>
+ </row>
+ <row row="29">
+  <cell col="0" row="29" text="TurntableLockRing">
+  </cell>
+  <cell col="1" row="29" text="1">
+  </cell>
+  <cell col="2" row="29" text="PETG">
+  </cell>
+ </row>
+ <row row="30">
+  <cell col="0" row="30" text="GT2_TurntablePulley">
+  </cell>
+  <cell col="1" row="30" text="1">
+  </cell>
+  <cell col="2" row="30" text="PETG">
+  </cell>
+ </row>
+ <row row="31">
+  <cell col="0" row="31" text="ToolBlank">
+  </cell>
+  <cell col="1" row="31" text="1">
+  </cell>
+  <cell col="2" row="31" text="PETG">
+  </cell>
+ </row>
+ <row row="32">
+  <cell col="0" row="32" text="E3D_Clamp">
+  </cell>
+  <cell col="1" row="32" text="1">
+  </cell>
+  <cell col="2" row="32" text="PETG">
+  </cell>
+ </row>
+ <row row="33">
+  <cell col="0" row="33" text="FanPelletMount">
+  </cell>
+  <cell col="1" row="33" text="1">
+  </cell>
+  <cell col="2" row="33" text="PETG">
+  </cell>
+ </row>
+ <row row="34">
+  <cell col="0" row="34" text="Pellet_LockRing">
+  </cell>
+  <cell col="1" row="34" text="1">
+  </cell>
+  <cell col="2" row="34" text="PETG">
+  </cell>
+ </row>
+ <row row="35">
+  <cell col="0" row="35" text="FanPelletMount">
+  </cell>
+  <cell col="1" row="35" text="1">
+  </cell>
+  <cell col="2" row="35" text="PETG">
+  </cell>
+ </row>
+ <row row="36">
+  <cell col="0" row="36" text="Tool_Probe">
+  </cell>
+  <cell col="1" row="36" text="1">
+  </cell>
+  <cell col="2" row="36" text="PETG">
+  </cell>
+ </row>
+ <row row="37">
+  <cell col="0" row="37" text="FanShroud_Pellet">
+  </cell>
+  <cell col="1" row="37" text="1">
+  </cell>
+  <cell col="2" row="37" text="PETG">
+  </cell>
+ </row>
+ <row row="38">
+  <cell col="0" row="38" text="Tool_Middle">
+  </cell>
+  <cell col="1" row="38" text="1">
+  </cell>
+  <cell col="2" row="38" text="PETG">
+  </cell>
+ </row>
+ <row row="39">
+  <cell col="0" row="39" text="HeatsinkFanShroud">
+  </cell>
+  <cell col="1" row="39" text="1">
+  </cell>
+  <cell col="2" row="39" text="PETG">
+  </cell>
+ </row>
+ <row row="40">
+  <cell col="0" row="40" text="PelletFunnel">
+  </cell>
+  <cell col="1" row="40" text="1">
+  </cell>
+  <cell col="2" row="40" text="PETG">
+  </cell>
+ </row>
+ <row row="41">
+  <cell col="0" row="41" text="HeaterFanShroud">
+  </cell>
+  <cell col="1" row="41" text="1">
+  </cell>
+  <cell col="2" row="41" text="PEKK">
+  </cell>
+ </row>
+ <row row="42">
+  <cell col="0" row="42" text="SpoolHolder">
+  </cell>
+  <cell col="1" row="42" text="1">
+  </cell>
+  <cell col="2" row="42" text="PETG">
+  </cell>
+ </row>
+ <row row="43">
+  <cell col="0" row="43" text="Rotary_Encoder_wheel">
+  </cell>
+  <cell col="1" row="43" text="1">
+  </cell>
+  <cell col="2" row="43" text="PETG">
+  </cell>
+ </row>
+ <row row="44">
+  <cell col="0" row="44" text="Sensor_Base">
+  </cell>
+  <cell col="1" row="44" text="1">
+  </cell>
+  <cell col="2" row="44" text="PETG">
+  </cell>
+ </row>
+ <row row="45">
+  <cell col="0" row="45" text="SensorMount">
+  </cell>
+  <cell col="1" row="45" text="1">
+  </cell>
+  <cell col="2" row="45" text="PETG">
+  </cell>
+ </row>
+ <row row="46">
+  <cell col="0" row="46" text="Z_Motor_Mount_Plate">
+  </cell>
+  <cell col="1" row="46" text="1">
+  </cell>
+  <cell col="2" row="46" text="PETG">
+  </cell>
+ </row>
+ <row row="47">
+  <cell col="0" row="47" text="E3d_Mount">
+  </cell>
+  <cell col="1" row="47" text="1">
+  </cell>
+  <cell col="2" row="47" text="PETG">
+  </cell>
+ </row>
+ <statements>
+  <statement id="3" text="E3d_Mount Quantity is 1." type="">
+  </statement>
+ </statements>
+</Table 3>
+<Table 4>
+ <caption text="
+
+   Extrusions
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="EXTRUSIONS">
+  </cell>
+  <cell col="1" row="0" text="">
+  </cell>
+  <cell col="2" row="0" text="">
+  </cell>
+  <cell col="3" row="0" text="">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Size">
+  </cell>
+  <cell col="1" row="1" text="Source">
+  </cell>
+  <cell col="2" row="1" text="Length">
+  </cell>
+  <cell col="3" row="1" text="Count">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="20-2020">
+  </cell>
+  <cell col="1" row="2" text="ZYLTech">
+  </cell>
+  <cell col="2" row="2" text="600mm">
+  </cell>
+  <cell col="3" row="2" text="6">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="20-2020">
+  </cell>
+  <cell col="1" row="3" text="ZYLTech">
+  </cell>
+  <cell col="2" row="3" text="470mm">
+  </cell>
+  <cell col="3" row="3" text="14">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="20-2040">
+  </cell>
+  <cell col="1" row="4" text="ZYLTech">
+  </cell>
+  <cell col="2" row="4" text="400mm">
+  </cell>
+  <cell col="3" row="4" text="2">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="20-2020">
+  </cell>
+  <cell col="1" row="5" text="ZYLTech">
+  </cell>
+  <cell col="2" row="5" text="340mm">
+  </cell>
+  <cell col="3" row="5" text="4">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="20-2020">
+  </cell>
+  <cell col="1" row="6" text="ZYLTech">
+  </cell>
+  <cell col="2" row="6" text="350mm">
+  </cell>
+  <cell col="3" row="6" text="2">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="20-2020">
+  </cell>
+  <cell col="1" row="7" text="ZYLTech">
+  </cell>
+  <cell col="2" row="7" text="150mm">
+  </cell>
+  <cell col="3" row="7" text="2">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="20-2020">
+  </cell>
+  <cell col="1" row="8" text="ZYLTech">
+  </cell>
+  <cell col="2" row="8" text="140mm">
+  </cell>
+  <cell col="3" row="8" text="2">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="20-2020">
+  </cell>
+  <cell col="1" row="9" text="ZYLTech">
+  </cell>
+  <cell col="2" row="9" text="100mm">
+  </cell>
+  <cell col="3" row="9" text="4">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="20-2020">
+  </cell>
+  <cell col="1" row="10" text="ZYLTech">
+  </cell>
+  <cell col="2" row="10" text="60mm">
+  </cell>
+  <cell col="3" row="10" text="2">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are nine different Size of EXTRUSIONS." type="">
+  </statement>
+  <statement id="1" text="600 mm is the highest Length of size 20-2020." type="">
+  </statement>
+  <statement id="5" text="10 mm is the highest Length of size 20-2020." type="">
+  </statement>
+  <statement id="6" text="14 is the lowest Count for size 20-2020." type="">
+  </statement>
+ </statements>
+</Table 4>
+<Table 6>
+ <caption text="
+
+   3-D printing settings tested on the Cerberus.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Basic Printer Settings">
+  </cell>
+  <cell col="2" row="0" text="">
+  </cell>
+  <cell col="3" row="0" text="">
+  </cell>
+  <cell col="4" row="0" text="">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Material">
+  </cell>
+  <cell col="1" row="1" text="Nozzle Temperature [
+     
+      o
+     
+     C]">
+  </cell>
+  <cell col="2" row="1" text="Bed Temperature [
+     
+      o
+     
+     C]">
+  </cell>
+  <cell col="3" row="1" text="Layer Height [mm]">
+  </cell>
+  <cell col="4" row="1" text="Part Cooling Fan">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="PEKK">
+  </cell>
+  <cell col="1" row="2" text="390">
+  </cell>
+  <cell col="2" row="2" text="180">
+  </cell>
+  <cell col="3" row="2" text="0.3">
+  </cell>
+  <cell col="4" row="2" text="OFF">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="PEI/ULTEM">
+  </cell>
+  <cell col="1" row="3" text="380">
+  </cell>
+  <cell col="2" row="3" text="170">
+  </cell>
+  <cell col="3" row="3" text="0.3">
+  </cell>
+  <cell col="4" row="3" text="OFF">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Polycarbonate">
+  </cell>
+  <cell col="1" row="4" text="280">
+  </cell>
+  <cell col="2" row="4" text="130">
+  </cell>
+  <cell col="3" row="4" text="0.3">
+  </cell>
+  <cell col="4" row="4" text="ON or OFF">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Layer Height will be same for all the Material." type="">
+  </statement>
+  <statement id="2" text="Bed Temperature ranges from 130 to 180." type="">
+  </statement>
+  <statement id="3" text="Nozzle Temperature will High for PEKK Material." type="">
+  </statement>
+ </statements>
+</Table 6>
+<Table 5>
+ <caption text="
+
+   RAMPS pins.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="RAMPS 1.4 Additional Controls">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Daughterboard">
+  </cell>
+  <cell col="1" row="1" text="RAMPS 1.4 Pin">
+  </cell>
+  <cell col="2" row="1" text="Notes">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="E3D PT100 board primary hot end">
+  </cell>
+  <cell col="1" row="2" text="5V">
+  </cell>
+  <cell col="2" row="2" text="5V">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="">
+  </cell>
+  <cell col="1" row="3" text="GND">
+  </cell>
+  <cell col="2" row="3" text="GND">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="">
+  </cell>
+  <cell col="1" row="4" text="D57">
+  </cell>
+  <cell col="2" row="4" text="Signal Pin">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="E3D PT100 board second hot end">
+  </cell>
+  <cell col="1" row="5" text="5V">
+  </cell>
+  <cell col="2" row="5" text="5V">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="">
+  </cell>
+  <cell col="1" row="6" text="GND">
+  </cell>
+  <cell col="2" row="6" text="GND">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="">
+  </cell>
+  <cell col="1" row="7" text="D58">
+  </cell>
+  <cell col="2" row="7" text="Signal Pin">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Turntable Stepper Driver">
+  </cell>
+  <cell col="1" row="8" text="+12V">
+  </cell>
+  <cell col="2" row="8" text="+12V">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="">
+  </cell>
+  <cell col="1" row="9" text="GND (-12V)">
+  </cell>
+  <cell col="2" row="9" text="GND">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="">
+  </cell>
+  <cell col="1" row="10" text="+5V">
+  </cell>
+  <cell col="2" row="10" text="+5V">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="">
+  </cell>
+  <cell col="1" row="11" text="GND (-5V)">
+  </cell>
+  <cell col="2" row="11" text="GND">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="">
+  </cell>
+  <cell col="1" row="12" text="D4">
+  </cell>
+  <cell col="2" row="12" text="Direction">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="">
+  </cell>
+  <cell col="1" row="13" text="D5">
+  </cell>
+  <cell col="2" row="13" text="Step">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="">
+  </cell>
+  <cell col="1" row="14" text="D6">
+  </cell>
+  <cell col="2" row="14" text="Enable">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="PWM Fan Controllers">
+  </cell>
+  <cell col="1" row="15" text="Any of the following:D44D45D46">
+  </cell>
+  <cell col="2" row="15" text="Only PWM pins will work to control the fans. +12V and GND pins are the only fan input.">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="Optional Relays to control extra fans or">
+  </cell>
+  <cell col="1" row="16" text="GND">
+  </cell>
+  <cell col="2" row="16" text="Relay breaks the +12V">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="lights">
+  </cell>
+  <cell col="1" row="17" text="5V">
+  </cell>
+  <cell col="2" row="17" text="wire to switch fans/lights">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="">
+  </cell>
+  <cell col="1" row="18" text="Any other digital pin available.">
+  </cell>
+  <cell col="2" row="18" text="on and off.">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="E3D PT100 board second hot end Notes is 5V." type="">
+  </statement>
+  <statement id="1" text="Turntable Stepper Driver Notes is +12V." type="">
+  </statement>
+  <statement id="2" text="Optional Relays to control extra fans Notes is Relay breaks the +12V." type="">
+  </statement>
+  <statement id="5" text="Optional Relays to control extra fans RAMPS 1.4 Pin is Enable." type="">
+  </statement>
+  <statement id="6" text="The more powerful heaters in the system such as the main space heater and the powerful heated bed all run on mains voltage and are controlled using solid state relays." type="">
+  </statement>
+ </statements>
+</Table 5>
+<Table 2>
+ <caption text="
+
+   Bill of Materials
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Order Source">
+  </cell>
+  <cell col="1" row="0" text="Part Name">
+  </cell>
+  <cell col="2" row="0" text="Unit Quantity">
+  </cell>
+  <cell col="3" row="0" text="Rounded to Package Quantity">
+  </cell>
+  <cell col="4" row="0" text="Unit Price">
+  </cell>
+  <cell col="5" row="0" text="Price">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="HARDWARE &amp; FRAMING">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+  <cell col="3" row="1" text="">
+  </cell>
+  <cell col="4" row="1" text="">
+  </cell>
+  <cell col="5" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="ZYLTech">
+  </cell>
+  <cell col="1" row="2" text="90 Degree Corner">
+  </cell>
+  <cell col="2" row="2" text="86">
+  </cell>
+  <cell col="3" row="2" text="7">
+  </cell>
+  <cell col="4" row="2" text="$4.95">
+  </cell>
+  <cell col="5" row="2" text="$34.65">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="ZYLTech">
+  </cell>
+  <cell col="1" row="3" text="8mm M4 Button Head">
+  </cell>
+  <cell col="2" row="3" text="292">
+  </cell>
+  <cell col="3" row="3" text="3">
+  </cell>
+  <cell col="4" row="3" text="$4.95">
+  </cell>
+  <cell col="5" row="3" text="$14.85">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="ZYLTech">
+  </cell>
+  <cell col="1" row="4" text="M4 Extrusion Nuts">
+  </cell>
+  <cell col="2" row="4" text="292">
+  </cell>
+  <cell col="3" row="4" text="3">
+  </cell>
+  <cell col="4" row="4" text="$9.95">
+  </cell>
+  <cell col="5" row="4" text="$29.85">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="ZYLTech">
+  </cell>
+  <cell col="1" row="5" text="T-Slot L Inside 90 degree">
+  </cell>
+  <cell col="2" row="5" text="10">
+  </cell>
+  <cell col="3" row="5" text="1">
+  </cell>
+  <cell col="4" row="5" text="$4.95">
+  </cell>
+  <cell col="5" row="5" text="$4.95">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="ZYLTech">
+  </cell>
+  <cell col="1" row="6" text="2020-20 Extrusion">
+  </cell>
+  <cell col="2" row="6" text="41">
+  </cell>
+  <cell col="3" row="6" text="2">
+  </cell>
+  <cell col="4" row="6" text="$53.99">
+  </cell>
+  <cell col="5" row="6" text="$107.98">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Amazon">
+  </cell>
+  <cell col="1" row="7" text="WJB 6810-2RS">
+  </cell>
+  <cell col="2" row="7" text="1">
+  </cell>
+  <cell col="3" row="7" text="2">
+  </cell>
+  <cell col="4" row="7" text="$15.49">
+  </cell>
+  <cell col="5" row="7" text="$30.98">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="McMaster Carr">
+  </cell>
+  <cell col="1" row="8" text="3/4in Aluminum L angle">
+  </cell>
+  <cell col="2" row="8" text="">
+  </cell>
+  <cell col="3" row="8" text="1">
+  </cell>
+  <cell col="4" row="8" text="$7.07">
+  </cell>
+  <cell col="5" row="8" text="$7.07">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Amazon">
+  </cell>
+  <cell col="1" row="9" text="Aluminum 215x215 plate">
+  </cell>
+  <cell col="2" row="9" text="1">
+  </cell>
+  <cell col="3" row="9" text="1">
+  </cell>
+  <cell col="4" row="9" text="$19.99">
+  </cell>
+  <cell col="5" row="9" text="$19.99">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="McMaster Carr">
+  </cell>
+  <cell col="1" row="10" text="Aluminum 1/8in thick plate">
+  </cell>
+  <cell col="2" row="10" text="1">
+  </cell>
+  <cell col="3" row="10" text="1">
+  </cell>
+  <cell col="4" row="10" text="$9.42">
+  </cell>
+  <cell col="5" row="10" text="$9.42">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Amazon">
+  </cell>
+  <cell col="1" row="11" text="Tooth Idler Pulleys 3mm">
+  </cell>
+  <cell col="2" row="11" text="5">
+  </cell>
+  <cell col="3" row="11" text="1">
+  </cell>
+  <cell col="4" row="11" text="$5.99">
+  </cell>
+  <cell col="5" row="11" text="$5.99">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Amazon">
+  </cell>
+  <cell col="1" row="12" text="Smooth Idler Pulleys 3mm bore">
+  </cell>
+  <cell col="2" row="12" text="4">
+  </cell>
+  <cell col="3" row="12" text="1">
+  </cell>
+  <cell col="4" row="12" text="$5.99">
+  </cell>
+  <cell col="5" row="12" text="$5.99">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Local Hardware Store">
+  </cell>
+  <cell col="1" row="13" text="Panel Material-1/4in birch plywood">
+  </cell>
+  <cell col="2" row="13" text="N/A">
+  </cell>
+  <cell col="3" row="13" text="1">
+  </cell>
+  <cell col="4" row="13" text="$28.00">
+  </cell>
+  <cell col="5" row="13" text="$28.00">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Amazon">
+  </cell>
+  <cell col="1" row="14" text="Brass Insert Set">
+  </cell>
+  <cell col="2" row="14" text="N/A">
+  </cell>
+  <cell col="3" row="14" text="1">
+  </cell>
+  <cell col="4" row="14" text="$19.00">
+  </cell>
+  <cell col="5" row="14" text="$19.00">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="Amazon">
+  </cell>
+  <cell col="1" row="15" text="Standoffs">
+  </cell>
+  <cell col="2" row="15" text="6">
+  </cell>
+  <cell col="3" row="15" text="1">
+  </cell>
+  <cell col="4" row="15" text="$9.79">
+  </cell>
+  <cell col="5" row="15" text="$9.79">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="Amazon">
+  </cell>
+  <cell col="1" row="16" text="Flanged Bearings">
+  </cell>
+  <cell col="2" row="16" text="2">
+  </cell>
+  <cell col="3" row="16" text="1">
+  </cell>
+  <cell col="4" row="16" text="$10.68">
+  </cell>
+  <cell col="5" row="16" text="$10.68">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="E3D">
+  </cell>
+  <cell col="1" row="17" text="Gates GT2 Belt">
+  </cell>
+  <cell col="2" row="17" text="1">
+  </cell>
+  <cell col="3" row="17" text="1">
+  </cell>
+  <cell col="4" row="17" text="$8.00">
+  </cell>
+  <cell col="5" row="17" text="$8.00">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="Amazon">
+  </cell>
+  <cell col="1" row="18" text="M3 Thumb Nuts">
+  </cell>
+  <cell col="2" row="18" text="4">
+  </cell>
+  <cell col="3" row="18" text="1">
+  </cell>
+  <cell col="4" row="18" text="$5.20">
+  </cell>
+  <cell col="5" row="18" text="$5.20">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="Amazon">
+  </cell>
+  <cell col="1" row="19" text="Mid load springs">
+  </cell>
+  <cell col="2" row="19" text="4">
+  </cell>
+  <cell col="3" row="19" text="1">
+  </cell>
+  <cell col="4" row="19" text="$7.59">
+  </cell>
+  <cell col="5" row="19" text="$7.59">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="Amazon">
+  </cell>
+  <cell col="1" row="20" text="5mm rod">
+  </cell>
+  <cell col="2" row="20" text="1">
+  </cell>
+  <cell col="3" row="20" text="1">
+  </cell>
+  <cell col="4" row="20" text="$6.44">
+  </cell>
+  <cell col="5" row="20" text="$6.44">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="">
+  </cell>
+  <cell col="1" row="21" text="LINEAR MOTION">
+  </cell>
+  <cell col="2" row="21" text="">
+  </cell>
+  <cell col="3" row="21" text="">
+  </cell>
+  <cell col="4" row="21" text="">
+  </cell>
+  <cell col="5" row="21" text="">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="ZYLTech">
+  </cell>
+  <cell col="1" row="22" text="MGN12 Rail Single Block">
+  </cell>
+  <cell col="2" row="22" text="2">
+  </cell>
+  <cell col="3" row="22" text="2">
+  </cell>
+  <cell col="4" row="22" text="$24.95">
+  </cell>
+  <cell col="5" row="22" text="$49.90">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="ZYLTech">
+  </cell>
+  <cell col="1" row="23" text="MGN12 Rail Double Block">
+  </cell>
+  <cell col="2" row="23" text="2">
+  </cell>
+  <cell col="3" row="23" text="2">
+  </cell>
+  <cell col="4" row="23" text="$34.95">
+  </cell>
+  <cell col="5" row="23" text="$69.90">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="ZYLTech">
+  </cell>
+  <cell col="1" row="24" text="SBR16 Linear Rail Set">
+  </cell>
+  <cell col="2" row="24" text="1">
+  </cell>
+  <cell col="3" row="24" text="1">
+  </cell>
+  <cell col="4" row="24" text="$34.95">
+  </cell>
+  <cell col="5" row="24" text="$34.95">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="">
+  </cell>
+  <cell col="1" row="25" text="ELECTRONICS">
+  </cell>
+  <cell col="2" row="25" text="">
+  </cell>
+  <cell col="3" row="25" text="">
+  </cell>
+  <cell col="4" row="25" text="">
+  </cell>
+  <cell col="5" row="25" text="">
+  </cell>
+ </row>
+ <row row="26">
+  <cell col="0" row="26" text="E3D">
+  </cell>
+  <cell col="1" row="26" text="Nema 17 Stepper Motor Unipolar L=48mm w/ Gear Ratio 14:1 Planetary Gearbox">
+  </cell>
+  <cell col="2" row="26" text="1">
+  </cell>
+  <cell col="3" row="26" text="1">
+  </cell>
+  <cell col="4" row="26" text="$29.99">
+  </cell>
+  <cell col="5" row="26" text="$29.99">
+  </cell>
+ </row>
+ <row row="27">
+  <cell col="0" row="27" text="E3D">
+  </cell>
+  <cell col="1" row="27" text="Nema17 High Torque Motor (E3D)">
+  </cell>
+  <cell col="2" row="27" text="3">
+  </cell>
+  <cell col="3" row="27" text="3">
+  </cell>
+  <cell col="4" row="27" text="$12.60">
+  </cell>
+  <cell col="5" row="27" text="$37.80">
+  </cell>
+ </row>
+ <row row="28">
+  <cell col="0" row="28" text="E3D">
+  </cell>
+  <cell col="1" row="28" text="Nema 17 External 48mm Stack 0.4A Lead 2mm/0.07874“ Length 330mm">
+  </cell>
+  <cell col="2" row="28" text="1">
+  </cell>
+  <cell col="3" row="28" text="1">
+  </cell>
+  <cell col="4" row="28" text="$33.99">
+  </cell>
+  <cell col="5" row="28" text="$33.99">
+  </cell>
+ </row>
+ <row row="29">
+  <cell col="0" row="29" text="E3D">
+  </cell>
+  <cell col="1" row="29" text="High Temperature Heated Bed (E3D)">
+  </cell>
+  <cell col="2" row="29" text="1">
+  </cell>
+  <cell col="3" row="29" text="1">
+  </cell>
+  <cell col="4" row="29" text="$107.25">
+  </cell>
+  <cell col="5" row="29" text="$107.25">
+  </cell>
+ </row>
+ <row row="30">
+  <cell col="0" row="30" text="Amazon">
+  </cell>
+  <cell col="1" row="30" text="Solid State Relays">
+  </cell>
+  <cell col="2" row="30" text="1">
+  </cell>
+  <cell col="3" row="30" text="1">
+  </cell>
+  <cell col="4" row="30" text="$9.56">
+  </cell>
+  <cell col="5" row="30" text="$9.56">
+  </cell>
+ </row>
+ <row row="31">
+  <cell col="0" row="31" text="Amazon">
+  </cell>
+  <cell col="1" row="31" text="Borosilicate Glass (E3D)">
+  </cell>
+  <cell col="2" row="31" text="1">
+  </cell>
+  <cell col="3" row="31" text="1">
+  </cell>
+  <cell col="4" row="31" text="$11.44">
+  </cell>
+  <cell col="5" row="31" text="$11.44">
+  </cell>
+ </row>
+ <row row="32">
+  <cell col="0" row="32" text="E3D">
+  </cell>
+  <cell col="1" row="32" text="Swiss Clips (E3D)">
+  </cell>
+  <cell col="2" row="32" text="4">
+  </cell>
+  <cell col="3" row="32" text="4">
+  </cell>
+  <cell col="4" row="32" text="$0.47">
+  </cell>
+  <cell col="5" row="32" text="$1.88">
+  </cell>
+ </row>
+ <row row="33">
+  <cell col="0" row="33" text="Amazon">
+  </cell>
+  <cell col="1" row="33" text="RAMPS 1.4 w/ full graphics disp">
+  </cell>
+  <cell col="2" row="33" text="1">
+  </cell>
+  <cell col="3" row="33" text="1">
+  </cell>
+  <cell col="4" row="33" text="$35.99">
+  </cell>
+  <cell col="5" row="33" text="$35.99">
+  </cell>
+ </row>
+ <row row="34">
+  <cell col="0" row="34" text="Amazon">
+  </cell>
+  <cell col="1" row="34" text="Power Supply 12V">
+  </cell>
+  <cell col="2" row="34" text="1">
+  </cell>
+  <cell col="3" row="34" text="1">
+  </cell>
+  <cell col="4" row="34" text="$25">
+  </cell>
+  <cell col="5" row="34" text="$25">
+  </cell>
+ </row>
+ <row row="35">
+  <cell col="0" row="35" text="Amazon">
+  </cell>
+  <cell col="1" row="35" text="Brushless Radial Fan">
+  </cell>
+  <cell col="2" row="35" text="1">
+  </cell>
+  <cell col="3" row="35" text="1">
+  </cell>
+  <cell col="4" row="35" text="$17.58">
+  </cell>
+  <cell col="5" row="35" text="$17.58">
+  </cell>
+ </row>
+ <row row="36">
+  <cell col="0" row="36" text="Amazon">
+  </cell>
+  <cell col="1" row="36" text="PTC Ceramic Air Heater 110V/220V 1000W">
+  </cell>
+  <cell col="2" row="36" text="1">
+  </cell>
+  <cell col="3" row="36" text="1">
+  </cell>
+  <cell col="4" row="36" text="$28.79">
+  </cell>
+  <cell col="5" row="36" text="$28.79">
+  </cell>
+ </row>
+ <row row="37">
+  <cell col="0" row="37" text="Amazon">
+  </cell>
+  <cell col="1" row="37" text="Microswitch">
+  </cell>
+  <cell col="2" row="37" text="4">
+  </cell>
+  <cell col="3" row="37" text="1">
+  </cell>
+  <cell col="4" row="37" text="$7">
+  </cell>
+  <cell col="5" row="37" text="$7">
+  </cell>
+ </row>
+ <row row="38">
+  <cell col="0" row="38" text="">
+  </cell>
+  <cell col="1" row="38" text="Blue Sea Systems A-Series Toggle Single Pole Circuit Breakers">
+  </cell>
+  <cell col="2" row="38" text="1">
+  </cell>
+  <cell col="3" row="38" text="1">
+  </cell>
+  <cell col="4" row="38" text="$15">
+  </cell>
+  <cell col="5" row="38" text="$15">
+  </cell>
+ </row>
+ <row row="39">
+  <cell col="0" row="39" text="">
+  </cell>
+  <cell col="1" row="39" text="E3D V6 High Temp Hotend">
+  </cell>
+  <cell col="2" row="39" text="">
+  </cell>
+  <cell col="3" row="39" text="">
+  </cell>
+  <cell col="4" row="39" text="">
+  </cell>
+  <cell col="5" row="39" text="">
+  </cell>
+ </row>
+ <row row="40">
+  <cell col="0" row="40" text="E3D">
+  </cell>
+  <cell col="1" row="40" text="E3D V6">
+  </cell>
+  <cell col="2" row="40" text="1">
+  </cell>
+  <cell col="3" row="40" text="1">
+  </cell>
+  <cell col="4" row="40" text="$55.62">
+  </cell>
+  <cell col="5" row="40" text="$55.62">
+  </cell>
+ </row>
+ <row row="41">
+  <cell col="0" row="41" text="E3D">
+  </cell>
+  <cell col="1" row="41" text="Thermocouple Kit">
+  </cell>
+  <cell col="2" row="41" text="1">
+  </cell>
+  <cell col="3" row="41" text="1">
+  </cell>
+  <cell col="4" row="41" text="$28">
+  </cell>
+  <cell col="5" row="41" text="$28">
+  </cell>
+ </row>
+ <row row="42">
+  <cell col="0" row="42" text="E3D">
+  </cell>
+  <cell col="1" row="42" text="High Temperature Heater Cartridge">
+  </cell>
+  <cell col="2" row="42" text="1">
+  </cell>
+  <cell col="3" row="42" text="1">
+  </cell>
+  <cell col="4" row="42" text="$62.09">
+  </cell>
+  <cell col="5" row="42" text="$62.09">
+  </cell>
+ </row>
+ <row row="43">
+  <cell col="0" row="43" text="E3D">
+  </cell>
+  <cell col="1" row="43" text="Stepper Motor">
+  </cell>
+  <cell col="2" row="43" text="1">
+  </cell>
+  <cell col="3" row="43" text="1">
+  </cell>
+  <cell col="4" row="43" text="$12">
+  </cell>
+  <cell col="5" row="43" text="$12">
+  </cell>
+ </row>
+ <row row="44">
+  <cell col="0" row="44" text="Amazon">
+  </cell>
+  <cell col="1" row="44" text="Extruder Gear">
+  </cell>
+  <cell col="2" row="44" text="1">
+  </cell>
+  <cell col="3" row="44" text="1">
+  </cell>
+  <cell col="4" row="44" text="$3">
+  </cell>
+  <cell col="5" row="44" text="$3">
+  </cell>
+ </row>
+ <row row="45">
+  <cell col="0" row="45" text="Amazon">
+  </cell>
+  <cell col="1" row="45" text="Bowden tube and fittings">
+  </cell>
+  <cell col="2" row="45" text="1">
+  </cell>
+  <cell col="3" row="45" text="1">
+  </cell>
+  <cell col="4" row="45" text="$8">
+  </cell>
+  <cell col="5" row="45" text="$8">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="In table they have different types of Hardware and Framing." type="">
+  </statement>
+ </statements>
+</Table 2>

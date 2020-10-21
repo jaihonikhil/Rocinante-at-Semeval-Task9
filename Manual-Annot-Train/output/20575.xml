@@ -1,0 +1,218 @@
+<Table 4>
+ <caption text="
+
+   Loading Factor for Teaching Performance
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Item">
+  </cell>
+  <cell col="1" row="0" text="Run I">
+  </cell>
+  <cell col="2" row="0" text="Run II">
+  </cell>
+  <cell col="3" row="0" text="Run III">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1. I learned a great deal from the lecturer">
+  </cell>
+  <cell col="1" row="1" text="0.933">
+  </cell>
+  <cell col="2" row="1" text="0.926">
+  </cell>
+  <cell col="3" row="1" text="0.931">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2. I had strong desire to take this course delivered by the lecturer">
+  </cell>
+  <cell col="1" row="2" text="0.916">
+  </cell>
+  <cell col="2" row="2" text="0.911">
+  </cell>
+  <cell col="3" row="2" text="0.897">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3. The lecturer taught in a certain manner to serve students">
+  </cell>
+  <cell col="1" row="3" text="0.874">
+  </cell>
+  <cell col="2" row="3" text="0.866">
+  </cell>
+  <cell col="3" row="3" text="X">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4. The lecturer gave clear explanations">
+  </cell>
+  <cell col="1" row="4" text="0.927">
+  </cell>
+  <cell col="2" row="4" text="0.935">
+  </cell>
+  <cell col="3" row="4" text="0.931">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="5. The lecturer was enthusiastic">
+  </cell>
+  <cell col="1" row="5" text="0.919">
+  </cell>
+  <cell col="2" row="5" text="0.913">
+  </cell>
+  <cell col="3" row="5" text="0.920">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="6. The lecturer responded all students’ questions">
+  </cell>
+  <cell col="1" row="6" text="0.939">
+  </cell>
+  <cell col="2" row="6" text="0.933">
+  </cell>
+  <cell col="3" row="6" text="0.933">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="7. The lecturer treated students with respect">
+  </cell>
+  <cell col="1" row="7" text="0.903">
+  </cell>
+  <cell col="2" row="7" text="0.932">
+  </cell>
+  <cell col="3" row="7" text="0.947">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="8. The lecturer was willing to meet and help students outside of class">
+  </cell>
+  <cell col="1" row="8" text="0.870">
+  </cell>
+  <cell col="2" row="8" text="X">
+  </cell>
+  <cell col="3" row="8" text="X">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="9. The lecturer kept students informed of their progress">
+  </cell>
+  <cell col="1" row="9" text="0.928">
+  </cell>
+  <cell col="2" row="9" text="0.929">
+  </cell>
+  <cell col="3" row="9" text="0.922">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="10. The lecturer used class time well">
+  </cell>
+  <cell col="1" row="10" text="0.913">
+  </cell>
+  <cell col="2" row="10" text="0.900">
+  </cell>
+  <cell col="3" row="10" text="0.896">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="11. The lecturer seemed well prepared for each class">
+  </cell>
+  <cell col="1" row="11" text="0.927">
+  </cell>
+  <cell col="2" row="11" text="0.934">
+  </cell>
+  <cell col="3" row="11" text="0.928">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="12. Work requirements and grading system were clear from the beginning">
+  </cell>
+  <cell col="1" row="12" text="0.905">
+  </cell>
+  <cell col="2" row="12" text="0.947">
+  </cell>
+  <cell col="3" row="12" text="0.938">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="13. The amount of work required was appropriate for the credit received">
+  </cell>
+  <cell col="1" row="13" text="0.925">
+  </cell>
+  <cell col="2" row="13" text="0.913">
+  </cell>
+  <cell col="3" row="13" text="0.891">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="14. The lecturer set high standards for students">
+  </cell>
+  <cell col="1" row="14" text="0.828">
+  </cell>
+  <cell col="2" row="14" text="X">
+  </cell>
+  <cell col="3" row="14" text="X">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="15. The lecturer used a certain technique that motivated students’ participation in the class">
+  </cell>
+  <cell col="1" row="15" text="0.883">
+  </cell>
+  <cell col="2" row="15" text="0.872">
+  </cell>
+  <cell col="3" row="15" text="0.910">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="Number of Loading Factor">
+  </cell>
+  <cell col="1" row="16" text="3">
+  </cell>
+  <cell col="2" row="16" text="2">
+  </cell>
+  <cell col="3" row="16" text="1">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="Eigen Value 1">
+  </cell>
+  <cell col="1" row="17" text="6.476">
+  </cell>
+  <cell col="2" row="17" text="6.009">
+  </cell>
+  <cell col="3" row="17" text="5.623">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="Eigen Value 2">
+  </cell>
+  <cell col="1" row="18" text="1.326">
+  </cell>
+  <cell col="2" row="18" text="1.091">
+  </cell>
+  <cell col="3" row="18" text="-">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="Eigen Value 3">
+  </cell>
+  <cell col="1" row="19" text="1.020">
+  </cell>
+  <cell col="2" row="19" text="-">
+  </cell>
+  <cell col="3" row="19" text="-">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Item I learned a great deal from the lecturer Run I is 0.933." type="entailed">
+  </statement>
+  <statement id="4" text="Item Eigen Value 3 Run II is 0.916." type="refuted">
+  </statement>
+  <statement id="6" text="Item 10. The lecturer used class time well Run II is 0.896." type="refuted">
+  </statement>
+  <statement id="7" text="Item Eigen Value 3 Run I is 1.091." type="refuted">
+  </statement>
+ </statements>
+</Table 4>

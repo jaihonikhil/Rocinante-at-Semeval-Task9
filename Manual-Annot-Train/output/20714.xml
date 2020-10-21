@@ -1,0 +1,438 @@
+<Table 3>
+ <caption text="
+
+   The loadings of original variables to the first 5 principal components (PC) for the biotic and abiotic factors.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="PC1">
+  </cell>
+  <cell col="2" row="0" text="PC2">
+  </cell>
+  <cell col="3" row="0" text="PC3">
+  </cell>
+  <cell col="4" row="0" text="PC4">
+  </cell>
+  <cell col="5" row="0" text="PC5">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Precipitation">
+  </cell>
+  <cell col="1" row="1" text="0.40">
+  </cell>
+  <cell col="2" row="1" text="−0.12">
+  </cell>
+  <cell col="3" row="1" text="0.13">
+  </cell>
+  <cell col="4" row="1" text="0.20">
+  </cell>
+  <cell col="5" row="1" text="0.12">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Water Supply">
+  </cell>
+  <cell col="1" row="2" text="0.39">
+  </cell>
+  <cell col="2" row="2" text="−0.14">
+  </cell>
+  <cell col="3" row="2" text="−0.07">
+  </cell>
+  <cell col="4" row="2" text="0.17">
+  </cell>
+  <cell col="5" row="2" text="0.24">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Fishing Mortality">
+  </cell>
+  <cell col="1" row="3" text="−0.39">
+  </cell>
+  <cell col="2" row="3" text="−0.25">
+  </cell>
+  <cell col="3" row="3" text="0.01">
+  </cell>
+  <cell col="4" row="3" text="0.14">
+  </cell>
+  <cell col="5" row="3" text="0.27">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Commercial Fishery Effort">
+  </cell>
+  <cell col="1" row="4" text="−0.35">
+  </cell>
+  <cell col="2" row="4" text="−0.18">
+  </cell>
+  <cell col="3" row="4" text="0.17">
+  </cell>
+  <cell col="4" row="4" text="0.01">
+  </cell>
+  <cell col="5" row="4" text="0.40">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Sport Fishery Effort">
+  </cell>
+  <cell col="1" row="5" text="−0.29">
+  </cell>
+  <cell col="2" row="5" text="0.02">
+  </cell>
+  <cell col="3" row="5" text="−0.38">
+  </cell>
+  <cell col="4" row="5" text="0.37">
+  </cell>
+  <cell col="5" row="5" text="0.00">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Ice Cover Days">
+  </cell>
+  <cell col="1" row="6" text="0.24">
+  </cell>
+  <cell col="2" row="6" text="−0.38">
+  </cell>
+  <cell col="3" row="6" text="0.10">
+  </cell>
+  <cell col="4" row="6" text="−0.34">
+  </cell>
+  <cell col="5" row="6" text="0.04">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Chlorophyll A Concentration">
+  </cell>
+  <cell col="1" row="7" text="0.23">
+  </cell>
+  <cell col="2" row="7" text="−0.01">
+  </cell>
+  <cell col="3" row="7" text="−0.23">
+  </cell>
+  <cell col="4" row="7" text="0.14">
+  </cell>
+  <cell col="5" row="7" text="−0.48">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Southern Oscillation Index (SOI)">
+  </cell>
+  <cell col="1" row="8" text="0.22">
+  </cell>
+  <cell col="2" row="8" text="0.15">
+  </cell>
+  <cell col="3" row="8" text="0.16">
+  </cell>
+  <cell col="4" row="8" text="0.35">
+  </cell>
+  <cell col="5" row="8" text="0.38">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Pacific Decadal Oscillation (PDO)">
+  </cell>
+  <cell col="1" row="9" text="−0.22">
+  </cell>
+  <cell col="2" row="9" text="−0.20">
+  </cell>
+  <cell col="3" row="9" text="−0.37">
+  </cell>
+  <cell col="4" row="9" text="−0.32">
+  </cell>
+  <cell col="5" row="9" text="0.00">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Evaporation">
+  </cell>
+  <cell col="1" row="10" text="−0.20">
+  </cell>
+  <cell col="2" row="10" text="0.20">
+  </cell>
+  <cell col="3" row="10" text="0.44">
+  </cell>
+  <cell col="4" row="10" text="0.10">
+  </cell>
+  <cell col="5" row="10" text="−0.11">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Abundance of Yellow Perch">
+  </cell>
+  <cell col="1" row="11" text="0.19">
+  </cell>
+  <cell col="2" row="11" text="0.40">
+  </cell>
+  <cell col="3" row="11" text="−0.15">
+  </cell>
+  <cell col="4" row="11" text="−0.19">
+  </cell>
+  <cell col="5" row="11" text="0.15">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Ice Melt Date">
+  </cell>
+  <cell col="1" row="12" text="0.17">
+  </cell>
+  <cell col="2" row="12" text="−0.42">
+  </cell>
+  <cell col="3" row="12" text="0.02">
+  </cell>
+  <cell col="4" row="12" text="−0.26">
+  </cell>
+  <cell col="5" row="12" text="0.07">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Water Temperature">
+  </cell>
+  <cell col="1" row="13" text="−0.09">
+  </cell>
+  <cell col="2" row="13" text="0.17">
+  </cell>
+  <cell col="3" row="13" text="0.43">
+  </cell>
+  <cell col="4" row="13" text="−0.18">
+  </cell>
+  <cell col="5" row="13" text="−0.34">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="North Atlantic Oscillation (NAO)">
+  </cell>
+  <cell col="1" row="14" text="−0.07">
+  </cell>
+  <cell col="2" row="14" text="−0.30">
+  </cell>
+  <cell col="3" row="14" text="−0.14">
+  </cell>
+  <cell col="4" row="14" text="0.26">
+  </cell>
+  <cell col="5" row="14" text="−0.34">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="Pacific-North American Pattern (PNA)">
+  </cell>
+  <cell col="1" row="15" text="−0.06">
+  </cell>
+  <cell col="2" row="15" text="0.26">
+  </cell>
+  <cell col="3" row="15" text="−0.15">
+  </cell>
+  <cell col="4" row="15" text="−0.44">
+  </cell>
+  <cell col="5" row="15" text="0.15">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="Abundance of Walleye">
+  </cell>
+  <cell col="1" row="16" text="0.04">
+  </cell>
+  <cell col="2" row="16" text="0.31">
+  </cell>
+  <cell col="3" row="16" text="−0.37">
+  </cell>
+  <cell col="4" row="16" text="−0.01">
+  </cell>
+  <cell col="5" row="16" text="0.15">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The lowest value in PC3 is 0.43 of Fishing Mortality." type="refuted">
+  </statement>
+ </statements>
+</Table 3>
+<Table 1>
+ <caption text="
+
+   The sample size among different basins and sexes for Walleye
+   
+    Sander vitreus
+   
+   in Lake Erie from the Ontario partnership survey.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Basins">
+  </cell>
+  <cell col="1" row="0" text="Male">
+  </cell>
+  <cell col="2" row="0" text="Female">
+  </cell>
+  <cell col="3" row="0" text="Unknown">
+  </cell>
+  <cell col="4" row="0" text="Total">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="West Basin">
+  </cell>
+  <cell col="1" row="1" text="8027">
+  </cell>
+  <cell col="2" row="1" text="9919">
+  </cell>
+  <cell col="3" row="1" text="6943">
+  </cell>
+  <cell col="4" row="1" text="24,889">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="West Central Basin">
+  </cell>
+  <cell col="1" row="2" text="6530">
+  </cell>
+  <cell col="2" row="2" text="5834">
+  </cell>
+  <cell col="3" row="2" text="2802">
+  </cell>
+  <cell col="4" row="2" text="15,166">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="East Central Basin">
+  </cell>
+  <cell col="1" row="3" text="2161">
+  </cell>
+  <cell col="2" row="3" text="2553">
+  </cell>
+  <cell col="3" row="3" text="503">
+  </cell>
+  <cell col="4" row="3" text="5217">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Pennsylvania ridge">
+  </cell>
+  <cell col="1" row="4" text="203">
+  </cell>
+  <cell col="2" row="4" text="397">
+  </cell>
+  <cell col="3" row="4" text="58">
+  </cell>
+  <cell col="4" row="4" text="658">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="East Basin">
+  </cell>
+  <cell col="1" row="5" text="1176">
+  </cell>
+  <cell col="2" row="5" text="1748">
+  </cell>
+  <cell col="3" row="5" text="436">
+  </cell>
+  <cell col="4" row="5" text="3360">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Total">
+  </cell>
+  <cell col="1" row="6" text="18,097">
+  </cell>
+  <cell col="2" row="6" text="20,451">
+  </cell>
+  <cell col="3" row="6" text="10,742">
+  </cell>
+  <cell col="4" row="6" text="49,290">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Basins West Basin Total is 24,889." type="entailed">
+  </statement>
+  <statement id="1" text="Female 5834 for West Central Basin." type="entailed">
+  </statement>
+  <statement id="2" text="Basins West Basin Total is 658." type="refuted">
+  </statement>
+  <statement id="3" text="East Basin Male is 1748." type="refuted">
+  </statement>
+  <statement id="4" text="A total of 49,490 Walleye individuals were sampled during the 27 years of the Lake Erie surveys (19892015)" type="entailed">
+  </statement>
+  <statement id="5" text="The weight of Walleye collected ranged from 18 to 5431 g, with a mean of 749 g, while the total length varied from 12.9 cm to 78.7 cm with a mean of 39.5 cm" type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 4>
+ <caption text="
+
+   The importance of the first 5 principal components (PC) from the principal component analysis (PCA) for the biotic and abiotic factors.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="PC1">
+  </cell>
+  <cell col="2" row="0" text="PC2">
+  </cell>
+  <cell col="3" row="0" text="PC3">
+  </cell>
+  <cell col="4" row="0" text="PC4">
+  </cell>
+  <cell col="5" row="0" text="PC5">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Standard deviation">
+  </cell>
+  <cell col="1" row="1" text="1.95">
+  </cell>
+  <cell col="2" row="1" text="1.85">
+  </cell>
+  <cell col="3" row="1" text="1.60">
+  </cell>
+  <cell col="4" row="1" text="1.30">
+  </cell>
+  <cell col="5" row="1" text="1.17">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Proportion of Variance">
+  </cell>
+  <cell col="1" row="2" text="0.24">
+  </cell>
+  <cell col="2" row="2" text="0.21">
+  </cell>
+  <cell col="3" row="2" text="0.16">
+  </cell>
+  <cell col="4" row="2" text="0.10">
+  </cell>
+  <cell col="5" row="2" text="0.09">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Cumulative Proportion">
+  </cell>
+  <cell col="1" row="3" text="0.24">
+  </cell>
+  <cell col="2" row="3" text="0.45">
+  </cell>
+  <cell col="3" row="3" text="0.61">
+  </cell>
+  <cell col="4" row="3" text="0.71">
+  </cell>
+  <cell col="5" row="3" text="0.80">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 5 types of Principal components from PC1 to PC5." type="entailed">
+  </statement>
+  <statement id="1" text="The highest value is 1.95 in PC1 of Standard deviation." type="entailed">
+  </statement>
+  <statement id="2" text="There are 3 types of categories in the given table." type="entailed">
+  </statement>
+  <statement id="3" text="There are 4 types of categories in the given table." type="refuted">
+  </statement>
+  <statement id="4" text="There are 6 types of Principal components from PC1 to PC6." type="refuted">
+  </statement>
+  <statement id="5" text="The least value is 0.21 in PC4 of Proportion of Variance." type="refuted">
+  </statement>
+ </statements>
+</Table 4>

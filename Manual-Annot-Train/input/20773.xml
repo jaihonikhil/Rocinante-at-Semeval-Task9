@@ -1,0 +1,194 @@
+<Table 1>
+ <caption text="
+
+   OPM Flow performance indicators for simulations of the Norne model. The columns display number of MPI-processes (procs), threads per process during assembly (thr(A)), compute nodes involved, assembly execution time (AT), linear solver execution time (LST), total execution time (TT), total number of linear iterations (iter), speedup and parallel efficiency (eff) with respect to serial simulation. The computations were performed on four dual AMD EPYC 7601 2.2 GHz 32-core processors using 1, 2, …, 64 MPI-processes. The AMD nodes have 8 memory lanes per socket and a 170.6 GB/s memory bandwidth, and the interconnect between the nodes is HDR InfiniBand (200 Gbits/s).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Procs">
+  </cell>
+  <cell col="1" row="0" text="thr(A)">
+  </cell>
+  <cell col="2" row="0" text="Nodes">
+  </cell>
+  <cell col="3" row="0" text="AT (s)">
+  </cell>
+  <cell col="4" row="0" text="LST (s)">
+  </cell>
+  <cell col="5" row="0" text="TT (s)">
+  </cell>
+  <cell col="6" row="0" text="Iter">
+  </cell>
+  <cell col="7" row="0" text="Speedup">
+  </cell>
+  <cell col="8" row="0" text="eff">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1">
+  </cell>
+  <cell col="1" row="1" text="1">
+  </cell>
+  <cell col="2" row="1" text="1">
+  </cell>
+  <cell col="3" row="1" text="351.49">
+  </cell>
+  <cell col="4" row="1" text="300.59">
+  </cell>
+  <cell col="5" row="1" text="691.26">
+  </cell>
+  <cell col="6" row="1" text="25744">
+  </cell>
+  <cell col="7" row="1" text="–">
+  </cell>
+  <cell col="8" row="1" text="–">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2">
+  </cell>
+  <cell col="1" row="2" text="1">
+  </cell>
+  <cell col="2" row="2" text="1">
+  </cell>
+  <cell col="3" row="2" text="180.73">
+  </cell>
+  <cell col="4" row="2" text="191.14">
+  </cell>
+  <cell col="5" row="2" text="401.89">
+  </cell>
+  <cell col="6" row="2" text="25331">
+  </cell>
+  <cell col="7" row="2" text="1.72">
+  </cell>
+  <cell col="8" row="2" text="0.86">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="4">
+  </cell>
+  <cell col="1" row="3" text="1">
+  </cell>
+  <cell col="2" row="3" text="1">
+  </cell>
+  <cell col="3" row="3" text="95.71">
+  </cell>
+  <cell col="4" row="3" text="112.49">
+  </cell>
+  <cell col="5" row="3" text="229.94">
+  </cell>
+  <cell col="6" row="3" text="25148">
+  </cell>
+  <cell col="7" row="3" text="3.00">
+  </cell>
+  <cell col="8" row="3" text="0.75">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="8">
+  </cell>
+  <cell col="1" row="4" text="1">
+  </cell>
+  <cell col="2" row="4" text="1">
+  </cell>
+  <cell col="3" row="4" text="63.51">
+  </cell>
+  <cell col="4" row="4" text="86.43">
+  </cell>
+  <cell col="5" row="4" text="168.35">
+  </cell>
+  <cell col="6" row="4" text="25388">
+  </cell>
+  <cell col="7" row="4" text="4.11">
+  </cell>
+  <cell col="8" row="4" text="0.51">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="16">
+  </cell>
+  <cell col="1" row="5" text="4">
+  </cell>
+  <cell col="2" row="5" text="1">
+  </cell>
+  <cell col="3" row="5" text="21.73">
+  </cell>
+  <cell col="4" row="5" text="50.93">
+  </cell>
+  <cell col="5" row="5" text="88.72">
+  </cell>
+  <cell col="6" row="5" text="25736">
+  </cell>
+  <cell col="7" row="5" text="7.79">
+  </cell>
+  <cell col="8" row="5" text="0.49">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="32">
+  </cell>
+  <cell col="1" row="6" text="4">
+  </cell>
+  <cell col="2" row="6" text="2">
+  </cell>
+  <cell col="3" row="6" text="15.82">
+  </cell>
+  <cell col="4" row="6" text="54.16">
+  </cell>
+  <cell col="5" row="6" text="85.67">
+  </cell>
+  <cell col="6" row="6" text="26123">
+  </cell>
+  <cell col="7" row="6" text="8.07">
+  </cell>
+  <cell col="8" row="6" text="0.25">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="48">
+  </cell>
+  <cell col="1" row="7" text="4">
+  </cell>
+  <cell col="2" row="7" text="3">
+  </cell>
+  <cell col="3" row="7" text="10.98">
+  </cell>
+  <cell col="4" row="7" text="45.65">
+  </cell>
+  <cell col="5" row="7" text="71.84">
+  </cell>
+  <cell col="6" row="7" text="25920">
+  </cell>
+  <cell col="7" row="7" text="9.62">
+  </cell>
+  <cell col="8" row="7" text="0.20">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="64">
+  </cell>
+  <cell col="1" row="8" text="4">
+  </cell>
+  <cell col="2" row="8" text="4">
+  </cell>
+  <cell col="3" row="8" text="8.90">
+  </cell>
+  <cell col="4" row="8" text="49.92">
+  </cell>
+  <cell col="5" row="8" text="74.16">
+  </cell>
+  <cell col="6" row="8" text="26461">
+  </cell>
+  <cell col="7" row="8" text="9.32">
+  </cell>
+  <cell col="8" row="8" text="0.15">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Thread and nodes are 1 for Process 1, 2, 4, 8." type="">
+  </statement>
+  <statement id="2" text="Process 1 does not have speedup and efficiency." type="">
+  </statement>
+ </statements>
+</Table 1>

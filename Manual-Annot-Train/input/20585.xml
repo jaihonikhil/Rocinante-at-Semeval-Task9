@@ -1,0 +1,322 @@
+<Table 2>
+ <caption text="
+
+   The mechanical properties of the concrete for each test beam
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Specimen">
+  </cell>
+  <cell col="1" row="0" text="Compressive strength
+     
+      f’c
+     
+     (MPa)">
+  </cell>
+  <cell col="2" row="0" text="Modulus of rupture
+     
+      f
+      
+       r
+      
+
+     (MPa)">
+  </cell>
+  <cell col="3" row="0" text="Splitting tensile strength
+     
+      f
+      
+       t
+      
+
+     (MPa)">
+  </cell>
+  <cell col="4" row="0" text="Modulus of elasticity (GPa)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="V-3/12">
+  </cell>
+  <cell col="1" row="1" text="28.4">
+  </cell>
+  <cell col="2" row="1" text="3.11">
+  </cell>
+  <cell col="3" row="1" text="2.81">
+  </cell>
+  <cell col="4" row="1" text="20.78">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="L30-3/12">
+  </cell>
+  <cell col="1" row="2" text="30.4">
+  </cell>
+  <cell col="2" row="2" text="3.33">
+  </cell>
+  <cell col="3" row="2" text="3.08">
+  </cell>
+  <cell col="4" row="2" text="23.25">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="L45-3/12">
+  </cell>
+  <cell col="1" row="3" text="29.4">
+  </cell>
+  <cell col="2" row="3" text="2.94">
+  </cell>
+  <cell col="3" row="3" text="2.75">
+  </cell>
+  <cell col="4" row="3" text="21.98">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="L60-3/12">
+  </cell>
+  <cell col="1" row="4" text="27.1">
+  </cell>
+  <cell col="2" row="4" text="2.78">
+  </cell>
+  <cell col="3" row="4" text="2.57">
+  </cell>
+  <cell col="4" row="4" text="19.25">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="L45-2/8">
+  </cell>
+  <cell col="1" row="5" text="28.2">
+  </cell>
+  <cell col="2" row="5" text="3.05">
+  </cell>
+  <cell col="3" row="5" text="2.73">
+  </cell>
+  <cell col="4" row="5" text="21.25">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="L45-3/16">
+  </cell>
+  <cell col="1" row="6" text="28.7">
+  </cell>
+  <cell col="2" row="6" text="3.26">
+  </cell>
+  <cell col="3" row="6" text="3.25">
+  </cell>
+  <cell col="4" row="6" text="22.78">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Average (X)">
+  </cell>
+  <cell col="1" row="7" text="28.70">
+  </cell>
+  <cell col="2" row="7" text="3.08">
+  </cell>
+  <cell col="3" row="7" text="2.87">
+  </cell>
+  <cell col="4" row="7" text="21.55">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="SD">
+  </cell>
+  <cell col="1" row="8" text="1.12">
+  </cell>
+  <cell col="2" row="8" text="0.20">
+  </cell>
+  <cell col="3" row="8" text="0.25">
+  </cell>
+  <cell col="4" row="8" text="1.45">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="C.O.V. %">
+  </cell>
+  <cell col="1" row="9" text="3.90">
+  </cell>
+  <cell col="2" row="9" text="6.60">
+  </cell>
+  <cell col="3" row="9" text="8.77">
+  </cell>
+  <cell col="4" row="9" text="6.74">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Modulus of elasticity (GPa) 21.55 is Average (X) Specimen." type="">
+  </statement>
+  <statement id="3" text="All beams were concreted to achieve a target compressive strength of 30 MPa using normal-weight concrete with a mix design of 1.00 cement: 1.57 sand: 2.80 gravel and water to cement ratio of 0.45." type="">
+  </statement>
+ </statements>
+</Table 2>
+<Table 1>
+ <caption text="
+
+   The mechanical properties of the used steel bars
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Nominal diameter
+     
+     (mm)">
+  </cell>
+  <cell col="1" row="0" text="Actual area
+     
+     (mm
+     
+      2
+     
+     )">
+  </cell>
+  <cell col="2" row="0" text="Yield strength
+     
+     (MPa)">
+  </cell>
+  <cell col="3" row="0" text="Ultimate strength
+     
+     (MPa)">
+  </cell>
+  <cell col="4" row="0" text="Elongation
+     
+     (%)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="8">
+  </cell>
+  <cell col="1" row="1" text="49">
+  </cell>
+  <cell col="2" row="1" text="551">
+  </cell>
+  <cell col="3" row="1" text="690">
+  </cell>
+  <cell col="4" row="1" text="17.2">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="12">
+  </cell>
+  <cell col="1" row="2" text="112">
+  </cell>
+  <cell col="2" row="2" text="513">
+  </cell>
+  <cell col="3" row="2" text="671">
+  </cell>
+  <cell col="4" row="2" text="17.5">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="16">
+  </cell>
+  <cell col="1" row="3" text="199">
+  </cell>
+  <cell col="2" row="3" text="482">
+  </cell>
+  <cell col="3" row="3" text="618">
+  </cell>
+  <cell col="4" row="3" text="18.75">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Nominal diameter (mm) 12 Actual area (mm 2 )is 112." type="">
+  </statement>
+  <statement id="1" text="Elongation (%) 18.75 Nominal diameter is 16." type="">
+  </statement>
+  <statement id="2" text="Ultimate strength (MPa) 618 Nominal diameter (mm) is 16." type="">
+  </statement>
+  <statement id="3" text="Yield strength 513 Nominal diameter is 12." type="">
+  </statement>
+  <statement id="4" text="17.2 Elongation Nominal diameter is 8" type="">
+  </statement>
+  <statement id="5" text="Yield strength 513 Nominal diameter is 15." type="">
+  </statement>
+  <statement id="7" text="Nominal diameter (mm) 16 Actual area (mm 2 )is 112." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 7>
+ <caption text="
+
+   FEA observations for beams with different a/d ratios
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="a/d ratio">
+  </cell>
+  <cell col="1" row="0" text="Shear reinforcement">
+  </cell>
+  <cell col="2" row="0" text="Yielding load (kN)">
+  </cell>
+  <cell col="3" row="0" text="Failure load (kN)">
+  </cell>
+  <cell col="4" row="0" text="Ductility index">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1.13">
+  </cell>
+  <cell col="1" row="1" text="45°-lacing
+     
+     Vertical stirrups">
+  </cell>
+  <cell col="2" row="1" text="255
+     
+     180">
+  </cell>
+  <cell col="3" row="1" text="297.9
+     
+     209.9">
+  </cell>
+  <cell col="4" row="1" text="2.3
+     
+     2.3">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2.00">
+  </cell>
+  <cell col="1" row="2" text="45°-lacing
+     
+     Vertical stirrups">
+  </cell>
+  <cell col="2" row="2" text="169
+     
+     149">
+  </cell>
+  <cell col="3" row="2" text="185.2
+     
+     163.1">
+  </cell>
+  <cell col="4" row="2" text="4.9
+     
+     3.6">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="2.38">
+  </cell>
+  <cell col="1" row="3" text="45°-lacing
+     
+     Vertical stirrups">
+  </cell>
+  <cell col="2" row="3" text="132
+     
+     122">
+  </cell>
+  <cell col="3" row="3" text="149.0
+     
+     139.4">
+  </cell>
+  <cell col="4" row="3" text="8.6
+     
+     5.53">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="Failure load has a range between 139.4 to 297.9." type="">
+  </statement>
+ </statements>
+</Table 7>

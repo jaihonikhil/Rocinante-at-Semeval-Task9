@@ -1,0 +1,532 @@
+<Table 1>
+ <caption text="
+
+   Affective imagery of respondents - gender, age group, political orientation, language group, familiarity with wind energy.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Frequency (percentage)">
+  </cell>
+  <cell col="16" row="0" text="Affective evaluation (M, (SD)) Total">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="Total">
+  </cell>
+  <cell col="2" row="1" text="Gender">
+  </cell>
+  <cell col="4" row="1" text="Age group">
+  </cell>
+  <cell col="8" row="1" text="Political orientation">
+  </cell>
+  <cell col="10" row="1" text="Language group">
+  </cell>
+  <cell col="12" row="1" text="Familiarity with wind energy">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="">
+  </cell>
+  <cell col="1" row="2" text="">
+  </cell>
+  <cell col="2" row="2" text="Males">
+  </cell>
+  <cell col="3" row="2" text="Females">
+  </cell>
+  <cell col="4" row="2" text="&lt;30">
+  </cell>
+  <cell col="5" row="2" text="30–44">
+  </cell>
+  <cell col="6" row="2" text="45–59">
+  </cell>
+  <cell col="7" row="2" text="&gt;60">
+  </cell>
+  <cell col="8" row="2" text="SVP">
+  </cell>
+  <cell col="9" row="2" text="Other party">
+  </cell>
+  <cell col="10" row="2" text="German">
+  </cell>
+  <cell col="11" row="2" text="French">
+  </cell>
+  <cell col="12" row="2" text="(1)">
+  </cell>
+  <cell col="13" row="2" text="(2)">
+  </cell>
+  <cell col="14" row="2" text="(3)">
+  </cell>
+  <cell col="15" row="2" text="(4)">
+  </cell>
+  <cell col="16" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Landscape">
+  </cell>
+  <cell col="1" row="3" text="250 (8%)">
+  </cell>
+  <cell col="2" row="3" text="153 (9%)">
+  </cell>
+  <cell col="3" row="3" text="97 (6%)">
+  </cell>
+  <cell col="4" row="3" text="35 (5%)">
+  </cell>
+  <cell col="5" row="3" text="60 (8%)">
+  </cell>
+  <cell col="6" row="3" text="77 (8%)">
+  </cell>
+  <cell col="7" row="3" text="78 (10%)">
+  </cell>
+  <cell col="8" row="3" text="70 (9%)">
+  </cell>
+  <cell col="9" row="3" text="180 (7%)">
+  </cell>
+  <cell col="10" row="3" text="154 (7%)">
+  </cell>
+  <cell col="11" row="3" text="96 (10%)">
+  </cell>
+  <cell col="12" row="3" text="145 (9%)">
+  </cell>
+  <cell col="13" row="3" text="66 (8%)">
+  </cell>
+  <cell col="14" row="3" text="23 (6%)">
+  </cell>
+  <cell col="15" row="3" text="16 (5%)">
+  </cell>
+  <cell col="16" row="3" text="2.73 (1.7)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Noise">
+  </cell>
+  <cell col="1" row="4" text="214 (7%)">
+  </cell>
+  <cell col="2" row="4" text="91 (5%)">
+  </cell>
+  <cell col="3" row="4" text="123 (8%)">
+  </cell>
+  <cell col="4" row="4" text="32 (5%)">
+  </cell>
+  <cell col="5" row="4" text="48 (6%)">
+  </cell>
+  <cell col="6" row="4" text="66 (7%)">
+  </cell>
+  <cell col="7" row="4" text="68 (8%)">
+  </cell>
+  <cell col="8" row="4" text="63 (8%)">
+  </cell>
+  <cell col="9" row="4" text="151 (6%)">
+  </cell>
+  <cell col="10" row="4" text="122 (5%)">
+  </cell>
+  <cell col="11" row="4" text="92 (9%)">
+  </cell>
+  <cell col="12" row="4" text="122 (7%)">
+  </cell>
+  <cell col="13" row="4" text="55 (6%)">
+  </cell>
+  <cell col="14" row="4" text="16 (4%)">
+  </cell>
+  <cell col="15" row="4" text="21 (7%)">
+  </cell>
+  <cell col="16" row="4" text="2.38 (1.47)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Wildlife">
+  </cell>
+  <cell col="1" row="5" text="139 (4%)">
+  </cell>
+  <cell col="2" row="5" text="66 (4%)">
+  </cell>
+  <cell col="3" row="5" text="73 (5%)">
+  </cell>
+  <cell col="4" row="5" text="21 (3%)">
+  </cell>
+  <cell col="5" row="5" text="35 (4%)">
+  </cell>
+  <cell col="6" row="5" text="39 (4%)">
+  </cell>
+  <cell col="7" row="5" text="44 (5%)">
+  </cell>
+  <cell col="8" row="5" text="33 (4%)">
+  </cell>
+  <cell col="9" row="5" text="106 (4%)">
+  </cell>
+  <cell col="10" row="5" text="104 (5%)">
+  </cell>
+  <cell col="11" row="5" text="35 (4%)">
+  </cell>
+  <cell col="12" row="5" text="94 (6%)">
+  </cell>
+  <cell col="13" row="5" text="29 (3%)">
+  </cell>
+  <cell col="14" row="5" text="9 (2%)">
+  </cell>
+  <cell col="15" row="5" text="7 (2%)">
+  </cell>
+  <cell col="16" row="5" text="1.81 (1.15)">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Ecology">
+  </cell>
+  <cell col="1" row="6" text="191 (6%)">
+  </cell>
+  <cell col="2" row="6" text="97 (6%)">
+  </cell>
+  <cell col="3" row="6" text="94 (6%)">
+  </cell>
+  <cell col="4" row="6" text="52 (7%)">
+  </cell>
+  <cell col="5" row="6" text="47 (6%)">
+  </cell>
+  <cell col="6" row="6" text="56 (6%)">
+  </cell>
+  <cell col="7" row="6" text="36 (4%)">
+  </cell>
+  <cell col="8" row="6" text="39 (5%)">
+  </cell>
+  <cell col="9" row="6" text="152 (6%)">
+  </cell>
+  <cell col="10" row="6" text="131 (6%)">
+  </cell>
+  <cell col="11" row="6" text="60 (6%)">
+  </cell>
+  <cell col="12" row="6" text="91 (5%)">
+  </cell>
+  <cell col="13" row="6" text="50 (6%)">
+  </cell>
+  <cell col="14" row="6" text="30 (8%)">
+  </cell>
+  <cell col="15" row="6" text="20 (6%)">
+  </cell>
+  <cell col="16" row="6" text="5.93 (1.77)">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Power production">
+  </cell>
+  <cell col="1" row="7" text="150 (5%)">
+  </cell>
+  <cell col="2" row="7" text="90 (5%)">
+  </cell>
+  <cell col="3" row="7" text="60 (4%)">
+  </cell>
+  <cell col="4" row="7" text="42 (6%)">
+  </cell>
+  <cell col="5" row="7" text="33 (4%)">
+  </cell>
+  <cell col="6" row="7" text="39 (4%)">
+  </cell>
+  <cell col="7" row="7" text="36 (4%)">
+  </cell>
+  <cell col="8" row="7" text="22 (3%)">
+  </cell>
+  <cell col="9" row="7" text="128 (5%)">
+  </cell>
+  <cell col="10" row="7" text="104 (5%)">
+  </cell>
+  <cell col="11" row="7" text="46 (5%)">
+  </cell>
+  <cell col="12" row="7" text="66 (4%)">
+  </cell>
+  <cell col="13" row="7" text="43 (5%)">
+  </cell>
+  <cell col="14" row="7" text="19 (5%)">
+  </cell>
+  <cell col="15" row="7" text="22 (7%)">
+  </cell>
+  <cell col="16" row="7" text="6.23 (1.42)">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Wind">
+  </cell>
+  <cell col="1" row="8" text="142 (4%)">
+  </cell>
+  <cell col="2" row="8" text="75 (4%)">
+  </cell>
+  <cell col="3" row="8" text="67 (4%)">
+  </cell>
+  <cell col="4" row="8" text="37 (5%)">
+  </cell>
+  <cell col="5" row="8" text="41 (5%)">
+  </cell>
+  <cell col="6" row="8" text="45 (5%)">
+  </cell>
+  <cell col="7" row="8" text="19 (2%)">
+  </cell>
+  <cell col="8" row="8" text="35 (4%)">
+  </cell>
+  <cell col="9" row="8" text="107 (4%)">
+  </cell>
+  <cell col="10" row="8" text="45 (2%)">
+  </cell>
+  <cell col="11" row="8" text="97 (10%)">
+  </cell>
+  <cell col="12" row="8" text="66 (4%)">
+  </cell>
+  <cell col="13" row="8" text="35 (4%)">
+  </cell>
+  <cell col="14" row="8" text="15 (4%)">
+  </cell>
+  <cell col="15" row="8" text="26 (8%)">
+  </cell>
+  <cell col="16" row="8" text="5.7 (1.41)">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Total number of associations categorized">
+  </cell>
+  <cell col="1" row="9" text="3231 (100%)">
+  </cell>
+  <cell col="2" row="9" text="1690 (100%)">
+  </cell>
+  <cell col="3" row="9" text="1541 (100%)">
+  </cell>
+  <cell col="4" row="9" text="694 (100%)">
+  </cell>
+  <cell col="5" row="9" text="798 (1005)">
+  </cell>
+  <cell col="6" row="9" text="927 (100%)">
+  </cell>
+  <cell col="7" row="9" text="812 (100%)">
+  </cell>
+  <cell col="8" row="9" text="788 (100%)">
+  </cell>
+  <cell col="9" row="9" text="2443 (100%)">
+  </cell>
+  <cell col="10" row="9" text="2232 (100%)">
+  </cell>
+  <cell col="11" row="9" text="999 (100%)">
+  </cell>
+  <cell col="12" row="9" text="1684 (100%)">
+  </cell>
+  <cell col="13" row="9" text="848 (100%)">
+  </cell>
+  <cell col="14" row="9" text="376 (100%)">
+  </cell>
+  <cell col="15" row="9" text="323 (100%)">
+  </cell>
+  <cell col="16" row="9" text="">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 6 associations in the table." type="">
+  </statement>
+  <statement id="2" text="Total number of associations categorized is 100% for all." type="">
+  </statement>
+  <statement id="5" text="Age group of &lt;60 are observed in the table." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   Multiple regression analysis on the level of local concern for wind energy projects.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Independent variables">
+  </cell>
+  <cell col="1" row="0" text="Local concern">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="B">
+  </cell>
+  <cell col="2" row="1" text="SE">
+  </cell>
+  <cell col="3" row="1" text="Beta">
+  </cell>
+  <cell col="4" row="1" text="p-values">
+  </cell>
+  <cell col="5" row="1" text="95% CI">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Constant">
+  </cell>
+  <cell col="1" row="2" text="5.036">
+  </cell>
+  <cell col="2" row="2" text="0.231">
+  </cell>
+  <cell col="3" row="2" text="">
+  </cell>
+  <cell col="4" row="2" text="0.000">
+  </cell>
+  <cell col="5" row="2" text="[4.583, 5.489]">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Affective evaluation (average)">
+  </cell>
+  <cell col="1" row="3" text="−0.339">
+  </cell>
+  <cell col="2" row="3" text="0.022">
+  </cell>
+  <cell col="3" row="3" text="−0.417">
+  </cell>
+  <cell col="4" row="3" text="0.000">
+  </cell>
+  <cell col="5" row="3" text="[-0.383, −0.295]">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Place of residence">
+  </cell>
+  <cell col="1" row="4" text="−0.01">
+  </cell>
+  <cell col="2" row="4" text="0.034">
+  </cell>
+  <cell col="3" row="4" text="−0.007">
+  </cell>
+  <cell col="4" row="4" text="0.774">
+  </cell>
+  <cell col="5" row="4" text="[-0.076, 0.056]">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Political orientation">
+  </cell>
+  <cell col="1" row="5" text="−0.34">
+  </cell>
+  <cell col="2" row="5" text="0.088">
+  </cell>
+  <cell col="3" row="5" text="−0.1">
+  </cell>
+  <cell col="4" row="5" text="0.000">
+  </cell>
+  <cell col="5" row="5" text="[-0.513, −0.167]">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Gender">
+  </cell>
+  <cell col="1" row="6" text="0.033">
+  </cell>
+  <cell col="2" row="6" text="0.077">
+  </cell>
+  <cell col="3" row="6" text="0.011">
+  </cell>
+  <cell col="4" row="6" text="0.663">
+  </cell>
+  <cell col="5" row="6" text="[-0.117, 0.184]">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Education level">
+  </cell>
+  <cell col="1" row="7" text="−0.111">
+  </cell>
+  <cell col="2" row="7" text="0.08">
+  </cell>
+  <cell col="3" row="7" text="−0.037">
+  </cell>
+  <cell col="4" row="7" text="0.167">
+  </cell>
+  <cell col="5" row="7" text="[-0.268, 0.047]">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Familiarity with wind energy">
+  </cell>
+  <cell col="1" row="8" text="−0.217">
+  </cell>
+  <cell col="2" row="8" text="0.04">
+  </cell>
+  <cell col="3" row="8" text="−0.148">
+  </cell>
+  <cell col="4" row="8" text="0.000">
+  </cell>
+  <cell col="5" row="8" text="[-0.297, −0.138]">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Awareness planned wind project">
+  </cell>
+  <cell col="1" row="9" text="−0.009">
+  </cell>
+  <cell col="2" row="9" text="0.131">
+  </cell>
+  <cell col="3" row="9" text="−0.002">
+  </cell>
+  <cell col="4" row="9" text="0.944">
+  </cell>
+  <cell col="5" row="9" text="[-0.266, 0.248]">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Age group">
+  </cell>
+  <cell col="1" row="10" text="0.021">
+  </cell>
+  <cell col="2" row="10" text="0.036">
+  </cell>
+  <cell col="3" row="10" text="0.015">
+  </cell>
+  <cell col="4" row="10" text="0.561">
+  </cell>
+  <cell col="5" row="10" text="[-0.049, 0.091]">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Language regions">
+  </cell>
+  <cell col="1" row="11" text="0.579">
+  </cell>
+  <cell col="2" row="11" text="0.084">
+  </cell>
+  <cell col="3" row="11" text="0.179">
+  </cell>
+  <cell col="4" row="11" text="0.000">
+  </cell>
+  <cell col="5" row="11" text="[0.413, 0.744]">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="R
+     
+      2
+     
+     adjusted">
+  </cell>
+  <cell col="1" row="12" text="0.281">
+  </cell>
+  <cell col="2" row="12" text="">
+  </cell>
+  <cell col="3" row="12" text="">
+  </cell>
+  <cell col="4" row="12" text="">
+  </cell>
+  <cell col="5" row="12" text="">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="F">
+  </cell>
+  <cell col="1" row="13" text="47.805">
+  </cell>
+  <cell col="2" row="13" text="">
+  </cell>
+  <cell col="3" row="13" text="">
+  </cell>
+  <cell col="4" row="13" text="0.000">
+  </cell>
+  <cell col="5" row="13" text="">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="Table contains 22 Independent variables." type="">
+  </statement>
+  <statement id="3" text="Local concern has 15 classification." type="">
+  </statement>
+  <statement id="4" text="0.011 is the beta value of age group." type="">
+  </statement>
+ </statements>
+</Table 2>

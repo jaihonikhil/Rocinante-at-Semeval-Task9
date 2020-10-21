@@ -1,0 +1,346 @@
+<Table 3>
+ <caption text="
+
+   Associations of cardiorespiratory fitness (VO
+   
+    2max
+   
+   ) with self-reported frequent symptoms of depression/anxiety (n = 36,595).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Fitness level">
+  </cell>
+  <cell col="1" row="0" text="Crude Model">
+  </cell>
+  <cell col="4" row="0" text="Model 2">
+  </cell>
+  <cell col="7" row="0" text="Model 3">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="OR">
+  </cell>
+  <cell col="2" row="1" text="95% CI">
+  </cell>
+  <cell col="3" row="1" text="p">
+  </cell>
+  <cell col="4" row="1" text="OR">
+  </cell>
+  <cell col="5" row="1" text="95% CI">
+  </cell>
+  <cell col="6" row="1" text="p">
+  </cell>
+  <cell col="7" row="1" text="OR">
+  </cell>
+  <cell col="8" row="1" text="95% CI">
+  </cell>
+  <cell col="9" row="1" text="p">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Low">
+  </cell>
+  <cell col="1" row="2" text="1">
+  </cell>
+  <cell col="2" row="2" text="-">
+  </cell>
+  <cell col="3" row="2" text="-">
+  </cell>
+  <cell col="4" row="2" text="1">
+  </cell>
+  <cell col="5" row="2" text="-">
+  </cell>
+  <cell col="6" row="2" text="-">
+  </cell>
+  <cell col="7" row="2" text="1">
+  </cell>
+  <cell col="8" row="2" text="-">
+  </cell>
+  <cell col="9" row="2" text="-">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Medium">
+  </cell>
+  <cell col="1" row="3" text="0.88">
+  </cell>
+  <cell col="2" row="3" text="0.81–0.97">
+  </cell>
+  <cell col="3" row="3" text="0.011">
+  </cell>
+  <cell col="4" row="3" text="0.91">
+  </cell>
+  <cell col="5" row="3" text="0.81–1.00">
+  </cell>
+  <cell col="6" row="3" text="0.063">
+  </cell>
+  <cell col="7" row="3" text="0.99">
+  </cell>
+  <cell col="8" row="3" text="0.89–1.11">
+  </cell>
+  <cell col="9" row="3" text="0.975">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="High">
+  </cell>
+  <cell col="1" row="4" text="0.86">
+  </cell>
+  <cell col="2" row="4" text="0.77–0.95">
+  </cell>
+  <cell col="3" row="4" text="0.005">
+  </cell>
+  <cell col="4" row="4" text="0.83">
+  </cell>
+  <cell col="5" row="4" text="0.73–0.95">
+  </cell>
+  <cell col="6" row="4" text="0.012">
+  </cell>
+  <cell col="7" row="4" text="1.01">
+  </cell>
+  <cell col="8" row="4" text="0.88–1.16">
+  </cell>
+  <cell col="9" row="4" text="0.827">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Fitness level is differentiated into 3 types." type="entailed">
+  </statement>
+  <statement id="1" text="The OR value for all the Models is 1 in low level." type="entailed">
+  </statement>
+  <statement id="2" text="The highest p value in model 3 is 0.827." type="entailed">
+  </statement>
+  <statement id="3" text="Fitness level is differentiated into 5 types." type="refuted">
+  </statement>
+  <statement id="5" text="In partly-adjusted models, compared to those with low CRF, those with high CRF had 0.83 (95% CI = 0.730.95)" type="entailed">
+  </statement>
+ </statements>
+</Table 3>
+<Supplementary Table 1>
+ <caption text="
+
+   Associations of exercise frequency (last 30 days) with frequent symptoms of depression/anxiety (n = 18,429)
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Exercise frequency">
+  </cell>
+  <cell col="1" row="0" text="Crude Model">
+  </cell>
+  <cell col="4" row="0" text="Model 2">
+  </cell>
+  <cell col="7" row="0" text="Model 3">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="OR">
+  </cell>
+  <cell col="2" row="1" text="95% CI">
+  </cell>
+  <cell col="3" row="1" text="p">
+  </cell>
+  <cell col="4" row="1" text="OR">
+  </cell>
+  <cell col="5" row="1" text="95% CI">
+  </cell>
+  <cell col="6" row="1" text="p">
+  </cell>
+  <cell col="7" row="1" text="OR">
+  </cell>
+  <cell col="8" row="1" text="95% CI">
+  </cell>
+  <cell col="9" row="1" text="p">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Never/Sometimes">
+  </cell>
+  <cell col="1" row="2" text="1">
+  </cell>
+  <cell col="2" row="2" text="-">
+  </cell>
+  <cell col="3" row="2" text="-">
+  </cell>
+  <cell col="4" row="2" text="1">
+  </cell>
+  <cell col="5" row="2" text="-">
+  </cell>
+  <cell col="6" row="2" text="-">
+  </cell>
+  <cell col="7" row="2" text="1">
+  </cell>
+  <cell col="8" row="2" text="-">
+  </cell>
+  <cell col="9" row="2" text="-">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="1-2 times/week">
+  </cell>
+  <cell col="1" row="3" text="0.66">
+  </cell>
+  <cell col="2" row="3" text="0.61–0.71">
+  </cell>
+  <cell col="3" row="3" text="&lt;0.001">
+  </cell>
+  <cell col="4" row="3" text="0.66">
+  </cell>
+  <cell col="5" row="3" text="0.58–0.76">
+  </cell>
+  <cell col="6" row="3" text="&lt;0.001">
+  </cell>
+  <cell col="7" row="3" text="0.73">
+  </cell>
+  <cell col="8" row="3" text="0.64–0.81">
+  </cell>
+  <cell col="9" row="3" text="&lt;0.001">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="≥3 times/week">
+  </cell>
+  <cell col="1" row="4" text="0.56">
+  </cell>
+  <cell col="2" row="4" text="0.52–0.60">
+  </cell>
+  <cell col="3" row="4" text="&lt;0.001">
+  </cell>
+  <cell col="4" row="4" text="0.58">
+  </cell>
+  <cell col="5" row="4" text="0.51–0.66">
+  </cell>
+  <cell col="6" row="4" text="&lt;0.001">
+  </cell>
+  <cell col="7" row="4" text="0.74">
+  </cell>
+  <cell col="8" row="4" text="0.66–0.83">
+  </cell>
+  <cell col="9" row="4" text="&lt;0.001">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Sometimes the frequency exercise in Crude Model OR is 1." type="entailed">
+  </statement>
+  <statement id="1" text="1-2 times/ week frequency exercise in Model 2 OR is 0.66." type="entailed">
+  </statement>
+  <statement id="2" text="3 times/week frequency exercise in Model 3 OR is 0.74." type="entailed">
+  </statement>
+  <statement id="3" text="p value of all Model is &lt;0.0001." type="entailed">
+  </statement>
+  <statement id="10" text="Differences between participants with and without the Education variable are shown in Supplementary Table 3 ." type="entailed">
+  </statement>
+ </statements>
+</Supplementary Table 1>
+<Table 2>
+ <caption text="
+
+   Associations of exercise frequency (last 30 days) with frequent symptoms of depression/anxiety (n = 36,595).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Exercise frequency">
+  </cell>
+  <cell col="1" row="0" text="Crude Model">
+  </cell>
+  <cell col="4" row="0" text="Model 2">
+  </cell>
+  <cell col="7" row="0" text="Model 3">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="OR">
+  </cell>
+  <cell col="2" row="1" text="95% CI">
+  </cell>
+  <cell col="3" row="1" text="p">
+  </cell>
+  <cell col="4" row="1" text="OR">
+  </cell>
+  <cell col="5" row="1" text="95% CI">
+  </cell>
+  <cell col="6" row="1" text="p">
+  </cell>
+  <cell col="7" row="1" text="OR">
+  </cell>
+  <cell col="8" row="1" text="95% CI">
+  </cell>
+  <cell col="9" row="1" text="p">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Never/Sometimes">
+  </cell>
+  <cell col="1" row="2" text="1">
+  </cell>
+  <cell col="2" row="2" text="-">
+  </cell>
+  <cell col="3" row="2" text="-">
+  </cell>
+  <cell col="4" row="2" text="1">
+  </cell>
+  <cell col="5" row="2" text="-">
+  </cell>
+  <cell col="6" row="2" text="-">
+  </cell>
+  <cell col="7" row="2" text="1">
+  </cell>
+  <cell col="8" row="2" text="-">
+  </cell>
+  <cell col="9" row="2" text="-">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="1-2 times/week">
+  </cell>
+  <cell col="1" row="3" text="0.67">
+  </cell>
+  <cell col="2" row="3" text="0.62–0.74">
+  </cell>
+  <cell col="3" row="3" text="&lt;0.001">
+  </cell>
+  <cell col="4" row="3" text="0.69">
+  </cell>
+  <cell col="5" row="3" text="0.63–0.76">
+  </cell>
+  <cell col="6" row="3" text="&lt;0.001">
+  </cell>
+  <cell col="7" row="3" text="0.75">
+  </cell>
+  <cell col="8" row="3" text="0.68–0.82">
+  </cell>
+  <cell col="9" row="3" text="&lt;0.001">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="≥3 times/week">
+  </cell>
+  <cell col="1" row="4" text="0.56">
+  </cell>
+  <cell col="2" row="4" text="0.52–0.62">
+  </cell>
+  <cell col="3" row="4" text="&lt;0.001">
+  </cell>
+  <cell col="4" row="4" text="0.59">
+  </cell>
+  <cell col="5" row="4" text="0.53–0.64">
+  </cell>
+  <cell col="6" row="4" text="&lt;0.001">
+  </cell>
+  <cell col="7" row="4" text="0.72">
+  </cell>
+  <cell col="8" row="4" text="0.65–0.79">
+  </cell>
+  <cell col="9" row="4" text="&lt;0.001">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="&lt;0.001 p Model 3 for 3 times/week." type="entailed">
+  </statement>
+  <statement id="7" text="The mean weekly frequency of exercise (total and within each of the three exercise categories) did not differ significantly between males and females." type="entailed">
+  </statement>
+ </statements>
+</Table 2>

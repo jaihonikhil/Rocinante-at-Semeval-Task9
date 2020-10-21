@@ -1,0 +1,526 @@
+<Table 3>
+ <caption text="
+
+   Seasonal aspects of CH monuments’ exposure.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Code">
+  </cell>
+  <cell col="1" row="0" text="Seasonal maximum">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="Columnar">
+  </cell>
+  <cell col="2" row="1" text="Near surface">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="1MR">
+  </cell>
+  <cell col="1" row="2" text="SPR-SUM">
+  </cell>
+  <cell col="2" row="2" text="ALL">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="2AV">
+  </cell>
+  <cell col="1" row="3" text="SUM">
+  </cell>
+  <cell col="2" row="3" text="SUM*">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="3FL">
+  </cell>
+  <cell col="1" row="4" text="SUM">
+  </cell>
+  <cell col="2" row="4" text="ALL*">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="4WT">
+  </cell>
+  <cell col="1" row="5" text="SUM">
+  </cell>
+  <cell col="2" row="5" text="WIN">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="5VR">
+  </cell>
+  <cell col="1" row="6" text="SUM">
+  </cell>
+  <cell col="2" row="6" text="WIN">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="6LS">
+  </cell>
+  <cell col="1" row="7" text="SUM">
+  </cell>
+  <cell col="2" row="7" text="WIN">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="7DD">
+  </cell>
+  <cell col="1" row="8" text="SPR-SUM">
+  </cell>
+  <cell col="2" row="8" text="SPR-SUM-AUT">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="8NC">
+  </cell>
+  <cell col="1" row="9" text="SPR">
+  </cell>
+  <cell col="2" row="9" text="SPR-SUM-AUT">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="9MS">
+  </cell>
+  <cell col="1" row="10" text="SPR">
+  </cell>
+  <cell col="2" row="10" text="ALL">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="10PL">
+  </cell>
+  <cell col="1" row="11" text="SPR">
+  </cell>
+  <cell col="2" row="11" text="WIN">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="11DE">
+  </cell>
+  <cell col="1" row="12" text="SPR-SUM">
+  </cell>
+  <cell col="2" row="12" text="ALL*">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="12AC">
+  </cell>
+  <cell col="1" row="13" text="SPR">
+  </cell>
+  <cell col="2" row="13" text="WIN">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="13MC">
+  </cell>
+  <cell col="1" row="14" text="SPR-SUM">
+  </cell>
+  <cell col="2" row="14" text="WIN*">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="14OL">
+  </cell>
+  <cell col="1" row="15" text="SPR">
+  </cell>
+  <cell col="2" row="15" text="WIN">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="15IR">
+  </cell>
+  <cell col="1" row="16" text="SPR">
+  </cell>
+  <cell col="2" row="16" text="WIN">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="16ME">
+  </cell>
+  <cell col="1" row="17" text="SPR">
+  </cell>
+  <cell col="2" row="17" text="WIN">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="17DL">
+  </cell>
+  <cell col="1" row="18" text="SPR">
+  </cell>
+  <cell col="2" row="18" text="WIN-AUT">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="18ST">
+  </cell>
+  <cell col="1" row="19" text="SPR">
+  </cell>
+  <cell col="2" row="19" text="WIN">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="19RH">
+  </cell>
+  <cell col="1" row="20" text="SPR-SUM">
+  </cell>
+  <cell col="2" row="20" text="AUT">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="20FS">
+  </cell>
+  <cell col="1" row="21" text="SPR">
+  </cell>
+  <cell col="2" row="21" text="WIN-AUT">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="21KN">
+  </cell>
+  <cell col="1" row="22" text="SPR">
+  </cell>
+  <cell col="2" row="22" text="WIN">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="There are five SPR-SUM under Columnar." type="">
+  </statement>
+  <statement id="2" text="there are 18 WIN under Near surface" type="">
+  </statement>
+  <statement id="3" text="There are 41 unique code." type="">
+  </statement>
+  <statement id="5" text="This near surface difference is less pronounced at non-urban sites." type="">
+  </statement>
+  <statement id="6" text="With respect to the SPR_MAX cluster, the spring columnar values appear larger (e.g. Fig. 5 b), not necessarily being the case near the surface, where in most of the cases (see Table 3 )" type="">
+  </statement>
+  <statement id="8" text="Finally, the SPR-SUM_MAX cluster is characterized by similar profiles in spring and summer, in most cases there is no seasonal pattern near the surface and spiky profiles are indicative of the different type of high load events, at several heights." type="">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Basic statistics of AOD observations for all the archaeological sites of interest (monthly average values for the time period 2002–2016).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Avg">
+  </cell>
+  <cell col="2" row="0" text="Stdev">
+  </cell>
+  <cell col="3" row="0" text="Min">
+  </cell>
+  <cell col="4" row="0" text="Max">
+  </cell>
+  <cell col="5" row="0" text="Median">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1MR">
+  </cell>
+  <cell col="1" row="1" text="0.217">
+  </cell>
+  <cell col="2" row="1" text="0.058">
+  </cell>
+  <cell col="3" row="1" text="0.095">
+  </cell>
+  <cell col="4" row="1" text="0.410">
+  </cell>
+  <cell col="5" row="1" text="0.219">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2AV">
+  </cell>
+  <cell col="1" row="2" text="0.216">
+  </cell>
+  <cell col="2" row="2" text="0.062">
+  </cell>
+  <cell col="3" row="2" text="0.087">
+  </cell>
+  <cell col="4" row="2" text="0.368">
+  </cell>
+  <cell col="5" row="2" text="0.216">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3FL">
+  </cell>
+  <cell col="1" row="3" text="0.174">
+  </cell>
+  <cell col="2" row="3" text="0.088">
+  </cell>
+  <cell col="3" row="3" text="0.038">
+  </cell>
+  <cell col="4" row="3" text="0.434">
+  </cell>
+  <cell col="5" row="3" text="0.161">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4WT">
+  </cell>
+  <cell col="1" row="4" text="0.247">
+  </cell>
+  <cell col="2" row="4" text="0.088">
+  </cell>
+  <cell col="3" row="4" text="0.069">
+  </cell>
+  <cell col="4" row="4" text="0.453">
+  </cell>
+  <cell col="5" row="4" text="0.239">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="5VR">
+  </cell>
+  <cell col="1" row="5" text="0.219">
+  </cell>
+  <cell col="2" row="5" text="0.086">
+  </cell>
+  <cell col="3" row="5" text="0.060">
+  </cell>
+  <cell col="4" row="5" text="0.410">
+  </cell>
+  <cell col="5" row="5" text="0.218">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="6LS">
+  </cell>
+  <cell col="1" row="6" text="0.185">
+  </cell>
+  <cell col="2" row="6" text="0.079">
+  </cell>
+  <cell col="3" row="6" text="0.039">
+  </cell>
+  <cell col="4" row="6" text="0.378">
+  </cell>
+  <cell col="5" row="6" text="0.186">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="7DD">
+  </cell>
+  <cell col="1" row="7" text="0.205">
+  </cell>
+  <cell col="2" row="7" text="0.082">
+  </cell>
+  <cell col="3" row="7" text="0.064">
+  </cell>
+  <cell col="4" row="7" text="0.396">
+  </cell>
+  <cell col="5" row="7" text="0.203">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="8NC">
+  </cell>
+  <cell col="1" row="8" text="0.187">
+  </cell>
+  <cell col="2" row="8" text="0.072">
+  </cell>
+  <cell col="3" row="8" text="0.062">
+  </cell>
+  <cell col="4" row="8" text="0.372">
+  </cell>
+  <cell col="5" row="8" text="0.180">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="9MS">
+  </cell>
+  <cell col="1" row="9" text="0.200">
+  </cell>
+  <cell col="2" row="9" text="0.052">
+  </cell>
+  <cell col="3" row="9" text="0.105">
+  </cell>
+  <cell col="4" row="9" text="0.332">
+  </cell>
+  <cell col="5" row="9" text="0.197">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="10PL">
+  </cell>
+  <cell col="1" row="10" text="0.204">
+  </cell>
+  <cell col="2" row="10" text="0.057">
+  </cell>
+  <cell col="3" row="10" text="0.094">
+  </cell>
+  <cell col="4" row="10" text="0.347">
+  </cell>
+  <cell col="5" row="10" text="0.206">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="11DE">
+  </cell>
+  <cell col="1" row="11" text="0.186">
+  </cell>
+  <cell col="2" row="11" text="0.071">
+  </cell>
+  <cell col="3" row="11" text="0.055">
+  </cell>
+  <cell col="4" row="11" text="0.346">
+  </cell>
+  <cell col="5" row="11" text="0.186">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="12AC">
+  </cell>
+  <cell col="1" row="12" text="0.201">
+  </cell>
+  <cell col="2" row="12" text="0.054">
+  </cell>
+  <cell col="3" row="12" text="0.088">
+  </cell>
+  <cell col="4" row="12" text="0.333">
+  </cell>
+  <cell col="5" row="12" text="0.206">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="13MC">
+  </cell>
+  <cell col="1" row="13" text="0.180">
+  </cell>
+  <cell col="2" row="13" text="0.056">
+  </cell>
+  <cell col="3" row="13" text="0.072">
+  </cell>
+  <cell col="4" row="13" text="0.333">
+  </cell>
+  <cell col="5" row="13" text="0.178">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="14OL">
+  </cell>
+  <cell col="1" row="14" text="0.199">
+  </cell>
+  <cell col="2" row="14" text="0.055">
+  </cell>
+  <cell col="3" row="14" text="0.092">
+  </cell>
+  <cell col="4" row="14" text="0.331">
+  </cell>
+  <cell col="5" row="14" text="0.197">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="15IR">
+  </cell>
+  <cell col="1" row="15" text="0.198">
+  </cell>
+  <cell col="2" row="15" text="0.047">
+  </cell>
+  <cell col="3" row="15" text="0.100">
+  </cell>
+  <cell col="4" row="15" text="0.342">
+  </cell>
+  <cell col="5" row="15" text="0.196">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="16ME">
+  </cell>
+  <cell col="1" row="16" text="0.190">
+  </cell>
+  <cell col="2" row="16" text="0.058">
+  </cell>
+  <cell col="3" row="16" text="0.077">
+  </cell>
+  <cell col="4" row="16" text="0.350">
+  </cell>
+  <cell col="5" row="16" text="0.189">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="17DL">
+  </cell>
+  <cell col="1" row="17" text="0.191">
+  </cell>
+  <cell col="2" row="17" text="0.048">
+  </cell>
+  <cell col="3" row="17" text="0.099">
+  </cell>
+  <cell col="4" row="17" text="0.373">
+  </cell>
+  <cell col="5" row="17" text="0.183">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="18ST">
+  </cell>
+  <cell col="1" row="18" text="0.187">
+  </cell>
+  <cell col="2" row="18" text="0.046">
+  </cell>
+  <cell col="3" row="18" text="0.097">
+  </cell>
+  <cell col="4" row="18" text="0.326">
+  </cell>
+  <cell col="5" row="18" text="0.183">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="19RH">
+  </cell>
+  <cell col="1" row="19" text="0.203">
+  </cell>
+  <cell col="2" row="19" text="0.056">
+  </cell>
+  <cell col="3" row="19" text="0.090">
+  </cell>
+  <cell col="4" row="19" text="0.353">
+  </cell>
+  <cell col="5" row="19" text="0.207">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="20FS">
+  </cell>
+  <cell col="1" row="20" text="0.204">
+  </cell>
+  <cell col="2" row="20" text="0.053">
+  </cell>
+  <cell col="3" row="20" text="0.109">
+  </cell>
+  <cell col="4" row="20" text="0.376">
+  </cell>
+  <cell col="5" row="20" text="0.204">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="21KN">
+  </cell>
+  <cell col="1" row="21" text="0.200">
+  </cell>
+  <cell col="2" row="21" text="0.049">
+  </cell>
+  <cell col="3" row="21" text="0.095">
+  </cell>
+  <cell col="4" row="21" text="0.314">
+  </cell>
+  <cell col="5" row="21" text="0.200">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="The lowest Min values is 0.094." type="">
+  </statement>
+  <statement id="2" text="The lowest Max values is 0.333." type="">
+  </statement>
+ </statements>
+</Table 2>

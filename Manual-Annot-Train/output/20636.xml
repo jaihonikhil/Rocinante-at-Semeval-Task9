@@ -1,0 +1,399 @@
+<Table 2>
+ <caption text="
+
+   Five welding studies and their corresponding surface configurations and weld path.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Welding study">
+  </cell>
+  <cell col="1" row="0" text="Surface configuration">
+  </cell>
+  <cell col="2" row="0" text="Weld path">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="#1">
+  </cell>
+  <cell col="1" row="1" text="Coated">
+  </cell>
+  <cell col="2" row="1" text="Spiral">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="#2">
+  </cell>
+  <cell col="1" row="2" text="Outside-uncoated">
+  </cell>
+  <cell col="2" row="2" text="Spiral">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="#3">
+  </cell>
+  <cell col="1" row="3" text="Inside-uncoated">
+  </cell>
+  <cell col="2" row="3" text="Spiral">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="#4">
+  </cell>
+  <cell col="1" row="4" text="All-uncoated">
+  </cell>
+  <cell col="2" row="4" text="Spiral">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="#5">
+  </cell>
+  <cell col="1" row="5" text="Coated">
+  </cell>
+  <cell col="2" row="5" text="Spiral followed by annular stirring">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="Welding study includes Surface configuration &amp; Weld path." type="refuted">
+  </statement>
+  <statement id="4" text="The Study #5 has Spiral followed by annular stirring." type="entailed">
+  </statement>
+ </statements>
+</Table 2>
+<Table 1>
+ <caption text="
+
+   Nominal chemical composition of PHS (wt%).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="C">
+  </cell>
+  <cell col="1" row="0" text="Mn">
+  </cell>
+  <cell col="2" row="0" text="Si">
+  </cell>
+  <cell col="3" row="0" text="Cr">
+  </cell>
+  <cell col="4" row="0" text="Ti">
+  </cell>
+  <cell col="5" row="0" text="B">
+  </cell>
+  <cell col="6" row="0" text="Al">
+  </cell>
+  <cell col="7" row="0" text="Fe">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="0.23">
+  </cell>
+  <cell col="1" row="1" text="1.20">
+  </cell>
+  <cell col="2" row="1" text="0.27">
+  </cell>
+  <cell col="3" row="1" text="0.18">
+  </cell>
+  <cell col="4" row="1" text="0.036">
+  </cell>
+  <cell col="5" row="1" text="0.0025">
+  </cell>
+  <cell col="6" row="1" text="0.04">
+  </cell>
+  <cell col="7" row="1" text="Bal.">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are eight chemical composition in the table." type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   Material properties of PHS steel.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Density (kg/m
+     
+      3
+     
+     )">
+  </cell>
+  <cell col="1" row="0" text="7900 (1783 K)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Viscosity (Pa·s)">
+  </cell>
+  <cell col="1" row="1" text="0.0056 (1783 K)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Specific heat (J/kg/K)">
+  </cell>
+  <cell col="1" row="2" text="452 (1783 K)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Surface tension (kg/s
+     
+      2
+     
+     )">
+  </cell>
+  <cell col="1" row="3" text="1.7 (1783 K)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Thermal conductivity (W/m
+     
+      2
+     
+     /K)">
+  </cell>
+  <cell col="1" row="4" text="26.2 (1783 K)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Solidus (K)">
+  </cell>
+  <cell col="1" row="5" text="1773">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Liquidus (K)">
+  </cell>
+  <cell col="1" row="6" text="1783">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Boiling point (K)">
+  </cell>
+  <cell col="1" row="7" text="3133">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Vapor specific heat (J/kg/K)">
+  </cell>
+  <cell col="1" row="8" text="225">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Latent heat of fusion (J/kg)">
+  </cell>
+  <cell col="1" row="9" text="272">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Latent heat of vaporization (J/kg)">
+  </cell>
+  <cell col="1" row="10" text="6250">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are eleven material properties of PH steel is given." type="entailed">
+  </statement>
+  <statement id="1" text="Only density is measured in cubic metre." type="entailed">
+  </statement>
+  <statement id="2" text="Material property Solidus and Liquidus has constant number of kelvins." type="refuted">
+  </statement>
+  <statement id="5" text="Boiling point is zero of PH steel." type="refuted">
+  </statement>
+ </statements>
+</Table 3>
+<Table 6>
+ <caption text="
+
+   Calculated values of Cr
+   
+    eq
+   
+   /Ni
+   
+    eq
+   
+   and solidification modes for coated, outside-uncoated, inside-uncoated and all-uncoated welds. FA denotes Ferritic-Austenitic mode, and A denotes Austenitic mode.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Weld/region No.">
+  </cell>
+  <cell col="1" row="0" text="Cr
+     
+      eq
+     
+     /Ni
+     
+      eq">
+  </cell>
+  <cell col="2" row="0" text="Solidification mode">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Coated/I">
+  </cell>
+  <cell col="1" row="1" text="1.92">
+  </cell>
+  <cell col="2" row="1" text="FA">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Coated/II">
+  </cell>
+  <cell col="1" row="2" text="1.65">
+  </cell>
+  <cell col="2" row="2" text="FA">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Outside-uncoated/I">
+  </cell>
+  <cell col="1" row="3" text="0.91">
+  </cell>
+  <cell col="2" row="3" text="A">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Outside-uncoated/II">
+  </cell>
+  <cell col="1" row="4" text="0.88">
+  </cell>
+  <cell col="2" row="4" text="A">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Inside-uncoated/I">
+  </cell>
+  <cell col="1" row="5" text="0.88">
+  </cell>
+  <cell col="2" row="5" text="A">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Inside-uncoated/II">
+  </cell>
+  <cell col="1" row="6" text="0.74">
+  </cell>
+  <cell col="2" row="6" text="A">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="All-uncoated/I">
+  </cell>
+  <cell col="1" row="7" text="0.09">
+  </cell>
+  <cell col="2" row="7" text="A">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="All-uncoated/II">
+  </cell>
+  <cell col="1" row="8" text="0.08">
+  </cell>
+  <cell col="2" row="8" text="A">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Weld/region No. Coated/I Cr eq /Ni eq is 1.92." type="entailed">
+  </statement>
+  <statement id="1" text="Solidification mode A is same for Outside-uncoated/I,Outside-uncoated/II,Inside-uncoated/I ,Inside-uncoated/II,All-uncoated/I,All-uncoated/II." type="entailed">
+  </statement>
+  <statement id="2" text="0.91 Cr eq /Ni eq Weld/region No. is Outside-uncoated/I." type="entailed">
+  </statement>
+  <statement id="5" text="All-uncoated/II Weld/region No. Cr eq /Ni eq is 0.09 ." type="refuted">
+  </statement>
+ </statements>
+</Table 6>
+<Table 5>
+ <caption text="
+
+   EDS analysis at Points 1–5 in
+   (at.%).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Point">
+  </cell>
+  <cell col="1" row="0" text="Al">
+  </cell>
+  <cell col="2" row="0" text="Fe">
+  </cell>
+  <cell col="3" row="0" text="O">
+  </cell>
+  <cell col="4" row="0" text="Ti">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1">
+  </cell>
+  <cell col="1" row="1" text="39.11">
+  </cell>
+  <cell col="2" row="1" text="0">
+  </cell>
+  <cell col="3" row="1" text="60.89">
+  </cell>
+  <cell col="4" row="1" text="0">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2">
+  </cell>
+  <cell col="1" row="2" text="41.26">
+  </cell>
+  <cell col="2" row="2" text="0">
+  </cell>
+  <cell col="3" row="2" text="58.74">
+  </cell>
+  <cell col="4" row="2" text="0">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3">
+  </cell>
+  <cell col="1" row="3" text="38.35">
+  </cell>
+  <cell col="2" row="3" text="0">
+  </cell>
+  <cell col="3" row="3" text="61.65">
+  </cell>
+  <cell col="4" row="3" text="0">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4">
+  </cell>
+  <cell col="1" row="4" text="0">
+  </cell>
+  <cell col="2" row="4" text="42.93">
+  </cell>
+  <cell col="3" row="4" text="57.07">
+  </cell>
+  <cell col="4" row="4" text="0">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="5">
+  </cell>
+  <cell col="1" row="5" text="9.50">
+  </cell>
+  <cell col="2" row="5" text="67.93">
+  </cell>
+  <cell col="3" row="5" text="15.07">
+  </cell>
+  <cell col="4" row="5" text="5.23">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Point 5 is 67.93 Fe." type="entailed">
+  </statement>
+  <statement id="1" text="57.07 O Point is 4." type="entailed">
+  </statement>
+  <statement id="6" text="The above SEM and EDS results, presented in Fig. 8 and Table 5 , confirms the grey film floating on top of the molten pools in the previous high-speed observations to be Al 2 O 3 ." type="entailed">
+  </statement>
+ </statements>
+</Table 5>

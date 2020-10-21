@@ -1,0 +1,460 @@
+<Table 1>
+ <caption text="
+
+   Demographics, risk factors and lesion characteristics by group.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="HC (
+     
+      n
+     
+     = 16)">
+  </cell>
+  <cell col="2" row="0" text="D+ (
+     
+      n
+     
+     = 12)">
+  </cell>
+  <cell col="3" row="0" text="D− (
+     
+      n
+     
+     = 34)">
+  </cell>
+  <cell col="4" row="0" text="">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Variable">
+  </cell>
+  <cell col="1" row="1" text="Mean (
+     
+      SD
+     
+     )/category">
+  </cell>
+  <cell col="2" row="1" text="Mean (
+     
+      SD
+     
+     )/category">
+  </cell>
+  <cell col="3" row="1" text="Mean (
+     
+      SD
+     
+     )/category">
+  </cell>
+  <cell col="4" row="1" text="Group comparisons">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Demographics">
+  </cell>
+  <cell col="1" row="2" text="">
+  </cell>
+  <cell col="2" row="2" text="">
+  </cell>
+  <cell col="3" row="2" text="">
+  </cell>
+  <cell col="4" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Age (years)">
+  </cell>
+  <cell col="1" row="3" text="71.53 (10.62)">
+  </cell>
+  <cell col="2" row="3" text="69.72 (6.96)">
+  </cell>
+  <cell col="3" row="3" text="69.46 (9.13)">
+  </cell>
+  <cell col="4" row="3" text="F
+     
+     (2,59) = 0.29,
+     
+      p
+     
+     = 0.75">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Sex (female/male)">
+  </cell>
+  <cell col="1" row="4" text="11/5">
+  </cell>
+  <cell col="2" row="4" text="3/9">
+  </cell>
+  <cell col="3" row="4" text="9/25">
+  </cell>
+  <cell col="4" row="4" text="χ
+      
+       2
+      
+
+     (2) = 9.27,
+     
+      p
+     
+     = 0.01">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Handedness (right/left)">
+  </cell>
+  <cell col="1" row="5" text="16/0">
+  </cell>
+  <cell col="2" row="5" text="11/1">
+  </cell>
+  <cell col="3" row="5" text="33/1">
+  </cell>
+  <cell col="4" row="5" text="χ
+      
+       2
+      
+
+     (2) = 1.55,
+     
+      p
+     
+     = 0.47">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Vascular risk factors">
+  </cell>
+  <cell col="1" row="6" text="">
+  </cell>
+  <cell col="2" row="6" text="">
+  </cell>
+  <cell col="3" row="6" text="">
+  </cell>
+  <cell col="4" row="6" text="">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="ECG (normal/sinus rhythm/atrial fibrillation)">
+  </cell>
+  <cell col="1" row="7" text="n/a">
+  </cell>
+  <cell col="2" row="7" text="1/10/1">
+  </cell>
+  <cell col="3" row="7" text="1/23/10">
+  </cell>
+  <cell col="4" row="7" text="χ
+      
+       2
+      
+
+     (2) = 2.55,
+     
+      p
+     
+     = 0.28">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Hypertension (no/yes
+     
+      a
+     
+     /yes
+     
+      b
+     
+     )">
+  </cell>
+  <cell col="1" row="8" text="n/a">
+  </cell>
+  <cell col="2" row="8" text="5/7/0">
+  </cell>
+  <cell col="3" row="8" text="15/15/4">
+  </cell>
+  <cell col="4" row="8" text="χ
+      
+       2
+      
+
+     (2) = 1.8,
+     
+      p
+     
+     = 0.41">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Diabetes mellitus (no/yes
+     
+      c
+     
+     /yes
+     
+      d
+     
+     /yes
+     
+      e
+     
+     /yes
+     
+      f
+     
+     )">
+  </cell>
+  <cell col="1" row="9" text="n/a">
+  </cell>
+  <cell col="2" row="9" text="10/0/1/1">
+  </cell>
+  <cell col="3" row="9" text="28/3/3/0">
+  </cell>
+  <cell col="4" row="9" text="χ
+      
+       2
+      
+
+     (3) = 3.9,
+     
+      p
+     
+     = 0.27">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Smoking (never/previously/current)">
+  </cell>
+  <cell col="1" row="10" text="n/a">
+  </cell>
+  <cell col="2" row="10" text="5/6/1">
+  </cell>
+  <cell col="3" row="10" text="19/10/5">
+  </cell>
+  <cell col="4" row="10" text="χ
+      
+       2
+      
+
+     (2) = 1.7,
+     
+      p
+     
+     = 0.43">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Ischemic heart disease (no/yes)">
+  </cell>
+  <cell col="1" row="11" text="n/a">
+  </cell>
+  <cell col="2" row="11" text="10/2">
+  </cell>
+  <cell col="3" row="11" text="27/7">
+  </cell>
+  <cell col="4" row="11" text="χ
+      
+       2
+      
+
+     (1) = 0.09,
+     
+      p
+     
+     = 0.77">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Statins (no/yes
+     
+      g
+     
+     /yes
+     
+      h
+     
+     )">
+  </cell>
+  <cell col="1" row="12" text="n/a">
+  </cell>
+  <cell col="2" row="12" text="1/7/4">
+  </cell>
+  <cell col="3" row="12" text="2/21/11">
+  </cell>
+  <cell col="4" row="12" text="χ
+      
+       2
+      
+
+     (2) = 0.1,
+     
+      p
+     
+     = 0.95">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Vascular disease">
+  </cell>
+  <cell col="1" row="13" text="">
+  </cell>
+  <cell col="2" row="13" text="">
+  </cell>
+  <cell col="3" row="13" text="">
+  </cell>
+  <cell col="4" row="13" text="">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Small vessel disease (no/yes)">
+  </cell>
+  <cell col="1" row="14" text="n/a">
+  </cell>
+  <cell col="2" row="14" text="7/5">
+  </cell>
+  <cell col="3" row="14" text="22/12">
+  </cell>
+  <cell col="4" row="14" text="χ
+      
+       2
+      
+
+     (1) = 0.16,
+     
+      p
+     
+     = 0.69">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="WMH (Fazekas: 0/1/2/3)
+     
+      i">
+  </cell>
+  <cell col="1" row="15" text="n/a">
+  </cell>
+  <cell col="2" row="15" text="0/6/5/1">
+  </cell>
+  <cell col="3" row="15" text="0/14/13/7">
+  </cell>
+  <cell col="4" row="15" text="χ
+      
+       2
+      
+
+     (3) = 0.95,
+     
+      p
+     
+     = 0.62">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="Lesion characteristics">
+  </cell>
+  <cell col="1" row="16" text="">
+  </cell>
+  <cell col="2" row="16" text="">
+  </cell>
+  <cell col="3" row="16" text="">
+  </cell>
+  <cell col="4" row="16" text="">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="Hemisphere (left/right)">
+  </cell>
+  <cell col="1" row="17" text="">
+  </cell>
+  <cell col="2" row="17" text="5/7">
+  </cell>
+  <cell col="3" row="17" text="19/15">
+  </cell>
+  <cell col="4" row="17" text="χ
+      
+       2
+      
+
+     (1) = 0.72,
+     
+      p
+     
+     = 0.4">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="Arterial territory (MCA
+     
+      ant
+     
+     /MCA
+     
+      pos
+     
+     /MCA
+     
+      str
+     
+     /PCA/lacunar/thalamic)">
+  </cell>
+  <cell col="1" row="18" text="">
+  </cell>
+  <cell col="2" row="18" text="2/3/3/2/1/1">
+  </cell>
+  <cell col="3" row="18" text="7/7/5/8/5/2">
+  </cell>
+  <cell col="4" row="18" text="χ
+      
+       2
+      
+
+     (5) = 1.24,
+     
+      p
+     
+     = 0.94">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="Volume (ml)">
+  </cell>
+  <cell col="1" row="19" text="">
+  </cell>
+  <cell col="2" row="19" text="7175.64 (12081.03)">
+  </cell>
+  <cell col="3" row="19" text="7947.09 (11917.81)">
+  </cell>
+  <cell col="4" row="19" text="t
+     
+     (44) = 0.73,
+     
+      p
+     
+     = 0.47">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="Time since lesion (days)">
+  </cell>
+  <cell col="1" row="20" text="">
+  </cell>
+  <cell col="2" row="20" text="68.17 (13.39)">
+  </cell>
+  <cell col="3" row="20" text="79.88 (54.63)">
+  </cell>
+  <cell col="4" row="20" text="t
+     
+     (44) = 0.19,
+     
+      p
+     
+     = 0.85">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Vascular risk factors and Vascular disease do not have HC Mean ." type="">
+  </statement>
+ </statements>
+</Table 1>

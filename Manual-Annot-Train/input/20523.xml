@@ -1,0 +1,76 @@
+<Table 1>
+ <caption text="
+
+   Composition of the φ and
+   
+    n
+   
+   phases of the unetched sample, determined by EDS.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="φ phase">
+  </cell>
+  <cell col="1" row="0" text="at. %">
+  </cell>
+  <cell col="2" row="0" text="st. dev. (%)">
+  </cell>
+  <cell col="3" row="0" text="n
+     
+     phase">
+  </cell>
+  <cell col="4" row="0" text="at. %">
+  </cell>
+  <cell col="5" row="0" text="st. dev. (%)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="O">
+  </cell>
+  <cell col="1" row="1" text="4.2">
+  </cell>
+  <cell col="2" row="1" text="6.1">
+  </cell>
+  <cell col="3" row="1" text="O">
+  </cell>
+  <cell col="4" row="1" text="23.3">
+  </cell>
+  <cell col="5" row="1" text="27.5">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Fe">
+  </cell>
+  <cell col="1" row="2" text="86.9">
+  </cell>
+  <cell col="2" row="2" text="0.5">
+  </cell>
+  <cell col="3" row="2" text="Nd">
+  </cell>
+  <cell col="4" row="2" text="61.9">
+  </cell>
+  <cell col="5" row="2" text="8.4">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Nd">
+  </cell>
+  <cell col="1" row="3" text="9.0">
+  </cell>
+  <cell col="2" row="3" text="3.2">
+  </cell>
+  <cell col="3" row="3" text="Dy">
+  </cell>
+  <cell col="4" row="3" text="14.9">
+  </cell>
+  <cell col="5" row="3" text="10.7">
+  </cell>
+ </row>
+ <statements>
+  <statement id="3" text="Sample O and Nd is present only in n phases." type="">
+  </statement>
+  <statement id="6" text="Sample Dy does not have standard deviation." type="">
+  </statement>
+ </statements>
+</Table 1>

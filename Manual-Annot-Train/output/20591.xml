@@ -1,0 +1,338 @@
+<Table 1>
+ <caption text="
+
+   Studies of willingness to pay for automated cars.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Study">
+  </cell>
+  <cell col="1" row="0" text="Country (N)">
+  </cell>
+  <cell col="2" row="0" text="Technology">
+  </cell>
+  <cell col="3" row="0" text="Percentage with willingness-to-pay = 0">
+  </cell>
+  <cell col="4" row="0" text="Subsample for willingness-to-pay">
+  </cell>
+  <cell col="5" row="0" text="Mean willingness-to-pay">
+  </cell>
+  <cell col="6" row="0" text="Median willingness-to-pay">
+  </cell>
+  <cell col="7" row="0" text="Possible to derive demand function">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="France (421)">
+  </cell>
+  <cell col="2" row="1" text="Fully automated">
+  </cell>
+  <cell col="3" row="1" text="22">
+  </cell>
+  <cell col="4" row="1" text="WTP &gt; 0">
+  </cell>
+  <cell col="5" row="1" text="EURO 1624">
+  </cell>
+  <cell col="6" row="1" text="No data">
+  </cell>
+  <cell col="7" row="1" text="No">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="">
+  </cell>
+  <cell col="1" row="2" text="Australia (505)">
+  </cell>
+  <cell col="2" row="2" text="SAE level 4">
+  </cell>
+  <cell col="3" row="2" text="55">
+  </cell>
+  <cell col="4" row="2" text="Full sample">
+  </cell>
+  <cell col="5" row="2" text="No data">
+  </cell>
+  <cell col="6" row="2" text="USD 0">
+  </cell>
+  <cell col="7" row="2" text="No">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="">
+  </cell>
+  <cell col="1" row="3" text="China (610)">
+  </cell>
+  <cell col="2" row="3" text="SAE level 4">
+  </cell>
+  <cell col="3" row="3" text="22">
+  </cell>
+  <cell col="4" row="3" text="Full sample">
+  </cell>
+  <cell col="5" row="3" text="No data">
+  </cell>
+  <cell col="6" row="3" text="USD 1600">
+  </cell>
+  <cell col="7" row="3" text="No">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="">
+  </cell>
+  <cell col="1" row="4" text="India (527)">
+  </cell>
+  <cell col="2" row="4" text="SAE level 4">
+  </cell>
+  <cell col="3" row="4" text="30">
+  </cell>
+  <cell col="4" row="4" text="Full sample">
+  </cell>
+  <cell col="5" row="4" text="No data">
+  </cell>
+  <cell col="6" row="4" text="USD 160">
+  </cell>
+  <cell col="7" row="4" text="No">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="">
+  </cell>
+  <cell col="1" row="5" text="Japan (585)">
+  </cell>
+  <cell col="2" row="5" text="SAE level 4">
+  </cell>
+  <cell col="3" row="5" text="68">
+  </cell>
+  <cell col="4" row="5" text="Full sample">
+  </cell>
+  <cell col="5" row="5" text="No data">
+  </cell>
+  <cell col="6" row="5" text="USD 0">
+  </cell>
+  <cell col="7" row="5" text="No">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="">
+  </cell>
+  <cell col="1" row="6" text="United Kingdom (501)">
+  </cell>
+  <cell col="2" row="6" text="SAE level 4">
+  </cell>
+  <cell col="3" row="6" text="60">
+  </cell>
+  <cell col="4" row="6" text="Full sample">
+  </cell>
+  <cell col="5" row="6" text="No data">
+  </cell>
+  <cell col="6" row="6" text="USD 0">
+  </cell>
+  <cell col="7" row="6" text="No">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="">
+  </cell>
+  <cell col="1" row="7" text="United States (527)">
+  </cell>
+  <cell col="2" row="7" text="SAE level 4">
+  </cell>
+  <cell col="3" row="7" text="55">
+  </cell>
+  <cell col="4" row="7" text="Full sample">
+  </cell>
+  <cell col="5" row="7" text="No data">
+  </cell>
+  <cell col="6" row="7" text="USD 0">
+  </cell>
+  <cell col="7" row="7" text="No">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="">
+  </cell>
+  <cell col="1" row="8" text="109 countries (4886)">
+  </cell>
+  <cell col="2" row="8" text="Fully automated">
+  </cell>
+  <cell col="3" row="8" text="22">
+  </cell>
+  <cell col="4" row="8" text="Full sample">
+  </cell>
+  <cell col="5" row="8" text="USD 6820">
+  </cell>
+  <cell col="6" row="8" text="USD 519">
+  </cell>
+  <cell col="7" row="8" text="Yes">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="">
+  </cell>
+  <cell col="1" row="9" text="South Korea (675)">
+  </cell>
+  <cell col="2" row="9" text="SAE level 3">
+  </cell>
+  <cell col="3" row="9" text="No data">
+  </cell>
+  <cell col="4" row="9" text="Full sample">
+  </cell>
+  <cell col="5" row="9" text="USD 3727">
+  </cell>
+  <cell col="6" row="9" text="No data">
+  </cell>
+  <cell col="7" row="9" text="No">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="">
+  </cell>
+  <cell col="1" row="10" text="United States (347)">
+  </cell>
+  <cell col="2" row="10" text="SAE level 4">
+  </cell>
+  <cell col="3" row="10" text="19 (see text)">
+  </cell>
+  <cell col="4" row="10" text="WTP &gt; 0">
+  </cell>
+  <cell col="5" row="10" text="USD 7253">
+  </cell>
+  <cell col="6" row="10" text="USD 2570">
+  </cell>
+  <cell col="7" row="10" text="Yes">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="">
+  </cell>
+  <cell col="1" row="11" text="United States (2167)">
+  </cell>
+  <cell col="2" row="11" text="SAE level 4">
+  </cell>
+  <cell col="3" row="11" text="59">
+  </cell>
+  <cell col="4" row="11" text="Full sample">
+  </cell>
+  <cell col="5" row="11" text="USD 5857">
+  </cell>
+  <cell col="6" row="11" text="USD 0">
+  </cell>
+  <cell col="7" row="11" text="Yes">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="">
+  </cell>
+  <cell col="1" row="12" text="United States (1260)">
+  </cell>
+  <cell col="2" row="12" text="Partial automation">
+  </cell>
+  <cell col="3" row="12" text="No data">
+  </cell>
+  <cell col="4" row="12" text="Full sample">
+  </cell>
+  <cell col="5" row="12" text="USD 3538">
+  </cell>
+  <cell col="6" row="12" text="No data">
+  </cell>
+  <cell col="7" row="12" text="No">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="">
+  </cell>
+  <cell col="1" row="13" text="United States (1260)">
+  </cell>
+  <cell col="2" row="13" text="Full automation">
+  </cell>
+  <cell col="3" row="13" text="No data">
+  </cell>
+  <cell col="4" row="13" text="Full sample">
+  </cell>
+  <cell col="5" row="13" text="USD 4917">
+  </cell>
+  <cell col="6" row="13" text="No data">
+  </cell>
+  <cell col="7" row="13" text="No">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="">
+  </cell>
+  <cell col="1" row="14" text="United States (1088)">
+  </cell>
+  <cell col="2" row="14" text="SAE level 4">
+  </cell>
+  <cell col="3" row="14" text="31 (see text)">
+  </cell>
+  <cell col="4" row="14" text="WTP &gt; 0">
+  </cell>
+  <cell col="5" row="14" text="USD 7589">
+  </cell>
+  <cell col="6" row="14" text="USD 3470">
+  </cell>
+  <cell col="7" row="14" text="Yes">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="">
+  </cell>
+  <cell col="1" row="15" text="China (441)">
+  </cell>
+  <cell col="2" row="15" text="Fully automated">
+  </cell>
+  <cell col="3" row="15" text="31">
+  </cell>
+  <cell col="4" row="15" text="Full sample">
+  </cell>
+  <cell col="5" row="15" text="USD 3577">
+  </cell>
+  <cell col="6" row="15" text="USD 763">
+  </cell>
+  <cell col="7" row="15" text="Yes">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="">
+  </cell>
+  <cell col="1" row="16" text="China (1135)">
+  </cell>
+  <cell col="2" row="16" text="Fully automated">
+  </cell>
+  <cell col="3" row="16" text="26">
+  </cell>
+  <cell col="4" row="16" text="Full sample">
+  </cell>
+  <cell col="5" row="16" text="USD 4454">
+  </cell>
+  <cell col="6" row="16" text="USD 1114">
+  </cell>
+  <cell col="7" row="16" text="Yes">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="">
+  </cell>
+  <cell col="1" row="17" text="Japan (188089)">
+  </cell>
+  <cell col="2" row="17" text="Fully automated">
+  </cell>
+  <cell col="3" row="17" text="No data">
+  </cell>
+  <cell col="4" row="17" text="Full sample">
+  </cell>
+  <cell col="5" row="17" text="USD 1650">
+  </cell>
+  <cell col="6" row="17" text="No data">
+  </cell>
+  <cell col="7" row="17" text="No">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Japan has a highest Percentage with willingness-to-pay = 0." type="entailed">
+  </statement>
+  <statement id="2" text="Australia (505) having a fully automated Technology." type="refuted">
+  </statement>
+ </statements>
+</Table 1>

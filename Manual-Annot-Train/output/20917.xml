@@ -1,0 +1,152 @@
+<Table 1>
+ <caption text="
+
+   Sum up of local and global centrality measures of all nodes in a vessel network in operative phases
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Ego no.">
+  </cell>
+  <cell col="1" row="0" text="4">
+  </cell>
+  <cell col="2" row="0" text="7">
+  </cell>
+  <cell col="3" row="0" text="3, 6, 10">
+  </cell>
+  <cell col="4" row="0" text="5">
+  </cell>
+  <cell col="5" row="0" text="8, 9">
+  </cell>
+  <cell col="6" row="0" text="1, 2, 11, 12">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Global centrality (shortest distance to all other alteri)">
+  </cell>
+  <cell col="1" row="1" text="17">
+  </cell>
+  <cell col="2" row="1" text="22">
+  </cell>
+  <cell col="3" row="1" text="23">
+  </cell>
+  <cell col="4" row="1" text="26">
+  </cell>
+  <cell col="5" row="1" text="31">
+  </cell>
+  <cell col="6" row="1" text="32">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Local centrality (absolute number of adjacent alteri)">
+  </cell>
+  <cell col="1" row="2" text="5">
+  </cell>
+  <cell col="2" row="2" text="4">
+  </cell>
+  <cell col="3" row="2" text="3">
+  </cell>
+  <cell col="4" row="2" text="2">
+  </cell>
+  <cell col="5" row="2" text="2">
+  </cell>
+  <cell col="6" row="2" text="2">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Local centrality as a relative measure of maximum possible connections">
+  </cell>
+  <cell col="1" row="3" text=".45">
+  </cell>
+  <cell col="2" row="3" text=".36">
+  </cell>
+  <cell col="3" row="3" text=".27">
+  </cell>
+  <cell col="4" row="3" text=".18">
+  </cell>
+  <cell col="5" row="3" text=".18">
+  </cell>
+  <cell col="6" row="3" text=".18">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Value Local centrality as a relative measure of maximum possible connections decreases with 0.09." type="entailed">
+  </statement>
+  <statement id="1" text="Value Local centrality as a relative measure of maximum possible connections decreases with 0.19." type="refuted">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   Overall centralization measures for some networks of the same node size and the illustratory vessel-network
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Measure">
+  </cell>
+  <cell col="1" row="0" text="Degree centralization">
+  </cell>
+  <cell col="2" row="0" text="Clustering">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Graph type">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Star">
+  </cell>
+  <cell col="1" row="2" text=".83">
+  </cell>
+  <cell col="2" row="2" text=".00">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Ring">
+  </cell>
+  <cell col="1" row="3" text=".00">
+  </cell>
+  <cell col="2" row="3" text=".00">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Full">
+  </cell>
+  <cell col="1" row="4" text=".00">
+  </cell>
+  <cell col="2" row="4" text="1.00">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Tree">
+  </cell>
+  <cell col="1" row="5" text=".11">
+  </cell>
+  <cell col="2" row="5" text=".00">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Vessel">
+  </cell>
+  <cell col="1" row="6" text=".23">
+  </cell>
+  <cell col="2" row="6" text=".47">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are five Measure Graph type." type="entailed">
+  </statement>
+  <statement id="1" text="Degree centralization of Star Measure Graph type is .83." type="entailed">
+  </statement>
+  <statement id="2" text="Degree centralization of Tree Measure Graph type is .11." type="entailed">
+  </statement>
+  <statement id="6" text="The centralization and clustering (transitivity) measures for these 12-node examples can be compared to the vessel measures in Table 2 ." type="entailed">
+  </statement>
+ </statements>
+</Table 2>

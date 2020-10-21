@@ -1,0 +1,290 @@
+<Table 1>
+ <caption text="
+
+   Household sources of income.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Income from Wages">
+  </cell>
+  <cell col="5" row="0" text="Capital Income">
+  </cell>
+  <cell col="6" row="0" text="Transfers from Gov and RoW">
+  </cell>
+  <cell col="7" row="0" text="Total">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="flab-p">
+  </cell>
+  <cell col="2" row="1" text="flab-m">
+  </cell>
+  <cell col="3" row="1" text="flab-s">
+  </cell>
+  <cell col="4" row="1" text="flab-t">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="hhd-0">
+  </cell>
+  <cell col="1" row="2" text="15.4">
+  </cell>
+  <cell col="2" row="2" text="9.4">
+  </cell>
+  <cell col="3" row="2" text="1.7">
+  </cell>
+  <cell col="4" row="2" text="0.1">
+  </cell>
+  <cell col="5" row="2" text="4.3">
+  </cell>
+  <cell col="6" row="2" text="69.1">
+  </cell>
+  <cell col="7" row="2" text="100.0">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="hhd-1">
+  </cell>
+  <cell col="1" row="3" text="14.3">
+  </cell>
+  <cell col="2" row="3" text="9.5">
+  </cell>
+  <cell col="3" row="3" text="4.8">
+  </cell>
+  <cell col="4" row="3" text="0.9">
+  </cell>
+  <cell col="5" row="3" text="7.7">
+  </cell>
+  <cell col="6" row="3" text="62.9">
+  </cell>
+  <cell col="7" row="3" text="100.0">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="hhd-2">
+  </cell>
+  <cell col="1" row="4" text="9.6">
+  </cell>
+  <cell col="2" row="4" text="11.2">
+  </cell>
+  <cell col="3" row="4" text="8.3">
+  </cell>
+  <cell col="4" row="4" text="1.7">
+  </cell>
+  <cell col="5" row="4" text="11.8">
+  </cell>
+  <cell col="6" row="4" text="57.4">
+  </cell>
+  <cell col="7" row="4" text="100.0">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="hhd-3">
+  </cell>
+  <cell col="1" row="5" text="9.0">
+  </cell>
+  <cell col="2" row="5" text="11.9">
+  </cell>
+  <cell col="3" row="5" text="12.2">
+  </cell>
+  <cell col="4" row="5" text="1.6">
+  </cell>
+  <cell col="5" row="5" text="15.6">
+  </cell>
+  <cell col="6" row="5" text="49.6">
+  </cell>
+  <cell col="7" row="5" text="100.0">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="hhd-4">
+  </cell>
+  <cell col="1" row="6" text="7.5">
+  </cell>
+  <cell col="2" row="6" text="13.6">
+  </cell>
+  <cell col="3" row="6" text="14.8">
+  </cell>
+  <cell col="4" row="6" text="3.9">
+  </cell>
+  <cell col="5" row="6" text="19.8">
+  </cell>
+  <cell col="6" row="6" text="40.4">
+  </cell>
+  <cell col="7" row="6" text="100.0">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="hhd-5">
+  </cell>
+  <cell col="1" row="7" text="6.9">
+  </cell>
+  <cell col="2" row="7" text="14.0">
+  </cell>
+  <cell col="3" row="7" text="19.8">
+  </cell>
+  <cell col="4" row="7" text="8.3">
+  </cell>
+  <cell col="5" row="7" text="22.5">
+  </cell>
+  <cell col="6" row="7" text="28.6">
+  </cell>
+  <cell col="7" row="7" text="100.0">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="hhd-6">
+  </cell>
+  <cell col="1" row="8" text="4.3">
+  </cell>
+  <cell col="2" row="8" text="9.7">
+  </cell>
+  <cell col="3" row="8" text="26.9">
+  </cell>
+  <cell col="4" row="8" text="13.1">
+  </cell>
+  <cell col="5" row="8" text="29.5">
+  </cell>
+  <cell col="6" row="8" text="16.4">
+  </cell>
+  <cell col="7" row="8" text="100.0">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="hhd-7">
+  </cell>
+  <cell col="1" row="9" text="2.5">
+  </cell>
+  <cell col="2" row="9" text="9.4">
+  </cell>
+  <cell col="3" row="9" text="22.5">
+  </cell>
+  <cell col="4" row="9" text="24.2">
+  </cell>
+  <cell col="5" row="9" text="32.0">
+  </cell>
+  <cell col="6" row="9" text="9.4">
+  </cell>
+  <cell col="7" row="9" text="100.0">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="hhd-8">
+  </cell>
+  <cell col="1" row="10" text="1.0">
+  </cell>
+  <cell col="2" row="10" text="4.4">
+  </cell>
+  <cell col="3" row="10" text="18.2">
+  </cell>
+  <cell col="4" row="10" text="40.1">
+  </cell>
+  <cell col="5" row="10" text="32.7">
+  </cell>
+  <cell col="6" row="10" text="3.7">
+  </cell>
+  <cell col="7" row="10" text="100.0">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="hhd-91">
+  </cell>
+  <cell col="1" row="11" text="1.0">
+  </cell>
+  <cell col="2" row="11" text="3.0">
+  </cell>
+  <cell col="3" row="11" text="13.1">
+  </cell>
+  <cell col="4" row="11" text="42.5">
+  </cell>
+  <cell col="5" row="11" text="38.2">
+  </cell>
+  <cell col="6" row="11" text="2.2">
+  </cell>
+  <cell col="7" row="11" text="100.0">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="hhd-92">
+  </cell>
+  <cell col="1" row="12" text="0.3">
+  </cell>
+  <cell col="2" row="12" text="2.8">
+  </cell>
+  <cell col="3" row="12" text="14.0">
+  </cell>
+  <cell col="4" row="12" text="39.9">
+  </cell>
+  <cell col="5" row="12" text="41.0">
+  </cell>
+  <cell col="6" row="12" text="2.0">
+  </cell>
+  <cell col="7" row="12" text="100.0">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="hhd-93">
+  </cell>
+  <cell col="1" row="13" text="1.9">
+  </cell>
+  <cell col="2" row="13" text="1.0">
+  </cell>
+  <cell col="3" row="13" text="11.1">
+  </cell>
+  <cell col="4" row="13" text="50.2">
+  </cell>
+  <cell col="5" row="13" text="34.4">
+  </cell>
+  <cell col="6" row="13" text="1.5">
+  </cell>
+  <cell col="7" row="13" text="100.0">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="hhd-94">
+  </cell>
+  <cell col="1" row="14" text="0.5">
+  </cell>
+  <cell col="2" row="14" text="0.9">
+  </cell>
+  <cell col="3" row="14" text="7.7">
+  </cell>
+  <cell col="4" row="14" text="53.3">
+  </cell>
+  <cell col="5" row="14" text="36.2">
+  </cell>
+  <cell col="6" row="14" text="1.4">
+  </cell>
+  <cell col="7" row="14" text="100.0">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="hhd-95">
+  </cell>
+  <cell col="1" row="15" text="0.1">
+  </cell>
+  <cell col="2" row="15" text="0.1">
+  </cell>
+  <cell col="3" row="15" text="5.9">
+  </cell>
+  <cell col="4" row="15" text="51.4">
+  </cell>
+  <cell col="5" row="15" text="41.4">
+  </cell>
+  <cell col="6" row="15" text="1.0">
+  </cell>
+  <cell col="7" row="15" text="100.0">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 4 varrients in flab." type="">
+  </statement>
+  <statement id="1" text="Capital income of hhd-92 is 41.0" type="">
+  </statement>
+  <statement id="6" text="This transfer income makes up a larger share of the income of poor households than at the top end of the distribution." type="">
+  </statement>
+ </statements>
+</Table 1>

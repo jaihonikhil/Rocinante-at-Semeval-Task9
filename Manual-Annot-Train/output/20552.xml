@@ -1,0 +1,171 @@
+<Table 1>
+ <caption text="
+
+   Comparison of mean waterbird abundances in camera surveys and ground surveys
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Camera Surveys (Firth et. al 2020)">
+  </cell>
+  <cell col="3" row="0" text="Ground surveys (Sesser et. al 2016)">
+  </cell>
+  <cell col="6" row="0" text="Ground Surveys (Marty 2013)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Field type">
+  </cell>
+  <cell col="1" row="1" text="Geese/ha/day (
+     
+
+
+        x
+       
+
+        ¯
+       
+
+
+     )">
+  </cell>
+  <cell col="2" row="1" text="Duck/ha/day (
+     
+
+
+        x
+       
+
+        ¯
+       
+
+
+     )">
+  </cell>
+  <cell col="3" row="1" text="Field type">
+  </cell>
+  <cell col="4" row="1" text="Geese/ha/day (
+     
+
+
+        x
+       
+
+        ¯
+       
+
+
+     )">
+  </cell>
+  <cell col="5" row="1" text="Duck/ha/day (
+     
+
+
+        x
+       
+
+        ¯
+       
+
+
+     )">
+  </cell>
+  <cell col="6" row="1" text="Field type">
+  </cell>
+  <cell col="7" row="1" text="Waterbird/ha/day (
+     
+
+
+        x
+       
+
+        ¯
+       
+
+
+     )">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Long-term flooded, no till (LF)">
+  </cell>
+  <cell col="1" row="2" text="15.8">
+  </cell>
+  <cell col="2" row="2" text="6.1">
+  </cell>
+  <cell col="3" row="2" text="Flooded, non-baled">
+  </cell>
+  <cell col="4" row="2" text="5">
+  </cell>
+  <cell col="5" row="2" text="7">
+  </cell>
+  <cell col="6" row="2" text="Flooded, non-disked">
+  </cell>
+  <cell col="7" row="2" text="7.35">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Long-term non-flooded, no till (LN)">
+  </cell>
+  <cell col="1" row="3" text="7.2">
+  </cell>
+  <cell col="2" row="3" text="2.6">
+  </cell>
+  <cell col="3" row="3" text="Non-flooded, non-baled">
+  </cell>
+  <cell col="4" row="3" text="3">
+  </cell>
+  <cell col="5" row="3" text="0">
+  </cell>
+  <cell col="6" row="3" text="Non-flooded, non-disked">
+  </cell>
+  <cell col="7" row="3" text="0.07">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="First year flooded, tilled (CF)">
+  </cell>
+  <cell col="1" row="4" text="5.94">
+  </cell>
+  <cell col="2" row="4" text="7.7">
+  </cell>
+  <cell col="3" row="4" text="Flooded, baled">
+  </cell>
+  <cell col="4" row="4" text="3">
+  </cell>
+  <cell col="5" row="4" text="3">
+  </cell>
+  <cell col="6" row="4" text="Flooded, disked">
+  </cell>
+  <cell col="7" row="4" text="3.35">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Non-flooded, tilled (CN)">
+  </cell>
+  <cell col="1" row="5" text="2.12">
+  </cell>
+  <cell col="2" row="5" text="3.2">
+  </cell>
+  <cell col="3" row="5" text="Non-flooded, baled">
+  </cell>
+  <cell col="4" row="5" text="5">
+  </cell>
+  <cell col="5" row="5" text="0">
+  </cell>
+  <cell col="6" row="5" text="Non-flooded, disked">
+  </cell>
+  <cell col="7" row="5" text="0.06">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="The field type Non flooded, disked has least x value." type="entailed">
+  </statement>
+  <statement id="2" text="The field type Non flooded, non-disked has least x value." type="refuted">
+  </statement>
+  <statement id="4" text="The field type Non flooded, disked has the least x value." type="entailed">
+  </statement>
+  <statement id="5" text="The field type Non flooded, non-disked has the least x value." type="refuted">
+  </statement>
+ </statements>
+</Table 1>

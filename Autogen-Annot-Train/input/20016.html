@@ -1,0 +1,1551 @@
+<!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="tbl0100" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 10
+       </label>
+<caption id="cp0380">
+<simple-para id="sp0380" view="all">
+         The circulation, Γ, at different heights of the column. Γ is calculated by the integration of a vorticity across the full area of the XY cross-sections.
+        </simple-para>
+</caption>
+
+<tgroup cols="9">
+<colspec align="left" colname="col1" colnum="1"/>
+<colspec align="left" colname="col2" colnum="2"/>
+<colspec align="left" colname="col3" colnum="3"/>
+<colspec align="left" colname="col4" colnum="4"/>
+<colspec align="left" colname="col5" colnum="5"/>
+<colspec align="left" colname="col6" colnum="6"/>
+<colspec align="left" colname="col7" colnum="7"/>
+<colspec align="left" colname="col8" colnum="8"/>
+<colspec align="left" colname="col9" colnum="9"/>
+<thead valign="top">
+<tr trsep="1">
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Height
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            a
+           </italic>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            b
+           </italic>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            c
+           </italic>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            d
+           </italic>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            e
+           </italic>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            f
+           </italic>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            g
+           </italic>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            h
+           </italic>
+</td>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Γ, [m
+           <sup loc="post">
+            2
+           </sup>
+           /s]
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.96
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.55
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.65
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.72
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.90
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.86
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.69
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.59
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html>
+<!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="tbl0080" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 8
+       </label>
+<caption id="cp0360">
+<simple-para id="sp0360" view="all">
+         Parallel performance of
+         <italic>
+          FoxBerry
+         </italic>
+         code. Comparison of time spent on communication (
+         <italic>
+          T
+         </italic>
+<inf loc="post">
+<italic>
+           c
+          </italic>
+</inf>
+         ), solving the momentum equations (
+         <italic>
+          T
+         </italic>
+<inf loc="post">
+<italic>
+           m
+          </italic>
+</inf>
+         ), solving the PPE (
+         <italic>
+          T
+         </italic>
+<inf loc="post">
+<italic>
+           p
+          </italic>
+</inf>
+         ), matrix assembly (
+         <italic>
+          T
+         </italic>
+<inf loc="post">
+<italic>
+           a
+          </italic>
+</inf>
+         ), full time (
+         <italic>
+          T
+         </italic>
+<inf loc="post">
+<italic>
+           f
+          </italic>
+</inf>
+         ), the overall speedup and the parallel efficiency. Results are averaged over 10 time steps and 192 cores are taken as a reference.
+        </simple-para>
+</caption>
+
+<tgroup cols="8">
+<colspec align="left" colname="col1" colnum="1"/>
+<colspec align="left" colname="col2" colnum="2"/>
+<colspec align="left" colname="col3" colnum="3"/>
+<colspec align="left" colname="col4" colnum="4"/>
+<colspec align="left" colname="col5" colnum="5"/>
+<colspec align="left" colname="col6" colnum="6"/>
+<colspec align="left" colname="col7" colnum="7"/>
+<colspec align="left" colname="col8" colnum="8"/>
+<thead valign="top">
+<tr trsep="1">
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Cores/192
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            T
+           </italic>
+<inf loc="post">
+<italic>
+             c
+            </italic>
+</inf>
+           , [s]
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            T
+           </italic>
+<inf loc="post">
+<italic>
+             m
+            </italic>
+</inf>
+           , [s]
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            T
+           </italic>
+<inf loc="post">
+<italic>
+             p
+            </italic>
+</inf>
+           , [s]
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            T
+           </italic>
+<inf loc="post">
+<italic>
+             a
+            </italic>
+</inf>
+           , [s]
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            T
+           </italic>
+<inf loc="post">
+<italic>
+             f
+            </italic>
+</inf>
+           , [s]
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Speedup
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Efficiency, [%]
+          </td>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           1
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.772
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           21.599
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           32.030
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           53.030
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           116.158
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1.0
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           100.0
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           2
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.522
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           12.478
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           17.206
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           34.079
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           69.680
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1.7
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           83.4
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           4
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.686
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           6.403
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           9.963
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           18.698
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           37.783
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           3.1
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           76.9
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           8
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.345
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           4.018
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           4.928
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           14.568
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           27.091
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           4.3
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           53.6
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           16
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.285
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2.262
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           4.248
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           6.690
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           15.012
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           7.7
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           48.4
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html>
+<!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="tbl0070" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 7
+       </label>
+<caption id="cp0350">
+<simple-para id="sp0350" view="all">
+         Geometry and sparger properties for the verification tests performed on the square bubble columns. Here,
+         <italic>
+          d
+         </italic>
+<inf loc="post">
+<italic>
+           p
+          </italic>
+</inf>
+         represents the pitch distance,
+         <italic>
+          v
+         </italic>
+<inf loc="post">
+<italic>
+           b
+          </italic>
+</inf>
+         is the superficial gas velocity and
+         <italic>
+          D
+         </italic>
+<inf loc="post">
+<italic>
+           b
+          </italic>
+</inf>
+         is the bubble diameter. Dimensions
+         <italic>
+          L
+         </italic>
+         ,
+         <italic>
+          D
+         </italic>
+         and
+         <italic>
+          H
+         </italic>
+         correspond to
+         <italic>
+          x
+         </italic>
+         ,
+         <italic>
+          y
+         </italic>
+         and
+         <italic>
+          z
+         </italic>
+         axes, respectively.
+        </simple-para>
+</caption>
+
+<tgroup cols="6">
+<colspec align="left" colname="col1" colnum="1"/>
+<colspec align="left" colname="col2" colnum="2"/>
+<colspec align="left" colname="col3" colnum="3"/>
+<colspec align="left" colname="col4" colnum="4"/>
+<colspec align="left" colname="col5" colnum="5"/>
+<colspec align="left" colname="col6" colnum="6"/>
+<thead valign="top">
+<tr trsep="1">
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Case
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            L
+           </italic>
+           ×
+           <italic>
+            D
+           </italic>
+           ×
+           <italic>
+            H
+           </italic>
+           , [m]
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           #nozzles
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Pitch
+           <italic>
+            d
+           </italic>
+<inf loc="post">
+<italic>
+             p
+            </italic>
+</inf>
+           , [mm]
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            D
+           </italic>
+<inf loc="post">
+<italic>
+             b
+            </italic>
+</inf>
+           , [mm]
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            v
+           </italic>
+<inf loc="post">
+<italic>
+             b
+            </italic>
+</inf>
+           , [cm/s]
+          </td>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           T1
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.15 × 0.15 × 0.45
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           49
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           6.25
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           4
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.49
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           T2
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.2 × 0.2 × 0.6
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           625
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           8
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           4
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1 to 5
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html>
+<!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="tbl0040" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 4
+       </label>
+<caption id="cp0320">
+<simple-para id="sp0320" view="all">
+         Momentum conservation errors across processes due to domain decomposition for the DSMC algorithm reported for the problem I1. Note: This analysis is carried out for a domain decomposition of 5 processes and the errors reported are at the time of 2.0 seconds.
+        </simple-para>
+</caption>
+
+<tgroup cols="4">
+<colspec align="left" colname="col1" colnum="1"/>
+<colspec align="left" colname="col2" colnum="2"/>
+<colspec align="left" colname="col3" colnum="3"/>
+<colspec align="left" colname="col4" colnum="4"/>
+<thead valign="top">
+<tr trsep="1">
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Process boundary
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           % Error
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Process boundary
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           % Error
+          </td>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           0 ↔ 1
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1.108
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1 ↔ 3
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.331
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           0 ↔ 2
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.553
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1 ↔ 4
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1.272
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           0 ↔ 3
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           4.921
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2 ↔ 3
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1.485
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           1 ↔ 2
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           5.747
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           3 ↔ 4
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1.204
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html>
+<!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="tbl0010" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 1
+       </label>
+<caption id="cp0290">
+<simple-para id="sp0290" view="all">
+         List of recent publications on parallel implementations of Lagrangian methods.
+        </simple-para>
+</caption>
+
+<tgroup cols="7">
+<colspec align="left" colname="col1" colnum="1"/>
+<colspec align="left" colname="col2" colnum="2"/>
+<colspec align="left" colname="col3" colnum="3"/>
+<colspec align="left" colname="col4" colnum="4"/>
+<colspec align="left" colname="col5" colnum="5"/>
+<colspec align="left" colname="col6" colnum="6"/>
+<colspec align="left" colname="col7" colnum="7"/>
+<thead valign="top">
+<tr trsep="1">
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Name
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Type
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           CFD grid size
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           #Lagr. elements
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Parallelization technique
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           #Cores
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Efficiency
+          </td>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Ouro et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           CFD+IBM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           52.59 ⋅ 10
+           <sup loc="post">
+            6
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           3.57 ⋅ 10
+           <sup loc="post">
+            5
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI+OpenMP
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           314
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           ideal
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Rakotonirinaa et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           CFD+DEM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           -
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2.304 ⋅ 10
+           <sup loc="post">
+            8
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           768
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           90%
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Pozzetti et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           CFD+DEM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           10
+           <sup loc="post">
+            6
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           10
+           <sup loc="post">
+            7
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           280
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           70%
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Tian et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           DEM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           -
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1.28 ⋅ 10
+           <sup loc="post">
+            8
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           GPU/MPI
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           256/128
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           62.59%/20%
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Spandan et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           CFD+IBM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2 ⋅ 10
+           <sup loc="post">
+            9
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2.5 ⋅ 10
+           <sup loc="post">
+            4
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1000
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           78%
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Wang et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           CFD+DEM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           3 ⋅ 10
+           <sup loc="post">
+            5
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2 ⋅ 10
+           <sup loc="post">
+            5
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           64
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           57.5%
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Geneva et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           CFD+IBM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1.6 ⋅ 10
+           <sup loc="post">
+            7
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           7% vol. frac.
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           580
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           ideal
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Loisy et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           CFD+DEM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1.68 ⋅ 10
+           <sup loc="post">
+            7
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           8
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           512
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           90%
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Liu et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           CFD+DEM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1.25 ⋅ 10
+           <sup loc="post">
+            5
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           10
+           <sup loc="post">
+            4
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1000
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           50%
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Yue et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           DEM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2 ⋅ 10
+           <sup loc="post">
+            4
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           8
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           GPU
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2880
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           x20 speedup
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Mountrakis et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           LBM+IBM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1.342 ⋅ 10
+           <sup loc="post">
+            8
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           6.624 ⋅ 10
+           <sup loc="post">
+            5
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           8192
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           79%
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Ma et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           DBM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           6.5 ⋅ 10
+           <sup loc="post">
+            4
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1.7 ⋅ 10
+           <sup loc="post">
+            5
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           OpenMP
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           12
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           99%
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Goniva et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           CFD+DEM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2.05 ⋅ 10
+           <sup loc="post">
+            5
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2.05 ⋅ 10
+           <sup loc="post">
+            7
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           512
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           &gt;100%
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Berger et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           DEM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           -
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           5 ⋅ 10
+           <sup loc="post">
+            4
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI+OpenMP
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           128
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           50%
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Wu et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           CFD+DEM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1.28 ⋅ 10
+           <sup loc="post">
+            5
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2 ⋅ 10
+           <sup loc="post">
+            6
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI+OpenMP
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           128
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           60%/20%
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Niethammer et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MD
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           -
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           10
+           <sup loc="post">
+            12
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI+OpenMP
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           65536
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           82.5%
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Liu et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           CFD+DEM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1.6 ⋅ 10
+           <sup loc="post">
+            6
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           5.12 ⋅ 10
+           <sup loc="post">
+            6
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI+OpenMP
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           256/128
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           37.5%
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Amritkar et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           CFD+DEM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           -
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1.05 ⋅ 10
+           <sup loc="post">
+            6
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI+OpenMP
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           64
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           -
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Kuan et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           CFD+FT
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           6.4 ⋅ 10
+           <sup loc="post">
+            4
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           -
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           128
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           20%
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Kafui et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           CFD+DEM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           -
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           5 ⋅ 10
+           <sup loc="post">
+            4
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           64
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           58%
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Darmana et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           CFD+DBM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           6.5 ⋅ 10
+           <sup loc="post">
+            6
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           10
+           <sup loc="post">
+            5
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           32
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           50%
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Maknickas et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           DEM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           -
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           10
+           <sup loc="post">
+            5
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           16
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           70%
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Pohl et al.
+           
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           LBM
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1.078 ⋅ 10
+           <sup loc="post">
+            9
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           -
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           MPI
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           512
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           75%
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html>
+<!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="tbl0030" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 3
+       </label>
+<caption id="cp0310">
+<simple-para id="sp0310" view="all">
+         Physical properties of the discrete phase and numerical properties of the simulations used in verification tests for the impinging particle stream problem I1.
+        </simple-para>
+</caption>
+
+<tgroup cols="4">
+<colspec align="left" colname="col1" colnum="1"/>
+<colspec align="left" colname="col2" colnum="2"/>
+<colspec align="left" colname="col3" colnum="3"/>
+<colspec align="left" colname="col4" colnum="4"/>
+<thead valign="top">
+<tr trsep="1">
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Parameter
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Symbol
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           I1
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           I2
+          </td>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Solid density
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            ρ
+           </italic>
+<inf loc="post">
+<italic>
+             l
+            </italic>
+</inf>
+           (kg/m
+           <sup loc="post">
+            3
+           </sup>
+           )
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2000
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2000
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Particle diameter
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            d
+           </italic>
+<inf loc="post">
+<italic>
+             p
+            </italic>
+</inf>
+           (mm)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Particle time step
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            δt
+           </italic>
+<inf loc="post">
+<italic>
+             p
+            </italic>
+</inf>
+           (s)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           5 ⋅ 10
+           <sup loc="post">
+            −5
+           </sup>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           5 ⋅ 10
+           <sup loc="post">
+            −5
+           </sup>
+</td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Nozzle diameter
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            D
+           </italic>
+<inf loc="post">
+<italic>
+             nozzle
+            </italic>
+</inf>
+           (m)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.25
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.1
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           System size
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            L
+           </italic>
+           ×
+           <italic>
+            W
+           </italic>
+           ×
+           <italic>
+            H
+           </italic>
+           (m × m × m)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.5 × 0.5 × 0.5
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.25 × 0.25 × 0.25
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Inlet mean velocity
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            v
+           </italic>
+<inf loc="post">
+<italic>
+             mean
+            </italic>
+</inf>
+           (m/s)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2.5
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           2.5
+          </td>
+</tr>
+<tr>
+<td role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Standard deviation
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            v
+           </italic>
+           ′ (m/s)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1.0
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           1.0
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html>

@@ -1,0 +1,533 @@
+<Table 1>
+ <caption text="
+
+   GFRP bars specifications.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Bar type">
+  </cell>
+  <cell col="1" row="0" text="GFRP">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Nominal diameter (mm)">
+  </cell>
+  <cell col="1" row="1" text="14">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Ultimate strength (MPa)">
+  </cell>
+  <cell col="1" row="2" text="1200">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Modulus of elasticity (MPa)">
+  </cell>
+  <cell col="1" row="3" text="55,000">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Strain,ε
+     
+      ƒu
+     
+     (με)">
+  </cell>
+  <cell col="1" row="4" text="1950">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are four bar types given in the table." type="">
+  </statement>
+  <statement id="1" text="The unit of bar type ultimate strength and modulus of elasticity has same unit." type="">
+  </statement>
+  <statement id="2" text="The only bar type Nominal diameter is 14mm GFRP." type="">
+  </statement>
+  <statement id="3" text="Ultimate strength (MPa) and Modulus of elasticity (MPa) has different GFRP." type="">
+  </statement>
+  <statement id="4" text="Every bar type has different GFRP" type="">
+  </statement>
+  <statement id="6" text="Every bar type has same GFRP" type="">
+  </statement>
+  <statement id="8" text="Ultimate strength (MPa) and Modulus of elasticity (MPa) has same GFRP." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 9>
+ <caption text="
+
+   Deformability factor and ductility index for the tested beams.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Beam specimen">
+  </cell>
+  <cell col="1" row="0" text="Reinforcements Ratio (%)">
+  </cell>
+  <cell col="2" row="0" text="No. of CFRP Layer">
+  </cell>
+  <cell col="3" row="0" text="Failure load, P
+     
+      exp
+     
+     (kN)">
+  </cell>
+  <cell col="4" row="0" text="DF">
+  </cell>
+  <cell col="5" row="0" text="μ
+       
+
+        E">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="B2−0C">
+  </cell>
+  <cell col="1" row="1" text="0.56
+     
+
+       a">
+  </cell>
+  <cell col="2" row="1" text="0">
+  </cell>
+  <cell col="3" row="1" text="40">
+  </cell>
+  <cell col="4" row="1" text="2.3">
+  </cell>
+  <cell col="5" row="1" text="4.1">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="B3−0C">
+  </cell>
+  <cell col="1" row="2" text="0.84
+     
+
+       b">
+  </cell>
+  <cell col="2" row="2" text="0">
+  </cell>
+  <cell col="3" row="2" text="67.5">
+  </cell>
+  <cell col="4" row="2" text="2.85">
+  </cell>
+  <cell col="5" row="2" text="4.66">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text='"B2−1C"'>
+  </cell>
+  <cell col="1" row="3" text="0.56">
+  </cell>
+  <cell col="2" row="3" text="1">
+  </cell>
+  <cell col="3" row="3" text="57.5">
+  </cell>
+  <cell col="4" row="3" text="3.1">
+  </cell>
+  <cell col="5" row="3" text="4.5">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text='"B3−1C"'>
+  </cell>
+  <cell col="1" row="4" text="0.84">
+  </cell>
+  <cell col="2" row="4" text="1">
+  </cell>
+  <cell col="3" row="4" text="73">
+  </cell>
+  <cell col="4" row="4" text="3.78">
+  </cell>
+  <cell col="5" row="4" text="5.1">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text='"B4−1C"'>
+  </cell>
+  <cell col="1" row="5" text="1.12
+     
+
+       c">
+  </cell>
+  <cell col="2" row="5" text="1">
+  </cell>
+  <cell col="3" row="5" text="85">
+  </cell>
+  <cell col="4" row="5" text="4.3">
+  </cell>
+  <cell col="5" row="5" text="6.05">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text='"B5−1C"'>
+  </cell>
+  <cell col="1" row="6" text="1.4
+     
+
+       d">
+  </cell>
+  <cell col="2" row="6" text="1">
+  </cell>
+  <cell col="3" row="6" text="96">
+  </cell>
+  <cell col="4" row="6" text="4.1">
+  </cell>
+  <cell col="5" row="6" text="5.5">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text='"B2−2C"'>
+  </cell>
+  <cell col="1" row="7" text="0.56">
+  </cell>
+  <cell col="2" row="7" text="2">
+  </cell>
+  <cell col="3" row="7" text="78">
+  </cell>
+  <cell col="4" row="7" text="3.87">
+  </cell>
+  <cell col="5" row="7" text="4.8">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text='"B3−2C"'>
+  </cell>
+  <cell col="1" row="8" text="0.84">
+  </cell>
+  <cell col="2" row="8" text="2">
+  </cell>
+  <cell col="3" row="8" text="88">
+  </cell>
+  <cell col="4" row="8" text="4.4">
+  </cell>
+  <cell col="5" row="8" text="5.5">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text='"B4−2C"'>
+  </cell>
+  <cell col="1" row="9" text="1.12">
+  </cell>
+  <cell col="2" row="9" text="2">
+  </cell>
+  <cell col="3" row="9" text="96">
+  </cell>
+  <cell col="4" row="9" text="5.2">
+  </cell>
+  <cell col="5" row="9" text="7.1">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text='"B5−2C"'>
+  </cell>
+  <cell col="1" row="10" text="1.4">
+  </cell>
+  <cell col="2" row="10" text="2">
+  </cell>
+  <cell col="3" row="10" text="104">
+  </cell>
+  <cell col="4" row="10" text="4.9">
+  </cell>
+  <cell col="5" row="10" text="5.8">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text='The highest Reinforcements Ratio is 1.4 of "B51C" and "B52C".' type="">
+  </statement>
+  <statement id="2" text="The lowest  E value is 4.1 of B20C." type="">
+  </statement>
+  <statement id="4" text="No. of CFRP Layer ranges from 1 to 4." type="">
+  </statement>
+  <statement id="5" text="The lowest  E value is 5.5 of B32C." type="">
+  </statement>
+  <statement id="6" text='The highest Reinforcements Ratio is 1.12 of "B42C" and "B52C".' type="">
+  </statement>
+  <statement id="7" text="Where  E is the ductility index, Table 9 shows the values of ductility evaluated by the two approaches, one be shown the(DF" type="">
+  </statement>
+ </statements>
+</Table 9>
+<Table 8>
+ <caption text="
+
+   Maximum crack size for the experienced beams.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Beam specimen">
+  </cell>
+  <cell col="1" row="0" text="Reinforcements Ratio (%)">
+  </cell>
+  <cell col="2" row="0" text="No. of CFRP Layer">
+  </cell>
+  <cell col="3" row="0" text="Failure load, P
+     
+      exp
+     
+     (kN)">
+  </cell>
+  <cell col="4" row="0" text="Maximum crack size (mm)">
+  </cell>
+  <cell col="5" row="0" text="ACI440.1R-06 [
+     
+      23
+     
+     ] (mm)">
+  </cell>
+  <cell col="6" row="0" text="CEB-F1P Code (mm)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="B2−0C">
+  </cell>
+  <cell col="1" row="1" text="0.56
+     
+
+       a">
+  </cell>
+  <cell col="2" row="1" text="0">
+  </cell>
+  <cell col="3" row="1" text="40">
+  </cell>
+  <cell col="4" row="1" text="0.23">
+  </cell>
+  <cell col="5" row="1" text="2">
+  </cell>
+  <cell col="6" row="1" text="0.3">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="B3−0C">
+  </cell>
+  <cell col="1" row="2" text="0.84
+     
+
+       b">
+  </cell>
+  <cell col="2" row="2" text="0">
+  </cell>
+  <cell col="3" row="2" text="67.5">
+  </cell>
+  <cell col="4" row="2" text="0.19">
+  </cell>
+  <cell col="5" row="2" text="1.05">
+  </cell>
+  <cell col="6" row="2" text="0.25">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text='"B2−1C"'>
+  </cell>
+  <cell col="1" row="3" text="0.56">
+  </cell>
+  <cell col="2" row="3" text="1">
+  </cell>
+  <cell col="3" row="3" text="57.5">
+  </cell>
+  <cell col="4" row="3" text="0.52">
+  </cell>
+  <cell col="5" row="3" text="2">
+  </cell>
+  <cell col="6" row="3" text="0.35">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text='"B3−1C"'>
+  </cell>
+  <cell col="1" row="4" text="0.84">
+  </cell>
+  <cell col="2" row="4" text="1">
+  </cell>
+  <cell col="3" row="4" text="73">
+  </cell>
+  <cell col="4" row="4" text="0.4">
+  </cell>
+  <cell col="5" row="4" text="1.75">
+  </cell>
+  <cell col="6" row="4" text="0.33">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text='"B4−1C"'>
+  </cell>
+  <cell col="1" row="5" text="1.12
+     
+
+       c">
+  </cell>
+  <cell col="2" row="5" text="1">
+  </cell>
+  <cell col="3" row="5" text="85">
+  </cell>
+  <cell col="4" row="5" text="0.33">
+  </cell>
+  <cell col="5" row="5" text="0.6">
+  </cell>
+  <cell col="6" row="5" text="0.36">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text='"B5−1C"'>
+  </cell>
+  <cell col="1" row="6" text="1.4
+     
+
+       d">
+  </cell>
+  <cell col="2" row="6" text="1">
+  </cell>
+  <cell col="3" row="6" text="96">
+  </cell>
+  <cell col="4" row="6" text="0.16">
+  </cell>
+  <cell col="5" row="6" text="0.43">
+  </cell>
+  <cell col="6" row="6" text="0.28">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text='"B2−2C"'>
+  </cell>
+  <cell col="1" row="7" text="0.56">
+  </cell>
+  <cell col="2" row="7" text="2">
+  </cell>
+  <cell col="3" row="7" text="78">
+  </cell>
+  <cell col="4" row="7" text="0.6">
+  </cell>
+  <cell col="5" row="7" text="2">
+  </cell>
+  <cell col="6" row="7" text="0.4">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text='"B3−2C"'>
+  </cell>
+  <cell col="1" row="8" text="0.84">
+  </cell>
+  <cell col="2" row="8" text="2">
+  </cell>
+  <cell col="3" row="8" text="88">
+  </cell>
+  <cell col="4" row="8" text="0.32">
+  </cell>
+  <cell col="5" row="8" text="1.05">
+  </cell>
+  <cell col="6" row="8" text="0.36">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text='"B4−2C"'>
+  </cell>
+  <cell col="1" row="9" text="1.12">
+  </cell>
+  <cell col="2" row="9" text="2">
+  </cell>
+  <cell col="3" row="9" text="96">
+  </cell>
+  <cell col="4" row="9" text="0.21">
+  </cell>
+  <cell col="5" row="9" text="0.6">
+  </cell>
+  <cell col="6" row="9" text="0.27">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text='"B5−2C"'>
+  </cell>
+  <cell col="1" row="10" text="1.4">
+  </cell>
+  <cell col="2" row="10" text="2">
+  </cell>
+  <cell col="3" row="10" text="104">
+  </cell>
+  <cell col="4" row="10" text="0.18">
+  </cell>
+  <cell col="5" row="10" text="0.43">
+  </cell>
+  <cell col="6" row="10" text="0.26">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 10 different types of Beam specimen in the given table." type="">
+  </statement>
+  <statement id="1" text="The lowest No. of CFRP Layer is 2." type="">
+  </statement>
+  <statement id="3" text="The lowest CEB-F1P Code (mm) is 0.25." type="">
+  </statement>
+  <statement id="4" text="The lowest CEB-F1P Code (mm) is 450." type="">
+  </statement>
+  <statement id="5" text="The highest No. of CFRP Layer is 550." type="">
+  </statement>
+  <statement id="6" text="The lowest Reinforcements Ratio (%) is 350." type="">
+  </statement>
+ </statements>
+</Table 8>
+<Table 2>
+ <caption text="
+
+   Mechanical specifications of CFRP
+   
+    *
+   
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Material">
+  </cell>
+  <cell col="1" row="0" text="Modulus of elasticity GPa">
+  </cell>
+  <cell col="2" row="0" text="Tensile strength MPa">
+  </cell>
+  <cell col="3" row="0" text="Thickness mm">
+  </cell>
+  <cell col="4" row="0" text="Elongation at failure">
+  </cell>
+  <cell col="5" row="0" text="Surface mass g/m2">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="FOSROC-Nitowrap FRC 230">
+  </cell>
+  <cell col="1" row="1" text="238">
+  </cell>
+  <cell col="2" row="1" text="3650">
+  </cell>
+  <cell col="3" row="1" text="0.13">
+  </cell>
+  <cell col="4" row="1" text="1.5%">
+  </cell>
+  <cell col="5" row="1" text="225">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Sikadur-330 epoxy">
+  </cell>
+  <cell col="1" row="2" text="3.8">
+  </cell>
+  <cell col="2" row="2" text="30">
+  </cell>
+  <cell col="3" row="2" text="1">
+  </cell>
+  <cell col="4" row="2" text="0.9%">
+  </cell>
+  <cell col="5" row="2" text="500 g">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="500 g Surface mass g/m2 Material Sikadur-330 epoxy." type="">
+  </statement>
+  <statement id="1" text="Material Sikadur-330 epoxy Sikadur-330 epoxy is 2." type="">
+  </statement>
+  <statement id="2" text="225 Surface mass g/m2 Material Sikadur-330 epoxy." type="">
+  </statement>
+ </statements>
+</Table 2>

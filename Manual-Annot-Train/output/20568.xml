@@ -1,0 +1,74 @@
+<Table 1>
+ <caption text="
+
+   Total paper grammage, specific surface area of the four composite papers.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Property">
+  </cell>
+  <cell col="1" row="0" text="grammage">
+  </cell>
+  <cell col="2" row="0" text="specific surface area">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Unit">
+  </cell>
+  <cell col="1" row="1" text="g/m
+     
+      2">
+  </cell>
+  <cell col="2" row="1" text="m
+     
+      2
+     
+     /g">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Paper">
+  </cell>
+  <cell col="1" row="2" text="">
+  </cell>
+  <cell col="2" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="A">
+  </cell>
+  <cell col="1" row="3" text="60,8">
+  </cell>
+  <cell col="2" row="3" text="0,58">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="B">
+  </cell>
+  <cell col="1" row="4" text="62,6">
+  </cell>
+  <cell col="2" row="4" text="1,06">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="D">
+  </cell>
+  <cell col="1" row="5" text="62,0">
+  </cell>
+  <cell col="2" row="5" text="1,43">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="F">
+  </cell>
+  <cell col="1" row="6" text="56,1">
+  </cell>
+  <cell col="2" row="6" text="1,46">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="The specific surface area of the four composite papers are unique." type="entailed">
+  </statement>
+ </statements>
+</Table 1>

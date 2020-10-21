@@ -1,0 +1,116 @@
+<Table 1>
+ <caption text="
+
+   The rates of total research production, articles with women authors, and the authorship rates of GCC countries.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Total number of articles">
+  </cell>
+  <cell col="2" row="0" text="Article with Female authors">
+  </cell>
+  <cell col="3" row="0" text="Articles with Female first author">
+  </cell>
+  <cell col="4" row="0" text="Articles with Female Senior Author">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Saudi Arabia">
+  </cell>
+  <cell col="1" row="1" text="579">
+  </cell>
+  <cell col="2" row="1" text="221(38.2 %)">
+  </cell>
+  <cell col="3" row="1" text="108/221 (48.9 %)">
+  </cell>
+  <cell col="4" row="1" text="81/221 (36.7 %)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Qatar">
+  </cell>
+  <cell col="1" row="2" text="152">
+  </cell>
+  <cell col="2" row="2" text="63(41.4 %)">
+  </cell>
+  <cell col="3" row="2" text="32/63 (50.8 %)">
+  </cell>
+  <cell col="4" row="2" text="13/63 (20.6 %)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="UAE">
+  </cell>
+  <cell col="1" row="3" text="124">
+  </cell>
+  <cell col="2" row="3" text="58(46.8 %)">
+  </cell>
+  <cell col="3" row="3" text="21/58 (36.2 %)">
+  </cell>
+  <cell col="4" row="3" text="20/58 (34.5 %)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Kuwait">
+  </cell>
+  <cell col="1" row="4" text="80">
+  </cell>
+  <cell col="2" row="4" text="41(51.3 %)">
+  </cell>
+  <cell col="3" row="4" text="10/41 (24.4 %)">
+  </cell>
+  <cell col="4" row="4" text="22/41 (53.7 %)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Oman">
+  </cell>
+  <cell col="1" row="5" text="65">
+  </cell>
+  <cell col="2" row="5" text="22(33.8 %)">
+  </cell>
+  <cell col="3" row="5" text="5/22 (22.7 %)">
+  </cell>
+  <cell col="4" row="5" text="6/22 (27.3 %)">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Bahrain">
+  </cell>
+  <cell col="1" row="6" text="29">
+  </cell>
+  <cell col="2" row="6" text="23(79.3 %)">
+  </cell>
+  <cell col="3" row="6" text="8/23 (34.7 %)">
+  </cell>
+  <cell col="4" row="6" text="7/23 (30.4 %)">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Total">
+  </cell>
+  <cell col="1" row="7" text="1029">
+  </cell>
+  <cell col="2" row="7" text="428(41.6 %)">
+  </cell>
+  <cell col="3" row="7" text="184/428(43.0 %)">
+  </cell>
+  <cell col="4" row="7" text="149/428 (34.8 %)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Total Articles with Female Senior Author is 149/428 (34.8 %)." type="">
+  </statement>
+  <statement id="2" text="Total Articles with Female first author is 184/428(43.0 %)." type="">
+  </statement>
+  <statement id="3" text="Total number of articles is 1029." type="">
+  </statement>
+  <statement id="5" text="Saudi Arabia Total number of articles is 29." type="">
+  </statement>
+  <statement id="8" text="After excluding duplicates, the authors included 1029 articles in the final analysis; Saudi Arabia had 579 articles, Qatar 152 articles, UAE 124 articles, Kuwait 80 articles, Oman 65 articles, and Bahrain 29 articles." type="">
+  </statement>
+ </statements>
+</Table 1>

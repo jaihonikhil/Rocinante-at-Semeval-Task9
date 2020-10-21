@@ -1,0 +1,600 @@
+<Table 1>
+ <caption text="
+
+   Publications details of the journals since 1973, i.e. the first year that the journal “Bioinorganic Chemistry” was covered by the WoS.
+   
+    Source
+   
+   : Web of Science July 1, 2020.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Topic">
+  </cell>
+  <cell col="1" row="0" text="1973–2020">
+  </cell>
+  <cell col="2" row="0" text="2010–2020">
+  </cell>
+  <cell col="3" row="0" text="1995–2020">
+  </cell>
+  <cell col="4" row="0" text="1973–1983">
+  </cell>
+  <cell col="5" row="0" text="Comment">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Total citable papers">
+  </cell>
+  <cell col="1" row="1" text="8950">
+  </cell>
+  <cell col="2" row="1" text="2451">
+  </cell>
+  <cell col="3" row="1" text="7329">
+  </cell>
+  <cell col="4" row="1" text="578">
+  </cell>
+  <cell col="5" row="1" text="Listed by WoS">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Total full articles">
+  </cell>
+  <cell col="1" row="2" text="6549">
+  </cell>
+  <cell col="2" row="2" text="2321">
+  </cell>
+  <cell col="3" row="2" text="4990">
+  </cell>
+  <cell col="4" row="2" text="534">
+  </cell>
+  <cell col="5" row="2" text="Listed by WoS">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Total reviews">
+  </cell>
+  <cell col="1" row="3" text="178">
+  </cell>
+  <cell col="2" row="3" text="83">
+  </cell>
+  <cell col="3" row="3" text="173">
+  </cell>
+  <cell col="4" row="3" text="2">
+  </cell>
+  <cell col="5" row="3" text="Listed by WoS">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Other papers, notes &amp; non-citable papers">
+  </cell>
+  <cell col="1" row="4" text="Over 2000">
+  </cell>
+  <cell col="2" row="4" text="Over 250">
+  </cell>
+  <cell col="3" row="4" text="Over 500">
+  </cell>
+  <cell col="4" row="4" text="32">
+  </cell>
+  <cell col="5" row="4" text="Only some of these listed by WoS do contribute to the journal impact factor (JIF)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Total citations with h index
+     
+
+       ⁎">
+  </cell>
+  <cell col="1" row="5" text="183,400
+     
+     h = 131">
+  </cell>
+  <cell col="2" row="5" text="3634
+     
+     h = 61">
+  </cell>
+  <cell col="3" row="5" text="146,250
+     
+     h = 125">
+  </cell>
+  <cell col="4" row="5" text="14,700
+     
+     h = 58">
+  </cell>
+  <cell col="5" row="5" text="Note: The h index for all papers amounts to 131">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="The year 19732020 is having high response in all streams." type="entailed">
+  </statement>
+  <statement id="4" text="Total citations with h index is null at the years 20102020" type="refuted">
+  </statement>
+  <statement id="5" text="Total reviews in the year 19731983 is highest." type="refuted">
+  </statement>
+ </statements>
+</Table 1>
+<Table 4>
+ <caption text="
+
+   Distribution of JIB papers since 1973 over a variety of countries; only countries from which over120 papers originate are listed.
+   
+    Source WoS, July 1, 2020
+   
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Country
+     
+      ⁎">
+  </cell>
+  <cell col="1" row="0" text="Papers in JIB">
+  </cell>
+  <cell col="2" row="0" text="Country">
+  </cell>
+  <cell col="3" row="0" text="Papers in JIB">
+  </cell>
+  <cell col="4" row="0" text="Country">
+  </cell>
+  <cell col="5" row="0" text="Papers in JIB">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="USA">
+  </cell>
+  <cell col="1" row="1" text="2647">
+  </cell>
+  <cell col="2" row="1" text="France">
+  </cell>
+  <cell col="3" row="1" text="426">
+  </cell>
+  <cell col="4" row="1" text="Greece">
+  </cell>
+  <cell col="5" row="1" text="224">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Italy">
+  </cell>
+  <cell col="1" row="2" text="912">
+  </cell>
+  <cell col="2" row="2" text="Poland">
+  </cell>
+  <cell col="3" row="2" text="377">
+  </cell>
+  <cell col="4" row="2" text="Hungary">
+  </cell>
+  <cell col="5" row="2" text="192">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="China">
+  </cell>
+  <cell col="1" row="3" text="701">
+  </cell>
+  <cell col="2" row="3" text="Australia">
+  </cell>
+  <cell col="3" row="3" text="312">
+  </cell>
+  <cell col="4" row="3" text="Netherlands">
+  </cell>
+  <cell col="5" row="3" text="160">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="UK">
+  </cell>
+  <cell col="1" row="4" text="660">
+  </cell>
+  <cell col="2" row="4" text="Portugal">
+  </cell>
+  <cell col="3" row="4" text="302">
+  </cell>
+  <cell col="4" row="4" text="Sweden">
+  </cell>
+  <cell col="5" row="4" text="144">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Japan">
+  </cell>
+  <cell col="1" row="5" text="642">
+  </cell>
+  <cell col="2" row="5" text="Canada">
+  </cell>
+  <cell col="3" row="5" text="281">
+  </cell>
+  <cell col="4" row="5" text="Argentina">
+  </cell>
+  <cell col="5" row="5" text="132">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Germany">
+  </cell>
+  <cell col="1" row="6" text="510">
+  </cell>
+  <cell col="2" row="6" text="India">
+  </cell>
+  <cell col="3" row="6" text="276">
+  </cell>
+  <cell col="4" row="6" text="Switzerland">
+  </cell>
+  <cell col="5" row="6" text="125">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Spain">
+  </cell>
+  <cell col="1" row="7" text="486">
+  </cell>
+  <cell col="2" row="7" text="Brazil">
+  </cell>
+  <cell col="3" row="7" text="270">
+  </cell>
+  <cell col="4" row="7" text="Austria">
+  </cell>
+  <cell col="5" row="7" text="124">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="UK has 660 as Papers in JIB value." type="entailed">
+  </statement>
+  <statement id="1" text="There is only one Country given in table." type="refuted">
+  </statement>
+  <statement id="2" text="3647 is the highest Papers in JIB value compare to others ." type="refuted">
+  </statement>
+ </statements>
+</Table 4>
+<Table 3>
+ <caption text="
+
+   Number of papers in JIB (1973-present) dealing with the relevant elements of the Periodic Table (only those present in 20 or more papers are listed. Details about Cu, Zn and Pt are in
+   . Not-listed elements are present in 20 or less papers published in JIB, since 1973.
+   
+    Source WoS, July 1, 2020
+   
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Element">
+  </cell>
+  <cell col="1" row="0" text="1973–2020">
+  </cell>
+  <cell col="2" row="0" text="Element">
+  </cell>
+  <cell col="3" row="0" text="1973–2020">
+  </cell>
+  <cell col="4" row="0" text="Element">
+  </cell>
+  <cell col="5" row="0" text="1973–2020">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Ru">
+  </cell>
+  <cell col="1" row="1" text="498">
+  </cell>
+  <cell col="2" row="1" text="Cd">
+  </cell>
+  <cell col="3" row="1" text="199">
+  </cell>
+  <cell col="4" row="1" text="I">
+  </cell>
+  <cell col="5" row="1" text="41">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="S">
+  </cell>
+  <cell col="1" row="2" text="456">
+  </cell>
+  <cell col="2" row="2" text="Mo">
+  </cell>
+  <cell col="3" row="2" text="138">
+  </cell>
+  <cell col="4" row="2" text="Si">
+  </cell>
+  <cell col="5" row="2" text="41">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="P">
+  </cell>
+  <cell col="1" row="3" text="390">
+  </cell>
+  <cell col="2" row="3" text="Ag">
+  </cell>
+  <cell col="3" row="3" text="131">
+  </cell>
+  <cell col="4" row="3" text="Bi">
+  </cell>
+  <cell col="5" row="3" text="35">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Ni">
+  </cell>
+  <cell col="1" row="4" text="338">
+  </cell>
+  <cell col="2" row="4" text="Na">
+  </cell>
+  <cell col="3" row="4" text="130">
+  </cell>
+  <cell col="4" row="4" text="Ti">
+  </cell>
+  <cell col="5" row="4" text="35">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Al">
+  </cell>
+  <cell col="1" row="5" text="337">
+  </cell>
+  <cell col="2" row="5" text="Cr">
+  </cell>
+  <cell col="3" row="5" text="127">
+  </cell>
+  <cell col="4" row="5" text="As">
+  </cell>
+  <cell col="5" row="5" text="30">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Co">
+  </cell>
+  <cell col="1" row="6" text="324">
+  </cell>
+  <cell col="2" row="6" text="Mg">
+  </cell>
+  <cell col="3" row="6" text="100">
+  </cell>
+  <cell col="4" row="6" text="F">
+  </cell>
+  <cell col="5" row="6" text="32">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Cl">
+  </cell>
+  <cell col="1" row="7" text="320">
+  </cell>
+  <cell col="2" row="7" text="Se">
+  </cell>
+  <cell col="3" row="7" text="96">
+  </cell>
+  <cell col="4" row="7" text="B">
+  </cell>
+  <cell col="5" row="7" text="32">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="V">
+  </cell>
+  <cell col="1" row="8" text="310">
+  </cell>
+  <cell col="2" row="8" text="Hg">
+  </cell>
+  <cell col="3" row="8" text="75">
+  </cell>
+  <cell col="4" row="8" text="Re">
+  </cell>
+  <cell col="5" row="8" text="31">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Mn">
+  </cell>
+  <cell col="1" row="9" text="243">
+  </cell>
+  <cell col="2" row="9" text="Gd">
+  </cell>
+  <cell col="3" row="9" text="57">
+  </cell>
+  <cell col="4" row="9" text="W">
+  </cell>
+  <cell col="5" row="9" text="30">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Br">
+  </cell>
+  <cell col="1" row="10" text="239">
+  </cell>
+  <cell col="2" row="10" text="Sn">
+  </cell>
+  <cell col="3" row="10" text="55">
+  </cell>
+  <cell col="4" row="10" text="Os">
+  </cell>
+  <cell col="5" row="10" text="26">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Ca">
+  </cell>
+  <cell col="1" row="11" text="243">
+  </cell>
+  <cell col="2" row="11" text="Pb">
+  </cell>
+  <cell col="3" row="11" text="50">
+  </cell>
+  <cell col="4" row="11" text="Li">
+  </cell>
+  <cell col="5" row="11" text="24">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Au">
+  </cell>
+  <cell col="1" row="12" text="211">
+  </cell>
+  <cell col="2" row="12" text="K">
+  </cell>
+  <cell col="3" row="12" text="46">
+  </cell>
+  <cell col="4" row="12" text="Sb">
+  </cell>
+  <cell col="5" row="12" text="22">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Pd">
+  </cell>
+  <cell col="1" row="13" text="201">
+  </cell>
+  <cell col="2" row="13" text="Ir">
+  </cell>
+  <cell col="3" row="13" text="43">
+  </cell>
+  <cell col="4" row="13" text="Tc">
+  </cell>
+  <cell col="5" row="13" text="20">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 39 elements in the table." type="entailed">
+  </statement>
+  <statement id="1" text="The year is from 1973-2020." type="entailed">
+  </statement>
+  <statement id="2" text="The element Ru is having 498 and is highest." type="entailed">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Papers dealing with the top 4 metallic elements in JIB, and their growths since 1983, and a few specific topics (cancer and anticancer; oxidation and reduction).
+   
+    Data from WoS, July 1, 2020
+   
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Element">
+  </cell>
+  <cell col="1" row="0" text="1973–1983">
+  </cell>
+  <cell col="2" row="0" text="Last 25 years">
+  </cell>
+  <cell col="3" row="0" text="Last 10 years">
+  </cell>
+  <cell col="4" row="0" text="1973–2020">
+  </cell>
+  <cell col="5" row="0" text="Citations">
+  </cell>
+  <cell col="6" row="0" text="h index">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Cu">
+  </cell>
+  <cell col="1" row="1" text="90">
+  </cell>
+  <cell col="2" row="1" text="1500">
+  </cell>
+  <cell col="3" row="1" text="638">
+  </cell>
+  <cell col="4" row="1" text="1777">
+  </cell>
+  <cell col="5" row="1" text="46,615">
+  </cell>
+  <cell col="6" row="1" text="90">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Fe">
+  </cell>
+  <cell col="1" row="2" text="33">
+  </cell>
+  <cell col="2" row="2" text="1017">
+  </cell>
+  <cell col="3" row="2" text="348">
+  </cell>
+  <cell col="4" row="2" text="1153">
+  </cell>
+  <cell col="5" row="2" text="27,549">
+  </cell>
+  <cell col="6" row="2" text="74">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Pt">
+  </cell>
+  <cell col="1" row="3" text="15">
+  </cell>
+  <cell col="2" row="3" text="644">
+  </cell>
+  <cell col="3" row="3" text="283">
+  </cell>
+  <cell col="4" row="3" text="728">
+  </cell>
+  <cell col="5" row="3" text="19,882">
+  </cell>
+  <cell col="6" row="3" text="65">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Zn">
+  </cell>
+  <cell col="1" row="4" text="35">
+  </cell>
+  <cell col="2" row="4" text="590">
+  </cell>
+  <cell col="3" row="4" text="267">
+  </cell>
+  <cell col="4" row="4" text="691">
+  </cell>
+  <cell col="5" row="4" text="17,392">
+  </cell>
+  <cell col="6" row="4" text="62">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Cancer and anticancer">
+  </cell>
+  <cell col="1" row="5" text="8">
+  </cell>
+  <cell col="2" row="5" text="1177">
+  </cell>
+  <cell col="3" row="5" text="832">
+  </cell>
+  <cell col="4" row="5" text="1201">
+  </cell>
+  <cell col="5" row="5" text="32,343">
+  </cell>
+  <cell col="6" row="5" text="76">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Oxidation or reduction">
+  </cell>
+  <cell col="1" row="6" text="38">
+  </cell>
+  <cell col="2" row="6" text="1354">
+  </cell>
+  <cell col="3" row="6" text="570">
+  </cell>
+  <cell col="4" row="6" text="1488">
+  </cell>
+  <cell col="5" row="6" text="37,550">
+  </cell>
+  <cell col="6" row="6" text="84">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Fe h index is around 74." type="entailed">
+  </statement>
+  <statement id="1" text="Pt of Last 10 years is 570." type="refuted">
+  </statement>
+  <statement id="2" text="The highest Citations is 17,392." type="refuted">
+  </statement>
+  <statement id="5" text="On the other hand, a frequently studied topic like oxidation/reduction has been present from the very beginning in the journal." type="entailed">
+  </statement>
+ </statements>
+</Table 2>

@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="t0010" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 2
+       </label>
+<caption id="cn040">
+<simple-para id="sp070" view="all">
+         Model parameters, their description and ranges for the simulation experiments.
+        </simple-para>
+</caption>
+<tgroup cols="3">
+<colspec align="left" colname="col1"/>
+<colspec align="left" colname="col2"/>
+<colspec align="left" colname="col3"/>
+<thead>
+<tr trsep="1" valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Parameter
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Description
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Range
+          </td>
+</tr>
+</thead>
+<tbody>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si2.svg">
+<mml:mtr>
+<mml:msub>
+<mml:mtr>
+<mml:mi>
+                c
+               </mml:mi>
+</mml:mtr>
+<mml:mtr>
+<mml:mi mathvariant="italic">
+                disp
+               </mml:mi>
+</mml:mtr>
+</mml:msub>
+</mml:mtr>
+</mml:math>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Dispensation frequency threshold in days
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           60 (fixed)
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            motivtype
+           </italic>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Motivation type
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           constant, seasonal, sigmoidal, exponential, sinusoidal
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>
+            initsupply
+           </italic>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Initial supply available
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           [0, 100]
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si3.svg">
+<mml:mtr>
+<mml:msub>
+<mml:mtr>
+<mml:mi>
+                c
+               </mml:mi>
+</mml:mtr>
+<mml:mtr>
+<mml:mi mathvariant="italic">
+                const
+               </mml:mi>
+</mml:mtr>
+</mml:msub>
+</mml:mtr>
+</mml:math>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Motivation parameter of constant model
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           [0.95, 0.75, 0.5, 0.2]
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si4.svg">
+<mml:mtr>
+<mml:msub>
+<mml:mtr>
+<mml:mi>
+                c
+               </mml:mi>
+</mml:mtr>
+<mml:mtr>
+<mml:mi mathvariant="italic">
+                fprob
+               </mml:mi>
+</mml:mtr>
+</mml:msub>
+</mml:mtr>
+</mml:math>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Probability of forgetting
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           [0.8, 0.6, 0.4, 0.2, 0.1, 0.0]
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si5.svg">
+<mml:mtr>
+<mml:msub>
+<mml:mtr>
+<mml:mi>
+                c
+               </mml:mi>
+</mml:mtr>
+<mml:mtr>
+<mml:mi mathvariant="italic">
+                offset
+               </mml:mi>
+</mml:mtr>
+</mml:msub>
+</mml:mtr>
+</mml:math>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Model specific parameter. Timeliness of motivation change
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           [540, 450, 360, 270, 180, 90, 0]
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si6.svg">
+<mml:mtr>
+<mml:msub>
+<mml:mtr>
+<mml:mi>
+                c
+               </mml:mi>
+</mml:mtr>
+<mml:mtr>
+<mml:mi mathvariant="italic">
+                gap
+               </mml:mi>
+</mml:mtr>
+</mml:msub>
+</mml:mtr>
+</mml:math>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Sigmoidal model parameter. Defines the gap (in days) between motivation changes
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           [200, 100, 50, 30]
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si7.svg">
+<mml:mtr>
+<mml:msub>
+<mml:mtr>
+<mml:mi>
+                c
+               </mml:mi>
+</mml:mtr>
+<mml:mtr>
+<mml:mi mathvariant="italic">
+                decline
+               </mml:mi>
+</mml:mtr>
+</mml:msub>
+</mml:mtr>
+</mml:math>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Model specific parameter. Frequency or magnitude of motivation change
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           [300, 270, 200, 100, 50, 40, 30, 20, 10, 5, 3, 2, 1, 0.7, 0.5, 0.2, 0.1]
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si8.svg">
+<mml:mtr>
+<mml:msub>
+<mml:mtr>
+<mml:mi>
+                c
+               </mml:mi>
+</mml:mtr>
+<mml:mtr>
+<mml:mi mathvariant="italic">
+                seasonality
+               </mml:mi>
+</mml:mtr>
+</mml:msub>
+</mml:mtr>
+</mml:math>
+</td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Seasonal model parameter. Rapid increase in motivation at fixed intervals
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           [400, 365]
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html>

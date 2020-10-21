@@ -1,0 +1,734 @@
+<Table 1>
+ <caption text="
+
+   miRNAs involved in CRC development.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="miRNAs">
+  </cell>
+  <cell col="1" row="0" text="Targets">
+  </cell>
+  <cell col="2" row="0" text="Functions">
+  </cell>
+  <cell col="3" row="0" text="References">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="miR-21">
+  </cell>
+  <cell col="1" row="1" text="PDCD4">
+  </cell>
+  <cell col="2" row="1" text="Invasion and metastasis promotion">
+  </cell>
+  <cell col="3" row="1" text="[
+     
+      45
+     
+     ]">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="miR-194">
+  </cell>
+  <cell col="1" row="2" text="MAP4K4, AKT2">
+  </cell>
+  <cell col="2" row="2" text="Proliferation, apoptosis, invasion, migration, cell cycle">
+  </cell>
+  <cell col="3" row="2" text="[
+     
+      72
+     
+     ,
+     
+      73
+     
+     ]">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="miR-497">
+  </cell>
+  <cell col="1" row="3" text="VEGFA">
+  </cell>
+  <cell col="2" row="3" text="Inhibition of invasion and metastasis">
+  </cell>
+  <cell col="3" row="3" text="[
+     
+      74
+     
+     ]">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="miR-148b">
+  </cell>
+  <cell col="1" row="4" text="CCK2R">
+  </cell>
+  <cell col="2" row="4" text="Induction of cell proliferation">
+  </cell>
+  <cell col="3" row="4" text="[
+     
+      75
+     
+     ]">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="miR-409-3p">
+  </cell>
+  <cell col="1" row="5" text="GAB1">
+  </cell>
+  <cell col="2" row="5" text="Inhibition of tumor progression and metastasis">
+  </cell>
+  <cell col="3" row="5" text="[
+     
+      76
+     
+     ]">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="miR-92a">
+  </cell>
+  <cell col="1" row="6" text="KLF4">
+  </cell>
+  <cell col="2" row="6" text="Promotion of cell growth and migration">
+  </cell>
+  <cell col="3" row="6" text="[
+     
+      77
+     
+     ]">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="miR-100">
+  </cell>
+  <cell col="1" row="7" text="RAP1B">
+  </cell>
+  <cell col="2" row="7" text="Cell proliferation, invasion, apoptosis">
+  </cell>
+  <cell col="3" row="7" text="[
+     
+      78
+     
+     ]">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="miR-34a">
+  </cell>
+  <cell col="1" row="8" text="E2F1, SIRT1, FMNL2, E2F5, SNHG7">
+  </cell>
+  <cell col="2" row="8" text="Proliferation, invasiveness, metastasis, apoptosis,chemo-resistance">
+  </cell>
+  <cell col="3" row="8" text="[
+     
+      79–81
+     
+     ]">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="miR-638">
+  </cell>
+  <cell col="1" row="9" text="SOX2">
+  </cell>
+  <cell col="2" row="9" text="Cell invasion, migration, EMT">
+  </cell>
+  <cell col="3" row="9" text="[
+     
+      82
+     
+     ]">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="miR-320">
+  </cell>
+  <cell col="1" row="10" text="FOXO4 and PDCD4">
+  </cell>
+  <cell col="2" row="10" text="Inhibition of cell proliferation">
+  </cell>
+  <cell col="3" row="10" text="[
+     
+      83
+     
+     ]">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="miR-126">
+  </cell>
+  <cell col="1" row="11" text="PI3K, VCAM-1, CXCR4, VEGFA,IRS1, RhoA">
+  </cell>
+  <cell col="2" row="11" text="Proliferation, invasion, migration, cell cycle, angiogenesis, hematopoiesis">
+  </cell>
+  <cell col="3" row="11" text="[
+     
+      84
+     
+     ,
+     
+      85
+     
+     ]">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Let-7c">
+  </cell>
+  <cell col="1" row="12" text="KRAS, MMP11 and PBX3">
+  </cell>
+  <cell col="2" row="12" text="Metastasis induction">
+  </cell>
+  <cell col="3" row="12" text="[
+     
+      86
+     
+     ]">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="miR-503">
+  </cell>
+  <cell col="1" row="13" text="calcium-sensing receptor">
+  </cell>
+  <cell col="2" row="13" text="Induction of proliferation migration and invasion">
+  </cell>
+  <cell col="3" row="13" text="[
+     
+      87
+     
+     ]">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="miR-206">
+  </cell>
+  <cell col="1" row="14" text="NOTCH3">
+  </cell>
+  <cell col="2" row="14" text="Cell proliferation, migration, apoptosis, cell cycle arrest">
+  </cell>
+  <cell col="3" row="14" text="[
+     
+      88
+     
+     ]">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="miR-375">
+  </cell>
+  <cell col="1" row="15" text="Bcl-2">
+  </cell>
+  <cell col="2" row="15" text="Inhibition of tumor progression">
+  </cell>
+  <cell col="3" row="15" text="[
+     
+      89
+     
+     ]">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="miR-18a">
+  </cell>
+  <cell col="1" row="16" text="K-Ras">
+  </cell>
+  <cell col="2" row="16" text="Cell proliferation, anchorage-independent growth">
+  </cell>
+  <cell col="3" row="16" text="[
+     
+      90
+     
+     ]">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="miR-133a">
+  </cell>
+  <cell col="1" row="17" text="FSCN1,LASP1">
+  </cell>
+  <cell col="2" row="17" text="Cell proliferation, invasion, migration, tumor growth, intrahepatic and pulmonary metastasis, phosphorylation of ERK/MEK">
+  </cell>
+  <cell col="3" row="17" text="[
+     
+      91
+     
+     ,
+     
+      92
+     
+     ]">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="miR-1246">
+  </cell>
+  <cell col="1" row="18" text="CCNG2">
+  </cell>
+  <cell col="2" row="18" text="Induction of cell growth and metastasis">
+  </cell>
+  <cell col="3" row="18" text="[
+     
+      93
+     
+     ]">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="MiR-330">
+  </cell>
+  <cell col="1" row="19" text="CDC42">
+  </cell>
+  <cell col="2" row="19" text="Proliferation">
+  </cell>
+  <cell col="3" row="19" text="[
+     
+      94
+     
+     ]">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="miR-320a">
+  </cell>
+  <cell col="1" row="20" text="β-catenin,Rac1">
+  </cell>
+  <cell col="2" row="20" text="Cell proliferation, migration, invasion, cell cycle arrest">
+  </cell>
+  <cell col="3" row="20" text="[
+     
+      95
+     
+     ]">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="miR-181b">
+  </cell>
+  <cell col="1" row="21" text="RASSF1A">
+  </cell>
+  <cell col="2" row="21" text="Proliferation and enhance cell survival">
+  </cell>
+  <cell col="3" row="21" text="[
+     
+      96
+     
+     ]">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="miR-124">
+  </cell>
+  <cell col="1" row="22" text="STAT3">
+  </cell>
+  <cell col="2" row="22" text="Cell proliferation, apoptosis, tumor growth, differentiation, prognosis">
+  </cell>
+  <cell col="3" row="22" text="[
+     
+      97
+     
+     ]">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="miR-144">
+  </cell>
+  <cell col="1" row="23" text="GSPT1">
+  </cell>
+  <cell col="2" row="23" text="Inhibition of proliferation and migration">
+  </cell>
+  <cell col="3" row="23" text="[
+     
+      98
+     
+     ]">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="miR-145">
+  </cell>
+  <cell col="1" row="24" text="Fascin-1">
+  </cell>
+  <cell col="2" row="24" text="Cell proliferation, invasion, tumor growth, pulmonary metastasis">
+  </cell>
+  <cell col="3" row="24" text="[
+     
+      99
+     
+     ]">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="miR-218">
+  </cell>
+  <cell col="1" row="25" text="BMI-1">
+  </cell>
+  <cell col="2" row="25" text="Cell proliferation, apoptosis, cell cycle arrest">
+  </cell>
+  <cell col="3" row="25" text="[
+     
+      100
+     
+     ]">
+  </cell>
+ </row>
+ <row row="26">
+  <cell col="0" row="26" text="miR-99b-5p">
+  </cell>
+  <cell col="1" row="26" text="mTOR">
+  </cell>
+  <cell col="2" row="26" text="Inhibition of metastasis formation">
+  </cell>
+  <cell col="3" row="26" text="[
+     
+      101
+     
+     ]">
+  </cell>
+ </row>
+ <row row="27">
+  <cell col="0" row="27" text="miR-429">
+  </cell>
+  <cell col="1" row="27" text="Onecut2">
+  </cell>
+  <cell col="2" row="27" text="Cell migration, invasion, EMT">
+  </cell>
+  <cell col="3" row="27" text="[
+     
+      102
+     
+     ]">
+  </cell>
+ </row>
+ <row row="28">
+  <cell col="0" row="28" text="miR-139">
+  </cell>
+  <cell col="1" row="28" text="IGF-IR,
+     
+     NOTCH1">
+  </cell>
+  <cell col="2" row="28" text="Cell proliferation, migration, invasion, apoptosis, tumor growth, cell cycle arrest">
+  </cell>
+  <cell col="3" row="28" text="[
+     
+      103
+     
+     ]">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="All the values are unique." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 5>
+ <caption text="
+
+   miRNAs and their expression pattern in response to drugs in CRC.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="miRNAs">
+  </cell>
+  <cell col="1" row="0" text="Treatment regimen">
+  </cell>
+  <cell col="2" row="0" text="Expression">
+  </cell>
+  <cell col="3" row="0" text="Ref.">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="miR-21">
+  </cell>
+  <cell col="1" row="1" text="5-FU">
+  </cell>
+  <cell col="2" row="1" text="High">
+  </cell>
+  <cell col="3" row="1" text="[
+     
+      46
+     
+     ]">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="miR-214">
+  </cell>
+  <cell col="1" row="2" text="5-Fu">
+  </cell>
+  <cell col="2" row="2" text="Low">
+  </cell>
+  <cell col="3" row="2" text="[
+     
+      148
+     
+     ]">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="miR-143">
+  </cell>
+  <cell col="1" row="3" text="Oxaliplatin">
+  </cell>
+  <cell col="2" row="3" text="Low">
+  </cell>
+  <cell col="3" row="3" text="[
+     
+      149
+     
+     ]">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="miR-126">
+  </cell>
+  <cell col="1" row="4" text="oxaliplatin">
+  </cell>
+  <cell col="2" row="4" text="Low">
+  </cell>
+  <cell col="3" row="4" text="[
+     
+      150
+     
+     ]">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="miR-10b">
+  </cell>
+  <cell col="1" row="5" text="5-Fu">
+  </cell>
+  <cell col="2" row="5" text="High">
+  </cell>
+  <cell col="3" row="5" text="[
+     
+      151
+     
+     ]">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="miR-519c">
+  </cell>
+  <cell col="1" row="6" text="5-FU">
+  </cell>
+  <cell col="2" row="6" text="Low">
+  </cell>
+  <cell col="3" row="6" text="[
+     
+      152
+     
+     ]">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="miR-129">
+  </cell>
+  <cell col="1" row="7" text="5-Fu">
+  </cell>
+  <cell col="2" row="7" text="High">
+  </cell>
+  <cell col="3" row="7" text="[
+     
+      153
+     
+     ]">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="miR-625-3p">
+  </cell>
+  <cell col="1" row="8" text="oxaliplatin">
+  </cell>
+  <cell col="2" row="8" text="High">
+  </cell>
+  <cell col="3" row="8" text="[
+     
+      154
+     
+     ]">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="miR-148a">
+  </cell>
+  <cell col="1" row="9" text="5-FU">
+  </cell>
+  <cell col="2" row="9" text="Low">
+  </cell>
+  <cell col="3" row="9" text="[
+     
+      155
+     
+     ]">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="miR-106a, miR-130b, miR-484">
+  </cell>
+  <cell col="1" row="10" text="5-FU, oxaliplatin">
+  </cell>
+  <cell col="2" row="10" text="High">
+  </cell>
+  <cell col="3" row="10" text="[
+     
+      156
+     
+     ]">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="miR-143">
+  </cell>
+  <cell col="1" row="11" text="Oxaliplatin">
+  </cell>
+  <cell col="2" row="11" text="Low">
+  </cell>
+  <cell col="3" row="11" text="[
+     
+      157
+     
+     ]">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="miR-215, miR-190b, miR-29b-2">
+  </cell>
+  <cell col="1" row="12" text="5-FU">
+  </cell>
+  <cell col="2" row="12" text="High">
+  </cell>
+  <cell col="3" row="12" text="[
+     
+      158
+     
+     ]">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="miR-625-3p">
+  </cell>
+  <cell col="1" row="13" text="Oxaliplatin">
+  </cell>
+  <cell col="2" row="13" text="High">
+  </cell>
+  <cell col="3" row="13" text="[
+     
+      154
+     
+     ]">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="miR-320e">
+  </cell>
+  <cell col="1" row="14" text="5-FU, oxaliplatin">
+  </cell>
+  <cell col="2" row="14" text="High">
+  </cell>
+  <cell col="3" row="14" text="[
+     
+      159
+     
+     ]">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="miR-150">
+  </cell>
+  <cell col="1" row="15" text="5-FU">
+  </cell>
+  <cell col="2" row="15" text="Low">
+  </cell>
+  <cell col="3" row="15" text="[
+     
+      68
+     
+     ]">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="miR-143">
+  </cell>
+  <cell col="1" row="16" text="5-Fu">
+  </cell>
+  <cell col="2" row="16" text="Low">
+  </cell>
+  <cell col="3" row="16" text="[
+     
+      160
+     
+     ]">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="miR-203">
+  </cell>
+  <cell col="1" row="17" text="Oxaliplatin">
+  </cell>
+  <cell col="2" row="17" text="High">
+  </cell>
+  <cell col="3" row="17" text="[
+     
+      161
+     
+     ]">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="miR-494">
+  </cell>
+  <cell col="1" row="18" text="5-Fu">
+  </cell>
+  <cell col="2" row="18" text="Low">
+  </cell>
+  <cell col="3" row="18" text="[
+     
+      68
+     
+     ]">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="miR-1914">
+  </cell>
+  <cell col="1" row="19" text="oxaliplatin">
+  </cell>
+  <cell col="2" row="19" text="Low">
+  </cell>
+  <cell col="3" row="19" text="[
+     
+      162
+     
+     ]">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="miR-34a">
+  </cell>
+  <cell col="1" row="20" text="5-Fu">
+  </cell>
+  <cell col="2" row="20" text="Low">
+  </cell>
+  <cell col="3" row="20" text="[
+     
+      69
+     
+     ]">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="miR-126 has oxaliplatin as Treatment regimen ." type="">
+  </statement>
+  <statement id="3" text="miR-203 has High Expression." type="">
+  </statement>
+  <statement id="4" text="miR-21 has 15-FU as Treatment regimen." type="">
+  </statement>
+ </statements>
+</Table 5>

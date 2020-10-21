@@ -1,0 +1,1826 @@
+<Table 4>
+ <caption text="
+
+   Impact of R&amp;D volatility on stock return in sub-periods.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Dependent Variable: Stock return (R)">
+  </cell>
+  <cell col="1" row="0" text="1980–1989">
+  </cell>
+  <cell col="2" row="0" text="1990–1999">
+  </cell>
+  <cell col="3" row="0" text="2000–2009">
+  </cell>
+  <cell col="4" row="0" text="2010–2018">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="RD
+     
+      Intensity">
+  </cell>
+  <cell col="1" row="1" text="0.5303
+     
+
+       **">
+  </cell>
+  <cell col="2" row="1" text="0.0955
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="1" text="0.1364
+     
+
+       ***">
+  </cell>
+  <cell col="4" row="1" text="−0.0779
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="">
+  </cell>
+  <cell col="1" row="2" text="(2.12)">
+  </cell>
+  <cell col="2" row="2" text="(2.05)">
+  </cell>
+  <cell col="3" row="2" text="(5.33)">
+  </cell>
+  <cell col="4" row="2" text="(−3.06)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="KZ">
+  </cell>
+  <cell col="1" row="3" text="0.0007">
+  </cell>
+  <cell col="2" row="3" text="0.0004">
+  </cell>
+  <cell col="3" row="3" text="−0.0001">
+  </cell>
+  <cell col="4" row="3" text="0.0002">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="">
+  </cell>
+  <cell col="1" row="4" text="(0.65)">
+  </cell>
+  <cell col="2" row="4" text="(1.14)">
+  </cell>
+  <cell col="3" row="4" text="(−0.48)">
+  </cell>
+  <cell col="4" row="4" text="(1.38)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="KZ × RD
+     
+      Intensity">
+  </cell>
+  <cell col="1" row="5" text="−0.0002">
+  </cell>
+  <cell col="2" row="5" text="−0.0026">
+  </cell>
+  <cell col="3" row="5" text="0.0024
+     
+
+       **">
+  </cell>
+  <cell col="4" row="5" text="−0.0002">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="">
+  </cell>
+  <cell col="1" row="6" text="(−0.02)">
+  </cell>
+  <cell col="2" row="6" text="(−1.35)">
+  </cell>
+  <cell col="3" row="6" text="(2.09)">
+  </cell>
+  <cell col="4" row="6" text="(−0.22)">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="RD
+     
+      Volatility">
+  </cell>
+  <cell col="1" row="7" text="0.2292
+     
+
+       **">
+  </cell>
+  <cell col="2" row="7" text="0.0475
+     
+
+       **">
+  </cell>
+  <cell col="3" row="7" text="0.0935
+     
+
+       ***">
+  </cell>
+  <cell col="4" row="7" text="0.0128">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="">
+  </cell>
+  <cell col="1" row="8" text="(2.20)">
+  </cell>
+  <cell col="2" row="8" text="(2.04)">
+  </cell>
+  <cell col="3" row="8" text="(5.16)">
+  </cell>
+  <cell col="4" row="8" text="(0.68)">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="RD
+     
+      Volatility
+     
+     × KZ">
+  </cell>
+  <cell col="1" row="9" text="−0.0105">
+  </cell>
+  <cell col="2" row="9" text="−0.0002">
+  </cell>
+  <cell col="3" row="9" text="0.0015
+     
+      *">
+  </cell>
+  <cell col="4" row="9" text="−0.0010">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="">
+  </cell>
+  <cell col="1" row="10" text="(−1.47)">
+  </cell>
+  <cell col="2" row="10" text="(−0.14)">
+  </cell>
+  <cell col="3" row="10" text="(1.87)">
+  </cell>
+  <cell col="4" row="10" text="(−1.38)">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Change">
+  </cell>
+  <cell col="1" row="11" text="−0.0003">
+  </cell>
+  <cell col="2" row="11" text="0.0026
+     
+
+       **">
+  </cell>
+  <cell col="3" row="11" text="0.0040
+     
+
+       ***">
+  </cell>
+  <cell col="4" row="11" text="0.0026
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="">
+  </cell>
+  <cell col="1" row="12" text="(−0.10)">
+  </cell>
+  <cell col="2" row="12" text="(2.28)">
+  </cell>
+  <cell col="3" row="12" text="(3.68)">
+  </cell>
+  <cell col="4" row="12" text="(3.11)">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="ROA">
+  </cell>
+  <cell col="1" row="13" text="0.0183">
+  </cell>
+  <cell col="2" row="13" text="−0.0082">
+  </cell>
+  <cell col="3" row="13" text="0.0126
+     
+
+       ***">
+  </cell>
+  <cell col="4" row="13" text="−0.0009">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="">
+  </cell>
+  <cell col="1" row="14" text="(0.91)">
+  </cell>
+  <cell col="2" row="14" text="(−1.56)">
+  </cell>
+  <cell col="3" row="14" text="(3.88)">
+  </cell>
+  <cell col="4" row="14" text="(−0.28)">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="ln(ME)">
+  </cell>
+  <cell col="1" row="15" text="0.0037
+     
+
+       **">
+  </cell>
+  <cell col="2" row="15" text="0.0005">
+  </cell>
+  <cell col="3" row="15" text="−0.0002">
+  </cell>
+  <cell col="4" row="15" text="−0.0012
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="">
+  </cell>
+  <cell col="1" row="16" text="(2.42)">
+  </cell>
+  <cell col="2" row="16" text="(1.15)">
+  </cell>
+  <cell col="3" row="16" text="(−0.45)">
+  </cell>
+  <cell col="4" row="16" text="(−3.49)">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="RD
+     
+      Intensity
+     
+     × ln(ME)">
+  </cell>
+  <cell col="1" row="17" text="−0.0442
+     
+
+       ***">
+  </cell>
+  <cell col="2" row="17" text="−0.0032">
+  </cell>
+  <cell col="3" row="17" text="−0.0100
+     
+
+       ***">
+  </cell>
+  <cell col="4" row="17" text="0.00455
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="">
+  </cell>
+  <cell col="1" row="18" text="(−2.16)">
+  </cell>
+  <cell col="2" row="18" text="(−0.86)">
+  </cell>
+  <cell col="3" row="18" text="(−4.72)">
+  </cell>
+  <cell col="4" row="18" text="(3.02)">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="RD
+     
+      Volatility
+     
+     × ln(ME)">
+  </cell>
+  <cell col="1" row="19" text="−0.0201
+     
+
+       **">
+  </cell>
+  <cell col="2" row="19" text="−0.0039
+     
+
+       **">
+  </cell>
+  <cell col="3" row="19" text="−0.0081
+     
+
+       ***">
+  </cell>
+  <cell col="4" row="19" text="−0.0032
+     
+
+       **">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="">
+  </cell>
+  <cell col="1" row="20" text="(−2.29)">
+  </cell>
+  <cell col="2" row="20" text="(−2.04)">
+  </cell>
+  <cell col="3" row="20" text="(−5.41)">
+  </cell>
+  <cell col="4" row="20" text="(−2.16)">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="ln(BE/ME)">
+  </cell>
+  <cell col="1" row="21" text="0.0056
+     
+
+       **">
+  </cell>
+  <cell col="2" row="21" text="0.0043
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="21" text="0.0086
+     
+
+       ***">
+  </cell>
+  <cell col="4" row="21" text="−0.0001">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="">
+  </cell>
+  <cell col="1" row="22" text="(2.10)">
+  </cell>
+  <cell col="2" row="22" text="(5.60)">
+  </cell>
+  <cell col="3" row="22" text="(13.66)">
+  </cell>
+  <cell col="4" row="22" text="(−0.22)">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="Momentum">
+  </cell>
+  <cell col="1" row="23" text="−0.0018">
+  </cell>
+  <cell col="2" row="23" text="0.0096
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="23" text="−0.0010">
+  </cell>
+  <cell col="4" row="23" text="−0.0012">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="">
+  </cell>
+  <cell col="1" row="24" text="(−0.35)">
+  </cell>
+  <cell col="2" row="24" text="(7.27)">
+  </cell>
+  <cell col="3" row="24" text="(−0.91)">
+  </cell>
+  <cell col="4" row="24" text="(−0.96)">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="Consumer">
+  </cell>
+  <cell col="1" row="25" text="0.0008">
+  </cell>
+  <cell col="2" row="25" text="0.0010">
+  </cell>
+  <cell col="3" row="25" text="0.0002">
+  </cell>
+  <cell col="4" row="25" text="0.0012">
+  </cell>
+ </row>
+ <row row="26">
+  <cell col="0" row="26" text="">
+  </cell>
+  <cell col="1" row="26" text="(0.17)">
+  </cell>
+  <cell col="2" row="26" text="(0.48)">
+  </cell>
+  <cell col="3" row="26" text="(0.09)">
+  </cell>
+  <cell col="4" row="26" text="(0.82)">
+  </cell>
+ </row>
+ <row row="27">
+  <cell col="0" row="27" text="Manufacturing">
+  </cell>
+  <cell col="1" row="27" text="0.0002">
+  </cell>
+  <cell col="2" row="27" text="0.0004">
+  </cell>
+  <cell col="3" row="27" text="0.0038
+     
+
+       **">
+  </cell>
+  <cell col="4" row="27" text="0.0010">
+  </cell>
+ </row>
+ <row row="28">
+  <cell col="0" row="28" text="">
+  </cell>
+  <cell col="1" row="28" text="(0.05)">
+  </cell>
+  <cell col="2" row="28" text="(0.28)">
+  </cell>
+  <cell col="3" row="28" text="(2.05)">
+  </cell>
+  <cell col="4" row="28" text="(0.74)">
+  </cell>
+ </row>
+ <row row="29">
+  <cell col="0" row="29" text="High Technology">
+  </cell>
+  <cell col="1" row="29" text="−0.0059
+     
+      *">
+  </cell>
+  <cell col="2" row="29" text="0.0105
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="29" text="−0.0004">
+  </cell>
+  <cell col="4" row="29" text="−0.0000">
+  </cell>
+ </row>
+ <row row="30">
+  <cell col="0" row="30" text="">
+  </cell>
+  <cell col="1" row="30" text="(−1.85)">
+  </cell>
+  <cell col="2" row="30" text="(7.63)">
+  </cell>
+  <cell col="3" row="30" text="(−0.23)">
+  </cell>
+  <cell col="4" row="30" text="(−0.02)">
+  </cell>
+ </row>
+ <row row="31">
+  <cell col="0" row="31" text="Health">
+  </cell>
+  <cell col="1" row="31" text="0.0099
+     
+
+       **">
+  </cell>
+  <cell col="2" row="31" text="0.0016">
+  </cell>
+  <cell col="3" row="31" text="0.0050
+     
+
+       ***">
+  </cell>
+  <cell col="4" row="31" text="−0.0019">
+  </cell>
+ </row>
+ <row row="32">
+  <cell col="0" row="32" text="">
+  </cell>
+  <cell col="1" row="32" text="(1.98)">
+  </cell>
+  <cell col="2" row="32" text="(0.85)">
+  </cell>
+  <cell col="3" row="32" text="(2.74)">
+  </cell>
+  <cell col="4" row="32" text="(−1.41)">
+  </cell>
+ </row>
+ <row row="33">
+  <cell col="0" row="33" text="Obs.">
+  </cell>
+  <cell col="1" row="33" text="7,497">
+  </cell>
+  <cell col="2" row="33" text="86,729">
+  </cell>
+  <cell col="3" row="33" text="141,281">
+  </cell>
+  <cell col="4" row="33" text="92,798">
+  </cell>
+ </row>
+ <row row="34">
+  <cell col="0" row="34" text="Adj R-Sq">
+  </cell>
+  <cell col="1" row="34" text="−0.0080">
+  </cell>
+  <cell col="2" row="34" text="0.0026">
+  </cell>
+  <cell col="3" row="34" text="0.0026">
+  </cell>
+  <cell col="4" row="34" text="−0.0003">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are seventeen dependant variables are given in the table." type="entailed">
+  </statement>
+  <statement id="1" text="RD intensity has negative impact only in the period 2010-2018." type="entailed">
+  </statement>
+  <statement id="2" text="None of the variables has same impact in the same period." type="entailed">
+  </statement>
+  <statement id="5" text="RD intensity has positive impact only in the period 2010-2018." type="refuted">
+  </statement>
+  <statement id="7" text="Table 4 presents our regression results." type="entailed">
+  </statement>
+  <statement id="8" text="The impact of R&amp;D volatility on stock return is not immediately apparent because of the multiple interaction terms." type="entailed">
+  </statement>
+  <statement id="9" text="However, sensitivity analysis shows that only the coefficients for RD Volatility and RD Volatility  ln(ME)" type="entailed">
+  </statement>
+ </statements>
+</Table 4>
+<Table 3>
+ <caption text="
+
+   Interaction of volatility with level of R&amp;D expenditure and firm size.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Dependent Variable: Stock return (R)">
+  </cell>
+  <cell col="1" row="0" text="R&amp;D
+     
+      Inc
+     
+     /R&amp;D
+     
+      Dec
+     
+
+     (1)">
+  </cell>
+  <cell col="2" row="0" text="Firm Size
+     
+     (2)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="RD
+     
+      Intensity">
+  </cell>
+  <cell col="1" row="1" text="0.0181">
+  </cell>
+  <cell col="2" row="1" text="0.0953">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="">
+  </cell>
+  <cell col="1" row="2" text="(4.87)">
+  </cell>
+  <cell col="2" row="2" text="(5.95)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="KZ">
+  </cell>
+  <cell col="1" row="3" text="−0.0001">
+  </cell>
+  <cell col="2" row="3" text="0.0000">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="">
+  </cell>
+  <cell col="1" row="4" text="(−0.59)">
+  </cell>
+  <cell col="2" row="4" text="(0.23)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="KZ × RD
+     
+      Intensity">
+  </cell>
+  <cell col="1" row="5" text="0.0019">
+  </cell>
+  <cell col="2" row="5" text="0.0013">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="">
+  </cell>
+  <cell col="1" row="6" text="(2.71)">
+  </cell>
+  <cell col="2" row="6" text="(1.82)">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="RD
+     
+      Volatility">
+  </cell>
+  <cell col="1" row="7" text="−0.0080">
+  </cell>
+  <cell col="2" row="7" text="0.0850">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="">
+  </cell>
+  <cell col="1" row="8" text="(−3.55)">
+  </cell>
+  <cell col="2" row="8" text="(7.45)">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="RD
+     
+      Volatility
+     
+     × KZ">
+  </cell>
+  <cell col="1" row="9" text="0.0009">
+  </cell>
+  <cell col="2" row="9" text="0.0005">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="">
+  </cell>
+  <cell col="1" row="10" text="(1.85)">
+  </cell>
+  <cell col="2" row="10" text="(1.10)">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Change">
+  </cell>
+  <cell col="1" row="11" text="0.0032">
+  </cell>
+  <cell col="2" row="11" text="0.0032">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="">
+  </cell>
+  <cell col="1" row="12" text="(5.33)">
+  </cell>
+  <cell col="2" row="12" text="(5.35)">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="ROA">
+  </cell>
+  <cell col="1" row="13" text="0.0044">
+  </cell>
+  <cell col="2" row="13" text="0.0067">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="">
+  </cell>
+  <cell col="1" row="14" text="(2.11)">
+  </cell>
+  <cell col="2" row="14" text="(3.17)">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="ln(ME)">
+  </cell>
+  <cell col="1" row="15" text="−0.0015">
+  </cell>
+  <cell col="2" row="15" text="0.000">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="">
+  </cell>
+  <cell col="1" row="16" text="(−9.69)">
+  </cell>
+  <cell col="2" row="16" text="(0.18)">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="RD
+     
+      Intensity
+     
+     × ln(ME)">
+  </cell>
+  <cell col="1" row="17" text="">
+  </cell>
+  <cell col="2" row="17" text="−0.0062">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="">
+  </cell>
+  <cell col="1" row="18" text="">
+  </cell>
+  <cell col="2" row="18" text="(−4.96)">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="RD
+     
+      Volatility
+     
+     × ln(ME)">
+  </cell>
+  <cell col="1" row="19" text="">
+  </cell>
+  <cell col="2" row="19" text="−0.0077">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="">
+  </cell>
+  <cell col="1" row="20" text="">
+  </cell>
+  <cell col="2" row="20" text="(−8.26)">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="ln(BE/ME)">
+  </cell>
+  <cell col="1" row="21" text="0.0048">
+  </cell>
+  <cell col="2" row="21" text="0.0049">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="">
+  </cell>
+  <cell col="1" row="22" text="(13.22)">
+  </cell>
+  <cell col="2" row="22" text="(13.32)">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="Momentum">
+  </cell>
+  <cell col="1" row="23" text="0.0020">
+  </cell>
+  <cell col="2" row="23" text="0.0020">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="">
+  </cell>
+  <cell col="1" row="24" text="(2.90)">
+  </cell>
+  <cell col="2" row="24" text="(2.94)">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="Consumer">
+  </cell>
+  <cell col="1" row="25" text="0.0014">
+  </cell>
+  <cell col="2" row="25" text="0.0010">
+  </cell>
+ </row>
+ <row row="26">
+  <cell col="0" row="26" text="">
+  </cell>
+  <cell col="1" row="26" text="(1.20)">
+  </cell>
+  <cell col="2" row="26" text="(0.90)">
+  </cell>
+ </row>
+ <row row="27">
+  <cell col="0" row="27" text="Manufacturing">
+  </cell>
+  <cell col="1" row="27" text="0.0023">
+  </cell>
+  <cell col="2" row="27" text="0.0019">
+  </cell>
+ </row>
+ <row row="28">
+  <cell col="0" row="28" text="">
+  </cell>
+  <cell col="1" row="28" text="(2.39)">
+  </cell>
+  <cell col="2" row="28" text="(2.02)">
+  </cell>
+ </row>
+ <row row="29">
+  <cell col="0" row="29" text="High Technology">
+  </cell>
+  <cell col="1" row="29" text="0.0023">
+  </cell>
+  <cell col="2" row="29" text="0.0027">
+  </cell>
+ </row>
+ <row row="30">
+  <cell col="0" row="30" text="">
+  </cell>
+  <cell col="1" row="30" text="(2.85)">
+  </cell>
+  <cell col="2" row="30" text="(3.42)">
+  </cell>
+ </row>
+ <row row="31">
+  <cell col="0" row="31" text="Health">
+  </cell>
+  <cell col="1" row="31" text="0.0035">
+  </cell>
+  <cell col="2" row="31" text="0.0038">
+  </cell>
+ </row>
+ <row row="32">
+  <cell col="0" row="32" text="">
+  </cell>
+  <cell col="1" row="32" text="(3.55)">
+  </cell>
+  <cell col="2" row="32" text="(3.81)">
+  </cell>
+ </row>
+ <row row="33">
+  <cell col="0" row="33" text="Obs.">
+  </cell>
+  <cell col="1" row="33" text="328,305">
+  </cell>
+  <cell col="2" row="33" text="328,305">
+  </cell>
+ </row>
+ <row row="34">
+  <cell col="0" row="34" text="Adj R-Sq">
+  </cell>
+  <cell col="1" row="34" text="0.0002">
+  </cell>
+  <cell col="2" row="34" text="0.0005">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 18 different types of variables in the given table." type="entailed">
+  </statement>
+  <statement id="2" text="The health has a range between 3.55 to 3.81." type="entailed">
+  </statement>
+ </statements>
+</Table 3>
+<Table A1>
+ <caption text="
+
+   Sample selection process.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Process">
+  </cell>
+  <cell col="1" row="0" text="Number of firms/firm-month observations">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Firms listed in the US between 1980 and 2018">
+  </cell>
+  <cell col="1" row="1" text="35,318 firms">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Selecting firms with the ratios of R&amp;D expense to Sales (R&amp;D) that are less than unity and firms for which we can calculate standard deviations of R&amp;D during the sample period">
+  </cell>
+  <cell col="1" row="2" text="5,178 firms">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Matching with monthly stock return data">
+  </cell>
+  <cell col="1" row="3" text="886,601 firm-month observations (unbalanced sample)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Considering the main variable of interest R&amp;D expenditure volatility">
+  </cell>
+  <cell col="1" row="4" text="435,624 firm-month observations (unbalanced sample)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Firms listed in the US between 1980 and 2018 are 35,318 firms." type="entailed">
+  </statement>
+  <statement id="2" text="886,601 firm-month observations are Matching with monthly stock return data" type="entailed">
+  </statement>
+  <statement id="3" text="Considering the main variable of interest R&amp;D expenditure volatility 435,624 firm-month observations" type="entailed">
+  </statement>
+  <statement id="5" text="There are six Process." type="refuted">
+  </statement>
+  <statement id="7" text="Appendix A presents the sample selection process." type="entailed">
+  </statement>
+ </statements>
+</Table A1>
+<Table 5>
+ <caption text="
+
+   Impact of R&amp;D volatility on return using alternative volatility measures.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Dependent Variable: Stock return (R)">
+  </cell>
+  <cell col="1" row="0" text="RD
+     
+      Volatility
+     
+
+     (1)">
+  </cell>
+  <cell col="2" row="0" text="RD
+     
+      VolStd
+     
+
+     (2)">
+  </cell>
+  <cell col="3" row="0" text="RD
+     
+      VolAbs
+     
+
+     (3)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="RD
+     
+      Intensity">
+  </cell>
+  <cell col="1" row="1" text="0.0953
+     
+
+       ***">
+  </cell>
+  <cell col="2" row="1" text="0.0950
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="1" text="0.1009
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="">
+  </cell>
+  <cell col="1" row="2" text="(5.95)">
+  </cell>
+  <cell col="2" row="2" text="(6.53)">
+  </cell>
+  <cell col="3" row="2" text="(6.93)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="KZ">
+  </cell>
+  <cell col="1" row="3" text="0.0000">
+  </cell>
+  <cell col="2" row="3" text="0.0002
+     
+      *">
+  </cell>
+  <cell col="3" row="3" text="0.0003
+     
+
+       **">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="">
+  </cell>
+  <cell col="1" row="4" text="(0.23)">
+  </cell>
+  <cell col="2" row="4" text="(1.93)">
+  </cell>
+  <cell col="3" row="4" text="(2.10)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="KZ × RD
+     
+      Intensity">
+  </cell>
+  <cell col="1" row="5" text="0.0013
+     
+      *">
+  </cell>
+  <cell col="2" row="5" text="0.0009">
+  </cell>
+  <cell col="3" row="5" text="0.0010
+     
+      *">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="">
+  </cell>
+  <cell col="1" row="6" text="(1.82)">
+  </cell>
+  <cell col="2" row="6" text="(1.45)">
+  </cell>
+  <cell col="3" row="6" text="(1.69)">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="RD
+     
+      Volatility">
+  </cell>
+  <cell col="1" row="7" text="0.0850
+     
+
+       ***">
+  </cell>
+  <cell col="2" row="7" text="0.0675
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="7" text="0.0295
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="">
+  </cell>
+  <cell col="1" row="8" text="(7.45)">
+  </cell>
+  <cell col="2" row="8" text="(10.68)">
+  </cell>
+  <cell col="3" row="8" text="(5.51)">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="RD
+     
+      Volatility
+     
+     × KZ">
+  </cell>
+  <cell col="1" row="9" text="0.0005">
+  </cell>
+  <cell col="2" row="9" text="−0.0003">
+  </cell>
+  <cell col="3" row="9" text="−0.0002">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="">
+  </cell>
+  <cell col="1" row="10" text="(1.10)">
+  </cell>
+  <cell col="2" row="10" text="(−1.00)">
+  </cell>
+  <cell col="3" row="10" text="(−1.09)">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Change">
+  </cell>
+  <cell col="1" row="11" text="0.0032
+     
+
+       ***">
+  </cell>
+  <cell col="2" row="11" text="0.0038
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="11" text="0.0043
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="">
+  </cell>
+  <cell col="1" row="12" text="(5.35)">
+  </cell>
+  <cell col="2" row="12" text="(6.53)">
+  </cell>
+  <cell col="3" row="12" text="(7.07)">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="ROA">
+  </cell>
+  <cell col="1" row="13" text="0.0067
+     
+
+       ***">
+  </cell>
+  <cell col="2" row="13" text="0.0096
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="13" text="0.0114
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="">
+  </cell>
+  <cell col="1" row="14" text="(3.17)">
+  </cell>
+  <cell col="2" row="14" text="(5.45)">
+  </cell>
+  <cell col="3" row="14" text="(6.66)">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="ln(ME)">
+  </cell>
+  <cell col="1" row="15" text="0.000">
+  </cell>
+  <cell col="2" row="15" text="−0.0002">
+  </cell>
+  <cell col="3" row="15" text="−0.0006
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="">
+  </cell>
+  <cell col="1" row="16" text="(0.18)">
+  </cell>
+  <cell col="2" row="16" text="(−0.93)">
+  </cell>
+  <cell col="3" row="16" text="(−3.06)">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="RD
+     
+      Intensity
+     
+     × ln(ME)">
+  </cell>
+  <cell col="1" row="17" text="−0.0062
+     
+
+       ***">
+  </cell>
+  <cell col="2" row="17" text="−0.0063
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="17" text="−0.0065
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="">
+  </cell>
+  <cell col="1" row="18" text="(−4.96)">
+  </cell>
+  <cell col="2" row="18" text="(−5.36)">
+  </cell>
+  <cell col="3" row="18" text="(−5.54)">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="RD
+     
+      Volatility
+     
+     × ln(ME)">
+  </cell>
+  <cell col="1" row="19" text="−0.0077
+     
+
+       ***">
+  </cell>
+  <cell col="2" row="19" text="−0.0066
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="19" text="−0.0025
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="">
+  </cell>
+  <cell col="1" row="20" text="(−8.26)">
+  </cell>
+  <cell col="2" row="20" text="(−12.48)">
+  </cell>
+  <cell col="3" row="20" text="(−5.70)">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="ln(BE/ME)">
+  </cell>
+  <cell col="1" row="21" text="0.0049
+     
+
+       ***">
+  </cell>
+  <cell col="2" row="21" text="0.0051
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="21" text="0.0052
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="">
+  </cell>
+  <cell col="1" row="22" text="(13.32)">
+  </cell>
+  <cell col="2" row="22" text="(14.84)">
+  </cell>
+  <cell col="3" row="22" text="(15.09)">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="Momentum">
+  </cell>
+  <cell col="1" row="23" text="0.0020
+     
+
+       ***">
+  </cell>
+  <cell col="2" row="23" text="0.0030
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="23" text="0.0032
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="">
+  </cell>
+  <cell col="1" row="24" text="(2.94)">
+  </cell>
+  <cell col="2" row="24" text="(4.77)">
+  </cell>
+  <cell col="3" row="24" text="(4.96)">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="Consumer">
+  </cell>
+  <cell col="1" row="25" text="0.0010">
+  </cell>
+  <cell col="2" row="25" text="0.0009">
+  </cell>
+  <cell col="3" row="25" text="0.0011">
+  </cell>
+ </row>
+ <row row="26">
+  <cell col="0" row="26" text="">
+  </cell>
+  <cell col="1" row="26" text="(0.90)">
+  </cell>
+  <cell col="2" row="26" text="(0.78)">
+  </cell>
+  <cell col="3" row="26" text="(1.02)">
+  </cell>
+ </row>
+ <row row="27">
+  <cell col="0" row="27" text="Manufacturing">
+  </cell>
+  <cell col="1" row="27" text="0.0019
+     
+
+       **">
+  </cell>
+  <cell col="2" row="27" text="0.0023
+     
+
+       **">
+  </cell>
+  <cell col="3" row="27" text="0.0023
+     
+
+       **">
+  </cell>
+ </row>
+ <row row="28">
+  <cell col="0" row="28" text="">
+  </cell>
+  <cell col="1" row="28" text="(2.02)">
+  </cell>
+  <cell col="2" row="28" text="(2.44)">
+  </cell>
+  <cell col="3" row="28" text="(2.47)">
+  </cell>
+ </row>
+ <row row="29">
+  <cell col="0" row="29" text="High Technology">
+  </cell>
+  <cell col="1" row="29" text="0.0027
+     
+
+       ***">
+  </cell>
+  <cell col="2" row="29" text="0.0030
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="29" text="0.0033
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="30">
+  <cell col="0" row="30" text="">
+  </cell>
+  <cell col="1" row="30" text="(3.42)">
+  </cell>
+  <cell col="2" row="30" text="(3.91)">
+  </cell>
+  <cell col="3" row="30" text="(4.29)">
+  </cell>
+ </row>
+ <row row="31">
+  <cell col="0" row="31" text="Health">
+  </cell>
+  <cell col="1" row="31" text="0.0038
+     
+
+       ***">
+  </cell>
+  <cell col="2" row="31" text="0.0035
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="31" text="0.0039
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="32">
+  <cell col="0" row="32" text="">
+  </cell>
+  <cell col="1" row="32" text="(3.81)">
+  </cell>
+  <cell col="2" row="32" text="(3.58)">
+  </cell>
+  <cell col="3" row="32" text="(4.08)">
+  </cell>
+ </row>
+ <row row="33">
+  <cell col="0" row="33" text="Obs.">
+  </cell>
+  <cell col="1" row="33" text="328,305">
+  </cell>
+  <cell col="2" row="33" text="394,971">
+  </cell>
+  <cell col="3" row="33" text="394,976">
+  </cell>
+ </row>
+ <row row="34">
+  <cell col="0" row="34" text="Adj R-Sq">
+  </cell>
+  <cell col="1" row="34" text="0.0005">
+  </cell>
+  <cell col="2" row="34" text="0.0013">
+  </cell>
+  <cell col="3" row="34" text="0.0008">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="ROA RD VolStd 0.0096." type="entailed">
+  </statement>
+  <statement id="2" text="0.0035 Health is RD VolStd." type="entailed">
+  </statement>
+  <statement id="5" text="KZ RD VolAbs is 0.0009 ." type="refuted">
+  </statement>
+ </statements>
+</Table 5>
+<Table 2>
+ <caption text="
+
+   Impact of R&amp;D volatility on stock return (baseline test).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Dependent Variable: Stock return (R)">
+  </cell>
+  <cell col="1" row="0" text="Li (2011)
+     
+
+     (1)">
+  </cell>
+  <cell col="2" row="0" text="Li (2011)
+     
+
+     (2)">
+  </cell>
+  <cell col="3" row="0" text="Baseline model
+     
+     (3)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="RD
+     
+      Intensity">
+  </cell>
+  <cell col="1" row="1" text="0.0017">
+  </cell>
+  <cell col="2" row="1" text="0.0207
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="1" text="0.0172
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="">
+  </cell>
+  <cell col="1" row="2" text="(0.30)">
+  </cell>
+  <cell col="2" row="2" text="(6.70)">
+  </cell>
+  <cell col="3" row="2" text="(4.64)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="KZ">
+  </cell>
+  <cell col="1" row="3" text="0.0001">
+  </cell>
+  <cell col="2" row="3" text="0.0002">
+  </cell>
+  <cell col="3" row="3" text="0.0001">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="">
+  </cell>
+  <cell col="1" row="4" text="(0.43)">
+  </cell>
+  <cell col="2" row="4" text="(1.56)">
+  </cell>
+  <cell col="3" row="4" text="(−0.70)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="KZ × RD
+     
+      Intensity">
+  </cell>
+  <cell col="1" row="5" text="0.0017
+     
+
+       **">
+  </cell>
+  <cell col="2" row="5" text="0.0006">
+  </cell>
+  <cell col="3" row="5" text="0.0018
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="">
+  </cell>
+  <cell col="1" row="6" text="(2.19)">
+  </cell>
+  <cell col="2" row="6" text="(1.13)">
+  </cell>
+  <cell col="3" row="6" text="(2.65)">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="RD
+     
+      Volatility">
+  </cell>
+  <cell col="1" row="7" text="">
+  </cell>
+  <cell col="2" row="7" text="">
+  </cell>
+  <cell col="3" row="7" text="−0.0085
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="">
+  </cell>
+  <cell col="1" row="8" text="">
+  </cell>
+  <cell col="2" row="8" text="">
+  </cell>
+  <cell col="3" row="8" text="(−3.80)">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="KZ × RD
+     
+      Volatility">
+  </cell>
+  <cell col="1" row="9" text="">
+  </cell>
+  <cell col="2" row="9" text="">
+  </cell>
+  <cell col="3" row="9" text="0.0009
+     
+      *">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="">
+  </cell>
+  <cell col="1" row="10" text="">
+  </cell>
+  <cell col="2" row="10" text="">
+  </cell>
+  <cell col="3" row="10" text="(1.79)">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="ROA">
+  </cell>
+  <cell col="1" row="11" text="0.0040
+     
+      *">
+  </cell>
+  <cell col="2" row="11" text="0.0147
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="11" text="0.0056
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="">
+  </cell>
+  <cell col="1" row="12" text="(1.74)">
+  </cell>
+  <cell col="2" row="12" text="(9.61)">
+  </cell>
+  <cell col="3" row="12" text="(2.72)">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="ln (ME)">
+  </cell>
+  <cell col="1" row="13" text="−0.0223
+     
+
+       ***">
+  </cell>
+  <cell col="2" row="13" text="−0.0017
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="13" text="−0.0014
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="">
+  </cell>
+  <cell col="1" row="14" text="(−53.99)">
+  </cell>
+  <cell col="2" row="14" text="(−12.34)">
+  </cell>
+  <cell col="3" row="14" text="(−9.54)">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="ln (BE/ME)">
+  </cell>
+  <cell col="1" row="15" text="0.0068
+     
+
+       ***">
+  </cell>
+  <cell col="2" row="15" text="0.0049
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="15" text="0.0045
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="">
+  </cell>
+  <cell col="1" row="16" text="(13.28)">
+  </cell>
+  <cell col="2" row="16" text="(15.32)">
+  </cell>
+  <cell col="3" row="16" text="(12.54)">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="Momentum">
+  </cell>
+  <cell col="1" row="17" text="−0.0101
+     
+
+       ***">
+  </cell>
+  <cell col="2" row="17" text="0.0033
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="17" text="0.0020
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="">
+  </cell>
+  <cell col="1" row="18" text="(−16.55)">
+  </cell>
+  <cell col="2" row="18" text="(5.36)">
+  </cell>
+  <cell col="3" row="18" text="(2.99)">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="Consumer">
+  </cell>
+  <cell col="1" row="19" text="">
+  </cell>
+  <cell col="2" row="19" text="0.0012">
+  </cell>
+  <cell col="3" row="19" text="0.0012">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="">
+  </cell>
+  <cell col="1" row="20" text="">
+  </cell>
+  <cell col="2" row="20" text="(1.14)">
+  </cell>
+  <cell col="3" row="20" text="(1.09)">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="Manufacturing">
+  </cell>
+  <cell col="1" row="21" text="">
+  </cell>
+  <cell col="2" row="21" text="0.0029
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="21" text="0.0022
+     
+
+       **">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="">
+  </cell>
+  <cell col="1" row="22" text="">
+  </cell>
+  <cell col="2" row="22" text="(3.23)">
+  </cell>
+  <cell col="3" row="22" text="(2.36)">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="High Technology">
+  </cell>
+  <cell col="1" row="23" text="">
+  </cell>
+  <cell col="2" row="23" text="0.0031
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="23" text="0.0024
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="">
+  </cell>
+  <cell col="1" row="24" text="">
+  </cell>
+  <cell col="2" row="24" text="(4.24)">
+  </cell>
+  <cell col="3" row="24" text="(3.09)">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="Health">
+  </cell>
+  <cell col="1" row="25" text="">
+  </cell>
+  <cell col="2" row="25" text="0.0043
+     
+
+       ***">
+  </cell>
+  <cell col="3" row="25" text="0.0037
+     
+
+       ***">
+  </cell>
+ </row>
+ <row row="26">
+  <cell col="0" row="26" text="">
+  </cell>
+  <cell col="1" row="26" text="">
+  </cell>
+  <cell col="2" row="26" text="(4.50)">
+  </cell>
+  <cell col="3" row="26" text="(3.80)">
+  </cell>
+ </row>
+ <row row="27">
+  <cell col="0" row="27" text="Obs.">
+  </cell>
+  <cell col="1" row="27" text="444,957">
+  </cell>
+  <cell col="2" row="27" text="444,957">
+  </cell>
+  <cell col="3" row="27" text="330,849">
+  </cell>
+ </row>
+ <row row="28">
+  <cell col="0" row="28" text="">
+  </cell>
+  <cell col="1" row="28" text="0.0025">
+  </cell>
+  <cell col="2" row="28" text="0.0006">
+  </cell>
+  <cell col="3" row="28" text="0.0002">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="RD Volatility and KZ  RD Volatility has only impact on model 3." type="entailed">
+  </statement>
+  <statement id="5" text="Next, we add the R&amp;D volatility term and its interaction with the financial constraint KZ index in Model (3)." type="entailed">
+  </statement>
+ </statements>
+</Table 2>

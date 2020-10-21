@@ -1,0 +1,60 @@
+<Table 1>
+ <caption text="
+
+   Distribution of the outcome variable.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="How informed are you about the increase of greenhouse gases in the atmosphere?">
+  </cell>
+  <cell col="1" row="0" text="N (%)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="I have never heard of this">
+  </cell>
+  <cell col="1" row="1" text="51,090 (9.8%)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="I have heard about this but I would not be able to explain what it is really about">
+  </cell>
+  <cell col="1" row="2" text="127,728 (24.6%)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="I know something about this and could explain the general issue">
+  </cell>
+  <cell col="1" row="3" text="182,110 (35.1%)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="I am familiar with this and I would be able to explain this well">
+  </cell>
+  <cell col="1" row="4" text="107,172 (20.6%)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Missing">
+  </cell>
+  <cell col="1" row="5" text="51,234 (9.9%)">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Total">
+  </cell>
+  <cell col="1" row="6" text="519,334 (100%)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The Table describe about the increase of greenhouse gases in the atmosphere." type="">
+  </statement>
+  <statement id="1" text="I know something about this and could explain the general issue will have Highest N percentage." type="">
+  </statement>
+  <statement id="2" text="I have never heard of this will have High N percentage." type="">
+  </statement>
+  <statement id="4" text="I know something about this and could explain the general issue will have Lowest N percentage." type="">
+  </statement>
+ </statements>
+</Table 1>
