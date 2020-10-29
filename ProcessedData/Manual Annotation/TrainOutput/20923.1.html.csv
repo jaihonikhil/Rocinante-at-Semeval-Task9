@@ -1,0 +1,5 @@
+Contig metrics#SPAdes v.3.6.0#SPAdes v.3.6.0#Newbler v.2.9 + HUMGGAT#Velvet v.1.2.0#CLC v.8.5#CLC v.8.5#SPAdes v.3.13.0#Unicycler v.0.4.8
+"Library type#Illumina paired-end#Illumina mate pair#Illumina paired-end; Illumina mate pair#Illumina paired-end#Illumina paired-end#Illumina mate pair#Illumina paired-end, Illumina mate pair, Oxford Nanopore#Illumina paired-end, Illumina mate pair, Oxford Nanopore"
+"Largest contig#573,930#972,016#971,946#462,794#868,994#1883,967#1304,922#3347,597"
+Number of contigs ≥1000 bp#43#45#22#47#45#18#16#10
+"N50#259,753#240,878#427,030#179,795#317,660#1283,905#794,261#3347,597"
