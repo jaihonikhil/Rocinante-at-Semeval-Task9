@@ -1,0 +1,733 @@
+<Table 4>
+ <caption text="
+
+   Correlations of the trait and trait-specific method factors in the CT-C(M-1) model.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Trait factors">
+  </cell>
+  <cell col="4" row="0" text="Trait-specific method factors">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="Self-report">
+  </cell>
+  <cell col="4" row="1" text="Teacher report">
+  </cell>
+  <cell col="7" row="1" text="Mother report">
+  </cell>
+  <cell col="10" row="1" text="Father report">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="1" row="2" text="EMO">
+  </cell>
+  <cell col="2" row="2" text="SOC">
+  </cell>
+  <cell col="3" row="2" text="ASC">
+  </cell>
+  <cell col="4" row="2" text="EMO">
+  </cell>
+  <cell col="5" row="2" text="SOC">
+  </cell>
+  <cell col="6" row="2" text="ASC">
+  </cell>
+  <cell col="7" row="2" text="EMO">
+  </cell>
+  <cell col="8" row="2" text="SOC">
+  </cell>
+  <cell col="9" row="2" text="ASC">
+  </cell>
+  <cell col="10" row="2" text="EMO">
+  </cell>
+  <cell col="11" row="2" text="SOC">
+  </cell>
+  <cell col="12" row="2" text="ASC">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="EMO-S">
+  </cell>
+  <cell col="1" row="3" text="">
+  </cell>
+  <cell col="2" row="3" text="">
+  </cell>
+  <cell col="3" row="3" text="">
+  </cell>
+  <cell col="4" row="3" text="">
+  </cell>
+  <cell col="5" row="3" text="">
+  </cell>
+  <cell col="6" row="3" text="">
+  </cell>
+  <cell col="7" row="3" text="">
+  </cell>
+  <cell col="8" row="3" text="">
+  </cell>
+  <cell col="9" row="3" text="">
+  </cell>
+  <cell col="10" row="3" text="">
+  </cell>
+  <cell col="11" row="3" text="">
+  </cell>
+  <cell col="12" row="3" text="">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="SOC-S">
+  </cell>
+  <cell col="1" row="4" text="0.43
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="2" row="4" text="">
+  </cell>
+  <cell col="3" row="4" text="">
+  </cell>
+  <cell col="4" row="4" text="">
+  </cell>
+  <cell col="5" row="4" text="">
+  </cell>
+  <cell col="6" row="4" text="">
+  </cell>
+  <cell col="7" row="4" text="">
+  </cell>
+  <cell col="8" row="4" text="">
+  </cell>
+  <cell col="9" row="4" text="">
+  </cell>
+  <cell col="10" row="4" text="">
+  </cell>
+  <cell col="11" row="4" text="">
+  </cell>
+  <cell col="12" row="4" text="">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="ASC-S">
+  </cell>
+  <cell col="1" row="5" text="0.40
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="2" row="5" text="0.38
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="3" row="5" text="">
+  </cell>
+  <cell col="4" row="5" text="">
+  </cell>
+  <cell col="5" row="5" text="">
+  </cell>
+  <cell col="6" row="5" text="">
+  </cell>
+  <cell col="7" row="5" text="">
+  </cell>
+  <cell col="8" row="5" text="">
+  </cell>
+  <cell col="9" row="5" text="">
+  </cell>
+  <cell col="10" row="5" text="">
+  </cell>
+  <cell col="11" row="5" text="">
+  </cell>
+  <cell col="12" row="5" text="">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="EMO-T">
+  </cell>
+  <cell col="1" row="6" text="–">
+  </cell>
+  <cell col="2" row="6" text="0.18
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="3" row="6" text="0.22
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="4" row="6" text="">
+  </cell>
+  <cell col="5" row="6" text="">
+  </cell>
+  <cell col="6" row="6" text="">
+  </cell>
+  <cell col="7" row="6" text="">
+  </cell>
+  <cell col="8" row="6" text="">
+  </cell>
+  <cell col="9" row="6" text="">
+  </cell>
+  <cell col="10" row="6" text="">
+  </cell>
+  <cell col="11" row="6" text="">
+  </cell>
+  <cell col="12" row="6" text="">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="SOC-T">
+  </cell>
+  <cell col="1" row="7" text="−0.02">
+  </cell>
+  <cell col="2" row="7" text="–">
+  </cell>
+  <cell col="3" row="7" text="0.11
+     
+
+       ⁎">
+  </cell>
+  <cell col="4" row="7" text="0.62
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="5" row="7" text="">
+  </cell>
+  <cell col="6" row="7" text="">
+  </cell>
+  <cell col="7" row="7" text="">
+  </cell>
+  <cell col="8" row="7" text="">
+  </cell>
+  <cell col="9" row="7" text="">
+  </cell>
+  <cell col="10" row="7" text="">
+  </cell>
+  <cell col="11" row="7" text="">
+  </cell>
+  <cell col="12" row="7" text="">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="ASC-T">
+  </cell>
+  <cell col="1" row="8" text="−0.19
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="2" row="8" text="−0.11
+     
+
+       ⁎">
+  </cell>
+  <cell col="3" row="8" text="–">
+  </cell>
+  <cell col="4" row="8" text="0.38
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="5" row="8" text="0.41
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="6" row="8" text="">
+  </cell>
+  <cell col="7" row="8" text="">
+  </cell>
+  <cell col="8" row="8" text="">
+  </cell>
+  <cell col="9" row="8" text="">
+  </cell>
+  <cell col="10" row="8" text="">
+  </cell>
+  <cell col="11" row="8" text="">
+  </cell>
+  <cell col="12" row="8" text="">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="EMO-M">
+  </cell>
+  <cell col="1" row="9" text="–">
+  </cell>
+  <cell col="2" row="9" text="0.18
+     
+
+       ⁎">
+  </cell>
+  <cell col="3" row="9" text="0.14
+     
+
+       ⁎">
+  </cell>
+  <cell col="4" row="9" text="0.30
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="5" row="9" text="0.23
+     
+
+       ⁎⁎">
+  </cell>
+  <cell col="6" row="9" text="0.22
+     
+
+       ⁎⁎">
+  </cell>
+  <cell col="7" row="9" text="">
+  </cell>
+  <cell col="8" row="9" text="">
+  </cell>
+  <cell col="9" row="9" text="">
+  </cell>
+  <cell col="10" row="9" text="">
+  </cell>
+  <cell col="11" row="9" text="">
+  </cell>
+  <cell col="12" row="9" text="">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="SOC-M">
+  </cell>
+  <cell col="1" row="10" text="−0.08">
+  </cell>
+  <cell col="2" row="10" text="–">
+  </cell>
+  <cell col="3" row="10" text="−0.05">
+  </cell>
+  <cell col="4" row="10" text="0.24
+     
+
+       ⁎⁎">
+  </cell>
+  <cell col="5" row="10" text="0.45
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="6" row="10" text="0.34
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="7" row="10" text="0.69
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="8" row="10" text="">
+  </cell>
+  <cell col="9" row="10" text="">
+  </cell>
+  <cell col="10" row="10" text="">
+  </cell>
+  <cell col="11" row="10" text="">
+  </cell>
+  <cell col="12" row="10" text="">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="ASC-M">
+  </cell>
+  <cell col="1" row="11" text="−0.10">
+  </cell>
+  <cell col="2" row="11" text="−0.18
+     
+
+       ⁎">
+  </cell>
+  <cell col="3" row="11" text="–">
+  </cell>
+  <cell col="4" row="11" text="0.16
+     
+
+       ⁎">
+  </cell>
+  <cell col="5" row="11" text="0.28
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="6" row="11" text="0.58
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="7" row="11" text="0.46
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="8" row="11" text="0.60
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="9" row="11" text="">
+  </cell>
+  <cell col="10" row="11" text="">
+  </cell>
+  <cell col="11" row="11" text="">
+  </cell>
+  <cell col="12" row="11" text="">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="EMO-F">
+  </cell>
+  <cell col="1" row="12" text="–">
+  </cell>
+  <cell col="2" row="12" text="0.08">
+  </cell>
+  <cell col="3" row="12" text="0.14
+     
+
+       ⁎">
+  </cell>
+  <cell col="4" row="12" text="0.28
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="5" row="12" text="0.20
+     
+
+       ⁎">
+  </cell>
+  <cell col="6" row="12" text="0.13">
+  </cell>
+  <cell col="7" row="12" text="0.73
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="8" row="12" text="0.55
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="9" row="12" text="0.29
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="10" row="12" text="">
+  </cell>
+  <cell col="11" row="12" text="">
+  </cell>
+  <cell col="12" row="12" text="">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="SOC-F">
+  </cell>
+  <cell col="1" row="13" text="0.02">
+  </cell>
+  <cell col="2" row="13" text="–">
+  </cell>
+  <cell col="3" row="13" text="−0.06">
+  </cell>
+  <cell col="4" row="13" text="0.23
+     
+
+       ⁎⁎">
+  </cell>
+  <cell col="5" row="13" text="0.27
+     
+
+       ⁎⁎">
+  </cell>
+  <cell col="6" row="13" text="0.24
+     
+
+       ⁎⁎">
+  </cell>
+  <cell col="7" row="13" text="0.47
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="8" row="13" text="0.75
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="9" row="13" text="0.41
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="10" row="13" text="0.71
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="11" row="13" text="">
+  </cell>
+  <cell col="12" row="13" text="">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="ASC-F">
+  </cell>
+  <cell col="1" row="14" text="−0.12">
+  </cell>
+  <cell col="2" row="14" text="−0.06">
+  </cell>
+  <cell col="3" row="14" text="–">
+  </cell>
+  <cell col="4" row="14" text="0.17">
+  </cell>
+  <cell col="5" row="14" text="0.17">
+  </cell>
+  <cell col="6" row="14" text="0.49
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="7" row="14" text="0.39
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="8" row="14" text="0.44
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="9" row="14" text="0.92
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="10" row="14" text="0.46
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="11" row="14" text="0.54
+     
+
+       ⁎⁎⁎">
+  </cell>
+  <cell col="12" row="14" text="">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Self report under EMO of SOC-S is 0.43." type="entailed">
+  </statement>
+  <statement id="3" text="Father report under SOC of ASC-F is 0.54." type="entailed">
+  </statement>
+  <statement id="5" text="Teacher report under SOC of EMO-M is 0.22." type="refuted">
+  </statement>
+  <statement id="6" text="Mother report under ASC of EMO-F is 0.25." type="refuted">
+  </statement>
+ </statements>
+</Table 4>
+<Table 6>
+ <caption text="
+
+   Standardized regression coefficients and standard errors (in parentheses) on trait and method factors in the MIMIC models.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Trait factors">
+  </cell>
+  <cell col="4" row="0" text="Trait-specific method factors">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="Self-report (S)">
+  </cell>
+  <cell col="4" row="1" text="Teacher report (T)">
+  </cell>
+  <cell col="7" row="1" text="Mother report (M)">
+  </cell>
+  <cell col="10" row="1" text="Father report (F)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="1" row="2" text="EMO-S">
+  </cell>
+  <cell col="2" row="2" text="SOC-S">
+  </cell>
+  <cell col="3" row="2" text="ASC-S">
+  </cell>
+  <cell col="4" row="2" text="EMO-T">
+  </cell>
+  <cell col="5" row="2" text="SOC-T">
+  </cell>
+  <cell col="6" row="2" text="ASC-T">
+  </cell>
+  <cell col="7" row="2" text="EMO-M">
+  </cell>
+  <cell col="8" row="2" text="SOC-M">
+  </cell>
+  <cell col="9" row="2" text="ASC-M">
+  </cell>
+  <cell col="10" row="2" text="EMO-F">
+  </cell>
+  <cell col="11" row="2" text="SOC-F">
+  </cell>
+  <cell col="12" row="2" text="ASC-F">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Gender">
+  </cell>
+  <cell col="1" row="3" text="0.262
+     
+
+       ⁎⁎⁎
+      
+
+     (0.039)">
+  </cell>
+  <cell col="2" row="3" text="0.078 (0.045)">
+  </cell>
+  <cell col="3" row="3" text="0.029 (0.044)">
+  </cell>
+  <cell col="4" row="3" text="0.235
+     
+
+       ⁎⁎⁎
+      
+
+     (0.047)">
+  </cell>
+  <cell col="5" row="3" text="0.209
+     
+
+       ⁎⁎⁎
+      
+
+     (0.047)">
+  </cell>
+  <cell col="6" row="3" text="−0.011 (0.051)">
+  </cell>
+  <cell col="7" row="3" text="0.137
+     
+
+       ⁎
+      
+
+     (0.060)">
+  </cell>
+  <cell col="8" row="3" text="0.137
+     
+
+       ⁎
+      
+
+     (0.062)">
+  </cell>
+  <cell col="9" row="3" text="0.070 (0.063)">
+  </cell>
+  <cell col="10" row="3" text="0.044 (0.068)">
+  </cell>
+  <cell col="11" row="3" text="0.134 (0.070)">
+  </cell>
+  <cell col="12" row="3" text="0.034 (0.072)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="SEN">
+  </cell>
+  <cell col="1" row="4" text="−0.023 (0.040)">
+  </cell>
+  <cell col="2" row="4" text="−0.100
+     
+
+       ⁎⁎
+      
+
+     (0.041)">
+  </cell>
+  <cell col="3" row="4" text="−0.169
+     
+
+       ⁎⁎⁎
+      
+
+     (0.035)">
+  </cell>
+  <cell col="4" row="4" text="−0.217
+     
+
+       ⁎⁎⁎
+      
+
+     (0.043)">
+  </cell>
+  <cell col="5" row="4" text="−0.295
+     
+
+       ⁎⁎⁎
+      
+
+     (0.045)">
+  </cell>
+  <cell col="6" row="4" text="−0.425
+     
+
+       ⁎⁎⁎
+      
+
+     (0.041)">
+  </cell>
+  <cell col="7" row="4" text="−0.063 (0.068)">
+  </cell>
+  <cell col="8" row="4" text="−0.150
+     
+
+       ⁎
+      
+
+     (0.066)">
+  </cell>
+  <cell col="9" row="4" text="−0.370
+     
+
+       ⁎⁎⁎
+      
+
+     (0.058)">
+  </cell>
+  <cell col="10" row="4" text="−0.085 (0.075)">
+  </cell>
+  <cell col="11" row="4" text="−0.189
+     
+
+       ⁎
+      
+
+     (0.076)">
+  </cell>
+  <cell col="12" row="4" text="−0.425
+     
+
+       ⁎⁎⁎
+      
+
+     (0.068)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The table has been divided into two factors - Trait factors and Trait-specific method factors." type="entailed">
+  </statement>
+  <statement id="2" text="The values of Gender is SAME under all types of reports." type="refuted">
+  </statement>
+  <statement id="3" text="The value of ASC-S under Self-report (S) is 8.029 (0.644) under Gender." type="refuted">
+  </statement>
+ </statements>
+</Table 6>

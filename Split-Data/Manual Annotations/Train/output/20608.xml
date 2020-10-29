@@ -1,0 +1,334 @@
+<Table 1>
+ <caption text="
+
+   Rate of Return of different insulation technologies (
+   
+    Milieucentraal, 2019
+   
+   ).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Insulation technology">
+  </cell>
+  <cell col="1" row="0" text="Rate of Return (%)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Wall insulation">
+  </cell>
+  <cell col="1" row="1" text="11">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Floor insulation">
+  </cell>
+  <cell col="1" row="2" text="7">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Double glazing">
+  </cell>
+  <cell col="1" row="3" text="6">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Roof insulation">
+  </cell>
+  <cell col="1" row="4" text="8">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Rate of Return (%) ranges from 6 to 11." type="entailed">
+  </statement>
+  <statement id="2" text="Roof insulation is having 8% second highest of rate of return." type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 4>
+ <caption text="
+
+   Overview of the spread in different indicators between the groups participating in the public participatory planning session.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Indicator">
+  </cell>
+  <cell col="1" row="0" text="Mean">
+  </cell>
+  <cell col="2" row="0" text="St. Dev.">
+  </cell>
+  <cell col="3" row="0" text="Min.">
+  </cell>
+  <cell col="4" row="0" text="Max.">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Number of solar panels">
+  </cell>
+  <cell col="1" row="1" text="1,400">
+  </cell>
+  <cell col="2" row="1" text="1,570">
+  </cell>
+  <cell col="3" row="1" text="38">
+  </cell>
+  <cell col="4" row="1" text="7,612">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Buildings with solar panels">
+  </cell>
+  <cell col="1" row="2" text="62">
+  </cell>
+  <cell col="2" row="2" text="63">
+  </cell>
+  <cell col="3" row="2" text="6">
+  </cell>
+  <cell col="4" row="2" text="270">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Average number of solar panels per building">
+  </cell>
+  <cell col="1" row="3" text="28">
+  </cell>
+  <cell col="2" row="3" text="30">
+  </cell>
+  <cell col="3" row="3" text="2">
+  </cell>
+  <cell col="4" row="3" text="143">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Buildings insulated">
+  </cell>
+  <cell col="1" row="4" text="71">
+  </cell>
+  <cell col="2" row="4" text="87">
+  </cell>
+  <cell col="3" row="4" text="0">
+  </cell>
+  <cell col="4" row="4" text="344">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Buildings addressed">
+  </cell>
+  <cell col="1" row="5" text="132">
+  </cell>
+  <cell col="2" row="5" text="135">
+  </cell>
+  <cell col="3" row="5" text="8">
+  </cell>
+  <cell col="4" row="5" text="521">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="% buildings addressed with solar panels">
+  </cell>
+  <cell col="1" row="6" text="47">
+  </cell>
+  <cell col="2" row="6" text="27">
+  </cell>
+  <cell col="3" row="6" text="19">
+  </cell>
+  <cell col="4" row="6" text="100">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="% buildings addressed with insulation">
+  </cell>
+  <cell col="1" row="7" text="53">
+  </cell>
+  <cell col="2" row="7" text="27">
+  </cell>
+  <cell col="3" row="7" text="0">
+  </cell>
+  <cell col="4" row="7" text="81">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="'Number of solar panels' has highest Min. value." type="entailed">
+  </statement>
+ </statements>
+</Table 4>
+<Table 3>
+ <caption text="
+
+   Frequency of insulation combinations applied by the participants.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Combination">
+  </cell>
+  <cell col="1" row="0" text="Number of houses">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Other combinations">
+  </cell>
+  <cell col="1" row="1" text="572">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Floor, roof">
+  </cell>
+  <cell col="1" row="2" text="566">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Floor, roof, wall">
+  </cell>
+  <cell col="1" row="3" text="102">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Floor, roof, wall, window">
+  </cell>
+  <cell col="1" row="4" text="1,676">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The combination of Floor, roof, wall, window has more number of houses." type="entailed">
+  </statement>
+  <statement id="1" text="The only one combination has window combined with." type="entailed">
+  </statement>
+  <statement id="2" text="The number of other combination houses are 572." type="entailed">
+  </statement>
+  <statement id="3" text="There are five types of insulation combinations." type="refuted">
+  </statement>
+  <statement id="4" text="The number of other combination houses are 102." type="refuted">
+  </statement>
+ </statements>
+</Table 3>
+<Table 5>
+ <caption text="
+
+   Impact analysis of the joint plans, showing investment cost, reduction of gas consumption, electricity production, reduction of CO2-emission, and payback period per technology.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Investment cost (€)">
+  </cell>
+  <cell col="2" row="0" text="Reduction in gas consumption (m3)">
+  </cell>
+  <cell col="3" row="0" text="Electricity production (kWh)">
+  </cell>
+  <cell col="4" row="0" text="Reduction in CO2 emission (kg CO2-eq)">
+  </cell>
+  <cell col="5" row="0" text="Payback period (years)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Solar panels">
+  </cell>
+  <cell col="1" row="1" text="6,512,100‬">
+  </cell>
+  <cell col="2" row="1" text="–">
+  </cell>
+  <cell col="3" row="1" text="6,423,219">
+  </cell>
+  <cell col="4" row="1" text="3,211,609">
+  </cell>
+  <cell col="5" row="1" text="5.3">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="All insulation">
+  </cell>
+  <cell col="1" row="2" text="81,908,719">
+  </cell>
+  <cell col="2" row="2" text="8,878,861">
+  </cell>
+  <cell col="3" row="2" text="–">
+  </cell>
+  <cell col="4" row="2" text="17,580,145">
+  </cell>
+  <cell col="5" row="2" text="15.3">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="All technologies">
+  </cell>
+  <cell col="1" row="3" text="88,420,819">
+  </cell>
+  <cell col="2" row="3" text="8,878,861">
+  </cell>
+  <cell col="3" row="3" text="6,423,219">
+  </cell>
+  <cell col="4" row="3" text="20,791,754">
+  </cell>
+  <cell col="5" row="3" text="12.6">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="All technologies has a highest value in investment cost." type="entailed">
+  </statement>
+  <statement id="2" text="All insulation has no value in electricity production." type="entailed">
+  </statement>
+  <statement id="5" text="All insulation has a value in electricity production." type="refuted">
+  </statement>
+  <statement id="6" text="Solar panels has a no value in electricity production." type="refuted">
+  </statement>
+ </statements>
+</Table 5>
+<Table 2>
+ <caption text="
+
+   Overview of the renewable energy technologies and the selected block types in the Minecraft platform.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Energy technology">
+  </cell>
+  <cell col="1" row="0" text="Block type">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Solar panels">
+  </cell>
+  <cell col="1" row="1" text="Daylight sensor">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Wall insulation">
+  </cell>
+  <cell col="1" row="2" text="Yellow wool">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Floor insulation">
+  </cell>
+  <cell col="1" row="3" text="Orange wool">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Double glazing">
+  </cell>
+  <cell col="1" row="4" text="Glass">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Roof insulation">
+  </cell>
+  <cell col="1" row="5" text="Purple wool">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are five renewable energy technologies are given." type="entailed">
+  </statement>
+  <statement id="1" text="Sensor is present only in Solar panels." type="entailed">
+  </statement>
+  <statement id="2" text="There are six renewable energy technologies are given." type="refuted">
+  </statement>
+  <statement id="4" text="Sensor is present only in Roof isolation." type="refuted">
+  </statement>
+ </statements>
+</Table 2>

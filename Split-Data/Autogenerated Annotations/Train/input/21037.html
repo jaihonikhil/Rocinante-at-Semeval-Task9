@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="t0005" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 1
+       </label>
+<caption id="cn025">
+<simple-para id="sp035" view="all">
+         Performance measures for non-deep learning classifiers. Shown are averages across 10-fold cross-validation, and standard deviation of the mean in parentheses. All methods were trained using data augmentation.
+        </simple-para>
+</caption>
+<tgroup cols="6">
+<colspec align="left" colname="col1"/>
+<colspec align="left" colname="col2"/>
+<colspec align="left" colname="col3"/>
+<colspec align="left" colname="col4"/>
+<colspec align="left" colname="col5"/>
+<colspec align="left" colname="col6"/>
+<thead>
+<tr trsep="1" valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Classifier
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Accuracy [%]
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Precision
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Recall
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           F1-Score
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           AUC
+          </td>
+</tr>
+</thead>
+<tbody>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Random Forest
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           56 (1.)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.62 (.03)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.36 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.51 (.03)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.78 (.01)
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Logistic Regression
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           53 (1.)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.44 (.05)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.31 (.01)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.41 (.03)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.73 (.01)
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Gradient Boosting
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           55 (1.)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.58 (.04)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.34 (.01)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.48 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.75 (.01)
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           KNN
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           52 (1.)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.49 (.04)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.31 (.01)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.43 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.73 (.01)
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html>
+<!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="t0025" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 5
+       </label>
+<caption id="cn045">
+<simple-para id="sp055" view="all">
+         Performance measures for convolutional neural networks
+         <bold>
+          without using any data augmentation
+         </bold>
+         . Shown are averages across 10-fold cross-validation and standard deviation of the mean in parentheses.
+        </simple-para>
+</caption>
+<tgroup cols="6">
+<colspec align="left" colname="col1"/>
+<colspec align="left" colname="col2"/>
+<colspec align="left" colname="col3"/>
+<colspec align="left" colname="col4"/>
+<colspec align="left" colname="col5"/>
+<colspec align="left" colname="col6"/>
+<thead>
+<tr trsep="1" valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Classifier
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Accuracy [%]
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Precision
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Recall
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           F1-Score
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           AUC
+          </td>
+</tr>
+</thead>
+<tbody>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           VGG-16
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           58.7 (2.5)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.54 (.03)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.45 (.03)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.45 (.04)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.81 (.02)
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           VGG-19
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           63.6 (1.6)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.61 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.53 (.03)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.54 (.03)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.84 (.01)
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           ResNet-50
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           59.6 (2.2)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.56 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.49 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.49 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.83 (.01)
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           ResNet-152
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           59.5 (1.2)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.54 (.03)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.47 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.48 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.83 (.01)
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           NASNet
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           64.5 (3.4)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.62 (.05)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.52 (.04)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.54 (.04)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.85 (.02)
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           DenseNet-201
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           65.9 (2.4)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.65 (.03)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.55 (.03)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.57 (.03)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.86 (.02)
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Custom CNN
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           50.8 (2.4)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.39 (.04)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.32 (.01)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.30 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.73 (.01)
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html>
+<!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="t0020" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 4
+       </label>
+<caption id="cn040">
+<simple-para id="sp050" view="all">
+         Performance of MLP classifiers trained on features extracted from pre-trained ImageNet CNNs. Shown are averages across 10-fold cross-validation, and standard deviation of the mean in parentheses. Trained using data augmentation.
+        </simple-para>
+</caption>
+<tgroup cols="6">
+<colspec align="left" colname="col1"/>
+<colspec align="left" colname="col2"/>
+<colspec align="left" colname="col3"/>
+<colspec align="left" colname="col4"/>
+<colspec align="left" colname="col5"/>
+<colspec align="left" colname="col6"/>
+<thead>
+<tr trsep="1" valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Features
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Accuracy [%]
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Precision
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Recall
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           F1-Score
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           AUC
+          </td>
+</tr>
+</thead>
+<tbody>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           VGG-16
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           72.3 (1.)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.77 (.01)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.61 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.65 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.90 (.01)
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           VGG-19
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           72.2 (2.)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.78 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.64 (.03)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.67 (.03)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.91 (.01)
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html>
+<!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="t0015" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 3
+       </label>
+<caption id="cn035">
+<simple-para id="sp045" view="all">
+         Performance measures for convolutional neural networks
+         <bold>
+          without pre-training
+         </bold>
+         . Shown are averages across 10-fold cross-validation and standard deviation of the mean in parentheses.
+        </simple-para>
+</caption>
+<tgroup cols="6">
+<colspec align="left" colname="col1"/>
+<colspec align="left" colname="col2"/>
+<colspec align="left" colname="col3"/>
+<colspec align="left" colname="col4"/>
+<colspec align="left" colname="col5"/>
+<colspec align="left" colname="col6"/>
+<thead>
+<tr trsep="1" valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Classifier
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Accuracy [%]
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Precision
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Recall
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           F1-Score
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           AUC
+          </td>
+</tr>
+</thead>
+<tbody>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           VGG-16
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           55.6 (1.7)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.46 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.42 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.42 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.78 (.01)
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           VGG-19
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           57.0 (1.6)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.50 (.03)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.43 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.43 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.78 (.01)
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           ResNet-50
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           53.8 (1.7)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.39 (.06)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.34 (.03)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.31 (.04)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.74 (.02)
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           ResNet-152
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           53.4 (1.2)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.38 (.03)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.36 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.34 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.77 (.01)
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           NASNet
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           51.8 (1.5)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.22 (.04)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.29 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.23 (.03)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.71 (.02)
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           DenseNet-201
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           54.0 (1.3)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.46 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.40 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.39 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.79 (.01)
+          </td>
+</tr>
+<tr valign="top">
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           Custom CNN
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           56.0 (1.4)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.42 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.42 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.41 (.02)
+          </td>
+<td xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.78 (.01)
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html>

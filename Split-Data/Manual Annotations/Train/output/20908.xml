@@ -1,0 +1,58 @@
+<Table 1>
+ <caption text="
+
+   Technical parameters of the ABS filament used in the tests.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Physical properties">
+  </cell>
+  <cell col="1" row="0" text="Density
+     
+     [kg/m
+     
+      3
+     
+     ]">
+  </cell>
+  <cell col="2" row="0" text="Tensile strength
+     
+     [MPa]">
+  </cell>
+  <cell col="3" row="0" text="Young module
+     
+     [MPa]">
+  </cell>
+  <cell col="4" row="0" text="Poisson’s ratio">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Value">
+  </cell>
+  <cell col="1" row="1" text="1050">
+  </cell>
+  <cell col="2" row="1" text="44">
+  </cell>
+  <cell col="3" row="1" text="2000">
+  </cell>
+  <cell col="4" row="1" text="0.38">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Physical properties is Value." type="entailed">
+  </statement>
+  <statement id="1" text="Value Density [kg/m 3 ] is 1050." type="entailed">
+  </statement>
+  <statement id="2" text="Value Tensile strength [MPa] is 44." type="entailed">
+  </statement>
+  <statement id="3" text="Value Poissons ratio is 0.38." type="entailed">
+  </statement>
+  <statement id="5" text="Value Young module [MPa] is .038." type="refuted">
+  </statement>
+  <statement id="7" text="In the future, research is planned using other types of filament." type="entailed">
+  </statement>
+  <statement id="8" text="Test elements of the assembly insert were made with 3D printing technology using ABS filament, whose basic technical parameters are summarized in Table 1 ." type="entailed">
+  </statement>
+ </statements>
+</Table 1>

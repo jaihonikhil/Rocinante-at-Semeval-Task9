@@ -1,0 +1,2694 @@
+<Table 1>
+ <caption text="
+
+         Correlations between HMB and SJ profiles.
+        
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="
+           Date
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="1" row="0" text="
+           Correlation Coefficient
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="2" row="0" text="
+           P-Value
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="
+           July 9, 2018
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="1" row="1" text="
+           0.93
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="2" row="1" text="
+           0.0
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="
+           July 16, 2018
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="1" row="2" text="
+           0.83
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="2" row="2" text="
+           0.0
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="
+           July 18, 2018
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="1" row="3" text="
+           0.88
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="2" row="3" text="
+           0.0
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="
+           July 20, 2018
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="1" row="4" text="
+           0.84
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="2" row="4" text="
+           0.0
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="
+           July 24, 2018
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="1" row="5" text="
+           0.91
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="2" row="5" text="
+           0.0
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="
+           July 31, 2018
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="1" row="6" text="
+           0.72
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="2" row="6" text="
+           0.0
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="
+           August 2, 2018
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="1" row="7" text="
+           0.92
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="2" row="7" text="
+           0.0
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="
+           August 3, 2018
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="1" row="8" text="
+           0.87
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="2" row="8" text="
+           0.0
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="
+           August 6, 2018
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="1" row="9" text="
+           0.68
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="2" row="9" text="
+           0.0
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="
+           August 10, 2018
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="1" row="10" text="
+           0.85
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="2" row="10" text="
+           0.0
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="
+           August 17, 2018
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="1" row="11" text="
+           0.92
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="2" row="11" text="
+           0.0
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="
+           All dates
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="1" row="12" text="
+           0.79
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="2" row="12" text="
+           0.0
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+   <evidence statement_id="11" type="" version="">
+   </evidence>
+   <evidence statement_id="12" type="" version="">
+   </evidence>
+   <evidence statement_id="13" type="" version="">
+   </evidence>
+   <evidence statement_id="14" type="" version="">
+   </evidence>
+   <evidence statement_id="15" type="" version="">
+   </evidence>
+   <evidence statement_id="16" type="" version="">
+   </evidence>
+   <evidence statement_id="17" type="" version="">
+   </evidence>
+   <evidence statement_id="18" type="" version="">
+   </evidence>
+   <evidence statement_id="19" type="" version="">
+   </evidence>
+   <evidence statement_id="20" type="" version="">
+   </evidence>
+   <evidence statement_id="21" type="" version="">
+   </evidence>
+   <evidence statement_id="22" type="" version="">
+   </evidence>
+   <evidence statement_id="23" type="" version="">
+   </evidence>
+   <evidence statement_id="24" type="" version="">
+   </evidence>
+   <evidence statement_id="25" type="" version="">
+   </evidence>
+   <evidence statement_id="26" type="" version="">
+   </evidence>
+   <evidence statement_id="27" type="" version="">
+   </evidence>
+   <evidence statement_id="28" type="" version="">
+   </evidence>
+   <evidence statement_id="29" type="" version="">
+   </evidence>
+   <evidence statement_id="40" type="" version="">
+   </evidence>
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="0.85 is in correlation coefficient" type="">
+  </statement>
+  <statement id="1" text="The value 0.72 belongs to correlation coefficient" type="">
+  </statement>
+  <statement id="2" text="The value 0.93 belongs to correlation coefficient" type="">
+  </statement>
+  <statement id="3" text="The value 0.68 belongs to correlation coefficient" type="">
+  </statement>
+  <statement id="4" text="The value 0.91 belongs to correlation coefficient" type="">
+  </statement>
+  <statement id="5" text="The value 0.84 belongs to correlation coefficient" type="">
+  </statement>
+  <statement id="6" text="0.83 is in correlation coefficient" type="">
+  </statement>
+  <statement id="7" text="0.87 is in correlation coefficient" type="">
+  </statement>
+  <statement id="8" text="The value 0.88 belongs to correlation coefficient" type="">
+  </statement>
+  <statement id="9" text="0.79 is in correlation coefficient" type="">
+  </statement>
+  <statement id="10" text="0.93 is in p-value" type="">
+  </statement>
+  <statement id="11" text="0.88 is in p-value" type="">
+  </statement>
+  <statement id="12" text="0.85 is in p-value" type="">
+  </statement>
+  <statement id="13" text="0.68 is in p-value" type="">
+  </statement>
+  <statement id="14" text="The value 0.87 belongs to p-value" type="">
+  </statement>
+  <statement id="15" text="The value 0.83 belongs to p-value" type="">
+  </statement>
+  <statement id="16" text="The value 0.72 belongs to p-value" type="">
+  </statement>
+  <statement id="17" text="The value 0.79 belongs to p-value" type="">
+  </statement>
+  <statement id="18" text="0.91 is in p-value" type="">
+  </statement>
+  <statement id="19" text="The value 0.0 belongs to correlation coefficient" type="">
+  </statement>
+  <statement id="20" text="The minimum of p-value is 0.0" type="">
+  </statement>
+  <statement id="21" text="The minimum of correlation coefficient is 0.68" type="">
+  </statement>
+  <statement id="22" text="The median of correlation coefficient is 0.92" type="">
+  </statement>
+  <statement id="23" text="0.0 appears most in column p-value" type="">
+  </statement>
+  <statement id="24" text="0.86 appears most in column correlation coefficient" type="">
+  </statement>
+  <statement id="25" text="There is no value above 0.0 in p-value" type="">
+  </statement>
+  <statement id="26" text="0.93 is the largest value in correlation coefficient" type="">
+  </statement>
+  <statement id="27" text="Taking the average of  correlation coefficient yields 0.845" type="">
+  </statement>
+  <statement id="28" text="The median of p-value is 0.0" type="">
+  </statement>
+  <statement id="29" text="The mean of p-value is 0.0" type="">
+  </statement>
+  <statement id="30" text="The minimum of correlation coefficient is 0.79" type="">
+  </statement>
+  <statement id="31" text="The mode of correlation coefficient is 0.68" type="">
+  </statement>
+  <statement id="32" text="Calculating the median of correlation coefficient yields 0.88" type="">
+  </statement>
+  <statement id="33" text="The mean of correlation coefficient is 0.72" type="">
+  </statement>
+  <statement id="34" text="The upper limit of the values present in correlation coefficient in 0.72" type="">
+  </statement>
+  <statement id="35" text="correlation coefficient averages out to 0.85" type="">
+  </statement>
+  <statement id="36" text="There is no value above 0.87 in correlation coefficient" type="">
+  </statement>
+  <statement id="37" text="The average value in correlation coefficient is 0.92" type="">
+  </statement>
+  <statement id="38" text="The lower limit of the values present in correlation coefficient in 0.85" type="">
+  </statement>
+  <statement id="39" text="The mean of correlation coefficient is 0.91" type="">
+  </statement>
+  <statement id="40" text="P-value always has the same value." type="">
+  </statement>
+  <statement id="41" text="Correlation coefficient always has the same value." type="">
+  </statement>
+ </statements>
+</Table 1>

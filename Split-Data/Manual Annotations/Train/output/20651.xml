@@ -1,0 +1,520 @@
+<Table 6>
+ <caption text="
+
+   Results of
+   
+    t
+   
+   -tests between dental microwear texture parameters of moles and bats (all bat species grouped together). † indicates
+   
+    t
+   
+   -tests assuming unequal variances for parameters with unequal variances. Italics highlight apparently significant
+   
+    t
+   
+   -test results that are non-significant after application of the Benjamini-Hochberg procedure to account for type I errors associated with multiple comparisons.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="ISO texture parameter">
+  </cell>
+  <cell col="1" row="0" text="d.f.">
+  </cell>
+  <cell col="2" row="0" text="t">
+  </cell>
+  <cell col="3" row="0" text="p
+     
+     -value">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Sq">
+  </cell>
+  <cell col="1" row="1" text="44">
+  </cell>
+  <cell col="2" row="1" text="2.307">
+  </cell>
+  <cell col="3" row="1" text="0.026">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Ssk">
+  </cell>
+  <cell col="1" row="2" text="44">
+  </cell>
+  <cell col="2" row="2" text="1.206">
+  </cell>
+  <cell col="3" row="2" text="0.234">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Sku">
+  </cell>
+  <cell col="1" row="3" text="44">
+  </cell>
+  <cell col="2" row="3" text="0.720">
+  </cell>
+  <cell col="3" row="3" text="0.476">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Sp †">
+  </cell>
+  <cell col="1" row="4" text="29.602">
+  </cell>
+  <cell col="2" row="4" text="1.483">
+  </cell>
+  <cell col="3" row="4" text="0.149">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Sv">
+  </cell>
+  <cell col="1" row="5" text="44">
+  </cell>
+  <cell col="2" row="5" text="0.125">
+  </cell>
+  <cell col="3" row="5" text="0.901">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Sz">
+  </cell>
+  <cell col="1" row="6" text="44">
+  </cell>
+  <cell col="2" row="6" text="0.775">
+  </cell>
+  <cell col="3" row="6" text="0.443">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Sds">
+  </cell>
+  <cell col="1" row="7" text="44">
+  </cell>
+  <cell col="2" row="7" text="1.995">
+  </cell>
+  <cell col="3" row="7" text="0.052">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Str †">
+  </cell>
+  <cell col="1" row="8" text="29.514">
+  </cell>
+  <cell col="2" row="8" text="0.942">
+  </cell>
+  <cell col="3" row="8" text="0.354">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Sdq">
+  </cell>
+  <cell col="1" row="9" text="44">
+  </cell>
+  <cell col="2" row="9" text="0.503">
+  </cell>
+  <cell col="3" row="9" text="0.618">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Ssc">
+  </cell>
+  <cell col="1" row="10" text="44">
+  </cell>
+  <cell col="2" row="10" text="0.894">
+  </cell>
+  <cell col="3" row="10" text="0.376">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Sdr">
+  </cell>
+  <cell col="1" row="11" text="44">
+  </cell>
+  <cell col="2" row="11" text="0.517">
+  </cell>
+  <cell col="3" row="11" text="0.608">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Vmp
+     
+     †">
+  </cell>
+  <cell col="1" row="12" text="24.198">
+  </cell>
+  <cell col="2" row="12" text="2.299">
+  </cell>
+  <cell col="3" row="12" text="0.030">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Vmc">
+  </cell>
+  <cell col="1" row="13" text="44">
+  </cell>
+  <cell col="2" row="13" text="1.999">
+  </cell>
+  <cell col="3" row="13" text="0.052">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Vvc †">
+  </cell>
+  <cell col="1" row="14" text="30.374">
+  </cell>
+  <cell col="2" row="14" text="1.805">
+  </cell>
+  <cell col="3" row="14" text="0.081">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="Vvv">
+  </cell>
+  <cell col="1" row="15" text="44">
+  </cell>
+  <cell col="2" row="15" text="1.311">
+  </cell>
+  <cell col="3" row="15" text="0.197">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="Spk
+     
+     †">
+  </cell>
+  <cell col="1" row="16" text="24.673">
+  </cell>
+  <cell col="2" row="16" text="2.231">
+  </cell>
+  <cell col="3" row="16" text="0.035">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="Sk">
+  </cell>
+  <cell col="1" row="17" text="44">
+  </cell>
+  <cell col="2" row="17" text="1.693">
+  </cell>
+  <cell col="3" row="17" text="0.098">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="Svk">
+  </cell>
+  <cell col="1" row="18" text="44">
+  </cell>
+  <cell col="2" row="18" text="1.097">
+  </cell>
+  <cell col="3" row="18" text="0.279">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="Smr1 †">
+  </cell>
+  <cell col="1" row="19" text="25.351">
+  </cell>
+  <cell col="2" row="19" text="0.176">
+  </cell>
+  <cell col="3" row="19" text="0.861">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="Smr2">
+  </cell>
+  <cell col="1" row="20" text="44">
+  </cell>
+  <cell col="2" row="20" text="0.842">
+  </cell>
+  <cell col="3" row="20" text="0.405">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="S5z">
+  </cell>
+  <cell col="1" row="21" text="44">
+  </cell>
+  <cell col="2" row="21" text="1.497">
+  </cell>
+  <cell col="3" row="21" text="0.141">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="Sa">
+  </cell>
+  <cell col="1" row="22" text="44">
+  </cell>
+  <cell col="2" row="22" text="2.186">
+  </cell>
+  <cell col="3" row="22" text="0.034">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 22 ISO texture parameter in the table." type="entailed">
+  </statement>
+  <statement id="1" text="t Value ranges from 0.125 to 2.299." type="entailed">
+  </statement>
+  <statement id="4" text="Vvv Parameter will have highest t value." type="refuted">
+  </statement>
+  <statement id="6" text="However, t -tests reveal that none of the 22 parameters significantly differ between moles and bats (when all bat species are grouped together; Table 6 )." type="entailed">
+  </statement>
+ </statements>
+</Table 6>
+<Table 5>
+ <caption text="
+
+   Results of analysis of variance (ANOVA) for mole and bat dental microwear texture parameters by species. † indicates Welch's ANOVA for parameters with unequal variances. Emboldening highlights significant ANOVA results. Italics highlight apparently significant ANOVA results that are non-significant after application of the Benjamini-Hochberg procedure to account for type I errors associated with multiple comparisons.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="ISO texture parameter">
+  </cell>
+  <cell col="1" row="0" text="d.f.">
+  </cell>
+  <cell col="2" row="0" text="F">
+  </cell>
+  <cell col="3" row="0" text="p
+     
+     -value">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Sq">
+  </cell>
+  <cell col="1" row="1" text="4, 41">
+  </cell>
+  <cell col="2" row="1" text="3.108">
+  </cell>
+  <cell col="3" row="1" text="0.025">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Ssk">
+  </cell>
+  <cell col="1" row="2" text="4, 41">
+  </cell>
+  <cell col="2" row="2" text="6.950">
+  </cell>
+  <cell col="3" row="2" text="&lt; 0.001">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Sku">
+  </cell>
+  <cell col="1" row="3" text="4, 41">
+  </cell>
+  <cell col="2" row="3" text="0.167">
+  </cell>
+  <cell col="3" row="3" text="0.954">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Sp †">
+  </cell>
+  <cell col="1" row="4" text="4, 9.228">
+  </cell>
+  <cell col="2" row="4" text="0.642">
+  </cell>
+  <cell col="3" row="4" text="0.646">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Sv">
+  </cell>
+  <cell col="1" row="5" text="4, 41">
+  </cell>
+  <cell col="2" row="5" text="0.203">
+  </cell>
+  <cell col="3" row="5" text="0.935">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Sz">
+  </cell>
+  <cell col="1" row="6" text="4, 41">
+  </cell>
+  <cell col="2" row="6" text="0.187">
+  </cell>
+  <cell col="3" row="6" text="0.944">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Sds †">
+  </cell>
+  <cell col="1" row="7" text="4, 11.881">
+  </cell>
+  <cell col="2" row="7" text="26.503">
+  </cell>
+  <cell col="3" row="7" text="&lt; 0.001">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Str">
+  </cell>
+  <cell col="1" row="8" text="4, 41">
+  </cell>
+  <cell col="2" row="8" text="8.000">
+  </cell>
+  <cell col="3" row="8" text="&lt; 0.001">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Sdq">
+  </cell>
+  <cell col="1" row="9" text="4, 41">
+  </cell>
+  <cell col="2" row="9" text="0.949">
+  </cell>
+  <cell col="3" row="9" text="0.445">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Ssc">
+  </cell>
+  <cell col="1" row="10" text="4, 41">
+  </cell>
+  <cell col="2" row="10" text="1.221">
+  </cell>
+  <cell col="3" row="10" text="0.317">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Sdr">
+  </cell>
+  <cell col="1" row="11" text="4, 41">
+  </cell>
+  <cell col="2" row="11" text="0.940">
+  </cell>
+  <cell col="3" row="11" text="0.450">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Vmp
+     
+     †">
+  </cell>
+  <cell col="1" row="12" text="4, 8.857">
+  </cell>
+  <cell col="2" row="12" text="4.678">
+  </cell>
+  <cell col="3" row="12" text="0.026">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Vmc">
+  </cell>
+  <cell col="1" row="13" text="4, 41">
+  </cell>
+  <cell col="2" row="13" text="3.974">
+  </cell>
+  <cell col="3" row="13" text="0.008">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Vvc">
+  </cell>
+  <cell col="1" row="14" text="4, 41">
+  </cell>
+  <cell col="2" row="14" text="1.796">
+  </cell>
+  <cell col="3" row="14" text="0.148">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="Vvv">
+  </cell>
+  <cell col="1" row="15" text="4, 41">
+  </cell>
+  <cell col="2" row="15" text="4.539">
+  </cell>
+  <cell col="3" row="15" text="0.004">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="Spk
+     
+     †">
+  </cell>
+  <cell col="1" row="16" text="4, 8.852">
+  </cell>
+  <cell col="2" row="16" text="3.952">
+  </cell>
+  <cell col="3" row="16" text="0.041">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="Sk">
+  </cell>
+  <cell col="1" row="17" text="4, 41">
+  </cell>
+  <cell col="2" row="17" text="2.883">
+  </cell>
+  <cell col="3" row="17" text="0.034">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="Svk">
+  </cell>
+  <cell col="1" row="18" text="4, 41">
+  </cell>
+  <cell col="2" row="18" text="3.250">
+  </cell>
+  <cell col="3" row="18" text="0.021">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="Smr1 †">
+  </cell>
+  <cell col="1" row="19" text="4, 9.494">
+  </cell>
+  <cell col="2" row="19" text="6.396">
+  </cell>
+  <cell col="3" row="19" text="0.009">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="Smr2">
+  </cell>
+  <cell col="1" row="20" text="4, 41">
+  </cell>
+  <cell col="2" row="20" text="3.970">
+  </cell>
+  <cell col="3" row="20" text="0.008">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="S5z">
+  </cell>
+  <cell col="1" row="21" text="4, 41">
+  </cell>
+  <cell col="2" row="21" text="0.682">
+  </cell>
+  <cell col="3" row="21" text="0.608">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="Sa">
+  </cell>
+  <cell col="1" row="22" text="4, 41">
+  </cell>
+  <cell col="2" row="22" text="3.665">
+  </cell>
+  <cell col="3" row="22" text="0.012">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="ISO texture parameter has 22 unique parameters." type="entailed">
+  </statement>
+  <statement id="2" text="ISO texture parameter of Sds  has highest F value." type="entailed">
+  </statement>
+  <statement id="3" text="ISO texture parameter has 25 unique parameters." type="refuted">
+  </statement>
+  <statement id="4" text="The table contain 5 categories." type="refuted">
+  </statement>
+ </statements>
+</Table 5>

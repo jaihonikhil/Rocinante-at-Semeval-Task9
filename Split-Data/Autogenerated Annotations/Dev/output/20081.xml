@@ -1,0 +1,228 @@
+<Table 1>
+ <caption text="
+
+         Bismuth classification of biliary structures.
+        
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="
+           Type
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="0" text="
+           Definition
+          ">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="
+           I
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="1" text="
+           Common hepatic or main bile duct stump ≥2 cm
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="
+           II
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="2" text="
+           Common hepatic duct stump &lt;2 cm
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="
+           III
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="3" text="
+           Ceiling of the biliary confluence is intact; right and left ductal systems communicate
+          ">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="
+           IV
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="4" text="
+           Ceiling of the confluence is destroyed; bile ducts are separated
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="
+           V
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="5" text="
+           Involves the aberrant right sectoral hepatic duct alone or with concomitant injury of CHD
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The value Ceiling of the confluence is destroyed; bile ducts are separated belongs to definition" type="entailed">
+  </statement>
+  <statement id="1" text="The value Common hepatic or main bile duct stump ≥2 cm belongs to definition" type="entailed">
+  </statement>
+  <statement id="2" text="The value Involves the aberrant right sectoral hepatic duct alone or with concomitant injury of CHD belongs to definition" type="entailed">
+  </statement>
+  <statement id="3" text="Ceiling of the biliary confluence is intact; right and left ductal systems communicate is in definition" type="entailed">
+  </statement>
+  <statement id="4" text="The value Common hepatic duct stump &lt;2 cm belongs to definition" type="entailed">
+  </statement>
+  <statement id="5" text="Definition has no duplicate values." type="entailed">
+  </statement>
+  <statement id="6" text="Definition always has the same value." type="refuted">
+  </statement>
+ </statements>
+</Table 1>

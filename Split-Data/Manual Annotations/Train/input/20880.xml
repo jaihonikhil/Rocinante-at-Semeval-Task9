@@ -1,0 +1,352 @@
+<Table 1>
+ <caption text="
+
+   Summary of previously reported cases of COVID-19-associated pulmonary aspergillosis.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Study">
+  </cell>
+  <cell col="1" row="0" text="Country">
+  </cell>
+  <cell col="2" row="0" text="CAPA*">
+  </cell>
+  <cell col="3" row="0" text="Aspergillus species">
+  </cell>
+  <cell col="4" row="0" text="Aspergillus species in culture">
+  </cell>
+  <cell col="5" row="0" text="Serum or BAL GM positive">
+  </cell>
+  <cell col="6" row="0" text="BAL Aspergillus PCR positive">
+  </cell>
+  <cell col="7" row="0" text="Initial Antifungal Therapy">
+  </cell>
+  <cell col="8" row="0" text="In-hospital mortality">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Alanio, 2020 [
+     ]">
+  </cell>
+  <cell col="1" row="1" text="France">
+  </cell>
+  <cell col="2" row="1" text="9/27">
+  </cell>
+  <cell col="3" row="1" text="A. fumigatus
+     
+     (7/9)">
+  </cell>
+  <cell col="4" row="1" text="7/9">
+  </cell>
+  <cell col="5" row="1" text="3/9">
+  </cell>
+  <cell col="6" row="1" text="4/9">
+  </cell>
+  <cell col="7" row="1" text="VOR (1/9)
+     
+     CAS (1/9)
+     
+     None (7/9)">
+  </cell>
+  <cell col="8" row="1" text="4/9">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Koehler, 2020 [
+     ]">
+  </cell>
+  <cell col="1" row="2" text="Germany">
+  </cell>
+  <cell col="2" row="2" text="5/19">
+  </cell>
+  <cell col="3" row="2" text="A. fumigatus
+     
+     (5/5)">
+  </cell>
+  <cell col="4" row="2" text="3/5">
+  </cell>
+  <cell col="5" row="2" text="4/5">
+  </cell>
+  <cell col="6" row="2" text="4/5">
+  </cell>
+  <cell col="7" row="2" text="VOR (2/5)
+     
+     ISA (1/5)
+     
+     CAS (2/5)">
+  </cell>
+  <cell col="8" row="2" text="3/5">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Rutsaert, 2020 [
+     ]">
+  </cell>
+  <cell col="1" row="3" text="The Netherlands">
+  </cell>
+  <cell col="2" row="3" text="7/34">
+  </cell>
+  <cell col="3" row="3" text="A. fumigatus
+     
+     (5/7)
+     
+
+      A. flavus
+     
+     (1/7)">
+  </cell>
+  <cell col="4" row="3" text="6/7">
+  </cell>
+  <cell col="5" row="3" text="6/7">
+  </cell>
+  <cell col="6" row="3" text="NR">
+  </cell>
+  <cell col="7" row="3" text="VOR (4/7)
+     
+     VOR/ISA (2/7)
+     
+     None (1/7)">
+  </cell>
+  <cell col="8" row="3" text="4/7">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Nasir, 2020 [
+     ]">
+  </cell>
+  <cell col="1" row="4" text="Pakistan">
+  </cell>
+  <cell col="2" row="4" text="5/23">
+  </cell>
+  <cell col="3" row="4" text="A. flavus
+     
+     (3/5)
+     
+
+      A. niger
+     
+     (1/5)
+     
+
+      A. fumigatus and A. flavus
+     
+     (1/5)">
+  </cell>
+  <cell col="4" row="4" text="5/5">
+  </cell>
+  <cell col="5" row="4" text="0/5">
+  </cell>
+  <cell col="6" row="4" text="NR">
+  </cell>
+  <cell col="7" row="4" text="VOR (3/5)
+     
+     AmB-d (2/5)">
+  </cell>
+  <cell col="8" row="4" text="3/5">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="van Arkel, 2020 [
+     ]">
+  </cell>
+  <cell col="1" row="5" text="The Netherlands">
+  </cell>
+  <cell col="2" row="5" text="6/31">
+  </cell>
+  <cell col="3" row="5" text="A. fumigatus
+     
+     (6/6)">
+  </cell>
+  <cell col="4" row="5" text="5/6">
+  </cell>
+  <cell col="5" row="5" text="3/6">
+  </cell>
+  <cell col="6" row="5" text="NR">
+  </cell>
+  <cell col="7" row="5" text="VOR plus AND (5/6)
+     
+     L-AmB (1/6)">
+  </cell>
+  <cell col="8" row="5" text="4/6">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Blaize, 2020 [
+     ]">
+  </cell>
+  <cell col="1" row="6" text="France">
+  </cell>
+  <cell col="2" row="6" text="1/1">
+  </cell>
+  <cell col="3" row="6" text="A. fumigatus">
+  </cell>
+  <cell col="4" row="6" text="1/1">
+  </cell>
+  <cell col="5" row="6" text="0/1">
+  </cell>
+  <cell col="6" row="6" text="1/1">
+  </cell>
+  <cell col="7" row="6" text="None">
+  </cell>
+  <cell col="8" row="6" text="1/1">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Lahmer, 2020 [
+     ]">
+  </cell>
+  <cell col="1" row="7" text="Germany">
+  </cell>
+  <cell col="2" row="7" text="2/2">
+  </cell>
+  <cell col="3" row="7" text="A. fumigatus
+     
+     (2/2)">
+  </cell>
+  <cell col="4" row="7" text="2/2">
+  </cell>
+  <cell col="5" row="7" text="2/2">
+  </cell>
+  <cell col="6" row="7" text="NR">
+  </cell>
+  <cell col="7" row="7" text="L-AmB (2/2)">
+  </cell>
+  <cell col="8" row="7" text="2/2">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Wang, 2020 [
+     ]">
+  </cell>
+  <cell col="1" row="8" text="China">
+  </cell>
+  <cell col="2" row="8" text="8/104">
+  </cell>
+  <cell col="3" row="8" text="A. fumigatus">
+  </cell>
+  <cell col="4" row="8" text="8/8">
+  </cell>
+  <cell col="5" row="8" text="NR">
+  </cell>
+  <cell col="6" row="8" text="NR">
+  </cell>
+  <cell col="7" row="8" text="NR">
+  </cell>
+  <cell col="8" row="8" text="NR">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Antinori, 2020 [
+     ]">
+  </cell>
+  <cell col="1" row="9" text="Italy">
+  </cell>
+  <cell col="2" row="9" text="1/1">
+  </cell>
+  <cell col="3" row="9" text="A. fumigatus">
+  </cell>
+  <cell col="4" row="9" text="1/1">
+  </cell>
+  <cell col="5" row="9" text="1/1">
+  </cell>
+  <cell col="6" row="9" text="1/1">
+  </cell>
+  <cell col="7" row="9" text="L-AmB">
+  </cell>
+  <cell col="8" row="9" text="1/1">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Ferreira, 2020 [
+     ]">
+  </cell>
+  <cell col="1" row="10" text="France">
+  </cell>
+  <cell col="2" row="10" text="1/1">
+  </cell>
+  <cell col="3" row="10" text="A. fumigatus">
+  </cell>
+  <cell col="4" row="10" text="1/1">
+  </cell>
+  <cell col="5" row="10" text="0/1">
+  </cell>
+  <cell col="6" row="10" text="1/1">
+  </cell>
+  <cell col="7" row="10" text="None">
+  </cell>
+  <cell col="8" row="10" text="1/1">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Meijer, 2020 [
+     ]">
+  </cell>
+  <cell col="1" row="11" text="France">
+  </cell>
+  <cell col="2" row="11" text="1/1">
+  </cell>
+  <cell col="3" row="11" text="A. fumigatus">
+  </cell>
+  <cell col="4" row="11" text="1/1">
+  </cell>
+  <cell col="5" row="11" text="1/1">
+  </cell>
+  <cell col="6" row="11" text="NR">
+  </cell>
+  <cell col="7" row="11" text="VOR plus CAS">
+  </cell>
+  <cell col="8" row="11" text="1/1">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Prattes, 2020 [
+     ]">
+  </cell>
+  <cell col="1" row="12" text="Austria">
+  </cell>
+  <cell col="2" row="12" text="1/1">
+  </cell>
+  <cell col="3" row="12" text="A. fumigatus">
+  </cell>
+  <cell col="4" row="12" text="1/1">
+  </cell>
+  <cell col="5" row="12" text="0/1">
+  </cell>
+  <cell col="6" row="12" text="NR">
+  </cell>
+  <cell col="7" row="12" text="VOR">
+  </cell>
+  <cell col="8" row="12" text="1/1">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Sharma, 2020 [
+     ]">
+  </cell>
+  <cell col="1" row="13" text="Australia">
+  </cell>
+  <cell col="2" row="13" text="1/1">
+  </cell>
+  <cell col="3" row="13" text="A. fumigatus">
+  </cell>
+  <cell col="4" row="13" text="1/1">
+  </cell>
+  <cell col="5" row="13" text="NR">
+  </cell>
+  <cell col="6" row="13" text="NR">
+  </cell>
+  <cell col="7" row="13" text="VOR">
+  </cell>
+  <cell col="8" row="13" text="0/1">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="France had previously reported 7/9 Aspergillus species in culture under study of Alanio, 2020." type="">
+  </statement>
+  <statement id="1" text="Nasir, 2020 study had reported Pakistan 5/23 for CAPA" type="">
+  </statement>
+  <statement id="6" text="van Arkel, 2020 study had reported France 5/23 for CAPA" type="">
+  </statement>
+ </statements>
+</Table 1>

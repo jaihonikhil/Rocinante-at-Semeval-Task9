@@ -1,0 +1,246 @@
+<Table 1>
+ <caption text="
+
+   Scan parameters of the sequences used to compare normal and head-tilted imaging.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Experiment 1">
+  </cell>
+  <cell col="4" row="0" text="Experiment 2">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="B
+     
+      0
+     
+     map">
+  </cell>
+  <cell col="2" row="1" text="EPI">
+  </cell>
+  <cell col="3" row="1" text="MPRAGE">
+  </cell>
+  <cell col="4" row="1" text="Multi-echo gradient echo">
+  </cell>
+  <cell col="5" row="1" text="EPI">
+  </cell>
+  <cell col="6" row="1" text="MPRAGE">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="acquisition type">
+  </cell>
+  <cell col="1" row="2" text="2D axial">
+  </cell>
+  <cell col="2" row="2" text="2D axial">
+  </cell>
+  <cell col="3" row="2" text="3D axial">
+  </cell>
+  <cell col="4" row="2" text="3D axial">
+  </cell>
+  <cell col="5" row="2" text="2D axial">
+  </cell>
+  <cell col="6" row="2" text="3D axial">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="TR (ms)">
+  </cell>
+  <cell col="1" row="3" text="23">
+  </cell>
+  <cell col="2" row="3" text="4000">
+  </cell>
+  <cell col="3" row="3" text="2200">
+  </cell>
+  <cell col="4" row="3" text="47">
+  </cell>
+  <cell col="5" row="3" text="4000">
+  </cell>
+  <cell col="6" row="3" text="2200">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="TE (ms)">
+  </cell>
+  <cell col="1" row="4" text="2.9, 5.4">
+  </cell>
+  <cell col="2" row="4" text="37">
+  </cell>
+  <cell col="3" row="4" text="2.44">
+  </cell>
+  <cell col="4" row="4" text="7 to 42 in 5 ms steps">
+  </cell>
+  <cell col="5" row="4" text="37">
+  </cell>
+  <cell col="6" row="4" text="2.43">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="flip angle (°)">
+  </cell>
+  <cell col="1" row="5" text="15">
+  </cell>
+  <cell col="2" row="5" text="90">
+  </cell>
+  <cell col="3" row="5" text="8">
+  </cell>
+  <cell col="4" row="5" text="20">
+  </cell>
+  <cell col="5" row="5" text="90">
+  </cell>
+  <cell col="6" row="5" text="8">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="bandwidth (Hz/px)">
+  </cell>
+  <cell col="1" row="6" text="630">
+  </cell>
+  <cell col="2" row="6" text="2120">
+  </cell>
+  <cell col="3" row="6" text="250">
+  </cell>
+  <cell col="4" row="6" text="240">
+  </cell>
+  <cell col="5" row="6" text="2120">
+  </cell>
+  <cell col="6" row="6" text="250">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="slice thickness (mm)">
+  </cell>
+  <cell col="1" row="7" text="2.0">
+  </cell>
+  <cell col="2" row="7" text="2.0">
+  </cell>
+  <cell col="3" row="7" text="1.0">
+  </cell>
+  <cell col="4" row="7" text="0.8">
+  </cell>
+  <cell col="5" row="7" text="2.0">
+  </cell>
+  <cell col="6" row="7" text="1.0">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="matrix size">
+  </cell>
+  <cell col="1" row="8" text="64 × 54 × 50">
+  </cell>
+  <cell col="2" row="8" text="118 × 104 × 60">
+  </cell>
+  <cell col="3" row="8" text="256 × 256 × 256">
+  </cell>
+  <cell col="4" row="8" text="512 × 352 × 52">
+  </cell>
+  <cell col="5" row="8" text="118 × 104 × 60">
+  </cell>
+  <cell col="6" row="8" text="190 × 224 × 192">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="field of view (mm
+     
+      3
+     
+     )">
+  </cell>
+  <cell col="1" row="9" text="220 × 185 × 100">
+  </cell>
+  <cell col="2" row="9" text="236 × 208 × 120">
+  </cell>
+  <cell col="3" row="9" text="256 × 256 × 256">
+  </cell>
+  <cell col="4" row="9" text="270 × 186 × 96">
+  </cell>
+  <cell col="5" row="9" text="236 × 208 × 120">
+  </cell>
+  <cell col="6" row="9" text="190 × 224 × 192">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="voxel size (mm
+     
+      3
+     
+     )">
+  </cell>
+  <cell col="1" row="10" text="3.43 × 3.43 × 2.0">
+  </cell>
+  <cell col="2" row="10" text="2.0 × 2.0 × 2.0">
+  </cell>
+  <cell col="3" row="10" text="1.0 × 1.0 × 1.0">
+  </cell>
+  <cell col="4" row="10" text="0.53 × 0.53 × 0.8">
+  </cell>
+  <cell col="5" row="10" text="2.0 × 2.0 × 2.0">
+  </cell>
+  <cell col="6" row="10" text="1.0 × 1.0 × 1.0">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="acceleration factor (phase direction)">
+  </cell>
+  <cell col="1" row="11" text="2">
+  </cell>
+  <cell col="2" row="11" text="2">
+  </cell>
+  <cell col="3" row="11" text="2">
+  </cell>
+  <cell col="4" row="11" text="2">
+  </cell>
+  <cell col="5" row="11" text="2">
+  </cell>
+  <cell col="6" row="11" text="2">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="acquisition time (min:sec)">
+  </cell>
+  <cell col="1" row="12" text="0:26">
+  </cell>
+  <cell col="2" row="12" text="5:24 (81 volumes, repeated twice)">
+  </cell>
+  <cell col="3" row="12" text="5:36">
+  </cell>
+  <cell col="4" row="12" text="8:47">
+  </cell>
+  <cell col="5" row="12" text="13:40 (205 volumes)">
+  </cell>
+  <cell col="6" row="12" text="4:16">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="others">
+  </cell>
+  <cell col="1" row="13" text="">
+  </cell>
+  <cell col="2" row="13" text="echo spacing = 0.56 ms">
+  </cell>
+  <cell col="3" row="13" text="TI = 925 ms">
+  </cell>
+  <cell col="4" row="13" text="">
+  </cell>
+  <cell col="5" row="13" text="">
+  </cell>
+  <cell col="6" row="13" text="TI = 963 ms">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="Acceleration factor is constant for both experiments." type="">
+  </statement>
+  <statement id="3" text="Acquisition time is different for both the experiments." type="">
+  </statement>
+  <statement id="4" text="Slice thickness is same for B 0 map and EPI." type="">
+  </statement>
+  <statement id="7" text="The scan parameters for both experiments are listed in Table 1 ." type="">
+  </statement>
+ </statements>
+</Table 1>

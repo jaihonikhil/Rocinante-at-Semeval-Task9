@@ -1,0 +1,1601 @@
+<Table 1>
+ <caption text="
+
+         Scenarios characterising disruption to HIV services due to the COVID-19 epidemic.
+        
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="
+           Scenario
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="0" text="
+           Assumed Impact on HIV Programs
+          ">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="
+           1. Managed pause (least severe)
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="1" text="
+           -No new ART enrolments
+           
+           -No new VMMCs
+           
+           -(No new PrEP enrolments
+           
+            *
+           
+           )
+           
+           -Sexual contacts decrease by 10%
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="
+           2. Managed disruption
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="2" text="
+           -No new ART enrolments
+           
+           -No new VMMCs
+           
+           -(No PrEP enrolment or prescription refills
+           
+            *
+           
+           )
+           
+           -Viral suppression decreases by 10% across individuals on ART
+           
+           -Condom use decreases by 50%
+           
+           -Sexual contacts decrease by 10%
+          ">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="
+           3. Interruption of supply (most severe)
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="3" text="
+           -No new ART enrolments
+           
+           -No new VMMCs
+           
+           -(No PrEP enrolment or prescription refills
+           
+            *
+           
+           )
+           
+           -Viral suppression decreases by 10% across individuals on ART
+           
+           -40% of individuals on ART go off ART for duration of disruption, assuming a mean monthly mortality risk of 0.24% during the disruption
+           
+
+             ⁎⁎
+            
+
+
+           -Condom use decreases by 50%
+           
+           -Sexual contacts decrease by 10%
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="-No new ART enrolments -No new VMMCs -(No PrEP enrolment or prescription refills ) -Viral suppression decreases by 10% across individuals on ART -40% of individuals on ART go off ART for duration of disruption, assuming a mean monthly mortality risk of 0.24% during the disruption -Condom use decreases by 50% -Sexual contacts decrease by 10% is in assumed impact on hiv programs" type="entailed">
+  </statement>
+  <statement id="1" text="The value -No new ART enrolments -No new VMMCs -(No PrEP enrolment or prescription refills ) -Viral suppression decreases by 10% across individuals on ART -Condom use decreases by 50% -Sexual contacts decrease by 10% belongs to assumed impact on hiv programs" type="entailed">
+  </statement>
+  <statement id="2" text="-No new ART enrolments -No new VMMCs -(No new PrEP enrolments ) -Sexual contacts decrease by 10% is in assumed impact on hiv programs" type="entailed">
+  </statement>
+  <statement id="3" text="There are no duplicate values in assumed impact on hiv programs" type="entailed">
+  </statement>
+  <statement id="4" text="Assumed impact on hiv programs always has the same value." type="refuted">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+         Alternative assumptions used for the risk of death experienced by those PLHIV whose ART supply is interrupted.
+        
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="0" text="
+
+            Average monthly mortality risk
+           
+">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="2" row="0" text="
+
+            Proportion that would die after one year
+           
+">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="3" row="0" text="
+
+            Justification
+           
+">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="
+
+            Lower bound
+           
+">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="1" text="
+           0.10%
+          ">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="2" row="1" text="
+           1.24%
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="3" row="1" text="
+           This is a hypothetical best-case scenario in which the vast majority of individuals do not deteriorate rapidly.
+          ">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="
+
+            Medium
+           
+">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="2" text="
+           0.24%
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="2" row="2" text="
+           2.91%
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="3" row="2" text="
+           The SMART trial found a 3% risk at 12 months of either death of an opportunistic infection for those with interrupted ART
+           
+            [13]
+           
+           . This also implies a mean survival time approximately equivalent to that for HIV-positive persons who have never been on ART
+           
+            [14]
+           
+           .
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="
+
+            Upper bound
+           
+">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="3" text="
+           0.44%
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="2" row="3" text="
+           5.28%
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="3" row="3" text="
+           This is the hypothetical worst-case scenario in which many persons deteriorate more rapidly.
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The value of 0.10% for average monthly mortality risk corresponds to the value of This is a hypothetical best-case scenario in which the vast majority of individuals do not deteriorate rapidly. for justification" type="entailed">
+  </statement>
+  <statement id="1" text="The average monthly mortality risk is 0.44% when the proportion that would die after one year is 5.28%" type="entailed">
+  </statement>
+  <statement id="2" text="The value of 2.91% for proportion that would die after one year corresponds to the value of The SMART trial found a 3% risk at 12 months of either death of an opportunistic infection for those with interrupted ART . This also implies a mean survival time approximately equivalent to that for HIV-positive persons who have never been on ART . for justification" type="entailed">
+  </statement>
+  <statement id="3" text="The average monthly mortality risk is 0.10% when the proportion that would die after one year is 1.24%" type="entailed">
+  </statement>
+  <statement id="4" text="The average monthly mortality risk is 0.44% when the justification is This is the hypothetical worst-case scenario in which many persons deteriorate more rapidly." type="entailed">
+  </statement>
+  <statement id="5" text="The proportion that would die after one year is 1.24% when the justification is This is a hypothetical best-case scenario in which the vast majority of individuals do not deteriorate rapidly." type="entailed">
+  </statement>
+  <statement id="6" text="The value of 5.28% for proportion that would die after one year corresponds to the value of This is the hypothetical worst-case scenario in which many persons deteriorate more rapidly. for justification" type="entailed">
+  </statement>
+  <statement id="7" text="The proportion that would die after one year is 2.91% when the average monthly mortality risk is 0.24%" type="entailed">
+  </statement>
+  <statement id="8" text="The average monthly mortality risk is 0.24% when the justification is The SMART trial found a 3% risk at 12 months of either death of an opportunistic infection for those with interrupted ART . This also implies a mean survival time approximately equivalent to that for HIV-positive persons who have never been on ART ." type="entailed">
+  </statement>
+  <statement id="9" text="The proportion that would die after one year is 2.91% when the average monthly mortality risk is 0.10%" type="refuted">
+  </statement>
+  <statement id="10" text="The value of 0.44% for average monthly mortality risk corresponds to the value of 2.91% for proportion that would die after one year" type="refuted">
+  </statement>
+  <statement id="11" text="The justification is This is the hypothetical worst-case scenario in which many persons deteriorate more rapidly. when the average monthly mortality risk is 0.10%" type="refuted">
+  </statement>
+  <statement id="12" text="The value of 0.24% for average monthly mortality risk corresponds to the value of 5.28% for proportion that would die after one year" type="refuted">
+  </statement>
+  <statement id="13" text="The value of 1.24% for proportion that would die after one year corresponds to the value of 0.24% for average monthly mortality risk" type="refuted">
+  </statement>
+  <statement id="14" text="The value of This is the hypothetical worst-case scenario in which many persons deteriorate more rapidly. for justification corresponds to the value of 1.24% for proportion that would die after one year" type="refuted">
+  </statement>
+  <statement id="15" text="The justification is The SMART trial found a 3% risk at 12 months of either death of an opportunistic infection for those with interrupted ART . This also implies a mean survival time approximately equivalent to that for HIV-positive persons who have never been on ART . when the proportion that would die after one year is 1.24%" type="refuted">
+  </statement>
+  <statement id="16" text="The average monthly mortality risk is 0.10% when the proportion that would die after one year is 5.28%" type="refuted">
+  </statement>
+  <statement id="17" text="The value of This is a hypothetical best-case scenario in which the vast majority of individuals do not deteriorate rapidly. for justification corresponds to the value of 0.44% for average monthly mortality risk" type="refuted">
+  </statement>
+  <statement id="18" text="1.24% is in proportion that would die after one year" type="entailed">
+  </statement>
+  <statement id="19" text="This is the hypothetical worst-case scenario in which many persons deteriorate more rapidly. is in justification" type="entailed">
+  </statement>
+  <statement id="20" text="The value 0.10% belongs to average monthly mortality risk" type="entailed">
+  </statement>
+  <statement id="21" text="5.28% is in proportion that would die after one year" type="entailed">
+  </statement>
+  <statement id="22" text="The value 0.44% belongs to average monthly mortality risk" type="entailed">
+  </statement>
+  <statement id="23" text="The value 2.91% belongs to proportion that would die after one year" type="entailed">
+  </statement>
+  <statement id="24" text="This is a hypothetical best-case scenario in which the vast majority of individuals do not deteriorate rapidly. is in justification" type="entailed">
+  </statement>
+  <statement id="25" text="0.24% is in average monthly mortality risk" type="entailed">
+  </statement>
+  <statement id="26" text="The value The SMART trial found a 3% risk at 12 months of either death of an opportunistic infection for those with interrupted ART . This also implies a mean survival time approximately equivalent to that for HIV-positive persons who have never been on ART . belongs to justification" type="entailed">
+  </statement>
+  <statement id="27" text="5.28% is in justification" type="refuted">
+  </statement>
+  <statement id="28" text="The value 2.91% belongs to justification" type="refuted">
+  </statement>
+  <statement id="29" text="The value 0.10% belongs to proportion that would die after one year" type="refuted">
+  </statement>
+  <statement id="30" text="The value This is the hypothetical worst-case scenario in which many persons deteriorate more rapidly. belongs to average monthly mortality risk" type="refuted">
+  </statement>
+  <statement id="31" text="2.91% is in average monthly mortality risk" type="refuted">
+  </statement>
+  <statement id="32" text="1.24% is in justification" type="refuted">
+  </statement>
+  <statement id="33" text="The SMART trial found a 3% risk at 12 months of either death of an opportunistic infection for those with interrupted ART . This also implies a mean survival time approximately equivalent to that for HIV-positive persons who have never been on ART . is in proportion that would die after one year" type="refuted">
+  </statement>
+  <statement id="34" text="The SMART trial found a 3% risk at 12 months of either death of an opportunistic infection for those with interrupted ART . This also implies a mean survival time approximately equivalent to that for HIV-positive persons who have never been on ART . is in average monthly mortality risk" type="refuted">
+  </statement>
+  <statement id="35" text="0.44% is in justification" type="refuted">
+  </statement>
+  <statement id="36" text="Average monthly mortality risk has all unique values." type="entailed">
+  </statement>
+  <statement id="37" text="All the values in proportion that would die after one year are distinct." type="entailed">
+  </statement>
+  <statement id="38" text="There are no duplicate values in justification" type="entailed">
+  </statement>
+  <statement id="39" text="Average monthly mortality risk always has the same value." type="refuted">
+  </statement>
+  <statement id="40" text="Justification always has the same value." type="refuted">
+  </statement>
+  <statement id="41" text="Proportion that would die after one year always has the same value." type="refuted">
+  </statement>
+ </statements>
+</Table 3>

@@ -1,0 +1,1284 @@
+<Table 3>
+ <caption text="
+
+   Ultimate compressive strength (UCS).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Filler (wt%)">
+  </cell>
+  <cell col="1" row="0" text="UCS (MPa)">
+  </cell>
+  <cell col="4" row="0" text="% increase in UCS of">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="PLA/Ch">
+  </cell>
+  <cell col="2" row="1" text="PLA/Ct">
+  </cell>
+  <cell col="3" row="1" text="PLA/Ti">
+  </cell>
+  <cell col="4" row="1" text="PLA/Ct over PLA/Ch">
+  </cell>
+  <cell col="5" row="1" text="PLA/Ti over PLA/Ct">
+  </cell>
+  <cell col="6" row="1" text="PLA/Ti over PLA/Ch">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="0.00">
+  </cell>
+  <cell col="1" row="2" text="24.75">
+  </cell>
+  <cell col="2" row="2" text="24.75">
+  </cell>
+  <cell col="3" row="2" text="24.75">
+  </cell>
+  <cell col="4" row="2" text="0.0000">
+  </cell>
+  <cell col="5" row="2" text="0.0000">
+  </cell>
+  <cell col="6" row="2" text="0.0000">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="1.04">
+  </cell>
+  <cell col="1" row="3" text="12.53">
+  </cell>
+  <cell col="2" row="3" text="23.46">
+  </cell>
+  <cell col="3" row="3" text="22.84">
+  </cell>
+  <cell col="4" row="3" text="87.2565">
+  </cell>
+  <cell col="5" row="3" text="−2.6450">
+  </cell>
+  <cell col="6" row="3" text="45.1464">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="2.08">
+  </cell>
+  <cell col="1" row="4" text="6.91">
+  </cell>
+  <cell col="2" row="4" text="9.32">
+  </cell>
+  <cell col="3" row="4" text="18.52">
+  </cell>
+  <cell col="4" row="4" text="34.9998">
+  </cell>
+  <cell col="5" row="4" text="98.6323">
+  </cell>
+  <cell col="6" row="4" text="62.7079">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="4.17">
+  </cell>
+  <cell col="1" row="5" text="13.82">
+  </cell>
+  <cell col="2" row="5" text="4.89">
+  </cell>
+  <cell col="3" row="5" text="13.44">
+  </cell>
+  <cell col="4" row="5" text="−64.6299">
+  </cell>
+  <cell col="5" row="5" text="174.8765">
+  </cell>
+  <cell col="6" row="5" text="−2.8552">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="8.33">
+  </cell>
+  <cell col="1" row="6" text="21.93">
+  </cell>
+  <cell col="2" row="6" text="21.14">
+  </cell>
+  <cell col="3" row="6" text="23.94">
+  </cell>
+  <cell col="4" row="6" text="−3.6250">
+  </cell>
+  <cell col="5" row="6" text="13.2707">
+  </cell>
+  <cell col="6" row="6" text="8.3952">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="16.67">
+  </cell>
+  <cell col="1" row="7" text="28.83">
+  </cell>
+  <cell col="2" row="7" text="6.44">
+  </cell>
+  <cell col="3" row="7" text="16.66">
+  </cell>
+  <cell col="4" row="7" text="−77.6749">
+  </cell>
+  <cell col="5" row="7" text="158.7551">
+  </cell>
+  <cell col="6" row="7" text="−73.1084">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are six different Filler (wt%)." type="entailed">
+  </statement>
+  <statement id="1" text="The highest value of PLA/Ch is 28.83." type="entailed">
+  </statement>
+  <statement id="2" text="The highest value of PLA/Ct is 24.75" type="entailed">
+  </statement>
+  <statement id="3" text="The highest value of PLA/Ti is 24.75" type="entailed">
+  </statement>
+  <statement id="5" text="The lowest value of PLA/Ch is 28.83." type="refuted">
+  </statement>
+  <statement id="6" text="The lowest value of PLA/Ct is 24.75" type="refuted">
+  </statement>
+ </statements>
+</Table 3>
+<Table 13>
+ <caption text="
+
+   Mass change during biodegradation.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Filler (wt%)">
+  </cell>
+  <cell col="1" row="0" text="Initial mass (g)">
+  </cell>
+  <cell col="4" row="0" text="Mass (g) after 4 weeks">
+  </cell>
+  <cell col="7" row="0" text="Mass (g) after 10 weeks">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="PLA/Ch">
+  </cell>
+  <cell col="2" row="1" text="PLA/Ct">
+  </cell>
+  <cell col="3" row="1" text="PLA/Ti">
+  </cell>
+  <cell col="4" row="1" text="PLA/Ch">
+  </cell>
+  <cell col="5" row="1" text="PLA/Ct">
+  </cell>
+  <cell col="6" row="1" text="PLA/Ti">
+  </cell>
+  <cell col="7" row="1" text="PLA/Ch">
+  </cell>
+  <cell col="8" row="1" text="PLA/Ct">
+  </cell>
+  <cell col="9" row="1" text="PLA/Ti">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="0.00">
+  </cell>
+  <cell col="1" row="2" text="1.2473">
+  </cell>
+  <cell col="2" row="2" text="1.2473">
+  </cell>
+  <cell col="3" row="2" text="1.2473">
+  </cell>
+  <cell col="4" row="2" text="1.3935">
+  </cell>
+  <cell col="5" row="2" text="1.3935">
+  </cell>
+  <cell col="6" row="2" text="1.3935">
+  </cell>
+  <cell col="7" row="2" text="1.3251">
+  </cell>
+  <cell col="8" row="2" text="1.3251">
+  </cell>
+  <cell col="9" row="2" text="1.3251">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="1.04">
+  </cell>
+  <cell col="1" row="3" text="1.2094">
+  </cell>
+  <cell col="2" row="3" text="1.3011">
+  </cell>
+  <cell col="3" row="3" text="1.1973">
+  </cell>
+  <cell col="4" row="3" text="1.3607">
+  </cell>
+  <cell col="5" row="3" text="1.4064">
+  </cell>
+  <cell col="6" row="3" text="1.2164">
+  </cell>
+  <cell col="7" row="3" text="1.2928">
+  </cell>
+  <cell col="8" row="3" text="1.4163">
+  </cell>
+  <cell col="9" row="3" text="1.2776">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="2.08">
+  </cell>
+  <cell col="1" row="4" text="1.0173">
+  </cell>
+  <cell col="2" row="4" text="1.3290">
+  </cell>
+  <cell col="3" row="4" text="1.1813">
+  </cell>
+  <cell col="4" row="4" text="1.1878">
+  </cell>
+  <cell col="5" row="4" text="1.4636">
+  </cell>
+  <cell col="6" row="4" text="1.2716">
+  </cell>
+  <cell col="7" row="4" text="1.1709">
+  </cell>
+  <cell col="8" row="4" text="1.4110">
+  </cell>
+  <cell col="9" row="4" text="1.3653">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="4.17">
+  </cell>
+  <cell col="1" row="5" text="1.1857">
+  </cell>
+  <cell col="2" row="5" text="1.1184">
+  </cell>
+  <cell col="3" row="5" text="1.2092">
+  </cell>
+  <cell col="4" row="5" text="1.2473">
+  </cell>
+  <cell col="5" row="5" text="1.2592">
+  </cell>
+  <cell col="6" row="5" text="1.2991">
+  </cell>
+  <cell col="7" row="5" text="1.2585">
+  </cell>
+  <cell col="8" row="5" text="1.2248">
+  </cell>
+  <cell col="9" row="5" text="1.3696">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="8.33">
+  </cell>
+  <cell col="1" row="6" text="1.3278">
+  </cell>
+  <cell col="2" row="6" text="1.3618">
+  </cell>
+  <cell col="3" row="6" text="1.1859">
+  </cell>
+  <cell col="4" row="6" text="1.4026">
+  </cell>
+  <cell col="5" row="6" text="1.4878">
+  </cell>
+  <cell col="6" row="6" text="1.2553">
+  </cell>
+  <cell col="7" row="6" text="1.4511">
+  </cell>
+  <cell col="8" row="6" text="1.4790">
+  </cell>
+  <cell col="9" row="6" text="1.3485">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="16.67">
+  </cell>
+  <cell col="1" row="7" text="1.2272">
+  </cell>
+  <cell col="2" row="7" text="1.4951">
+  </cell>
+  <cell col="3" row="7" text="1.3791">
+  </cell>
+  <cell col="4" row="7" text="1.3857">
+  </cell>
+  <cell col="5" row="7" text="1.6863">
+  </cell>
+  <cell col="6" row="7" text="1.4607">
+  </cell>
+  <cell col="7" row="7" text="1.3722">
+  </cell>
+  <cell col="8" row="7" text="1.8330">
+  </cell>
+  <cell col="9" row="7" text="1.5073">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Every filler has equal mass observed." type="refuted">
+  </statement>
+  <statement id="1" text="Mass is observed in kilo grams." type="refuted">
+  </statement>
+  <statement id="2" text="The initial mass of every filler are constant." type="refuted">
+  </statement>
+  <statement id="3" text="The masses gained or lost after four and ten weeks of immersion are shown in Table 14 in percentage terms." type="entailed">
+  </statement>
+ </statements>
+</Table 13>
+<Table 5>
+ <caption text="
+
+   Predicted fracture toughness.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Filler (wt. %)">
+  </cell>
+  <cell col="1" row="0" text="Fracture toughness from
+     
+      Eq. (2
+     
+     )">
+  </cell>
+  <cell col="4" row="0" text="Fracture toughness from
+     
+      Eq. (3
+     
+     )">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="PLA/Ch">
+  </cell>
+  <cell col="2" row="1" text="PLA/Ct">
+  </cell>
+  <cell col="3" row="1" text="PLA/Ti">
+  </cell>
+  <cell col="4" row="1" text="PLA/Ch">
+  </cell>
+  <cell col="5" row="1" text="PLA/Ct">
+  </cell>
+  <cell col="6" row="1" text="PLA/Ti">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="0.00">
+  </cell>
+  <cell col="1" row="2" text="0.1840">
+  </cell>
+  <cell col="2" row="2" text="0.1840">
+  </cell>
+  <cell col="3" row="2" text="0.1840">
+  </cell>
+  <cell col="4" row="2" text="0.0410">
+  </cell>
+  <cell col="5" row="2" text="0.0410">
+  </cell>
+  <cell col="6" row="2" text="0.0410">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="1.04">
+  </cell>
+  <cell col="1" row="3" text="0.1534">
+  </cell>
+  <cell col="2" row="3" text="0.1598">
+  </cell>
+  <cell col="3" row="3" text="0.1536">
+  </cell>
+  <cell col="4" row="3" text="0.0352">
+  </cell>
+  <cell col="5" row="3" text="0.0402">
+  </cell>
+  <cell col="6" row="3" text="0.0434">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="2.08">
+  </cell>
+  <cell col="1" row="4" text="0.1512">
+  </cell>
+  <cell col="2" row="4" text="0.1654">
+  </cell>
+  <cell col="3" row="4" text="0.1663">
+  </cell>
+  <cell col="4" row="4" text="0.0345">
+  </cell>
+  <cell col="5" row="4" text="0.0383">
+  </cell>
+  <cell col="6" row="4" text="0.0409">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="4.17">
+  </cell>
+  <cell col="1" row="5" text="0.1140">
+  </cell>
+  <cell col="2" row="5" text="0.1425">
+  </cell>
+  <cell col="3" row="5" text="0.1407">
+  </cell>
+  <cell col="4" row="5" text="0.0340">
+  </cell>
+  <cell col="5" row="5" text="0.0405">
+  </cell>
+  <cell col="6" row="5" text="0.0366">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="8.33">
+  </cell>
+  <cell col="1" row="6" text="0.1459">
+  </cell>
+  <cell col="2" row="6" text="0.1566">
+  </cell>
+  <cell col="3" row="6" text="0.1533">
+  </cell>
+  <cell col="4" row="6" text="0.0416">
+  </cell>
+  <cell col="5" row="6" text="0.0498">
+  </cell>
+  <cell col="6" row="6" text="0.0447">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="16.67">
+  </cell>
+  <cell col="1" row="7" text="0.1390">
+  </cell>
+  <cell col="2" row="7" text="0.1722">
+  </cell>
+  <cell col="3" row="7" text="0.1449">
+  </cell>
+  <cell col="4" row="7" text="0.0503">
+  </cell>
+  <cell col="5" row="7" text="0.0519">
+  </cell>
+  <cell col="6" row="7" text="0.0502">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="All the values are observed unique" type="refuted">
+  </statement>
+  <statement id="2" text="The fracture toughness is having 3 sub categories." type="refuted">
+  </statement>
+  <statement id="5" text="Fracture toughness from has kinds." type="entailed">
+  </statement>
+ </statements>
+</Table 5>
+<Table 12>
+ <caption text="
+
+   Summary of the analysis of variance on the mechanical properties of the developed composites.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Mechanical property">
+  </cell>
+  <cell col="1" row="0" text="Effect of fillers’ weight per cent">
+  </cell>
+  <cell col="4" row="0" text="Effect of fillers’ structural strengths">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="F">
+  </cell>
+  <cell col="2" row="1" text="P-value">
+  </cell>
+  <cell col="3" row="1" text="F crit">
+  </cell>
+  <cell col="4" row="1" text="F">
+  </cell>
+  <cell col="5" row="1" text="P-value">
+  </cell>
+  <cell col="6" row="1" text="F crit">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Hardness">
+  </cell>
+  <cell col="1" row="2" text="11.04">
+  </cell>
+  <cell col="2" row="2" text="8.11
+       
+
+
+        ×
+       
+
+
+         10
+        
+
+
+          −
+         
+
+          4">
+  </cell>
+  <cell col="3" row="2" text="3.33">
+  </cell>
+  <cell col="4" row="2" text="7.85">
+  </cell>
+  <cell col="5" row="2" text="8.90
+       
+
+
+        ×
+       
+
+
+         10
+        
+
+
+          −
+         
+
+          3">
+  </cell>
+  <cell col="6" row="2" text="4.10">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Compressive strength">
+  </cell>
+  <cell col="1" row="3" text="2.55">
+  </cell>
+  <cell col="2" row="3" text="9.77
+       
+
+
+        ×
+       
+
+
+         10
+        
+
+
+          −
+         
+
+          2">
+  </cell>
+  <cell col="3" row="3" text="3.33">
+  </cell>
+  <cell col="4" row="3" text="1.02">
+  </cell>
+  <cell col="5" row="3" text="3.96
+       
+
+
+        ×
+       
+
+
+         10
+        
+
+
+          −
+         
+
+          1">
+  </cell>
+  <cell col="6" row="3" text="4.10">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Compressive modulus">
+  </cell>
+  <cell col="1" row="4" text="31.30">
+  </cell>
+  <cell col="2" row="4" text="8.49
+       
+
+
+        ×
+       
+
+
+         10
+        
+
+
+          −
+         
+
+          6">
+  </cell>
+  <cell col="3" row="4" text="3.33">
+  </cell>
+  <cell col="4" row="4" text="2.70">
+  </cell>
+  <cell col="5" row="4" text="1.15
+       
+
+
+        ×
+       
+
+
+         10
+        
+
+
+          −
+         
+
+          1">
+  </cell>
+  <cell col="6" row="4" text="4.10">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Fracture toughness (
+     
+      Eq. 2
+     
+     )">
+  </cell>
+  <cell col="1" row="5" text="13.13">
+  </cell>
+  <cell col="2" row="5" text="3.97
+       
+
+
+        ×
+       
+
+
+         10
+        
+
+
+          −
+         
+
+          4">
+  </cell>
+  <cell col="3" row="5" text="3.33">
+  </cell>
+  <cell col="4" row="5" text="5.71">
+  </cell>
+  <cell col="5" row="5" text="2.22
+       
+
+
+        ×
+       
+
+
+         10
+        
+
+
+          −
+         
+
+          2">
+  </cell>
+  <cell col="6" row="5" text="4.10">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Fracture toughness (
+     
+      Eq. 3
+     
+     )">
+  </cell>
+  <cell col="1" row="6" text="15.39">
+  </cell>
+  <cell col="2" row="6" text="2.03
+       
+
+
+        ×
+       
+
+
+         10
+        
+
+
+          −
+         
+
+          4">
+  </cell>
+  <cell col="3" row="6" text="3.33">
+  </cell>
+  <cell col="4" row="6" text="5.47">
+  </cell>
+  <cell col="5" row="6" text="2.48
+       
+
+
+        ×
+       
+
+
+         10
+        
+
+
+          −
+         
+
+          2">
+  </cell>
+  <cell col="6" row="6" text="4.10">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Hardness and compressive modulus has different P-value." type="entailed">
+  </statement>
+  <statement id="1" text="F value of Effect of fillers weight per cent is highest for Compressive modulus." type="entailed">
+  </statement>
+ </statements>
+</Table 12>
+<Table 2>
+ <caption text="
+
+   Half-diameter of the indented section,
+   
+    a
+   
+   (mm) and largest lateral extension of the crack, C (mm).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Filler (wt%)">
+  </cell>
+  <cell col="1" row="0" text="a (mm)">
+  </cell>
+  <cell col="4" row="0" text="C (mm)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="PLA/Ch">
+  </cell>
+  <cell col="2" row="1" text="PLA/Ct">
+  </cell>
+  <cell col="3" row="1" text="PLA/Ti">
+  </cell>
+  <cell col="4" row="1" text="PLA/Ch">
+  </cell>
+  <cell col="5" row="1" text="PLA/Ct">
+  </cell>
+  <cell col="6" row="1" text="PLA/Ti">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="0.00">
+  </cell>
+  <cell col="1" row="2" text="25.7750">
+  </cell>
+  <cell col="2" row="2" text="25.7750">
+  </cell>
+  <cell col="3" row="2" text="25.7750">
+  </cell>
+  <cell col="4" row="2" text="53.0917">
+  </cell>
+  <cell col="5" row="2" text="53.0917">
+  </cell>
+  <cell col="6" row="2" text="53.0917">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="1.04">
+  </cell>
+  <cell col="1" row="3" text="20.7667">
+  </cell>
+  <cell col="2" row="3" text="17.5917">
+  </cell>
+  <cell col="3" row="3" text="17.0083">
+  </cell>
+  <cell col="4" row="3" text="59.9333">
+  </cell>
+  <cell col="5" row="3" text="58.3250">
+  </cell>
+  <cell col="6" row="3" text="59.8917">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="2.08">
+  </cell>
+  <cell col="1" row="4" text="21.8417">
+  </cell>
+  <cell col="2" row="4" text="19.0000">
+  </cell>
+  <cell col="3" row="4" text="15.5667">
+  </cell>
+  <cell col="4" row="4" text="60.5250">
+  </cell>
+  <cell col="5" row="4" text="57.0167">
+  </cell>
+  <cell col="6" row="4" text="56.7833">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="4.17">
+  </cell>
+  <cell col="1" row="5" text="20.7167">
+  </cell>
+  <cell col="2" row="5" text="17.9333">
+  </cell>
+  <cell col="3" row="5" text="18.7917">
+  </cell>
+  <cell col="4" row="5" text="73.0500">
+  </cell>
+  <cell col="5" row="5" text="62.9500">
+  </cell>
+  <cell col="6" row="5" text="63.5083">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="8.33">
+  </cell>
+  <cell col="1" row="6" text="18.0000">
+  </cell>
+  <cell col="2" row="6" text="15.0750">
+  </cell>
+  <cell col="3" row="6" text="16.9083">
+  </cell>
+  <cell col="4" row="6" text="61.9833">
+  </cell>
+  <cell col="5" row="6" text="59.1250">
+  </cell>
+  <cell col="6" row="6" text="59.9750">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="16.67">
+  </cell>
+  <cell col="1" row="7" text="16.0750">
+  </cell>
+  <cell col="2" row="7" text="17.0583">
+  </cell>
+  <cell col="3" row="7" text="18.2250">
+  </cell>
+  <cell col="4" row="7" text="64.0250">
+  </cell>
+  <cell col="5" row="7" text="55.4917">
+  </cell>
+  <cell col="6" row="7" text="62.2750">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Filler (wt%) 16.67 for a (mm)PLA/Ti is 18.2250." type="entailed">
+  </statement>
+  <statement id="1" text="4.17 Filler (wt%) is 17.9333 for PLA/Ct." type="entailed">
+  </statement>
+ </statements>
+</Table 2>
+<Table 1>
+ <caption text="
+
+   Vickers microhardness values.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Filler (wt%)">
+  </cell>
+  <cell col="1" row="0" text="Hardness value (HV)">
+  </cell>
+  <cell col="4" row="0" text="% increase in hardness of">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="PLA/Ch">
+  </cell>
+  <cell col="2" row="1" text="PLA/Ct">
+  </cell>
+  <cell col="3" row="1" text="PLA/Ti">
+  </cell>
+  <cell col="4" row="1" text="PLA/Ct over PLA/Ch">
+  </cell>
+  <cell col="5" row="1" text="PLA/Ti over PLA/Ct">
+  </cell>
+  <cell col="6" row="1" text="PLA/Ti over PLA/Ch">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="0.00">
+  </cell>
+  <cell col="1" row="2" text="68.6">
+  </cell>
+  <cell col="2" row="2" text="68.6">
+  </cell>
+  <cell col="3" row="2" text="68.6">
+  </cell>
+  <cell col="4" row="2" text="0.0000">
+  </cell>
+  <cell col="5" row="2" text="0.0000">
+  </cell>
+  <cell col="6" row="2" text="0.0000">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="1.04">
+  </cell>
+  <cell col="1" row="3" text="76.1">
+  </cell>
+  <cell col="2" row="3" text="134">
+  </cell>
+  <cell col="3" row="3" text="151.8">
+  </cell>
+  <cell col="4" row="3" text="76.0841">
+  </cell>
+  <cell col="5" row="3" text="13.2836">
+  </cell>
+  <cell col="6" row="3" text="49.8683">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="2.08">
+  </cell>
+  <cell col="1" row="4" text="90.2">
+  </cell>
+  <cell col="2" row="4" text="135.5">
+  </cell>
+  <cell col="3" row="4" text="161.8">
+  </cell>
+  <cell col="4" row="4" text="50.2217">
+  </cell>
+  <cell col="5" row="4" text="19.4096">
+  </cell>
+  <cell col="6" row="4" text="44.2522">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="4.17">
+  </cell>
+  <cell col="1" row="5" text="107.2">
+  </cell>
+  <cell col="2" row="5" text="154.5">
+  </cell>
+  <cell col="3" row="5" text="180.5">
+  </cell>
+  <cell col="4" row="5" text="44.1231">
+  </cell>
+  <cell col="5" row="5" text="16.8285">
+  </cell>
+  <cell col="6" row="5" text="40.6094">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="8.33">
+  </cell>
+  <cell col="1" row="6" text="148.4">
+  </cell>
+  <cell col="2" row="6" text="213.1">
+  </cell>
+  <cell col="3" row="6" text="268.1">
+  </cell>
+  <cell col="4" row="6" text="43.5984">
+  </cell>
+  <cell col="5" row="6" text="25.8095">
+  </cell>
+  <cell col="6" row="6" text="44.6475">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="16.67">
+  </cell>
+  <cell col="1" row="7" text="167.7">
+  </cell>
+  <cell col="2" row="7" text="210.9">
+  </cell>
+  <cell col="3" row="7" text="165.2">
+  </cell>
+  <cell col="4" row="7" text="25.7603">
+  </cell>
+  <cell col="5" row="7" text="-21.6690">
+  </cell>
+  <cell col="6" row="7" text="-1.5133">
+  </cell>
+ </row>
+ <statements>
+  <statement id="3" text="The Vickers microhardness values (H V ), are presented in Table 1 ." type="entailed">
+  </statement>
+  <statement id="4" text="Table 1 , for instance, gives the measure of the resistance of the samples to plastic deformation during indentation while Table 2 details the quantitative values of half of the diameter of the impression made by the indenter and the largest lateral extension (C) of the observed cracks." type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 14>
+ <caption text="
+
+   Percentage changes in mass after immersion in Phosphate Buffer Solution (PBS).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Filler (wt%)">
+  </cell>
+  <cell col="1" row="0" text="Mass (g) after 4 weeks">
+  </cell>
+  <cell col="4" row="0" text="Mass (g) after 10 weeks">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="PLA/Ch">
+  </cell>
+  <cell col="2" row="1" text="PLA/Ct">
+  </cell>
+  <cell col="3" row="1" text="PLA/Ti">
+  </cell>
+  <cell col="4" row="1" text="PLA/Ch">
+  </cell>
+  <cell col="5" row="1" text="PLA/Ct">
+  </cell>
+  <cell col="6" row="1" text="PLA/Ti">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="0.00">
+  </cell>
+  <cell col="1" row="2" text="11.7213">
+  </cell>
+  <cell col="2" row="2" text="11.7213">
+  </cell>
+  <cell col="3" row="2" text="11.7213">
+  </cell>
+  <cell col="4" row="2" text="6.2375">
+  </cell>
+  <cell col="5" row="2" text="6.2375">
+  </cell>
+  <cell col="6" row="2" text="6.2375">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="1.04">
+  </cell>
+  <cell col="1" row="3" text="12.5103">
+  </cell>
+  <cell col="2" row="3" text="8.0932">
+  </cell>
+  <cell col="3" row="3" text="1.5953">
+  </cell>
+  <cell col="4" row="3" text="6.8960">
+  </cell>
+  <cell col="5" row="3" text="8.8540">
+  </cell>
+  <cell col="6" row="3" text="6.7068">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="2.08">
+  </cell>
+  <cell col="1" row="4" text="16.7600">
+  </cell>
+  <cell col="2" row="4" text="10.1279">
+  </cell>
+  <cell col="3" row="4" text="7.6441">
+  </cell>
+  <cell col="4" row="4" text="15.0988">
+  </cell>
+  <cell col="5" row="4" text="6.1700">
+  </cell>
+  <cell col="6" row="4" text="15.5761">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="4.17">
+  </cell>
+  <cell col="1" row="5" text="5.1952">
+  </cell>
+  <cell col="2" row="5" text="12.5894">
+  </cell>
+  <cell col="3" row="5" text="7.4347">
+  </cell>
+  <cell col="4" row="5" text="6.1398">
+  </cell>
+  <cell col="5" row="5" text="9.5136">
+  </cell>
+  <cell col="6" row="5" text="13.2650">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="8.33">
+  </cell>
+  <cell col="1" row="6" text="5.6334">
+  </cell>
+  <cell col="2" row="6" text="9.2525">
+  </cell>
+  <cell col="3" row="6" text="5.8521">
+  </cell>
+  <cell col="4" row="6" text="9.2860">
+  </cell>
+  <cell col="5" row="6" text="8.6063">
+  </cell>
+  <cell col="6" row="6" text="13.7111">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="16.67">
+  </cell>
+  <cell col="1" row="7" text="12.9156">
+  </cell>
+  <cell col="2" row="7" text="12.7884">
+  </cell>
+  <cell col="3" row="7" text="5.9169">
+  </cell>
+  <cell col="4" row="7" text="11.8155">
+  </cell>
+  <cell col="5" row="7" text="22.6005">
+  </cell>
+  <cell col="6" row="7" text="9.2959">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Heightest Filler used as immersion is 16.67%" type="entailed">
+  </statement>
+  <statement id="4" text="Mass of the solution is recorded in 4 time period." type="refuted">
+  </statement>
+  <statement id="6" text="The masses gained or lost after four and ten weeks of immersion are shown in Table 14 in percentage terms." type="entailed">
+  </statement>
+  <statement id="7" text="These data describe the onset of biodegradation by hydrolytic degradation [7] ." type="entailed">
+  </statement>
+ </statements>
+</Table 14>
+<Table 4>
+ <caption text="
+
+   Compressive modulus (Ec).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Filler (wt%)">
+  </cell>
+  <cell col="1" row="0" text="E
+     
+      c
+     
+     (MPa)">
+  </cell>
+  <cell col="4" row="0" text="% increase in E
+     
+      c
+     
+     of">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="PLA/Ch">
+  </cell>
+  <cell col="2" row="1" text="PLA/Ct">
+  </cell>
+  <cell col="3" row="1" text="PLA/Ti">
+  </cell>
+  <cell col="4" row="1" text="PLA/Ct over PLA/Ch">
+  </cell>
+  <cell col="5" row="1" text="PLA/Ti over PLA/Ct">
+  </cell>
+  <cell col="6" row="1" text="PLA/Ti over PLA/Ch">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="0.00">
+  </cell>
+  <cell col="1" row="2" text="522.18">
+  </cell>
+  <cell col="2" row="2" text="522.18">
+  </cell>
+  <cell col="3" row="2" text="522.18">
+  </cell>
+  <cell col="4" row="2" text="0.0000">
+  </cell>
+  <cell col="5" row="2" text="0.0000">
+  </cell>
+  <cell col="6" row="2" text="0.0000">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="1.04">
+  </cell>
+  <cell col="1" row="3" text="376.34">
+  </cell>
+  <cell col="2" row="3" text="444.61">
+  </cell>
+  <cell col="3" row="3" text="546.13">
+  </cell>
+  <cell col="4" row="3" text="18.1400">
+  </cell>
+  <cell col="5" row="3" text="22.8342">
+  </cell>
+  <cell col="6" row="3" text="31.0898">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="2.08">
+  </cell>
+  <cell col="1" row="4" text="357.24">
+  </cell>
+  <cell col="2" row="4" text="400.90">
+  </cell>
+  <cell col="3" row="4" text="424.42">
+  </cell>
+  <cell col="4" row="4" text="12.2212">
+  </cell>
+  <cell col="5" row="4" text="5.8685">
+  </cell>
+  <cell col="6" row="4" text="15.8298">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="4.17">
+  </cell>
+  <cell col="1" row="5" text="419.96">
+  </cell>
+  <cell col="2" row="5" text="513.47">
+  </cell>
+  <cell col="3" row="5" text="416.79">
+  </cell>
+  <cell col="4" row="5" text="22.2680">
+  </cell>
+  <cell col="5" row="5" text="−18.8294">
+  </cell>
+  <cell col="6" row="5" text="−0.7601">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="8.33">
+  </cell>
+  <cell col="1" row="6" text="536.29">
+  </cell>
+  <cell col="2" row="6" text="709.73">
+  </cell>
+  <cell col="3" row="6" text="637.59">
+  </cell>
+  <cell col="4" row="6" text="32.3418">
+  </cell>
+  <cell col="5" row="6" text="−10.1646">
+  </cell>
+  <cell col="6" row="6" text="15.8884">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="16.67">
+  </cell>
+  <cell col="1" row="7" text="841.94">
+  </cell>
+  <cell col="2" row="7" text="812.21">
+  </cell>
+  <cell col="3" row="7" text="863.77">
+  </cell>
+  <cell col="4" row="7" text="−3.5312">
+  </cell>
+  <cell col="5" row="7" text="6.3484">
+  </cell>
+  <cell col="6" row="7" text="2.5275">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="E c (MPa) has 3 categories such as PLA/Ch,PLA/Ct and PLA/Ti." type="entailed">
+  </statement>
+  <statement id="2" text="Filler (wt%) ranges from 0.10 to 20.67." type="refuted">
+  </statement>
+  <statement id="4" text="E c (MPa) has same value for all Filler (wt%)." type="refuted">
+  </statement>
+  <statement id="5" text="Compressive moduli are presented in Table 4 ." type="entailed">
+  </statement>
+ </statements>
+</Table 4>

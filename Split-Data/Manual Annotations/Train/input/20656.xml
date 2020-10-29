@@ -1,0 +1,52 @@
+<Table 1>
+ <caption text="
+
+   Summary of the recommended recording parameters for BP and myoclonus.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Bereitschaftspotential">
+  </cell>
+  <cell col="2" row="0" text="Myoclonus">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="EMG filters">
+  </cell>
+  <cell col="1" row="1" text="10–250 Hz">
+  </cell>
+  <cell col="2" row="1" text="10–250 Hz">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="EEG filters">
+  </cell>
+  <cell col="1" row="2" text="0.01–50 Hz">
+  </cell>
+  <cell col="2" row="2" text="1–70 Hz">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Sampling rate">
+  </cell>
+  <cell col="1" row="3" text="At least 1000 Hz">
+  </cell>
+  <cell col="2" row="3" text="At least 1000 Hz">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Behavioral recording">
+  </cell>
+  <cell col="1" row="4" text="Record involuntary and voluntary movements.">
+  </cell>
+  <cell col="2" row="4" text="Record involuntary movements during rest, posture and action depending on how the myoclonus is evoked.">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="BP and myoclonus has different hertz of EEG filters." type="">
+  </statement>
+ </statements>
+</Table 1>

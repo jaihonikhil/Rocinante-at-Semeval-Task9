@@ -1,0 +1,611 @@
+<Table 1>
+ <caption text="
+
+   Brief description of Italian Regions. English name is provided, where existing; “Number” refers to the number of municipalities. Three-letter codes for Regions are used in
+   
+    Figs. 3 and 7
+   
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Code">
+  </cell>
+  <cell col="1" row="0" text="Region">
+  </cell>
+  <cell col="2" row="0" text="Population (2011)">
+  </cell>
+  <cell col="3" row="0" text="Area [km
+     
+      2
+     
+     ]">
+  </cell>
+  <cell col="4" row="0" text="Number (2011)">
+  </cell>
+  <cell col="5" row="0" text="Mean Area [km
+     
+      2
+     
+     ]">
+  </cell>
+  <cell col="6" row="0" text="Pop. Density [km
+     
+      −2
+     
+     ]">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="ABR">
+  </cell>
+  <cell col="1" row="1" text="Abruzzo">
+  </cell>
+  <cell col="2" row="1" text="1,307,309">
+  </cell>
+  <cell col="3" row="1" text="10,796">
+  </cell>
+  <cell col="4" row="1" text="305">
+  </cell>
+  <cell col="5" row="1" text="35.4">
+  </cell>
+  <cell col="6" row="1" text="121.1">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="BAS">
+  </cell>
+  <cell col="1" row="2" text="Basilicata">
+  </cell>
+  <cell col="2" row="2" text="578,036">
+  </cell>
+  <cell col="3" row="2" text="9992">
+  </cell>
+  <cell col="4" row="2" text="131">
+  </cell>
+  <cell col="5" row="2" text="76.3">
+  </cell>
+  <cell col="6" row="2" text="57.8">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="CAL">
+  </cell>
+  <cell col="1" row="3" text="Calabria">
+  </cell>
+  <cell col="2" row="3" text="1,959,050">
+  </cell>
+  <cell col="3" row="3" text="15,085">
+  </cell>
+  <cell col="4" row="3" text="409">
+  </cell>
+  <cell col="5" row="3" text="36.9">
+  </cell>
+  <cell col="6" row="3" text="129.9">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="CAM">
+  </cell>
+  <cell col="1" row="4" text="Campania">
+  </cell>
+  <cell col="2" row="4" text="5,766,810">
+  </cell>
+  <cell col="3" row="4" text="13,600">
+  </cell>
+  <cell col="4" row="4" text="551">
+  </cell>
+  <cell col="5" row="4" text="24.7">
+  </cell>
+  <cell col="6" row="4" text="424.0">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="EMR">
+  </cell>
+  <cell col="1" row="5" text="Emilia-Romagna">
+  </cell>
+  <cell col="2" row="5" text="4,342,135">
+  </cell>
+  <cell col="3" row="5" text="22,188">
+  </cell>
+  <cell col="4" row="5" text="348">
+  </cell>
+  <cell col="5" row="5" text="63.8">
+  </cell>
+  <cell col="6" row="5" text="195.7">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="FVG">
+  </cell>
+  <cell col="1" row="6" text="Friuli-Venezia">
+  </cell>
+  <cell col="2" row="6" text="1,218,985">
+  </cell>
+  <cell col="3" row="6" text="7848">
+  </cell>
+  <cell col="4" row="6" text="218">
+  </cell>
+  <cell col="5" row="6" text="36.0">
+  </cell>
+  <cell col="6" row="6" text="155.3">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="">
+  </cell>
+  <cell col="1" row="7" text="Giulia">
+  </cell>
+  <cell col="2" row="7" text="">
+  </cell>
+  <cell col="3" row="7" text="">
+  </cell>
+  <cell col="4" row="7" text="">
+  </cell>
+  <cell col="5" row="7" text="">
+  </cell>
+  <cell col="6" row="7" text="">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="LAZ">
+  </cell>
+  <cell col="1" row="8" text="Lazio">
+  </cell>
+  <cell col="2" row="8" text="5,502,886">
+  </cell>
+  <cell col="3" row="8" text="17,202">
+  </cell>
+  <cell col="4" row="8" text="378">
+  </cell>
+  <cell col="5" row="8" text="45.5">
+  </cell>
+  <cell col="6" row="8" text="319.9">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="LIG">
+  </cell>
+  <cell col="1" row="9" text="Liguria">
+  </cell>
+  <cell col="2" row="9" text="1,570,694">
+  </cell>
+  <cell col="3" row="9" text="5,414">
+  </cell>
+  <cell col="4" row="9" text="235">
+  </cell>
+  <cell col="5" row="9" text="23.0">
+  </cell>
+  <cell col="6" row="9" text="290.1">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="LOM">
+  </cell>
+  <cell col="1" row="10" text="Lombardy">
+  </cell>
+  <cell col="2" row="10" text="9,704,151">
+  </cell>
+  <cell col="3" row="10" text="23,874">
+  </cell>
+  <cell col="4" row="10" text="1,544">
+  </cell>
+  <cell col="5" row="10" text="15.5">
+  </cell>
+  <cell col="6" row="10" text="406.5">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="MAR">
+  </cell>
+  <cell col="1" row="11" text="Marche">
+  </cell>
+  <cell col="2" row="11" text="1,541,319">
+  </cell>
+  <cell col="3" row="11" text="9712">
+  </cell>
+  <cell col="4" row="11" text="239">
+  </cell>
+  <cell col="5" row="11" text="40.6">
+  </cell>
+  <cell col="6" row="11" text="158.7">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="MOL">
+  </cell>
+  <cell col="1" row="12" text="Molise">
+  </cell>
+  <cell col="2" row="12" text="313,660">
+  </cell>
+  <cell col="3" row="12" text="4441">
+  </cell>
+  <cell col="4" row="12" text="136">
+  </cell>
+  <cell col="5" row="12" text="32.7">
+  </cell>
+  <cell col="6" row="12" text="70.6">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="PIE">
+  </cell>
+  <cell col="1" row="13" text="Piedimont">
+  </cell>
+  <cell col="2" row="13" text="4,356,904">
+  </cell>
+  <cell col="3" row="13" text="25,406">
+  </cell>
+  <cell col="4" row="13" text="1,206">
+  </cell>
+  <cell col="5" row="13" text="21.1">
+  </cell>
+  <cell col="6" row="13" text="171.5">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="PUG">
+  </cell>
+  <cell col="1" row="14" text="Apulia">
+  </cell>
+  <cell col="2" row="14" text="4,052,566">
+  </cell>
+  <cell col="3" row="14" text="19,358">
+  </cell>
+  <cell col="4" row="14" text="258">
+  </cell>
+  <cell col="5" row="14" text="75.0">
+  </cell>
+  <cell col="6" row="14" text="209.3">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="SAR">
+  </cell>
+  <cell col="1" row="15" text="Sardinia">
+  </cell>
+  <cell col="2" row="15" text="1,639,362">
+  </cell>
+  <cell col="3" row="15" text="24,114">
+  </cell>
+  <cell col="4" row="15" text="377">
+  </cell>
+  <cell col="5" row="15" text="64.0">
+  </cell>
+  <cell col="6" row="15" text="67.9">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="SIC">
+  </cell>
+  <cell col="1" row="16" text="Sicily">
+  </cell>
+  <cell col="2" row="16" text="5,002,904">
+  </cell>
+  <cell col="3" row="16" text="25,718">
+  </cell>
+  <cell col="4" row="16" text="390">
+  </cell>
+  <cell col="5" row="16" text="65.9">
+  </cell>
+  <cell col="6" row="16" text="194.5">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="TAA">
+  </cell>
+  <cell col="1" row="17" text="Trentino-South">
+  </cell>
+  <cell col="2" row="17" text="1,029,475">
+  </cell>
+  <cell col="3" row="17" text="13,603">
+  </cell>
+  <cell col="4" row="17" text="333">
+  </cell>
+  <cell col="5" row="17" text="40.8">
+  </cell>
+  <cell col="6" row="17" text="75.7">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="">
+  </cell>
+  <cell col="1" row="18" text="Tyrol">
+  </cell>
+  <cell col="2" row="18" text="">
+  </cell>
+  <cell col="3" row="18" text="">
+  </cell>
+  <cell col="4" row="18" text="">
+  </cell>
+  <cell col="5" row="18" text="">
+  </cell>
+  <cell col="6" row="18" text="">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="TOS">
+  </cell>
+  <cell col="1" row="19" text="Tuscany">
+  </cell>
+  <cell col="2" row="19" text="3,672,202">
+  </cell>
+  <cell col="3" row="19" text="22,988">
+  </cell>
+  <cell col="4" row="19" text="287">
+  </cell>
+  <cell col="5" row="19" text="80.1">
+  </cell>
+  <cell col="6" row="19" text="159.7">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="UMB">
+  </cell>
+  <cell col="1" row="20" text="Umbria">
+  </cell>
+  <cell col="2" row="20" text="884,268">
+  </cell>
+  <cell col="3" row="20" text="8455">
+  </cell>
+  <cell col="4" row="20" text="92">
+  </cell>
+  <cell col="5" row="20" text="91.9">
+  </cell>
+  <cell col="6" row="20" text="104.6">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="VAO">
+  </cell>
+  <cell col="1" row="21" text="Aosta Valley">
+  </cell>
+  <cell col="2" row="21" text="126,806">
+  </cell>
+  <cell col="3" row="21" text="3262">
+  </cell>
+  <cell col="4" row="21" text="74">
+  </cell>
+  <cell col="5" row="21" text="44.1">
+  </cell>
+  <cell col="6" row="21" text="38.9">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="VEN">
+  </cell>
+  <cell col="1" row="22" text="Veneto">
+  </cell>
+  <cell col="2" row="22" text="4,857,210">
+  </cell>
+  <cell col="3" row="22" text="18,405">
+  </cell>
+  <cell col="4" row="22" text="581">
+  </cell>
+  <cell col="5" row="22" text="31.7">
+  </cell>
+  <cell col="6" row="22" text="263.9">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The are 20 codes in the table." type="entailed">
+  </statement>
+  <statement id="1" text="The table is having unique Regions." type="entailed">
+  </statement>
+  <statement id="2" text="UMB is having highest of Mean Area [km 2 ] that is 91.9." type="entailed">
+  </statement>
+  <statement id="6" text="We rather focused on Regions, of which Italy is subdivided into twenty, and whose properties relevant for this work are listed in Table 1 ." type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   The number of polygons and total area corresponding to the existing subdivision in municipalities in Italy (
+   
+    old
+   
+   ), and the proposed one (
+   
+    new
+   
+   ). Class 1 corresponds to grey in
+   ; class 2, green; class 7, cyan; class 3, yellow; class 8, magenta; class 4, orange; class 9, cerulean blue; class 5, red; class 10, blue.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Class">
+  </cell>
+  <cell col="1" row="0" text="Number (
+     
+      old
+     
+     )">
+  </cell>
+  <cell col="2" row="0" text="Area [km
+     
+      2
+     
+     ]">
+  </cell>
+  <cell col="3" row="0" text="Number (
+     
+      new
+     
+     )">
+  </cell>
+  <cell col="4" row="0" text="Area [km
+     
+      2
+     
+     ]">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1">
+  </cell>
+  <cell col="1" row="1" text="4919">
+  </cell>
+  <cell col="2" row="1" text="181,757">
+  </cell>
+  <cell col="3" row="1" text="4042">
+  </cell>
+  <cell col="4" row="1" text="197,204">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2, 7">
+  </cell>
+  <cell col="1" row="2" text="1990">
+  </cell>
+  <cell col="2" row="2" text="78,013">
+  </cell>
+  <cell col="3" row="2" text="1580">
+  </cell>
+  <cell col="4" row="2" text="69,625">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3, 8">
+  </cell>
+  <cell col="1" row="3" text="750">
+  </cell>
+  <cell col="2" row="3" text="27,876">
+  </cell>
+  <cell col="3" row="3" text="586">
+  </cell>
+  <cell col="4" row="3" text="22,794">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4, 9">
+  </cell>
+  <cell col="1" row="4" text="272">
+  </cell>
+  <cell col="2" row="4" text="8321">
+  </cell>
+  <cell col="3" row="4" text="227">
+  </cell>
+  <cell col="4" row="4" text="7525">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="5, 10">
+  </cell>
+  <cell col="1" row="5" text="161">
+  </cell>
+  <cell col="2" row="5" text="5430">
+  </cell>
+  <cell col="3" row="5" text="136">
+  </cell>
+  <cell col="4" row="5" text="4245">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Class column ranges from 1 to 10." type="entailed">
+  </statement>
+  <statement id="1" text="Different area is given for Number ( old ) and Number ( new ) ." type="entailed">
+  </statement>
+  <statement id="2" text="The area of class 1 of Number ( new ) is more than Number ( old )." type="entailed">
+  </statement>
+  <statement id="3" text="The lowest value is 136 of class 5, 10." type="entailed">
+  </statement>
+  <statement id="6" text="Considering the empirical scaling relation of Fig. 2 as a metric for performance of each unit, the procedure reduced the total area of units classified as less performing from 5430 km 2 to 4245 km 2 ( cf." type="entailed">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Numerical details about polygons stemming from city delineations performed with the “natural cities” method described in Section
+   
+    4.3
+   
+   . Results are shown in
+   
+    Figs. 3 and 4
+   
+   (d).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="ID">
+  </cell>
+  <cell col="1" row="0" text="Number of">
+  </cell>
+  <cell col="2" row="0" text="Average area">
+  </cell>
+  <cell col="3" row="0" text="Maximum area">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="cities">
+  </cell>
+  <cell col="2" row="1" text="[km
+     
+      2
+     
+     ]">
+  </cell>
+  <cell col="3" row="1" text="[km
+     
+      2
+     
+     ]">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Peninsular">
+  </cell>
+  <cell col="1" row="2" text="77,103">
+  </cell>
+  <cell col="2" row="2" text="0.244">
+  </cell>
+  <cell col="3" row="2" text="1,311,601">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Sicily">
+  </cell>
+  <cell col="1" row="3" text="6,190">
+  </cell>
+  <cell col="2" row="3" text="0.189">
+  </cell>
+  <cell col="3" row="3" text="112,829">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Sardinia">
+  </cell>
+  <cell col="1" row="4" text="5,979">
+  </cell>
+  <cell col="2" row="4" text="0.182">
+  </cell>
+  <cell col="3" row="4" text="86,762">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Italy">
+  </cell>
+  <cell col="1" row="5" text="89,272">
+  </cell>
+  <cell col="2" row="5" text="0.224">
+  </cell>
+  <cell col="3" row="5" text="1,311,601">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Italy region has more number of cities." type="entailed">
+  </statement>
+  <statement id="1" text="Peninsular and Italy has equal maximum area and average area." type="entailed">
+  </statement>
+  <statement id="2" text="Sardinia region has less number of cities." type="entailed">
+  </statement>
+ </statements>
+</Table 2>

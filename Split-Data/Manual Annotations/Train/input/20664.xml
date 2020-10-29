@@ -1,0 +1,152 @@
+<Table 6>
+ <caption text="
+
+   Peaks positions and their FWHM values for constituent elements of CCTS nanoparticles synthesized with 2.50 mmol Cu (C1). ΔE (eV) denotes the difference between peak1 and peak2.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Cu">
+  </cell>
+  <cell col="3" row="0" text="Co">
+  </cell>
+  <cell col="5" row="0" text="Sn">
+  </cell>
+  <cell col="7" row="0" text="S">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="Position">
+  </cell>
+  <cell col="2" row="1" text="FWHM">
+  </cell>
+  <cell col="3" row="1" text="Position">
+  </cell>
+  <cell col="4" row="1" text="FWHM">
+  </cell>
+  <cell col="5" row="1" text="Position">
+  </cell>
+  <cell col="6" row="1" text="FWHM">
+  </cell>
+  <cell col="7" row="1" text="Position">
+  </cell>
+  <cell col="8" row="1" text="FWHM">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Peak1(eV)">
+  </cell>
+  <cell col="1" row="2" text="931.748">
+  </cell>
+  <cell col="2" row="2" text="1.354">
+  </cell>
+  <cell col="3" row="2" text="778.770">
+  </cell>
+  <cell col="4" row="2" text="1.175">
+  </cell>
+  <cell col="5" row="2" text="486.056">
+  </cell>
+  <cell col="6" row="2" text="1.105">
+  </cell>
+  <cell col="7" row="2" text="161.232">
+  </cell>
+  <cell col="8" row="2" text="0.793">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Peak2(eV)">
+  </cell>
+  <cell col="1" row="3" text="951.624">
+  </cell>
+  <cell col="2" row="3" text="2.501">
+  </cell>
+  <cell col="3" row="3" text="793.408">
+  </cell>
+  <cell col="4" row="3" text="1.566">
+  </cell>
+  <cell col="5" row="3" text="494.491">
+  </cell>
+  <cell col="6" row="3" text="1.130">
+  </cell>
+  <cell col="7" row="3" text="162.304">
+  </cell>
+  <cell col="8" row="3" text="2.234">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Peak3(eV)">
+  </cell>
+  <cell col="1" row="4" text="946.660">
+  </cell>
+  <cell col="2" row="4" text="4.062">
+  </cell>
+  <cell col="3" row="4" text="779.113">
+  </cell>
+  <cell col="4" row="4" text="4.283">
+  </cell>
+  <cell col="5" row="4" text="487.010">
+  </cell>
+  <cell col="6" row="4" text="1.310">
+  </cell>
+  <cell col="7" row="4" text="164.361">
+  </cell>
+  <cell col="8" row="4" text="1.687">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Peak4(eV)">
+  </cell>
+  <cell col="1" row="5" text="">
+  </cell>
+  <cell col="2" row="5" text="">
+  </cell>
+  <cell col="3" row="5" text="795.220">
+  </cell>
+  <cell col="4" row="5" text="2.523">
+  </cell>
+  <cell col="5" row="5" text="495.514">
+  </cell>
+  <cell col="6" row="5" text="1.312">
+  </cell>
+  <cell col="7" row="5" text="">
+  </cell>
+  <cell col="8" row="5" text="">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="ΔE (eV)">
+  </cell>
+  <cell col="1" row="6" text="19.86">
+  </cell>
+  <cell col="2" row="6" text="">
+  </cell>
+  <cell col="3" row="6" text="14.70">
+  </cell>
+  <cell col="4" row="6" text="">
+  </cell>
+  <cell col="5" row="6" text="8.43">
+  </cell>
+  <cell col="6" row="6" text="">
+  </cell>
+  <cell col="7" row="6" text="1.072">
+  </cell>
+  <cell col="8" row="6" text="">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Cu, Co, Sn and S are four elements given with their position and FWHM values." type="">
+  </statement>
+  <statement id="1" text="Every element has different position values at every peak." type="">
+  </statement>
+  <statement id="2" text="Element Cu and S does not have Peak4(eV) value." type="">
+  </statement>
+  <statement id="3" text="There are eight elements present in the table." type="">
+  </statement>
+  <statement id="4" text="Element Cu and Co has same position value at Peak1(eV)." type="">
+  </statement>
+ </statements>
+</Table 6>

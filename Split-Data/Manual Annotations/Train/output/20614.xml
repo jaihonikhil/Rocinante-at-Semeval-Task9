@@ -1,0 +1,894 @@
+<Table 3>
+ <caption text="
+
+   The result of PLS-SEM algorithm analysis.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Variable">
+  </cell>
+  <cell col="1" row="0" text="Item">
+  </cell>
+  <cell col="2" row="0" text="Loading">
+  </cell>
+  <cell col="3" row="0" text="Cronbach's Alpha">
+  </cell>
+  <cell col="4" row="0" text="CR">
+  </cell>
+  <cell col="5" row="0" text="AVE">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Financial literacy (FL)">
+  </cell>
+  <cell col="1" row="1" text="FL1">
+  </cell>
+  <cell col="2" row="1" text="0.578">
+  </cell>
+  <cell col="3" row="1" text="0.83">
+  </cell>
+  <cell col="4" row="1" text="0.874">
+  </cell>
+  <cell col="5" row="1" text="0.552">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="">
+  </cell>
+  <cell col="1" row="2" text="FL2">
+  </cell>
+  <cell col="2" row="2" text="0.884">
+  </cell>
+  <cell col="3" row="2" text="">
+  </cell>
+  <cell col="4" row="2" text="">
+  </cell>
+  <cell col="5" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="">
+  </cell>
+  <cell col="1" row="3" text="FL3">
+  </cell>
+  <cell col="2" row="3" text="0.729">
+  </cell>
+  <cell col="3" row="3" text="">
+  </cell>
+  <cell col="4" row="3" text="">
+  </cell>
+  <cell col="5" row="3" text="">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="">
+  </cell>
+  <cell col="1" row="4" text="FL4">
+  </cell>
+  <cell col="2" row="4" text="0.869">
+  </cell>
+  <cell col="3" row="4" text="">
+  </cell>
+  <cell col="4" row="4" text="">
+  </cell>
+  <cell col="5" row="4" text="">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="">
+  </cell>
+  <cell col="1" row="5" text="FL5">
+  </cell>
+  <cell col="2" row="5" text="0.384">
+  </cell>
+  <cell col="3" row="5" text="">
+  </cell>
+  <cell col="4" row="5" text="">
+  </cell>
+  <cell col="5" row="5" text="">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="">
+  </cell>
+  <cell col="1" row="6" text="FL6">
+  </cell>
+  <cell col="2" row="6" text="0.872">
+  </cell>
+  <cell col="3" row="6" text="">
+  </cell>
+  <cell col="4" row="6" text="">
+  </cell>
+  <cell col="5" row="6" text="">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Peer-influence (PI)">
+  </cell>
+  <cell col="1" row="7" text="PI1">
+  </cell>
+  <cell col="2" row="7" text="0.862">
+  </cell>
+  <cell col="3" row="7" text="0.538">
+  </cell>
+  <cell col="4" row="7" text="0.556">
+  </cell>
+  <cell col="5" row="7" text="0.249">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="">
+  </cell>
+  <cell col="1" row="8" text="PI2">
+  </cell>
+  <cell col="2" row="8" text="0.253">
+  </cell>
+  <cell col="3" row="8" text="">
+  </cell>
+  <cell col="4" row="8" text="">
+  </cell>
+  <cell col="5" row="8" text="">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="">
+  </cell>
+  <cell col="1" row="9" text="PI3">
+  </cell>
+  <cell col="2" row="9" text="0.315">
+  </cell>
+  <cell col="3" row="9" text="">
+  </cell>
+  <cell col="4" row="9" text="">
+  </cell>
+  <cell col="5" row="9" text="">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="">
+  </cell>
+  <cell col="1" row="10" text="PI4">
+  </cell>
+  <cell col="2" row="10" text="0.24">
+  </cell>
+  <cell col="3" row="10" text="">
+  </cell>
+  <cell col="4" row="10" text="">
+  </cell>
+  <cell col="5" row="10" text="">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="">
+  </cell>
+  <cell col="1" row="11" text="PI5">
+  </cell>
+  <cell col="2" row="11" text="−0.025">
+  </cell>
+  <cell col="3" row="11" text="">
+  </cell>
+  <cell col="4" row="11" text="">
+  </cell>
+  <cell col="5" row="11" text="">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="">
+  </cell>
+  <cell col="1" row="12" text="PI6">
+  </cell>
+  <cell col="2" row="12" text="0.728">
+  </cell>
+  <cell col="3" row="12" text="">
+  </cell>
+  <cell col="4" row="12" text="">
+  </cell>
+  <cell col="5" row="12" text="">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Self-control (SC)">
+  </cell>
+  <cell col="1" row="13" text="SC1">
+  </cell>
+  <cell col="2" row="13" text="0.737">
+  </cell>
+  <cell col="3" row="13" text="0.897">
+  </cell>
+  <cell col="4" row="13" text="0.915">
+  </cell>
+  <cell col="5" row="13" text="0.553">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="">
+  </cell>
+  <cell col="1" row="14" text="SC2">
+  </cell>
+  <cell col="2" row="14" text="0.847">
+  </cell>
+  <cell col="3" row="14" text="">
+  </cell>
+  <cell col="4" row="14" text="">
+  </cell>
+  <cell col="5" row="14" text="">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="">
+  </cell>
+  <cell col="1" row="15" text="SC3">
+  </cell>
+  <cell col="2" row="15" text="0.843">
+  </cell>
+  <cell col="3" row="15" text="">
+  </cell>
+  <cell col="4" row="15" text="">
+  </cell>
+  <cell col="5" row="15" text="">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="">
+  </cell>
+  <cell col="1" row="16" text="SC4">
+  </cell>
+  <cell col="2" row="16" text="0.728">
+  </cell>
+  <cell col="3" row="16" text="">
+  </cell>
+  <cell col="4" row="16" text="">
+  </cell>
+  <cell col="5" row="16" text="">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="">
+  </cell>
+  <cell col="1" row="17" text="SC5">
+  </cell>
+  <cell col="2" row="17" text="0.822">
+  </cell>
+  <cell col="3" row="17" text="">
+  </cell>
+  <cell col="4" row="17" text="">
+  </cell>
+  <cell col="5" row="17" text="">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="">
+  </cell>
+  <cell col="1" row="18" text="SC6">
+  </cell>
+  <cell col="2" row="18" text="0.809">
+  </cell>
+  <cell col="3" row="18" text="">
+  </cell>
+  <cell col="4" row="18" text="">
+  </cell>
+  <cell col="5" row="18" text="">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="">
+  </cell>
+  <cell col="1" row="19" text="SC7">
+  </cell>
+  <cell col="2" row="19" text="0.617">
+  </cell>
+  <cell col="3" row="19" text="">
+  </cell>
+  <cell col="4" row="19" text="">
+  </cell>
+  <cell col="5" row="19" text="">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="">
+  </cell>
+  <cell col="1" row="20" text="SC8">
+  </cell>
+  <cell col="2" row="20" text="0.775">
+  </cell>
+  <cell col="3" row="20" text="">
+  </cell>
+  <cell col="4" row="20" text="">
+  </cell>
+  <cell col="5" row="20" text="">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="">
+  </cell>
+  <cell col="1" row="21" text="SC9">
+  </cell>
+  <cell col="2" row="21" text="0.405">
+  </cell>
+  <cell col="3" row="21" text="">
+  </cell>
+  <cell col="4" row="21" text="">
+  </cell>
+  <cell col="5" row="21" text="">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="Investment behaviour (IB)">
+  </cell>
+  <cell col="1" row="22" text="IB1">
+  </cell>
+  <cell col="2" row="22" text="0.779">
+  </cell>
+  <cell col="3" row="22" text="0.892">
+  </cell>
+  <cell col="4" row="22" text="0.874">
+  </cell>
+  <cell col="5" row="22" text="0.552">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="">
+  </cell>
+  <cell col="1" row="23" text="IB2">
+  </cell>
+  <cell col="2" row="23" text="0.867">
+  </cell>
+  <cell col="3" row="23" text="">
+  </cell>
+  <cell col="4" row="23" text="">
+  </cell>
+  <cell col="5" row="23" text="">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="">
+  </cell>
+  <cell col="1" row="24" text="IB3">
+  </cell>
+  <cell col="2" row="24" text="0.893">
+  </cell>
+  <cell col="3" row="24" text="">
+  </cell>
+  <cell col="4" row="24" text="">
+  </cell>
+  <cell col="5" row="24" text="">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="">
+  </cell>
+  <cell col="1" row="25" text="IB4">
+  </cell>
+  <cell col="2" row="25" text="0.872">
+  </cell>
+  <cell col="3" row="25" text="">
+  </cell>
+  <cell col="4" row="25" text="">
+  </cell>
+  <cell col="5" row="25" text="">
+  </cell>
+ </row>
+ <row row="26">
+  <cell col="0" row="26" text="">
+  </cell>
+  <cell col="1" row="26" text="IB5">
+  </cell>
+  <cell col="2" row="26" text="0.697">
+  </cell>
+  <cell col="3" row="26" text="">
+  </cell>
+  <cell col="4" row="26" text="">
+  </cell>
+  <cell col="5" row="26" text="">
+  </cell>
+ </row>
+ <row row="27">
+  <cell col="0" row="27" text="">
+  </cell>
+  <cell col="1" row="27" text="IB6">
+  </cell>
+  <cell col="2" row="27" text="0.886">
+  </cell>
+  <cell col="3" row="27" text="">
+  </cell>
+  <cell col="4" row="27" text="">
+  </cell>
+  <cell col="5" row="27" text="">
+  </cell>
+ </row>
+ <row row="28">
+  <cell col="0" row="28" text="">
+  </cell>
+  <cell col="1" row="28" text="IB7">
+  </cell>
+  <cell col="2" row="28" text="0.893">
+  </cell>
+  <cell col="3" row="28" text="">
+  </cell>
+  <cell col="4" row="28" text="">
+  </cell>
+  <cell col="5" row="28" text="">
+  </cell>
+ </row>
+ <row row="29">
+  <cell col="0" row="29" text="">
+  </cell>
+  <cell col="1" row="29" text="IB8">
+  </cell>
+  <cell col="2" row="29" text="0.815">
+  </cell>
+  <cell col="3" row="29" text="">
+  </cell>
+  <cell col="4" row="29" text="">
+  </cell>
+  <cell col="5" row="29" text="">
+  </cell>
+ </row>
+ <row row="30">
+  <cell col="0" row="30" text="">
+  </cell>
+  <cell col="1" row="30" text="IB9">
+  </cell>
+  <cell col="2" row="30" text="−0.236">
+  </cell>
+  <cell col="3" row="30" text="">
+  </cell>
+  <cell col="4" row="30" text="">
+  </cell>
+  <cell col="5" row="30" text="">
+  </cell>
+ </row>
+ <statements>
+  <statement id="4" text="Financial literacy has the least AVE value." type="refuted">
+  </statement>
+ </statements>
+</Table 3>
+<Table 4>
+ <caption text="
+
+   Result of the second PLS-SEM algorithm analysis.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Variable">
+  </cell>
+  <cell col="1" row="0" text="Cronbach's Alpha">
+  </cell>
+  <cell col="2" row="0" text="CR">
+  </cell>
+  <cell col="3" row="0" text="AVE">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Financial literacy">
+  </cell>
+  <cell col="1" row="1" text="0.872">
+  </cell>
+  <cell col="2" row="1" text="0.913">
+  </cell>
+  <cell col="3" row="1" text="0.724">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Self-control">
+  </cell>
+  <cell col="1" row="2" text="0.905">
+  </cell>
+  <cell col="2" row="2" text="0.925">
+  </cell>
+  <cell col="3" row="2" text="0.638">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Investment behaviour">
+  </cell>
+  <cell col="1" row="3" text="0.94">
+  </cell>
+  <cell col="2" row="3" text="0.951">
+  </cell>
+  <cell col="3" row="3" text="0.707">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Variable Financial literacy CR is 0.913." type="entailed">
+  </statement>
+  <statement id="4" text="Variable Investment behaviour Cronbach's Alpha is 0.951." type="refuted">
+  </statement>
+  <statement id="5" text="Variable Financial literacy AVE is 0.913." type="refuted">
+  </statement>
+ </statements>
+</Table 4>
+<Table 2>
+ <caption text="
+
+   Mean, Standard Deviation, Skewness, and Kurtosis.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Items">
+  </cell>
+  <cell col="1" row="0" text="Mean">
+  </cell>
+  <cell col="2" row="0" text="Standard Deviation">
+  </cell>
+  <cell col="3" row="0" text="Kurtosis">
+  </cell>
+  <cell col="4" row="0" text="Skewness">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="FL1">
+  </cell>
+  <cell col="1" row="1" text="3.117">
+  </cell>
+  <cell col="2" row="1" text="0.799">
+  </cell>
+  <cell col="3" row="1" text="0.702">
+  </cell>
+  <cell col="4" row="1" text="−0.438">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="FL2">
+  </cell>
+  <cell col="1" row="2" text="3.610">
+  </cell>
+  <cell col="2" row="2" text="1.123">
+  </cell>
+  <cell col="3" row="2" text="−0.117">
+  </cell>
+  <cell col="4" row="2" text="−0.709">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="FL3">
+  </cell>
+  <cell col="1" row="3" text="3.310">
+  </cell>
+  <cell col="2" row="3" text="1.011">
+  </cell>
+  <cell col="3" row="3" text="−0.339">
+  </cell>
+  <cell col="4" row="3" text="−0.296">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="FL4">
+  </cell>
+  <cell col="1" row="4" text="3.376">
+  </cell>
+  <cell col="2" row="4" text="0.993">
+  </cell>
+  <cell col="3" row="4" text="−0.039">
+  </cell>
+  <cell col="4" row="4" text="−0.492">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="FL5">
+  </cell>
+  <cell col="1" row="5" text="3.089">
+  </cell>
+  <cell col="2" row="5" text="0.809">
+  </cell>
+  <cell col="3" row="5" text="0.063">
+  </cell>
+  <cell col="4" row="5" text="0.050">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="FL6">
+  </cell>
+  <cell col="1" row="6" text="3.404">
+  </cell>
+  <cell col="2" row="6" text="0.991">
+  </cell>
+  <cell col="3" row="6" text="−0.133">
+  </cell>
+  <cell col="4" row="6" text="−0.357">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="PI1">
+  </cell>
+  <cell col="1" row="7" text="3.362">
+  </cell>
+  <cell col="2" row="7" text="0.902">
+  </cell>
+  <cell col="3" row="7" text="0.261">
+  </cell>
+  <cell col="4" row="7" text="−0.199">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="PI2">
+  </cell>
+  <cell col="1" row="8" text="3.056">
+  </cell>
+  <cell col="2" row="8" text="0.870">
+  </cell>
+  <cell col="3" row="8" text="−0.119">
+  </cell>
+  <cell col="4" row="8" text="0.062">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="PI3">
+  </cell>
+  <cell col="1" row="9" text="3.000">
+  </cell>
+  <cell col="2" row="9" text="0.856">
+  </cell>
+  <cell col="3" row="9" text="0.506">
+  </cell>
+  <cell col="4" row="9" text="−0.091">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="PI4">
+  </cell>
+  <cell col="1" row="10" text="3.329">
+  </cell>
+  <cell col="2" row="10" text="0.922">
+  </cell>
+  <cell col="3" row="10" text="−0.280">
+  </cell>
+  <cell col="4" row="10" text="0.024">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="PI5">
+  </cell>
+  <cell col="1" row="11" text="2.915">
+  </cell>
+  <cell col="2" row="11" text="0.936">
+  </cell>
+  <cell col="3" row="11" text="−0.108">
+  </cell>
+  <cell col="4" row="11" text="0.204">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="PI6">
+  </cell>
+  <cell col="1" row="12" text="3.150">
+  </cell>
+  <cell col="2" row="12" text="0.907">
+  </cell>
+  <cell col="3" row="12" text="0.385">
+  </cell>
+  <cell col="4" row="12" text="−0.150">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="SC1">
+  </cell>
+  <cell col="1" row="13" text="2.408">
+  </cell>
+  <cell col="2" row="13" text="1.205">
+  </cell>
+  <cell col="3" row="13" text="−0.466">
+  </cell>
+  <cell col="4" row="13" text="0.597">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="SC2">
+  </cell>
+  <cell col="1" row="14" text="2.244">
+  </cell>
+  <cell col="2" row="14" text="1.161">
+  </cell>
+  <cell col="3" row="14" text="−0.435">
+  </cell>
+  <cell col="4" row="14" text="0.671">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="SC3">
+  </cell>
+  <cell col="1" row="15" text="2.113">
+  </cell>
+  <cell col="2" row="15" text="1.302">
+  </cell>
+  <cell col="3" row="15" text="−0.154">
+  </cell>
+  <cell col="4" row="15" text="1.022">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="SC4">
+  </cell>
+  <cell col="1" row="16" text="2.615">
+  </cell>
+  <cell col="2" row="16" text="1.253">
+  </cell>
+  <cell col="3" row="16" text="−0.793">
+  </cell>
+  <cell col="4" row="16" text="0.371">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="SC5">
+  </cell>
+  <cell col="1" row="17" text="2.563">
+  </cell>
+  <cell col="2" row="17" text="1.101">
+  </cell>
+  <cell col="3" row="17" text="−0.369">
+  </cell>
+  <cell col="4" row="17" text="0.549">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="SC6">
+  </cell>
+  <cell col="1" row="18" text="2.479">
+  </cell>
+  <cell col="2" row="18" text="1.232">
+  </cell>
+  <cell col="3" row="18" text="−0.667">
+  </cell>
+  <cell col="4" row="18" text="0.542">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="SC7">
+  </cell>
+  <cell col="1" row="19" text="2.690">
+  </cell>
+  <cell col="2" row="19" text="1.047">
+  </cell>
+  <cell col="3" row="19" text="−0.427">
+  </cell>
+  <cell col="4" row="19" text="0.228">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="SC8">
+  </cell>
+  <cell col="1" row="20" text="2.676">
+  </cell>
+  <cell col="2" row="20" text="1.072">
+  </cell>
+  <cell col="3" row="20" text="−0.580">
+  </cell>
+  <cell col="4" row="20" text="0.146">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="SC9">
+  </cell>
+  <cell col="1" row="21" text="3.047">
+  </cell>
+  <cell col="2" row="21" text="1.091">
+  </cell>
+  <cell col="3" row="21" text="−0.534">
+  </cell>
+  <cell col="4" row="21" text="0.059">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="IB1">
+  </cell>
+  <cell col="1" row="22" text="3.516">
+  </cell>
+  <cell col="2" row="22" text="1.086">
+  </cell>
+  <cell col="3" row="22" text="−0.431">
+  </cell>
+  <cell col="4" row="22" text="−0.43">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="IB2">
+  </cell>
+  <cell col="1" row="23" text="3.812">
+  </cell>
+  <cell col="2" row="23" text="1.223">
+  </cell>
+  <cell col="3" row="23" text="0.054">
+  </cell>
+  <cell col="4" row="23" text="−0.97">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="IB3">
+  </cell>
+  <cell col="1" row="24" text="3.836">
+  </cell>
+  <cell col="2" row="24" text="1.269">
+  </cell>
+  <cell col="3" row="24" text="−0.031">
+  </cell>
+  <cell col="4" row="24" text="−1.005">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="IB4">
+  </cell>
+  <cell col="1" row="25" text="3.653">
+  </cell>
+  <cell col="2" row="25" text="1.118">
+  </cell>
+  <cell col="3" row="25" text="0.016">
+  </cell>
+  <cell col="4" row="25" text="−0.763">
+  </cell>
+ </row>
+ <row row="26">
+  <cell col="0" row="26" text="IB5">
+  </cell>
+  <cell col="1" row="26" text="3.502">
+  </cell>
+  <cell col="2" row="26" text="1.095">
+  </cell>
+  <cell col="3" row="26" text="−0.502">
+  </cell>
+  <cell col="4" row="26" text="−0.341">
+  </cell>
+ </row>
+ <row row="27">
+  <cell col="0" row="27" text="IB6">
+  </cell>
+  <cell col="1" row="27" text="3.690">
+  </cell>
+  <cell col="2" row="27" text="1.006">
+  </cell>
+  <cell col="3" row="27" text="0.617">
+  </cell>
+  <cell col="4" row="27" text="−0.907">
+  </cell>
+ </row>
+ <row row="28">
+  <cell col="0" row="28" text="IB7">
+  </cell>
+  <cell col="1" row="28" text="3.620">
+  </cell>
+  <cell col="2" row="28" text="1.075">
+  </cell>
+  <cell col="3" row="28" text="0.239">
+  </cell>
+  <cell col="4" row="28" text="−0.747">
+  </cell>
+ </row>
+ <row row="29">
+  <cell col="0" row="29" text="IB8">
+  </cell>
+  <cell col="1" row="29" text="3.596">
+  </cell>
+  <cell col="2" row="29" text="1.103">
+  </cell>
+  <cell col="3" row="29" text="−0.226">
+  </cell>
+  <cell col="4" row="29" text="−0.563">
+  </cell>
+ </row>
+ <row row="30">
+  <cell col="0" row="30" text="IB9">
+  </cell>
+  <cell col="1" row="30" text="2.624">
+  </cell>
+  <cell col="2" row="30" text="1.083">
+  </cell>
+  <cell col="3" row="30" text="−0.163">
+  </cell>
+  <cell col="4" row="30" text="0.546">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Skewness 0.059 Items is SC9." type="entailed">
+  </statement>
+  <statement id="1" text="Items PI6 Mean is 3.150." type="entailed">
+  </statement>
+  <statement id="2" text="Standard Deviation 0.991 Items is FL6." type="entailed">
+  </statement>
+  <statement id="4" text="Standard Deviation 0.991 Items is FL2." type="refuted">
+  </statement>
+  <statement id="6" text="0.163 Kurtosis Items is IB3." type="refuted">
+  </statement>
+ </statements>
+</Table 2>

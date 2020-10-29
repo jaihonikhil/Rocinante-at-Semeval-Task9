@@ -1,0 +1,944 @@
+<Table 1>
+ <caption text="
+
+   The correspondence between emission source categories used in the GAPF-IE tool and those categories used in the 2016 EMEP/EEA Emission Inventory Guidebook and the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. (The numbers are the source category codes used in each compendium.).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="GAPF-EI Tool">
+  </cell>
+  <cell col="1" row="0" text="EMEP/EEA (2016)
+     
+     Emission Inventory Guidebook">
+  </cell>
+  <cell col="2" row="0" text="2006 IPCC Guidelines">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1 Combustion in the Energy Industries
+     
+     2 Combustion in Manufacturing Industries and Construction
+     
+     3 Transport
+     
+     4 Combustion in Other Sectors">
+  </cell>
+  <cell col="1" row="1" text="1.A.1 Energy industries
+     
+     1.A.2 Manufacturing industries and construction
+     
+     1.A.3 Transport
+     
+     1.A.4 Small combustion">
+  </cell>
+  <cell col="2" row="1" text="1 Energy (1A Fuel Combustion Activities)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="5 Fugitive emission from fuels">
+  </cell>
+  <cell col="1" row="2" text="1.B Fugitive emission from fuels">
+  </cell>
+  <cell col="2" row="2" text="1 Energy (1B Fugitive Emissions from Fuels)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="6 Industrial Processes
+     
+     7 Solvent and Other Product Use">
+  </cell>
+  <cell col="1" row="3" text="2 Industrial processes and product use">
+  </cell>
+  <cell col="2" row="3" text="2 Industrial Processes and Product Use">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="8 Agriculture
+     
+     9 Vegetation Fires &amp; Forestry">
+  </cell>
+  <cell col="1" row="4" text="3 Agriculture
+     
+     11B Forest fires">
+  </cell>
+  <cell col="2" row="4" text="3 Agriculture, Forestry and Other Land Use">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="10 Waste">
+  </cell>
+  <cell col="1" row="5" text="5 Waste">
+  </cell>
+  <cell col="2" row="5" text="4 Waste">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="In 2006 IPCC Guidelines of Agriculture, Forestry and Other Land Use uses Agriculture , Vegetation Fires &amp; Forestry GAPF-EI Tool." type="entailed">
+  </statement>
+  <statement id="2" text="Combustion in the Manufacturing , Construction, Energy Industries and Other Sectors and Transport will be used same 2006 IPCC Guidelines." type="entailed">
+  </statement>
+  <statement id="3" text="Waste GAPF-EI Tool will use Waste 2006 IPCC Guidelines" type="entailed">
+  </statement>
+  <statement id="6" text="There are 12 GAPF-EI Tool will be used." type="refuted">
+  </statement>
+  <statement id="9" text="The emission source categories are mainly based on the sectoral structure given in the EMEP/EEA (2016)" type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   The categories inventoried as industrial process emissions.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Sub-sector">
+  </cell>
+  <cell col="1" row="0" text="Sub-sub-sector (
+     
+
+       a
+      
+
+     NFR code)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Mineral products">
+  </cell>
+  <cell col="1" row="1" text="Cement production (2.A.1)
+     
+     Lime production (2.A.2)
+     
+     Asphalt roofing (2.D.3.c)
+     
+     Asphalt road paving (2.D.3.b)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Chemical industry">
+  </cell>
+  <cell col="1" row="2" text="Ammonia (2.B.1)
+     
+     Nitric acid (2B.2)
+     
+     Adipic acid (2.B.3)
+     
+     Carbon black (2.B.10.a)
+     
+     Urea (2.B.10.a)
+     
+     Ammonium nitrate (2.B.10.a)
+     
+     Ammonium phosphate (2.B.10.a)
+     
+     Sulphuric acid (2.B.10.a)
+     
+     Titanium dioxide (2.B.6)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Metal production">
+  </cell>
+  <cell col="1" row="3" text="Pig iron production (1.A.2.a)
+     
+     Aluminium production (2.C.3)
+     
+     Copper smelting (primary and secondary) (2.C.7)
+     
+     Lead smelting (primary and secondary) (2.C.5)
+     
+     Zinc smelting (primary and secondary) (2.C.6)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Pulp and Paper Industries">
+  </cell>
+  <cell col="1" row="4" text="Kraft or Alkaline soda pulping (2.H.1)
+     
+     Acid sulphite pulping (2.H.1)
+     
+     Neutral sulphite semi-chemical (2.H.1)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Food and Drink">
+  </cell>
+  <cell col="1" row="5" text="Alcoholic Beverages (2.H.2)
+     
+     Food Production (2.H.2)">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Fugitive emissions of PM from major construction activities">
+  </cell>
+  <cell col="1" row="6" text="">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="They have six sub sector." type="entailed">
+  </statement>
+  <statement id="1" text="Cement production (2.A.1) sub sector is Minerals products." type="entailed">
+  </statement>
+  <statement id="2" text="Ammonia (2.B.1) sub sector is Chemical industry." type="entailed">
+  </statement>
+  <statement id="3" text="Kraft or Alkaline soda pulping (2.H.1) sub sector is Pulp and Paper Industries." type="entailed">
+  </statement>
+  <statement id="5" text="Chemical industry Sub-sub-sector ( NFR code) is Copper smelting (primary and secondary) (2.C.7)." type="refuted">
+  </statement>
+  <statement id="7" text="Pulp and Paper Industries Sub-sub-sector ( NFR code) is Ammonium phosphate (2.B.10.a)." type="refuted">
+  </statement>
+  <statement id="8" text="Food and Drink Sub-sub-sector ( NFR code) is Neutral sulphite semi-chemical (2.H.1)." type="refuted">
+  </statement>
+  <statement id="9" text="(1) except that in this case, A is the annual rate of production of the relevant commodity (as t yr 1 ) and EF is the process EF (as kg t 1 )." type="entailed">
+  </statement>
+  <statement id="10" text="The industrial process emission sub-sectors and sub-sub-sectors covered by the manual are shown in Table 3 . " type="entailed">
+  </statement>
+ </statements>
+</Table 3>
+<Table 6>
+ <caption text="
+
+   Côte d’Ivoire emissions for 2010 from this study compared with estimates from global initiatives.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Species">
+  </cell>
+  <cell col="1" row="0" text="Units">
+  </cell>
+  <cell col="2" row="0" text="This study">
+  </cell>
+  <cell col="3" row="0" text="This study adjusted (i.e. without emissions from savannah and other vegetation fires and road dust)">
+  </cell>
+  <cell col="4" row="0" text="EDGAR (v4.3.2)">
+  </cell>
+  <cell col="5" row="0" text="GAINS Eclipse v5a">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="SO
+     
+      2">
+  </cell>
+  <cell col="1" row="1" text="Gg yr
+     
+      −1">
+  </cell>
+  <cell col="2" row="1" text="33.0">
+  </cell>
+  <cell col="3" row="1" text="25.8">
+  </cell>
+  <cell col="4" row="1" text="18.0">
+  </cell>
+  <cell col="5" row="1" text="33.3">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="NO
+     
+      X">
+  </cell>
+  <cell col="1" row="2" text="Gg yr
+     
+      −1">
+  </cell>
+  <cell col="2" row="2" text="187">
+  </cell>
+  <cell col="3" row="2" text="133">
+  </cell>
+  <cell col="4" row="2" text="45.7">
+  </cell>
+  <cell col="5" row="2" text="58.1">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="CO">
+  </cell>
+  <cell col="1" row="3" text="Tg yr
+     
+      −1">
+  </cell>
+  <cell col="2" row="3" text="2.82">
+  </cell>
+  <cell col="3" row="3" text="1.57">
+  </cell>
+  <cell col="4" row="3" text="1.48">
+  </cell>
+  <cell col="5" row="3" text="1.83">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="NMVOC">
+  </cell>
+  <cell col="1" row="4" text="Gg yr
+     
+      −1">
+  </cell>
+  <cell col="2" row="4" text="511">
+  </cell>
+  <cell col="3" row="4" text="426">
+  </cell>
+  <cell col="4" row="4" text="1307">
+  </cell>
+  <cell col="5" row="4" text="296">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="NH
+     
+      3">
+  </cell>
+  <cell col="1" row="5" text="Gg yr
+     
+      −1">
+  </cell>
+  <cell col="2" row="5" text="91.5">
+  </cell>
+  <cell col="3" row="5" text="79.8">
+  </cell>
+  <cell col="4" row="5" text="79.7">
+  </cell>
+  <cell col="5" row="5" text="68.8">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="PM
+     
+      10">
+  </cell>
+  <cell col="1" row="6" text="Gg yr
+     
+      −1">
+  </cell>
+  <cell col="2" row="6" text="565">
+  </cell>
+  <cell col="3" row="6" text="155">
+  </cell>
+  <cell col="4" row="6" text="262">
+  </cell>
+  <cell col="5" row="6" text="185">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="PM
+     
+      2.5">
+  </cell>
+  <cell col="1" row="7" text="Gg yr
+     
+      −1">
+  </cell>
+  <cell col="2" row="7" text="232">
+  </cell>
+  <cell col="3" row="7" text="95.8">
+  </cell>
+  <cell col="4" row="7" text="87.9
+     
+
+       a">
+  </cell>
+  <cell col="5" row="7" text="168">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="BC">
+  </cell>
+  <cell col="1" row="8" text="Gg yr
+     
+      −1">
+  </cell>
+  <cell col="2" row="8" text="20.2">
+  </cell>
+  <cell col="3" row="8" text="12.6">
+  </cell>
+  <cell col="4" row="8" text="12.1">
+  </cell>
+  <cell col="5" row="8" text="28.6">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="OC">
+  </cell>
+  <cell col="1" row="9" text="Gg yr
+     
+      −1">
+  </cell>
+  <cell col="2" row="9" text="99.6">
+  </cell>
+  <cell col="3" row="9" text="44.5">
+  </cell>
+  <cell col="4" row="9" text="33.5">
+  </cell>
+  <cell col="5" row="9" text="68.9">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="CH
+     
+      4">
+  </cell>
+  <cell col="1" row="10" text="Gg yr
+     
+      −1">
+  </cell>
+  <cell col="2" row="10" text="414">
+  </cell>
+  <cell col="3" row="10" text="351">
+  </cell>
+  <cell col="4" row="10" text="398">
+  </cell>
+  <cell col="5" row="10" text="319">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="CO
+     
+      2">
+  </cell>
+  <cell col="1" row="11" text="Tg yr
+     
+      −1">
+  </cell>
+  <cell col="2" row="11" text="12.8">
+  </cell>
+  <cell col="3" row="11" text="12.8">
+  </cell>
+  <cell col="4" row="11" text="6.78">
+  </cell>
+  <cell col="5" row="11" text="">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Only CO2 does not have GAINS Eclipse." type="entailed">
+  </statement>
+  <statement id="1" text="CO has least GAINS Eclipse value." type="entailed">
+  </statement>
+  <statement id="3" text="Species NH3 and BC does not have EDGAR value." type="refuted">
+  </statement>
+  <statement id="4" text="All species has constant Gains Eclipse." type="refuted">
+  </statement>
+ </statements>
+</Table 6>
+<Table 2>
+ <caption text="
+
+   Default emission factors offered in the GAPF-EI tool for fuels commonly used in the residential sector.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Fuel">
+  </cell>
+  <cell col="1" row="0" text="Pollutant species">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="CO
+     
+      2
+     
+
+     t/TJ">
+  </cell>
+  <cell col="2" row="1" text="CO
+     
+     kg/TJ">
+  </cell>
+  <cell col="3" row="1" text="CH
+     
+      4
+     
+
+     kg/TJ">
+  </cell>
+  <cell col="4" row="1" text="NMVOC
+     
+     kg/TJ">
+  </cell>
+  <cell col="5" row="1" text="NO
+     
+      X
+     
+     (as NO
+     
+      2
+     
+     )
+     
+     kg/TJ">
+  </cell>
+  <cell col="6" row="1" text="NH
+     
+      3
+     
+
+     kg/t">
+  </cell>
+  <cell col="7" row="1" text="PM
+     
+      10
+     
+
+     kg/t">
+  </cell>
+  <cell col="8" row="1" text="PM
+     
+      2.5
+     
+
+     kg/t">
+  </cell>
+  <cell col="9" row="1" text="BC
+     
+     kg/t">
+  </cell>
+  <cell col="10" row="1" text="OC
+     
+     kg/t">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Charcoal">
+  </cell>
+  <cell col="1" row="2" text="92.8
+     
+
+       a">
+  </cell>
+  <cell col="2" row="2" text="4328
+     
+
+       b">
+  </cell>
+  <cell col="3" row="2" text="222
+     
+
+       d">
+  </cell>
+  <cell col="4" row="2" text="236
+     
+
+       b">
+  </cell>
+  <cell col="5" row="2" text="70
+     
+
+       b">
+  </cell>
+  <cell col="6" row="2" text="0.97
+     
+
+       b">
+  </cell>
+  <cell col="7" row="2" text="2.38
+     
+
+       c">
+  </cell>
+  <cell col="8" row="2" text="2.38
+     
+
+       c">
+  </cell>
+  <cell col="9" row="2" text="1.19
+     
+
+       d">
+  </cell>
+  <cell col="10" row="2" text="0.85
+     
+
+       d">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Wood">
+  </cell>
+  <cell col="1" row="3" text="101.7
+     
+
+       a">
+  </cell>
+  <cell col="2" row="3" text="4260
+     
+
+       e">
+  </cell>
+  <cell col="3" row="3" text="663
+     
+
+       d">
+  </cell>
+  <cell col="4" row="3" text="1763
+     
+
+       b">
+  </cell>
+  <cell col="5" row="3" text="73
+     
+
+       e">
+  </cell>
+  <cell col="6" row="3" text="0.87
+     
+
+       a">
+  </cell>
+  <cell col="7" row="3" text="8.3
+     
+
+       e">
+  </cell>
+  <cell col="8" row="3" text="6.64
+     
+
+       a">
+  </cell>
+  <cell col="9" row="3" text="0.83
+     
+
+       a">
+  </cell>
+  <cell col="10" row="3" text="2.89
+     
+
+       a">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Vegetal wastes">
+  </cell>
+  <cell col="1" row="4" text="100.0
+     
+
+       f">
+  </cell>
+  <cell col="2" row="4" text="5730
+     
+
+       e">
+  </cell>
+  <cell col="3" row="4" text="300
+     
+
+       f">
+  </cell>
+  <cell col="4" row="4" text="600
+     
+
+       g">
+  </cell>
+  <cell col="5" row="4" text="47
+     
+
+       e">
+  </cell>
+  <cell col="6" row="4" text="1.29
+     
+
+       b">
+  </cell>
+  <cell col="7" row="4" text="8.05
+     
+
+       e">
+  </cell>
+  <cell col="8" row="4" text="6.44
+     
+
+       h">
+  </cell>
+  <cell col="9" row="4" text="1.0
+     
+
+       i">
+  </cell>
+  <cell col="10" row="4" text="3.3
+     
+
+       i">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Animal wastes">
+  </cell>
+  <cell col="1" row="5" text="88.9
+     
+
+       j">
+  </cell>
+  <cell col="2" row="5" text="3392
+     
+
+       j">
+  </cell>
+  <cell col="3" row="5" text="383
+     
+
+       j">
+  </cell>
+  <cell col="4" row="5" text="2057
+     
+
+       j">
+  </cell>
+  <cell col="5" row="5" text="65.5
+     
+
+       k">
+  </cell>
+  <cell col="6" row="5" text="4.75
+     
+
+       a">
+  </cell>
+  <cell col="7" row="5" text="3.0
+     
+
+       j">
+  </cell>
+  <cell col="8" row="5" text="3.0
+     
+
+       j">
+  </cell>
+  <cell col="9" row="5" text="0.12
+     
+
+       j">
+  </cell>
+  <cell col="10" row="5" text="1.8
+     
+
+       j">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Coal">
+  </cell>
+  <cell col="1" row="6" text="94.6
+     
+
+       f">
+  </cell>
+  <cell col="2" row="6" text="2610
+     
+
+       e">
+  </cell>
+  <cell col="3" row="6" text="300
+     
+
+       f">
+  </cell>
+  <cell col="4" row="6" text="484
+     
+
+       g">
+  </cell>
+  <cell col="5" row="6" text="34
+     
+
+       e">
+  </cell>
+  <cell col="6" row="6" text="1.17
+     
+
+       l">
+  </cell>
+  <cell col="7" row="6" text="14.8
+     
+
+       m">
+  </cell>
+  <cell col="8" row="6" text="13.3
+     
+
+       n">
+  </cell>
+  <cell col="9" row="6" text="2.2
+     
+
+       m">
+  </cell>
+  <cell col="10" row="6" text="5.93
+     
+
+       m">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Natural gas">
+  </cell>
+  <cell col="1" row="7" text="56.1
+     
+
+       f">
+  </cell>
+  <cell col="2" row="7" text="26
+     
+
+       g">
+  </cell>
+  <cell col="3" row="7" text="5
+     
+
+       f">
+  </cell>
+  <cell col="4" row="7" text="1.9
+     
+
+       g">
+  </cell>
+  <cell col="5" row="7" text="5
+     
+
+       g">
+  </cell>
+  <cell col="6" row="7" text="0.01
+     
+
+       o">
+  </cell>
+  <cell col="7" row="7" text="0.061
+     
+
+       g">
+  </cell>
+  <cell col="8" row="7" text="0.061
+     
+
+       g">
+  </cell>
+  <cell col="9" row="7" text="0.0033
+     
+
+       g">
+  </cell>
+  <cell col="10" row="7" text="0.027
+     
+
+       p">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="LPG">
+  </cell>
+  <cell col="1" row="8" text="63.1
+     
+
+       f">
+  </cell>
+  <cell col="2" row="8" text="26
+     
+
+       g">
+  </cell>
+  <cell col="3" row="8" text="5
+     
+
+       f">
+  </cell>
+  <cell col="4" row="8" text="1.9
+     
+
+       g">
+  </cell>
+  <cell col="5" row="8" text="51
+     
+
+       g">
+  </cell>
+  <cell col="6" row="8" text="0.01
+     
+
+       q">
+  </cell>
+  <cell col="7" row="8" text="0.32
+     
+
+       j">
+  </cell>
+  <cell col="8" row="8" text="0.31
+     
+
+       n">
+  </cell>
+  <cell col="9" row="8" text="0.01
+     
+
+       j">
+  </cell>
+  <cell col="10" row="8" text="0.06
+     
+
+       j">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Kerosene">
+  </cell>
+  <cell col="1" row="9" text="71.9
+     
+
+       f">
+  </cell>
+  <cell col="2" row="9" text="57
+     
+
+       g">
+  </cell>
+  <cell col="3" row="9" text="10
+     
+
+       f">
+  </cell>
+  <cell col="4" row="9" text="0.69
+     
+
+       g">
+  </cell>
+  <cell col="5" row="9" text="25
+     
+
+       e">
+  </cell>
+  <cell col="6" row="9" text="0.005
+     
+
+       l">
+  </cell>
+  <cell col="7" row="9" text="0.134
+     
+
+       e">
+  </cell>
+  <cell col="8" row="9" text="0.081
+     
+
+       g">
+  </cell>
+  <cell col="9" row="9" text="0.017
+     
+
+       r">
+  </cell>
+  <cell col="10" row="9" text="0.013
+     
+
+       s">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Charcoal Pollutant species of CO 2 t/TJ is 92.8." type="entailed">
+  </statement>
+  <statement id="3" text="Vegetal wastes Pollutant species of CH 4 kg/TJ is 300." type="entailed">
+  </statement>
+  <statement id="4" text="They have four kinds of Fuel." type="refuted">
+  </statement>
+ </statements>
+</Table 2>

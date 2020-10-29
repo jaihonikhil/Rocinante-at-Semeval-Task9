@@ -1,0 +1,1568 @@
+<Table 4>
+ <caption text="
+
+   Summary of metalworking techniques and alloy types (drilled samples are excluded).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Copper">
+  </cell>
+  <cell col="2" row="0" text="Bronze">
+  </cell>
+  <cell col="3" row="0" text="Leaded bronze">
+  </cell>
+  <cell col="4" row="0" text="Brass">
+  </cell>
+  <cell col="5" row="0" text="Leaded brass">
+  </cell>
+  <cell col="6" row="0" text="Total">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Cast">
+  </cell>
+  <cell col="1" row="1" text="1">
+  </cell>
+  <cell col="2" row="1" text="3">
+  </cell>
+  <cell col="3" row="1" text="7">
+  </cell>
+  <cell col="4" row="1" text="">
+  </cell>
+  <cell col="5" row="1" text="">
+  </cell>
+  <cell col="6" row="1" text="11">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Hammered">
+  </cell>
+  <cell col="1" row="2" text="6">
+  </cell>
+  <cell col="2" row="2" text="3">
+  </cell>
+  <cell col="3" row="2" text="2">
+  </cell>
+  <cell col="4" row="2" text="9">
+  </cell>
+  <cell col="5" row="2" text="1">
+  </cell>
+  <cell col="6" row="2" text="21">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Total">
+  </cell>
+  <cell col="1" row="3" text="7">
+  </cell>
+  <cell col="2" row="3" text="6">
+  </cell>
+  <cell col="3" row="3" text="9">
+  </cell>
+  <cell col="4" row="3" text="9">
+  </cell>
+  <cell col="5" row="3" text="1">
+  </cell>
+  <cell col="6" row="3" text="32">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="The least total is of Bronze 16." type="">
+  </statement>
+  <statement id="2" text="the value of Leaded brass under Hammered is 18." type="">
+  </statement>
+ </statements>
+</Table 4>
+<Table 5>
+ <caption text="
+
+   Summary table of microscopic, elemental (μXRF, EPMA) and isotopic results.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Sample ID">
+  </cell>
+  <cell col="1" row="0" text="Chronological period">
+  </cell>
+  <cell col="2" row="0" text="Alloy type">
+  </cell>
+  <cell col="3" row="0" text="Metalworking">
+  </cell>
+  <cell col="4" row="0" text="Provenance indications">
+  </cell>
+  <cell col="5" row="0" text="Ni-As groups">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="J1">
+  </cell>
+  <cell col="1" row="1" text="Byz/Uma">
+  </cell>
+  <cell col="2" row="1" text="Leaded bronze">
+  </cell>
+  <cell col="3" row="1" text="–">
+  </cell>
+  <cell col="4" row="1" text="–">
+  </cell>
+  <cell col="5" row="1" text="no Ni / As">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="J2">
+  </cell>
+  <cell col="1" row="2" text="Byz/Uma">
+  </cell>
+  <cell col="2" row="2" text="Leaded bronze">
+  </cell>
+  <cell col="3" row="2" text="Cast">
+  </cell>
+  <cell col="4" row="2" text="–">
+  </cell>
+  <cell col="5" row="2" text="Ni, no As">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="J3">
+  </cell>
+  <cell col="1" row="3" text="Byz/Uma">
+  </cell>
+  <cell col="2" row="3" text="Leaded bronze">
+  </cell>
+  <cell col="3" row="3" text="Cast">
+  </cell>
+  <cell col="4" row="3" text="–">
+  </cell>
+  <cell col="5" row="3" text="Ni, no As">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="J4">
+  </cell>
+  <cell col="1" row="4" text="Byz">
+  </cell>
+  <cell col="2" row="4" text="Brass">
+  </cell>
+  <cell col="3" row="4" text="Hammered">
+  </cell>
+  <cell col="4" row="4" text="–">
+  </cell>
+  <cell col="5" row="4" text="As, no Ni">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="J5">
+  </cell>
+  <cell col="1" row="5" text="Byz">
+  </cell>
+  <cell col="2" row="5" text="Leaded bronze">
+  </cell>
+  <cell col="3" row="5" text="Cast">
+  </cell>
+  <cell col="4" row="5" text="–">
+  </cell>
+  <cell col="5" row="5" text="As / Ni correlated">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="J6">
+  </cell>
+  <cell col="1" row="6" text="Byz">
+  </cell>
+  <cell col="2" row="6" text="Leaded brass">
+  </cell>
+  <cell col="3" row="6" text="Hammered">
+  </cell>
+  <cell col="4" row="6" text="Massif Central">
+  </cell>
+  <cell col="5" row="6" text="Ni, no As">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="J7">
+  </cell>
+  <cell col="1" row="7" text="Byz">
+  </cell>
+  <cell col="2" row="7" text="Brass">
+  </cell>
+  <cell col="3" row="7" text="Hammered">
+  </cell>
+  <cell col="4" row="7" text="–">
+  </cell>
+  <cell col="5" row="7" text="Ni, no As">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="J8">
+  </cell>
+  <cell col="1" row="8" text="Byz">
+  </cell>
+  <cell col="2" row="8" text="Brass">
+  </cell>
+  <cell col="3" row="8" text="–">
+  </cell>
+  <cell col="4" row="8" text="–">
+  </cell>
+  <cell col="5" row="8" text="As, no Ni">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="J9">
+  </cell>
+  <cell col="1" row="9" text="–">
+  </cell>
+  <cell col="2" row="9" text="Leaded copper">
+  </cell>
+  <cell col="3" row="9" text="–">
+  </cell>
+  <cell col="4" row="9" text="–">
+  </cell>
+  <cell col="5" row="9" text="–">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="J10">
+  </cell>
+  <cell col="1" row="10" text="Ayy/Mam">
+  </cell>
+  <cell col="2" row="10" text="Leaded bronze">
+  </cell>
+  <cell col="3" row="10" text="Cast">
+  </cell>
+  <cell col="4" row="10" text="–">
+  </cell>
+  <cell col="5" row="10" text="no Ni / As">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="J11">
+  </cell>
+  <cell col="1" row="11" text="–">
+  </cell>
+  <cell col="2" row="11" text="Leaded bronze">
+  </cell>
+  <cell col="3" row="11" text="–">
+  </cell>
+  <cell col="4" row="11" text="–">
+  </cell>
+  <cell col="5" row="11" text="–">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="J12">
+  </cell>
+  <cell col="1" row="12" text="–">
+  </cell>
+  <cell col="2" row="12" text="Brass">
+  </cell>
+  <cell col="3" row="12" text="Hammered">
+  </cell>
+  <cell col="4" row="12" text="–">
+  </cell>
+  <cell col="5" row="12" text="–">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="J13">
+  </cell>
+  <cell col="1" row="13" text="Byz">
+  </cell>
+  <cell col="2" row="13" text="Copper">
+  </cell>
+  <cell col="3" row="13" text="–">
+  </cell>
+  <cell col="4" row="13" text="–">
+  </cell>
+  <cell col="5" row="13" text="Ni, no As">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="J14">
+  </cell>
+  <cell col="1" row="14" text="–">
+  </cell>
+  <cell col="2" row="14" text="Leaded bronze">
+  </cell>
+  <cell col="3" row="14" text="Cast">
+  </cell>
+  <cell col="4" row="14" text="–">
+  </cell>
+  <cell col="5" row="14" text="–">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="J15">
+  </cell>
+  <cell col="1" row="15" text="Byz">
+  </cell>
+  <cell col="2" row="15" text="Brass">
+  </cell>
+  <cell col="3" row="15" text="–">
+  </cell>
+  <cell col="4" row="15" text="Massif Central">
+  </cell>
+  <cell col="5" row="15" text="no Ni / As">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="J16">
+  </cell>
+  <cell col="1" row="16" text="–">
+  </cell>
+  <cell col="2" row="16" text="Leaded brass">
+  </cell>
+  <cell col="3" row="16" text="–">
+  </cell>
+  <cell col="4" row="16" text="–">
+  </cell>
+  <cell col="5" row="16" text="–">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="J17">
+  </cell>
+  <cell col="1" row="17" text="–">
+  </cell>
+  <cell col="2" row="17" text="Copper">
+  </cell>
+  <cell col="3" row="17" text="Hammered">
+  </cell>
+  <cell col="4" row="17" text="–">
+  </cell>
+  <cell col="5" row="17" text="–">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="J18">
+  </cell>
+  <cell col="1" row="18" text="Byz">
+  </cell>
+  <cell col="2" row="18" text="Copper">
+  </cell>
+  <cell col="3" row="18" text="Hammered">
+  </cell>
+  <cell col="4" row="18" text="–">
+  </cell>
+  <cell col="5" row="18" text="Ni, no As">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="J20A">
+  </cell>
+  <cell col="1" row="19" text="Byz">
+  </cell>
+  <cell col="2" row="19" text="Brass">
+  </cell>
+  <cell col="3" row="19" text="–">
+  </cell>
+  <cell col="4" row="19" text="Cyprus">
+  </cell>
+  <cell col="5" row="19" text="Ni, no As">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="J20B">
+  </cell>
+  <cell col="1" row="20" text="Byz">
+  </cell>
+  <cell col="2" row="20" text="Brass">
+  </cell>
+  <cell col="3" row="20" text="–">
+  </cell>
+  <cell col="4" row="20" text="–">
+  </cell>
+  <cell col="5" row="20" text="Ni, no As">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="J21">
+  </cell>
+  <cell col="1" row="21" text="Byz">
+  </cell>
+  <cell col="2" row="21" text="Brass">
+  </cell>
+  <cell col="3" row="21" text="–">
+  </cell>
+  <cell col="4" row="21" text="–">
+  </cell>
+  <cell col="5" row="21" text="Ni, no As">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="J22">
+  </cell>
+  <cell col="1" row="22" text="–">
+  </cell>
+  <cell col="2" row="22" text="Leaded copper">
+  </cell>
+  <cell col="3" row="22" text="–">
+  </cell>
+  <cell col="4" row="22" text="–">
+  </cell>
+  <cell col="5" row="22" text="–">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="J24">
+  </cell>
+  <cell col="1" row="23" text="Byz">
+  </cell>
+  <cell col="2" row="23" text="Leaded brass">
+  </cell>
+  <cell col="3" row="23" text="–">
+  </cell>
+  <cell col="4" row="23" text="–">
+  </cell>
+  <cell col="5" row="23" text="As / Ni correlated">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="J28">
+  </cell>
+  <cell col="1" row="24" text="Rom/Byz">
+  </cell>
+  <cell col="2" row="24" text="Leaded brass">
+  </cell>
+  <cell col="3" row="24" text="–">
+  </cell>
+  <cell col="4" row="24" text="–">
+  </cell>
+  <cell col="5" row="24" text="–">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="J29">
+  </cell>
+  <cell col="1" row="25" text="Uma/Mam">
+  </cell>
+  <cell col="2" row="25" text="Leaded copper">
+  </cell>
+  <cell col="3" row="25" text="–">
+  </cell>
+  <cell col="4" row="25" text="–">
+  </cell>
+  <cell col="5" row="25" text="–">
+  </cell>
+ </row>
+ <row row="26">
+  <cell col="0" row="26" text="J33.1">
+  </cell>
+  <cell col="1" row="26" text="Byz">
+  </cell>
+  <cell col="2" row="26" text="Leaded copper">
+  </cell>
+  <cell col="3" row="26" text="–">
+  </cell>
+  <cell col="4" row="26" text="–">
+  </cell>
+  <cell col="5" row="26" text="no Ni / As">
+  </cell>
+ </row>
+ <row row="27">
+  <cell col="0" row="27" text="J33.2">
+  </cell>
+  <cell col="1" row="27" text="Byz">
+  </cell>
+  <cell col="2" row="27" text="Brass">
+  </cell>
+  <cell col="3" row="27" text="Hammered">
+  </cell>
+  <cell col="4" row="27" text="–">
+  </cell>
+  <cell col="5" row="27" text="no Ni / As">
+  </cell>
+ </row>
+ <row row="28">
+  <cell col="0" row="28" text="J34">
+  </cell>
+  <cell col="1" row="28" text="–">
+  </cell>
+  <cell col="2" row="28" text="Brass">
+  </cell>
+  <cell col="3" row="28" text="Hammered">
+  </cell>
+  <cell col="4" row="28" text="–">
+  </cell>
+  <cell col="5" row="28" text="–">
+  </cell>
+ </row>
+ <row row="29">
+  <cell col="0" row="29" text="J35">
+  </cell>
+  <cell col="1" row="29" text="Rom/Byz">
+  </cell>
+  <cell col="2" row="29" text="Leaded copper">
+  </cell>
+  <cell col="3" row="29" text="–">
+  </cell>
+  <cell col="4" row="29" text="–">
+  </cell>
+  <cell col="5" row="29" text="–">
+  </cell>
+ </row>
+ <row row="30">
+  <cell col="0" row="30" text="J36">
+  </cell>
+  <cell col="1" row="30" text="Byz">
+  </cell>
+  <cell col="2" row="30" text="Brass">
+  </cell>
+  <cell col="3" row="30" text="Hammered">
+  </cell>
+  <cell col="4" row="30" text="–">
+  </cell>
+  <cell col="5" row="30" text="no Ni / As">
+  </cell>
+ </row>
+ <row row="31">
+  <cell col="0" row="31" text="J37">
+  </cell>
+  <cell col="1" row="31" text="Uma">
+  </cell>
+  <cell col="2" row="31" text="Leaded copper">
+  </cell>
+  <cell col="3" row="31" text="–">
+  </cell>
+  <cell col="4" row="31" text="–">
+  </cell>
+  <cell col="5" row="31" text="no Ni / As">
+  </cell>
+ </row>
+ <row row="32">
+  <cell col="0" row="32" text="J38">
+  </cell>
+  <cell col="1" row="32" text="Byz">
+  </cell>
+  <cell col="2" row="32" text="Bronze">
+  </cell>
+  <cell col="3" row="32" text="–">
+  </cell>
+  <cell col="4" row="32" text="Massif Central">
+  </cell>
+  <cell col="5" row="32" text="–">
+  </cell>
+ </row>
+ <row row="33">
+  <cell col="0" row="33" text="J39">
+  </cell>
+  <cell col="1" row="33" text="Rom">
+  </cell>
+  <cell col="2" row="33" text="Bronze">
+  </cell>
+  <cell col="3" row="33" text="Hammered">
+  </cell>
+  <cell col="4" row="33" text="–">
+  </cell>
+  <cell col="5" row="33" text="no Ni / As">
+  </cell>
+ </row>
+ <row row="34">
+  <cell col="0" row="34" text="J40">
+  </cell>
+  <cell col="1" row="34" text="Rom">
+  </cell>
+  <cell col="2" row="34" text="Bronze">
+  </cell>
+  <cell col="3" row="34" text="Hammered">
+  </cell>
+  <cell col="4" row="34" text="–">
+  </cell>
+  <cell col="5" row="34" text="no Ni / As">
+  </cell>
+ </row>
+ <row row="35">
+  <cell col="0" row="35" text="J41">
+  </cell>
+  <cell col="1" row="35" text="Uma">
+  </cell>
+  <cell col="2" row="35" text="Copper">
+  </cell>
+  <cell col="3" row="35" text="Hammered">
+  </cell>
+  <cell col="4" row="35" text="–">
+  </cell>
+  <cell col="5" row="35" text="no Ni / As">
+  </cell>
+ </row>
+ <row row="36">
+  <cell col="0" row="36" text="J42">
+  </cell>
+  <cell col="1" row="36" text="Rom">
+  </cell>
+  <cell col="2" row="36" text="Bronze">
+  </cell>
+  <cell col="3" row="36" text="Cast">
+  </cell>
+  <cell col="4" row="36" text="–">
+  </cell>
+  <cell col="5" row="36" text="no Ni / As">
+  </cell>
+ </row>
+ <row row="37">
+  <cell col="0" row="37" text="J44">
+  </cell>
+  <cell col="1" row="37" text="Rom">
+  </cell>
+  <cell col="2" row="37" text="Bronze">
+  </cell>
+  <cell col="3" row="37" text="Cast">
+  </cell>
+  <cell col="4" row="37" text="–">
+  </cell>
+  <cell col="5" row="37" text="–">
+  </cell>
+ </row>
+ <row row="38">
+  <cell col="0" row="38" text="J45">
+  </cell>
+  <cell col="1" row="38" text="Uma">
+  </cell>
+  <cell col="2" row="38" text="Copper">
+  </cell>
+  <cell col="3" row="38" text="Hammered">
+  </cell>
+  <cell col="4" row="38" text="–">
+  </cell>
+  <cell col="5" row="38" text="Ni, no As">
+  </cell>
+ </row>
+ <row row="39">
+  <cell col="0" row="39" text="J47">
+  </cell>
+  <cell col="1" row="39" text="Rom/Byz">
+  </cell>
+  <cell col="2" row="39" text="Leaded bronze">
+  </cell>
+  <cell col="3" row="39" text="Hammered">
+  </cell>
+  <cell col="4" row="39" text="–">
+  </cell>
+  <cell col="5" row="39" text="–">
+  </cell>
+ </row>
+ <row row="40">
+  <cell col="0" row="40" text="J49">
+  </cell>
+  <cell col="1" row="40" text="Rom">
+  </cell>
+  <cell col="2" row="40" text="Bronze">
+  </cell>
+  <cell col="3" row="40" text="–">
+  </cell>
+  <cell col="4" row="40" text="Cyprus">
+  </cell>
+  <cell col="5" row="40" text="no Ni / As">
+  </cell>
+ </row>
+ <row row="41">
+  <cell col="0" row="41" text="J50">
+  </cell>
+  <cell col="1" row="41" text="Byz/Uma">
+  </cell>
+  <cell col="2" row="41" text="Leaded bronze">
+  </cell>
+  <cell col="3" row="41" text="Hammered">
+  </cell>
+  <cell col="4" row="41" text="–">
+  </cell>
+  <cell col="5" row="41" text="Ni, no As">
+  </cell>
+ </row>
+ <row row="42">
+  <cell col="0" row="42" text="J51">
+  </cell>
+  <cell col="1" row="42" text="Byz/Uma">
+  </cell>
+  <cell col="2" row="42" text="Brass">
+  </cell>
+  <cell col="3" row="42" text="Hammered">
+  </cell>
+  <cell col="4" row="42" text="–">
+  </cell>
+  <cell col="5" row="42" text="As / Ni correlated">
+  </cell>
+ </row>
+ <row row="43">
+  <cell col="0" row="43" text="J52">
+  </cell>
+  <cell col="1" row="43" text="Uma">
+  </cell>
+  <cell col="2" row="43" text="Copper">
+  </cell>
+  <cell col="3" row="43" text="Hammered">
+  </cell>
+  <cell col="4" row="43" text="–">
+  </cell>
+  <cell col="5" row="43" text="As / Ni correlated">
+  </cell>
+ </row>
+ <row row="44">
+  <cell col="0" row="44" text="J54">
+  </cell>
+  <cell col="1" row="44" text="Uma">
+  </cell>
+  <cell col="2" row="44" text="Leaded bronze">
+  </cell>
+  <cell col="3" row="44" text="Cast">
+  </cell>
+  <cell col="4" row="44" text="Romania/Bulgaria">
+  </cell>
+  <cell col="5" row="44" text="As / Ni correlated">
+  </cell>
+ </row>
+ <row row="45">
+  <cell col="0" row="45" text="J57">
+  </cell>
+  <cell col="1" row="45" text="Uma">
+  </cell>
+  <cell col="2" row="45" text="Bronze">
+  </cell>
+  <cell col="3" row="45" text="Hammered">
+  </cell>
+  <cell col="4" row="45" text="Timna">
+  </cell>
+  <cell col="5" row="45" text="Ni, no As">
+  </cell>
+ </row>
+ <row row="46">
+  <cell col="0" row="46" text="J59A">
+  </cell>
+  <cell col="1" row="46" text="Uma">
+  </cell>
+  <cell col="2" row="46" text="Brass">
+  </cell>
+  <cell col="3" row="46" text="Hammered">
+  </cell>
+  <cell col="4" row="46" text="–">
+  </cell>
+  <cell col="5" row="46" text="Ni, no As">
+  </cell>
+ </row>
+ <row row="47">
+  <cell col="0" row="47" text="J59B">
+  </cell>
+  <cell col="1" row="47" text="Uma">
+  </cell>
+  <cell col="2" row="47" text="Bronze">
+  </cell>
+  <cell col="3" row="47" text="Cast">
+  </cell>
+  <cell col="4" row="47" text="–">
+  </cell>
+  <cell col="5" row="47" text="As / Ni correlated">
+  </cell>
+ </row>
+ <row row="48">
+  <cell col="0" row="48" text="J62">
+  </cell>
+  <cell col="1" row="48" text="Byz/Uma">
+  </cell>
+  <cell col="2" row="48" text="Brass">
+  </cell>
+  <cell col="3" row="48" text="Hammered">
+  </cell>
+  <cell col="4" row="48" text="–">
+  </cell>
+  <cell col="5" row="48" text="As, no Ni">
+  </cell>
+ </row>
+ <row row="49">
+  <cell col="0" row="49" text="J63">
+  </cell>
+  <cell col="1" row="49" text="Uma/Mam">
+  </cell>
+  <cell col="2" row="49" text="Leaded bronze">
+  </cell>
+  <cell col="3" row="49" text="Cast">
+  </cell>
+  <cell col="4" row="49" text="–">
+  </cell>
+  <cell col="5" row="49" text="As / Ni correlated">
+  </cell>
+ </row>
+ <row row="50">
+  <cell col="0" row="50" text="J64">
+  </cell>
+  <cell col="1" row="50" text="Byz/Uma">
+  </cell>
+  <cell col="2" row="50" text="Copper">
+  </cell>
+  <cell col="3" row="50" text="Hammered">
+  </cell>
+  <cell col="4" row="50" text="–">
+  </cell>
+  <cell col="5" row="50" text="As / Ni correlated">
+  </cell>
+ </row>
+ <row row="51">
+  <cell col="0" row="51" text="J105">
+  </cell>
+  <cell col="1" row="51" text="–">
+  </cell>
+  <cell col="2" row="51" text="Copper">
+  </cell>
+  <cell col="3" row="51" text="Cast">
+  </cell>
+  <cell col="4" row="51" text="–">
+  </cell>
+  <cell col="5" row="51" text="–">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Only few samples have Provenance indications." type="">
+  </statement>
+  <statement id="2" text="There are 1 types of Alloy." type="">
+  </statement>
+  <statement id="3" text="Combined elemental, isotopic and metallographic examination of copper-based metalwork from the Northwest Quarter in Jerash ( Table 5 ) revealed characteristics of the technology to which the city had access, as well as patterns of the diachronic development of the alloying practices from the Roman to the early Islamic periods." type="">
+  </statement>
+ </statements>
+</Table 5>
+<Table 2>
+ <caption text="
+
+   Samples obtained and analyses conducted (reflected light microscopy/RLM, μXRF, EPMA and lead isotope analyses) in the copper-based objects during this study; ‘x’ indicates samples investigated with the respective analytical techniques.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Sample ID">
+  </cell>
+  <cell col="1" row="0" text="Sample (for RLM, micro XRF, EPMA)">
+  </cell>
+  <cell col="2" row="0" text="RLM">
+  </cell>
+  <cell col="3" row="0" text="μXRF">
+  </cell>
+  <cell col="4" row="0" text="EPMA">
+  </cell>
+  <cell col="5" row="0" text="Pb isotope analysis">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="J1">
+  </cell>
+  <cell col="1" row="1" text="drilling">
+  </cell>
+  <cell col="2" row="1" text="–">
+  </cell>
+  <cell col="3" row="1" text="x">
+  </cell>
+  <cell col="4" row="1" text="x">
+  </cell>
+  <cell col="5" row="1" text="–">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="J2">
+  </cell>
+  <cell col="1" row="2" text="cut">
+  </cell>
+  <cell col="2" row="2" text="x">
+  </cell>
+  <cell col="3" row="2" text="x">
+  </cell>
+  <cell col="4" row="2" text="x">
+  </cell>
+  <cell col="5" row="2" text="–">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="J3">
+  </cell>
+  <cell col="1" row="3" text="cut">
+  </cell>
+  <cell col="2" row="3" text="x">
+  </cell>
+  <cell col="3" row="3" text="x">
+  </cell>
+  <cell col="4" row="3" text="x">
+  </cell>
+  <cell col="5" row="3" text="–">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="J4">
+  </cell>
+  <cell col="1" row="4" text="cut">
+  </cell>
+  <cell col="2" row="4" text="x">
+  </cell>
+  <cell col="3" row="4" text="x">
+  </cell>
+  <cell col="4" row="4" text="x">
+  </cell>
+  <cell col="5" row="4" text="–">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="J5">
+  </cell>
+  <cell col="1" row="5" text="cut">
+  </cell>
+  <cell col="2" row="5" text="x">
+  </cell>
+  <cell col="3" row="5" text="x">
+  </cell>
+  <cell col="4" row="5" text="x">
+  </cell>
+  <cell col="5" row="5" text="–">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="J6">
+  </cell>
+  <cell col="1" row="6" text="cut">
+  </cell>
+  <cell col="2" row="6" text="x">
+  </cell>
+  <cell col="3" row="6" text="x">
+  </cell>
+  <cell col="4" row="6" text="x">
+  </cell>
+  <cell col="5" row="6" text="x">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="J7">
+  </cell>
+  <cell col="1" row="7" text="cut">
+  </cell>
+  <cell col="2" row="7" text="x">
+  </cell>
+  <cell col="3" row="7" text="x">
+  </cell>
+  <cell col="4" row="7" text="x">
+  </cell>
+  <cell col="5" row="7" text="–">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="J8">
+  </cell>
+  <cell col="1" row="8" text="drilling">
+  </cell>
+  <cell col="2" row="8" text="–">
+  </cell>
+  <cell col="3" row="8" text="x">
+  </cell>
+  <cell col="4" row="8" text="x">
+  </cell>
+  <cell col="5" row="8" text="–">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="J9">
+  </cell>
+  <cell col="1" row="9" text="drilling">
+  </cell>
+  <cell col="2" row="9" text="–">
+  </cell>
+  <cell col="3" row="9" text="x">
+  </cell>
+  <cell col="4" row="9" text="–">
+  </cell>
+  <cell col="5" row="9" text="–">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="J10">
+  </cell>
+  <cell col="1" row="10" text="cut">
+  </cell>
+  <cell col="2" row="10" text="x">
+  </cell>
+  <cell col="3" row="10" text="x">
+  </cell>
+  <cell col="4" row="10" text="x">
+  </cell>
+  <cell col="5" row="10" text="–">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="J11">
+  </cell>
+  <cell col="1" row="11" text="drilling">
+  </cell>
+  <cell col="2" row="11" text="–">
+  </cell>
+  <cell col="3" row="11" text="x">
+  </cell>
+  <cell col="4" row="11" text="–">
+  </cell>
+  <cell col="5" row="11" text="–">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="J12">
+  </cell>
+  <cell col="1" row="12" text="cut">
+  </cell>
+  <cell col="2" row="12" text="x">
+  </cell>
+  <cell col="3" row="12" text="x">
+  </cell>
+  <cell col="4" row="12" text="–">
+  </cell>
+  <cell col="5" row="12" text="–">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="J13">
+  </cell>
+  <cell col="1" row="13" text="drilling">
+  </cell>
+  <cell col="2" row="13" text="–">
+  </cell>
+  <cell col="3" row="13" text="x">
+  </cell>
+  <cell col="4" row="13" text="x">
+  </cell>
+  <cell col="5" row="13" text="–">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="J14">
+  </cell>
+  <cell col="1" row="14" text="cut">
+  </cell>
+  <cell col="2" row="14" text="x">
+  </cell>
+  <cell col="3" row="14" text="x">
+  </cell>
+  <cell col="4" row="14" text="–">
+  </cell>
+  <cell col="5" row="14" text="–">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="J15">
+  </cell>
+  <cell col="1" row="15" text="drilling">
+  </cell>
+  <cell col="2" row="15" text="–">
+  </cell>
+  <cell col="3" row="15" text="x">
+  </cell>
+  <cell col="4" row="15" text="x">
+  </cell>
+  <cell col="5" row="15" text="x">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="J16">
+  </cell>
+  <cell col="1" row="16" text="drilling">
+  </cell>
+  <cell col="2" row="16" text="–">
+  </cell>
+  <cell col="3" row="16" text="x">
+  </cell>
+  <cell col="4" row="16" text="–">
+  </cell>
+  <cell col="5" row="16" text="–">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="J17">
+  </cell>
+  <cell col="1" row="17" text="cut">
+  </cell>
+  <cell col="2" row="17" text="x">
+  </cell>
+  <cell col="3" row="17" text="x">
+  </cell>
+  <cell col="4" row="17" text="–">
+  </cell>
+  <cell col="5" row="17" text="–">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="J18">
+  </cell>
+  <cell col="1" row="18" text="cut">
+  </cell>
+  <cell col="2" row="18" text="x">
+  </cell>
+  <cell col="3" row="18" text="x">
+  </cell>
+  <cell col="4" row="18" text="x">
+  </cell>
+  <cell col="5" row="18" text="–">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="J20A">
+  </cell>
+  <cell col="1" row="19" text="drilling">
+  </cell>
+  <cell col="2" row="19" text="–">
+  </cell>
+  <cell col="3" row="19" text="x">
+  </cell>
+  <cell col="4" row="19" text="x">
+  </cell>
+  <cell col="5" row="19" text="x">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="J20B">
+  </cell>
+  <cell col="1" row="20" text="drilling">
+  </cell>
+  <cell col="2" row="20" text="–">
+  </cell>
+  <cell col="3" row="20" text="x">
+  </cell>
+  <cell col="4" row="20" text="x">
+  </cell>
+  <cell col="5" row="20" text="–">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="J21">
+  </cell>
+  <cell col="1" row="21" text="drilling">
+  </cell>
+  <cell col="2" row="21" text="–">
+  </cell>
+  <cell col="3" row="21" text="x">
+  </cell>
+  <cell col="4" row="21" text="x">
+  </cell>
+  <cell col="5" row="21" text="–">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="J22">
+  </cell>
+  <cell col="1" row="22" text="drilling">
+  </cell>
+  <cell col="2" row="22" text="–">
+  </cell>
+  <cell col="3" row="22" text="x">
+  </cell>
+  <cell col="4" row="22" text="–">
+  </cell>
+  <cell col="5" row="22" text="–">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="J24">
+  </cell>
+  <cell col="1" row="23" text="drilling">
+  </cell>
+  <cell col="2" row="23" text="–">
+  </cell>
+  <cell col="3" row="23" text="x">
+  </cell>
+  <cell col="4" row="23" text="x">
+  </cell>
+  <cell col="5" row="23" text="–">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="J28">
+  </cell>
+  <cell col="1" row="24" text="drilling">
+  </cell>
+  <cell col="2" row="24" text="–">
+  </cell>
+  <cell col="3" row="24" text="x">
+  </cell>
+  <cell col="4" row="24" text="–">
+  </cell>
+  <cell col="5" row="24" text="–">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="J29">
+  </cell>
+  <cell col="1" row="25" text="drilling">
+  </cell>
+  <cell col="2" row="25" text="–">
+  </cell>
+  <cell col="3" row="25" text="x">
+  </cell>
+  <cell col="4" row="25" text="–">
+  </cell>
+  <cell col="5" row="25" text="–">
+  </cell>
+ </row>
+ <row row="26">
+  <cell col="0" row="26" text="J33.1">
+  </cell>
+  <cell col="1" row="26" text="drilling">
+  </cell>
+  <cell col="2" row="26" text="–">
+  </cell>
+  <cell col="3" row="26" text="x">
+  </cell>
+  <cell col="4" row="26" text="x">
+  </cell>
+  <cell col="5" row="26" text="–">
+  </cell>
+ </row>
+ <row row="27">
+  <cell col="0" row="27" text="J33.2">
+  </cell>
+  <cell col="1" row="27" text="cut">
+  </cell>
+  <cell col="2" row="27" text="x">
+  </cell>
+  <cell col="3" row="27" text="x">
+  </cell>
+  <cell col="4" row="27" text="x">
+  </cell>
+  <cell col="5" row="27" text="–">
+  </cell>
+ </row>
+ <row row="28">
+  <cell col="0" row="28" text="J34">
+  </cell>
+  <cell col="1" row="28" text="cut">
+  </cell>
+  <cell col="2" row="28" text="x">
+  </cell>
+  <cell col="3" row="28" text="x">
+  </cell>
+  <cell col="4" row="28" text="–">
+  </cell>
+  <cell col="5" row="28" text="–">
+  </cell>
+ </row>
+ <row row="29">
+  <cell col="0" row="29" text="J35">
+  </cell>
+  <cell col="1" row="29" text="drilling">
+  </cell>
+  <cell col="2" row="29" text="–">
+  </cell>
+  <cell col="3" row="29" text="x">
+  </cell>
+  <cell col="4" row="29" text="–">
+  </cell>
+  <cell col="5" row="29" text="–">
+  </cell>
+ </row>
+ <row row="30">
+  <cell col="0" row="30" text="J36">
+  </cell>
+  <cell col="1" row="30" text="cut">
+  </cell>
+  <cell col="2" row="30" text="x">
+  </cell>
+  <cell col="3" row="30" text="x">
+  </cell>
+  <cell col="4" row="30" text="x">
+  </cell>
+  <cell col="5" row="30" text="–">
+  </cell>
+ </row>
+ <row row="31">
+  <cell col="0" row="31" text="J37">
+  </cell>
+  <cell col="1" row="31" text="drilling">
+  </cell>
+  <cell col="2" row="31" text="–">
+  </cell>
+  <cell col="3" row="31" text="x">
+  </cell>
+  <cell col="4" row="31" text="x">
+  </cell>
+  <cell col="5" row="31" text="–">
+  </cell>
+ </row>
+ <row row="32">
+  <cell col="0" row="32" text="J38">
+  </cell>
+  <cell col="1" row="32" text="drilling">
+  </cell>
+  <cell col="2" row="32" text="–">
+  </cell>
+  <cell col="3" row="32" text="x">
+  </cell>
+  <cell col="4" row="32" text="–">
+  </cell>
+  <cell col="5" row="32" text="x">
+  </cell>
+ </row>
+ <row row="33">
+  <cell col="0" row="33" text="J39">
+  </cell>
+  <cell col="1" row="33" text="cut">
+  </cell>
+  <cell col="2" row="33" text="x">
+  </cell>
+  <cell col="3" row="33" text="x">
+  </cell>
+  <cell col="4" row="33" text="x">
+  </cell>
+  <cell col="5" row="33" text="–">
+  </cell>
+ </row>
+ <row row="34">
+  <cell col="0" row="34" text="J40">
+  </cell>
+  <cell col="1" row="34" text="cut">
+  </cell>
+  <cell col="2" row="34" text="x">
+  </cell>
+  <cell col="3" row="34" text="x">
+  </cell>
+  <cell col="4" row="34" text="x">
+  </cell>
+  <cell col="5" row="34" text="–">
+  </cell>
+ </row>
+ <row row="35">
+  <cell col="0" row="35" text="J41">
+  </cell>
+  <cell col="1" row="35" text="cut">
+  </cell>
+  <cell col="2" row="35" text="x">
+  </cell>
+  <cell col="3" row="35" text="x">
+  </cell>
+  <cell col="4" row="35" text="x">
+  </cell>
+  <cell col="5" row="35" text="–">
+  </cell>
+ </row>
+ <row row="36">
+  <cell col="0" row="36" text="J42">
+  </cell>
+  <cell col="1" row="36" text="cut">
+  </cell>
+  <cell col="2" row="36" text="x">
+  </cell>
+  <cell col="3" row="36" text="x">
+  </cell>
+  <cell col="4" row="36" text="x">
+  </cell>
+  <cell col="5" row="36" text="–">
+  </cell>
+ </row>
+ <row row="37">
+  <cell col="0" row="37" text="J44">
+  </cell>
+  <cell col="1" row="37" text="cut">
+  </cell>
+  <cell col="2" row="37" text="x">
+  </cell>
+  <cell col="3" row="37" text="x">
+  </cell>
+  <cell col="4" row="37" text="–">
+  </cell>
+  <cell col="5" row="37" text="–">
+  </cell>
+ </row>
+ <row row="38">
+  <cell col="0" row="38" text="J45">
+  </cell>
+  <cell col="1" row="38" text="cut">
+  </cell>
+  <cell col="2" row="38" text="x">
+  </cell>
+  <cell col="3" row="38" text="x">
+  </cell>
+  <cell col="4" row="38" text="x">
+  </cell>
+  <cell col="5" row="38" text="–">
+  </cell>
+ </row>
+ <row row="39">
+  <cell col="0" row="39" text="J47">
+  </cell>
+  <cell col="1" row="39" text="cut">
+  </cell>
+  <cell col="2" row="39" text="x">
+  </cell>
+  <cell col="3" row="39" text="x">
+  </cell>
+  <cell col="4" row="39" text="–">
+  </cell>
+  <cell col="5" row="39" text="–">
+  </cell>
+ </row>
+ <row row="40">
+  <cell col="0" row="40" text="J49">
+  </cell>
+  <cell col="1" row="40" text="drilling">
+  </cell>
+  <cell col="2" row="40" text="–">
+  </cell>
+  <cell col="3" row="40" text="x">
+  </cell>
+  <cell col="4" row="40" text="x">
+  </cell>
+  <cell col="5" row="40" text="x">
+  </cell>
+ </row>
+ <row row="41">
+  <cell col="0" row="41" text="J50">
+  </cell>
+  <cell col="1" row="41" text="cut">
+  </cell>
+  <cell col="2" row="41" text="x">
+  </cell>
+  <cell col="3" row="41" text="x">
+  </cell>
+  <cell col="4" row="41" text="x">
+  </cell>
+  <cell col="5" row="41" text="–">
+  </cell>
+ </row>
+ <row row="42">
+  <cell col="0" row="42" text="J51">
+  </cell>
+  <cell col="1" row="42" text="cut">
+  </cell>
+  <cell col="2" row="42" text="x">
+  </cell>
+  <cell col="3" row="42" text="x">
+  </cell>
+  <cell col="4" row="42" text="x">
+  </cell>
+  <cell col="5" row="42" text="–">
+  </cell>
+ </row>
+ <row row="43">
+  <cell col="0" row="43" text="J52">
+  </cell>
+  <cell col="1" row="43" text="cut">
+  </cell>
+  <cell col="2" row="43" text="x">
+  </cell>
+  <cell col="3" row="43" text="x">
+  </cell>
+  <cell col="4" row="43" text="x">
+  </cell>
+  <cell col="5" row="43" text="–">
+  </cell>
+ </row>
+ <row row="44">
+  <cell col="0" row="44" text="J54">
+  </cell>
+  <cell col="1" row="44" text="cut">
+  </cell>
+  <cell col="2" row="44" text="x">
+  </cell>
+  <cell col="3" row="44" text="x">
+  </cell>
+  <cell col="4" row="44" text="x">
+  </cell>
+  <cell col="5" row="44" text="x">
+  </cell>
+ </row>
+ <row row="45">
+  <cell col="0" row="45" text="J57">
+  </cell>
+  <cell col="1" row="45" text="cut">
+  </cell>
+  <cell col="2" row="45" text="x">
+  </cell>
+  <cell col="3" row="45" text="x">
+  </cell>
+  <cell col="4" row="45" text="x">
+  </cell>
+  <cell col="5" row="45" text="x">
+  </cell>
+ </row>
+ <row row="46">
+  <cell col="0" row="46" text="J59A">
+  </cell>
+  <cell col="1" row="46" text="cut">
+  </cell>
+  <cell col="2" row="46" text="x">
+  </cell>
+  <cell col="3" row="46" text="x">
+  </cell>
+  <cell col="4" row="46" text="x">
+  </cell>
+  <cell col="5" row="46" text="–">
+  </cell>
+ </row>
+ <row row="47">
+  <cell col="0" row="47" text="J59B">
+  </cell>
+  <cell col="1" row="47" text="cut">
+  </cell>
+  <cell col="2" row="47" text="x">
+  </cell>
+  <cell col="3" row="47" text="x">
+  </cell>
+  <cell col="4" row="47" text="x">
+  </cell>
+  <cell col="5" row="47" text="–">
+  </cell>
+ </row>
+ <row row="48">
+  <cell col="0" row="48" text="J62">
+  </cell>
+  <cell col="1" row="48" text="cut">
+  </cell>
+  <cell col="2" row="48" text="x">
+  </cell>
+  <cell col="3" row="48" text="x">
+  </cell>
+  <cell col="4" row="48" text="x">
+  </cell>
+  <cell col="5" row="48" text="–">
+  </cell>
+ </row>
+ <row row="49">
+  <cell col="0" row="49" text="J63">
+  </cell>
+  <cell col="1" row="49" text="cut">
+  </cell>
+  <cell col="2" row="49" text="x">
+  </cell>
+  <cell col="3" row="49" text="x">
+  </cell>
+  <cell col="4" row="49" text="x">
+  </cell>
+  <cell col="5" row="49" text="–">
+  </cell>
+ </row>
+ <row row="50">
+  <cell col="0" row="50" text="J64">
+  </cell>
+  <cell col="1" row="50" text="cut">
+  </cell>
+  <cell col="2" row="50" text="x">
+  </cell>
+  <cell col="3" row="50" text="x">
+  </cell>
+  <cell col="4" row="50" text="x">
+  </cell>
+  <cell col="5" row="50" text="–">
+  </cell>
+ </row>
+ <row row="51">
+  <cell col="0" row="51" text="J105">
+  </cell>
+  <cell col="1" row="51" text="cut">
+  </cell>
+  <cell col="2" row="51" text="x">
+  </cell>
+  <cell col="3" row="51" text="x">
+  </cell>
+  <cell col="4" row="51" text="–">
+  </cell>
+  <cell col="5" row="51" text="–">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Only 7 samples are investigated in Pb isotope analysis." type="">
+  </statement>
+  <statement id="2" text="Sample ID ranges from J1 to J205." type="">
+  </statement>
+  <statement id="3" text="Only 9 samples are investigated in Pb isotope analysis." type="">
+  </statement>
+  <statement id="5" text="Drillings were first leached with cold 6 N HNO 3 for several minutes following the procedure of Ling et al." type="">
+  </statement>
+ </statements>
+</Table 2>

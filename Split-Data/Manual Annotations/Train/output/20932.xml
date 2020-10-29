@@ -1,0 +1,321 @@
+<Table 1>
+ <caption text="
+
+
+    Patient response and DBS settings.
+   
+   Overview of treatment response and stimulation settings of all included patients. All active contacts were cathodes. HAM-D: Hamilton depression rating scale.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Patient">
+  </cell>
+  <cell col="1" row="0" text="Change in HAM-D (%)">
+  </cell>
+  <cell col="2" row="0" text="Responder (Yes/No)">
+  </cell>
+  <cell col="3" row="0" text="Active contacts (Left) Lowest-highest: 0–3">
+  </cell>
+  <cell col="4" row="0" text="Voltage (Left) (V)">
+  </cell>
+  <cell col="5" row="0" text="Active contacts (Right) Lowest-highest: 8–11">
+  </cell>
+  <cell col="6" row="0" text="Voltage (Right) (V)">
+  </cell>
+  <cell col="7" row="0" text="Stim. frequency (Hz)">
+  </cell>
+  <cell col="8" row="0" text="Pulse duration (µs)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="01">
+  </cell>
+  <cell col="1" row="1" text="−87.5">
+  </cell>
+  <cell col="2" row="1" text="Y">
+  </cell>
+  <cell col="3" row="1" text="2, 3">
+  </cell>
+  <cell col="4" row="1" text="5.0">
+  </cell>
+  <cell col="5" row="1" text="10, 11">
+  </cell>
+  <cell col="6" row="1" text="3.5">
+  </cell>
+  <cell col="7" row="1" text="180">
+  </cell>
+  <cell col="8" row="1" text="120">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="02">
+  </cell>
+  <cell col="1" row="2" text="+36.8">
+  </cell>
+  <cell col="2" row="2" text="N">
+  </cell>
+  <cell col="3" row="2" text="0, 1, 2">
+  </cell>
+  <cell col="4" row="2" text="3.8">
+  </cell>
+  <cell col="5" row="2" text="9, 10, 11">
+  </cell>
+  <cell col="6" row="2" text="3.8">
+  </cell>
+  <cell col="7" row="2" text="190">
+  </cell>
+  <cell col="8" row="2" text="90">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="03">
+  </cell>
+  <cell col="1" row="3" text="−62.5">
+  </cell>
+  <cell col="2" row="3" text="Y">
+  </cell>
+  <cell col="3" row="3" text="2">
+  </cell>
+  <cell col="4" row="3" text="4.3">
+  </cell>
+  <cell col="5" row="3" text="10">
+  </cell>
+  <cell col="6" row="3" text="4.3">
+  </cell>
+  <cell col="7" row="3" text="180">
+  </cell>
+  <cell col="8" row="3" text="90">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="04">
+  </cell>
+  <cell col="1" row="4" text="−77.8">
+  </cell>
+  <cell col="2" row="4" text="Y">
+  </cell>
+  <cell col="3" row="4" text="1, 2">
+  </cell>
+  <cell col="4" row="4" text="5.5">
+  </cell>
+  <cell col="5" row="4" text="9, 10">
+  </cell>
+  <cell col="6" row="4" text="5.5">
+  </cell>
+  <cell col="7" row="4" text="180">
+  </cell>
+  <cell col="8" row="4" text="90">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="05">
+  </cell>
+  <cell col="1" row="5" text="+54.5">
+  </cell>
+  <cell col="2" row="5" text="N">
+  </cell>
+  <cell col="3" row="5" text="0, 1">
+  </cell>
+  <cell col="4" row="5" text="5.5">
+  </cell>
+  <cell col="5" row="5" text="9, 10">
+  </cell>
+  <cell col="6" row="5" text="5.5">
+  </cell>
+  <cell col="7" row="5" text="130">
+  </cell>
+  <cell col="8" row="5" text="90">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="06">
+  </cell>
+  <cell col="1" row="6" text="−50.0">
+  </cell>
+  <cell col="2" row="6" text="Y">
+  </cell>
+  <cell col="3" row="6" text="2, 3">
+  </cell>
+  <cell col="4" row="6" text="4.3">
+  </cell>
+  <cell col="5" row="6" text="10, 11">
+  </cell>
+  <cell col="6" row="6" text="4.3">
+  </cell>
+  <cell col="7" row="6" text="180">
+  </cell>
+  <cell col="8" row="6" text="90">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="07">
+  </cell>
+  <cell col="1" row="7" text="+6.3">
+  </cell>
+  <cell col="2" row="7" text="N">
+  </cell>
+  <cell col="3" row="7" text="1, 2">
+  </cell>
+  <cell col="4" row="7" text="5.4">
+  </cell>
+  <cell col="5" row="7" text="9, 10">
+  </cell>
+  <cell col="6" row="7" text="5.4">
+  </cell>
+  <cell col="7" row="7" text="180">
+  </cell>
+  <cell col="8" row="7" text="90">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="08">
+  </cell>
+  <cell col="1" row="8" text="−72.7">
+  </cell>
+  <cell col="2" row="8" text="Y">
+  </cell>
+  <cell col="3" row="8" text="1, 2, 3">
+  </cell>
+  <cell col="4" row="8" text="7.3">
+  </cell>
+  <cell col="5" row="8" text="9, 10, 11">
+  </cell>
+  <cell col="6" row="8" text="7.3">
+  </cell>
+  <cell col="7" row="8" text="180">
+  </cell>
+  <cell col="8" row="8" text="90">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="09">
+  </cell>
+  <cell col="1" row="9" text="−53.3">
+  </cell>
+  <cell col="2" row="9" text="Y">
+  </cell>
+  <cell col="3" row="9" text="1, 2">
+  </cell>
+  <cell col="4" row="9" text="3.5">
+  </cell>
+  <cell col="5" row="9" text="9, 10 ,11">
+  </cell>
+  <cell col="6" row="9" text="6.0">
+  </cell>
+  <cell col="7" row="9" text="180">
+  </cell>
+  <cell col="8" row="9" text="90">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="10">
+  </cell>
+  <cell col="1" row="10" text="−8.3">
+  </cell>
+  <cell col="2" row="10" text="N">
+  </cell>
+  <cell col="3" row="10" text="1, 2">
+  </cell>
+  <cell col="4" row="10" text="5.0">
+  </cell>
+  <cell col="5" row="10" text="9, 10">
+  </cell>
+  <cell col="6" row="10" text="5.0">
+  </cell>
+  <cell col="7" row="10" text="130">
+  </cell>
+  <cell col="8" row="10" text="90">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="11">
+  </cell>
+  <cell col="1" row="11" text="+8.3">
+  </cell>
+  <cell col="2" row="11" text="N">
+  </cell>
+  <cell col="3" row="11" text="2, 3">
+  </cell>
+  <cell col="4" row="11" text="6.7">
+  </cell>
+  <cell col="5" row="11" text="10, 11">
+  </cell>
+  <cell col="6" row="11" text="6.7">
+  </cell>
+  <cell col="7" row="11" text="180">
+  </cell>
+  <cell col="8" row="11" text="90">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="12">
+  </cell>
+  <cell col="1" row="12" text="−27.3">
+  </cell>
+  <cell col="2" row="12" text="N">
+  </cell>
+  <cell col="3" row="12" text="2, 3">
+  </cell>
+  <cell col="4" row="12" text="2.5">
+  </cell>
+  <cell col="5" row="12" text="10, 11">
+  </cell>
+  <cell col="6" row="12" text="2.5">
+  </cell>
+  <cell col="7" row="12" text="130">
+  </cell>
+  <cell col="8" row="12" text="60">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="13">
+  </cell>
+  <cell col="1" row="13" text="−83.3">
+  </cell>
+  <cell col="2" row="13" text="Y">
+  </cell>
+  <cell col="3" row="13" text="1, 2">
+  </cell>
+  <cell col="4" row="13" text="5.4">
+  </cell>
+  <cell col="5" row="13" text="9, 10">
+  </cell>
+  <cell col="6" row="13" text="5.4">
+  </cell>
+  <cell col="7" row="13" text="180">
+  </cell>
+  <cell col="8" row="13" text="90">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="14">
+  </cell>
+  <cell col="1" row="14" text="−30.4">
+  </cell>
+  <cell col="2" row="14" text="N">
+  </cell>
+  <cell col="3" row="14" text="1">
+  </cell>
+  <cell col="4" row="14" text="5.2">
+  </cell>
+  <cell col="5" row="14" text="9">
+  </cell>
+  <cell col="6" row="14" text="5.2">
+  </cell>
+  <cell col="7" row="14" text="130">
+  </cell>
+  <cell col="8" row="14" text="60">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The Total number of Patient is 14." type="entailed">
+  </statement>
+  <statement id="1" text="The highest Voltage (Right) (V) is 7.3." type="entailed">
+  </statement>
+  <statement id="3" text="The lowest Pulse duration (s) is 60." type="entailed">
+  </statement>
+  <statement id="5" text="An overview of treatment response and stimulation settings is shown in Table 1 ." type="entailed">
+  </statement>
+ </statements>
+</Table 1>

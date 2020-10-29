@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="tbl1" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 1
+       </label>
+<caption id="cecap30">
+<simple-para id="spara30" view="all">
+         System specifications of the deep-learning rig (building on a NVIDIA DGX Station
+         
+         )
+        </simple-para>
+</caption>
+<tgroup cols="2">
+<colspec colname="col1" colnum="1"/>
+<colspec colname="col2" colnum="2"/>
+<thead>
+<tr trsep="1" valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Graphics processing units (GPU)
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           4× Tesla V100
+          </td>
+</tr>
+</thead>
+<tbody>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           TFLOPS
+           
+           (mixed precision)
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           500
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           GPU memory
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           128 GB total system
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           NVIDIA tensor cores
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           2,560
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           NVIDIA CUDA
+           
+           cores
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           20,480
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Central processing unit
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Intel Xeon E5–2698 v4 2.2 GHz (20-Core)
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           System memory
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           256 GB RDIMM DDR4
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Storage
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Data: 3X 1.92 TB SSD RAID 0 OS: 1X 1.92 TB SSD
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Network
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Dual 10GBASE-T (RJ45)
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Maximum power requirements
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           1,500 W
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Operating system
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Ubuntu Desktop Linux OS
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Software
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           DGX Recommended GPU Driver CUDA Toolkit Docker Python 3.5 Pytorch (GPU) Previously developed SRUC-EGENES Deep Learning pipelines
+           
+</td>
+</tr>
+</tbody>
+</tgroup>
+<table-footnote id="tbl1fn1">
+
+<note-para id="cenpara10" view="all">
+
+         .
+        </note-para>
+</table-footnote>
+<table-footnote id="tbl1fn2">
+
+<note-para id="cenpara20" view="all">
+         TFLOPS = teraflops (i.e., the capability of a processor to calculate one trillion floating-point operations per second).
+        </note-para>
+</table-footnote>
+<table-footnote id="tbl1fn3">
+
+<note-para id="cenpara30" view="all">
+         CUDA = compute unified device architecture. Parallel computing architecture developed by NVIDIA to enable increases in computing performance by harnessing the power of the GPU to speed up demanding tasks.
+        </note-para>
+</table-footnote>
+<table-footnote id="tbl1fn4">
+
+<note-para id="cenpara40" view="all">
+
+         .
+        </note-para>
+</table-footnote>
+</table>
+</html><!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="tbl4" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 4
+       </label>
+<caption id="cecap60">
+<simple-para id="spara60" view="all">
+         Measures of model performance resulting from training and validation where training data sets contained both real and synthesized mid-infrared spectral data
+        </simple-para>
+</caption>
+<tgroup cols="4">
+<colspec colname="col1" colnum="1"/>
+<colspec colname="col2" colnum="2"/>
+<colspec colname="col3" colnum="3"/>
+<colspec colname="col4" colnum="4"/>
+<thead>
+<tr valign="top">
+<td align="left" moretrs="1" trsep="1" rowspan="2" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Item
+          </td>
+<td align="center" colspan="3" nameend="col4" namest="col2" trsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Data set
+           
+</td>
+</tr>
+<tr trsep="1" valign="top">
+<td align="center" xmlns="http://www.elsevier.com/xml/common/dtd">
+           1
+          </td>
+<td align="center" xmlns="http://www.elsevier.com/xml/common/dtd">
+           2
+          </td>
+<td align="center" xmlns="http://www.elsevier.com/xml/common/dtd">
+           3
+          </td>
+</tr>
+</thead>
+<tbody>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Epoch
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           750
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           750
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           295
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Training loss
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.22
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.37
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.23
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Validation loss
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.46
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.60
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.26
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Accuracy
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.90
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.78
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.95
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Positive predictive value
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.89
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.72
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.95
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Negative predictive value
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.90
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.82
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.96
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Sensitivity (true positive rate)
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.85
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.78
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.96
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Specificity (true negative rate)
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.93
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.78
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.94
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Matthews correlation coefficient
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.78
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.55
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.90
+          </td>
+</tr>
+</tbody>
+</tgroup>
+<table-footnote id="tbl4fn1">
+
+<note-para id="cenpara100" view="all">
+         Data set 1 = nonresponders randomly selected from herds with no confirmed responders. Data set 2 = nonresponders from same herd-year-season as responders but never contracted bovine tuberculosis. Data set 3 = nonresponders eventually contract bovine tuberculosis (≥183 d between a positive and negative test).
+        </note-para>
+</table-footnote>
+</table>
+</html><!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="tbl3" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 3
+       </label>
+<caption id="cecap50">
+<simple-para id="spara50" view="all">
+         Measures of model performance resulting from training and validation
+        </simple-para>
+</caption>
+<tgroup cols="4">
+<colspec colname="col1" colnum="1"/>
+<colspec colname="col2" colnum="2"/>
+<colspec colname="col3" colnum="3"/>
+<colspec colname="col4" colnum="4"/>
+<thead>
+<tr valign="top">
+<td align="left" moretrs="1" trsep="1" rowspan="2" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Item
+          </td>
+<td align="center" colspan="3" nameend="col4" namest="col2" trsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Data set
+           
+</td>
+</tr>
+<tr trsep="1" valign="top">
+<td align="center" xmlns="http://www.elsevier.com/xml/common/dtd">
+           1
+          </td>
+<td align="center" xmlns="http://www.elsevier.com/xml/common/dtd">
+           2
+          </td>
+<td align="center" xmlns="http://www.elsevier.com/xml/common/dtd">
+           3
+          </td>
+</tr>
+</thead>
+<tbody>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Epoch
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           750
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           750
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           278
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Training loss
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.06
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.50
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.43
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Validation loss
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           2.48
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.94
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.71
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Accuracy
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.68
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.59
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.71
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Positive predictive value
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.63
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.53
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.66
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Negative predictive value
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.71
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.64
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.78
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Sensitivity (true positive rate)
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.51
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.48
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.79
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Specificity (true negative rate)
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.80
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.68
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.65
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Matthews correlation coefficient
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.32
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.16
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.44
+          </td>
+</tr>
+</tbody>
+</tgroup>
+<table-footnote id="tbl3fn1">
+
+<note-para id="cenpara90" view="all">
+         Data set 1 = nonresponders randomly selected from herds with no confirmed responders. Data set 2 = nonresponders from same herd-year-season as responders but never contracted bovine tuberculosis. Data set 3 = nonresponders eventually contract bovine tuberculosis (≥183 d between a positive and negative test).
+        </note-para>
+</table-footnote>
+</table>
+</html><!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="tbl2" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 2
+       </label>
+<caption id="cecap40">
+<simple-para id="spara40" view="all">
+         Summary of the mid-infrared spectra-aligned bovine tuberculosis (bTB) baseline and training data sets
+         
+</simple-para>
+</caption>
+<tgroup cols="5">
+<colspec colname="col1" colnum="1"/>
+<colspec colname="col2" colnum="2"/>
+<colspec colname="col3" colnum="3"/>
+<colspec colname="col4" colnum="4"/>
+<colspec colname="col5" colnum="5"/>
+<thead>
+<tr trsep="1" valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Item
+          </td>
+<td align="center" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Baseline
+          </td>
+<td align="center" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Train
+           
+</td>
+<td align="center" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Train
+           
+</td>
+<td align="center" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Train
+           
+</td>
+</tr>
+</thead>
+<tbody>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Animal test dates
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           258,058
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           21,477
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           15,909
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           4,257
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Cows
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           231,893
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           21,326
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           15,863
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           1,978
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Herds
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           1,946
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           1,834
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           1,126
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           473
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Herd breakdowns
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           2,936
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           2,210
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           1,326
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           1,109
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Responders
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           8,591
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           8,591
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           6,771
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           1,978
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Nonresponders
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           249,467
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           12,886
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           9,138
+          </td>
+<td align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">
+           2,279
+          </td>
+</tr>
+</tbody>
+</tgroup>
+<table-footnote id="tbl2fn1">
+
+<note-para id="cenpara50" view="all">
+         Total numbers per data set of aligned records (animal test dates) are presented, broken down into total numbers of cows, herds, herd breakdowns, as well as the number of cows labeled as responders and nonresponders
+        </note-para>
+</table-footnote>
+<table-footnote id="tbl2fn2">
+
+<note-para id="cenpara60" view="all">
+         Nonresponders randomly selected from herds with no confirmed responders.
+        </note-para>
+</table-footnote>
+<table-footnote id="tbl2fn3">
+
+<note-para id="cenpara70" view="all">
+         Nonresponders from same herd-year-season as responders but never contracted bTB.
+        </note-para>
+</table-footnote>
+<table-footnote id="tbl2fn4">
+
+<note-para id="cenpara80" view="all">
+         Nonresponders eventually contract bTB (≥183 d between a positive and negative test).
+        </note-para>
+</table-footnote>
+</table>
+</html>

@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="tbl1" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 1
+       </label>
+<caption id="d1e383">
+<simple-para id="d1e384" view="all">
+         Matrix types in
+         <small-caps>
+          Dune-ISTL
+         </small-caps>
+         , the first three matrix types cannot be used as a block matrices.
+        </simple-para>
+</caption>
+<tgroup cols="2">
+<colspec align="left" colname="col1" colnum="1"/>
+<colspec align="left" colname="col2" colnum="2"/>
+<thead>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Class
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Implements
+          </td>
+</tr>
+</thead>
+<tbody>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           FieldMatrix
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           (small) matrix with size known at compile time
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           DiagonalMatrix
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Storage optimal representation of a diagonal matrix with size known at compile time
+          </td>
+</tr>
+<tr trsep="1" valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           ScaledIdentityMatrix
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Storage optimal representation of a scaled identity matrix with size known at compile time
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           BCRSMatrix
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           (block) compressed tr storage matrix
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           BDMatrix
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           (block) diagonal matrix
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           BTDMatrix
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           (block) tri-diagonal matrix
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Matrix
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Generic dynamic dense (block) matrix
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           MultiTypeBlockMatrix
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Dense block matrix with differing block type known at compile time
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html><!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="tbl4" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 4
+       </label>
+<caption id="d1e587">
+<simple-para id="d1e588" view="all">
+         Iterative and direct solvers in
+         <small-caps>
+          Dune-ISTL
+         </small-caps>
+         . Some of these solvers can handle non-static preconditioner, i.e. the preconditioner might change from iteration to iteration.
+        </simple-para>
+</caption>
+<tgroup cols="3">
+<colspec align="left" colname="col1" colnum="1"/>
+<colspec align="left" colname="col2" colnum="2"/>
+<colspec align="left" colname="col3" colnum="3"/>
+<thead>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Class
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Implements
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Direct
+          </td>
+</tr>
+</thead>
+<tbody>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           LoopSolver
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Simply applies preconditioner in each step
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           No
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           GradientSolver
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Simple gradient solver
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           No
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           CGSolver
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Conjugate gradient method
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           No
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           BiCGSTABSolver
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Biconjugate gradient stabilized method
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           No
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           MINRESSolver
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Minimal Residual method
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           No
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           RestartedGMResSolver
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Restarted GMRes solver
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           No
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           RestartedFlexibleGMResSolver
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Flexible restarted GMRes solver (for non-static preconditioners)
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           No
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           GeneralizedPCGSolver
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Flexible conjugate gradient solver (for non-static preconditioners)
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           No
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           RestartedFCGSolver
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Flexible conjugate gradient solver proposed by Notay (for non-static preconditioners)
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           No
+          </td>
+</tr>
+<tr trsep="1" valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           CompleteFCGSolver
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Flexible conjugate gradient method reusing old orthogonalizations when restarting
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           No
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           SuperLU
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Wrapper for SuperLU library
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Yes
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           UMFPack
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Wrapper for UMFPack direct solver library
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Yes
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html><!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="tbl3" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 3
+       </label>
+<caption id="d1e481">
+<simple-para id="d1e482" view="all">
+         Preconditioners in
+         <small-caps>
+          Dune-ISTL
+         </small-caps>
+         .
+        </simple-para>
+</caption>
+<tgroup cols="4">
+<colspec align="left" colname="col1" colnum="1"/>
+<colspec align="left" colname="col2" colnum="2"/>
+<colspec align="left" colname="col3" colnum="3"/>
+<colspec align="left" colname="col4" colnum="4"/>
+<thead>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Class
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Implements
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           s/p
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Recursive
+          </td>
+</tr>
+</thead>
+<tbody>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Richardson
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Richardson (multiplicate with a scalar)
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           s
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           No
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           SeqJac
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Jacobi method
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           s
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Yes
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           SeqSOR
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Successive overrelaxation (SOR)
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           s
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Yes
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           SeqSSOR
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Symmetric SOR
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           s
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Yes
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           SeqOverlappingSchwarz
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Overlapping Schwarz for arbitrary subdomains
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           s
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           No
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           SeqILU
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Incomplete LU decomposition
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           s
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           No
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           SeqILDL
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Incomplete LDL decomposition
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           s
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           No
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Pamg::AMG
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Algebraic multigrid solver based on aggregation
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           s/p
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           No
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           BlockPreconditioner
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Wraps sequential preconditioner to parallel hybrid one
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           p
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           No
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html><!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="tbl2" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 2
+       </label>
+<caption id="d1e442">
+<simple-para id="d1e443" view="all">
+         Vector types in
+         <small-caps>
+          Dune-ISTL
+         </small-caps>
+         , the first vector type cannot be used as a block vector.
+        </simple-para>
+</caption>
+<tgroup cols="2">
+<colspec align="left" colname="col1" colnum="1"/>
+<colspec align="left" colname="col2" colnum="2"/>
+<thead>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Class
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Implements
+          </td>
+</tr>
+</thead>
+<tbody>
+<tr trsep="1" valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           FieldVector
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           (small) vector with size known at compile time
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           BVector
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           (block) vector, blocks have same size
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           VariableBlockVector
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Block vector where each block may vary in size
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           MultiTypeBlockVector
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Block vector with differing block type known at compile time
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html>

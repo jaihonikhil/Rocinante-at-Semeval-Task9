@@ -1,0 +1,150 @@
+<Table 1>
+ <caption text="
+
+   Absorbances of several compounds at the concentration of 10 mg mL
+   
+    −1
+   
+   in distilled water. The examined molecules were not reacted with Catal's reagent under the examined conditions.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Compound">
+  </cell>
+  <cell col="1" row="0" text="Absorbance (304 nm)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Ammonium persulphate">
+  </cell>
+  <cell col="1" row="1" text="-0.032">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Ammonium sulphate">
+  </cell>
+  <cell col="1" row="2" text="0.031">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Aluminum potassium sulfate dodecahydrate">
+  </cell>
+  <cell col="1" row="3" text="-0.003">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Copper (III) sulphate">
+  </cell>
+  <cell col="1" row="4" text="-0.008">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Copper (III) sulphate pentahydrate">
+  </cell>
+  <cell col="1" row="5" text="-0.056">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Sodium dodecyl sulphate">
+  </cell>
+  <cell col="1" row="6" text="-0.018">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Sodium sulphate anhydrous">
+  </cell>
+  <cell col="1" row="7" text="-0.022">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Sodium thiosulphate pentahydrate">
+  </cell>
+  <cell col="1" row="8" text="-0.002">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Manganese (II) sulphate monohydrate">
+  </cell>
+  <cell col="1" row="9" text="0.039">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Magnessium sulphate heptahydrate">
+  </cell>
+  <cell col="1" row="10" text="0.027">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Sodium 2-bromoethanesulfonate hydrate">
+  </cell>
+  <cell col="1" row="11" text="-0.029">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Sulfanilic acid">
+  </cell>
+  <cell col="1" row="12" text="0,033">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Sodium sulfite anhydrous">
+  </cell>
+  <cell col="1" row="13" text="0.001">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Zinc sulphate heptahydrate">
+  </cell>
+  <cell col="1" row="14" text="0.006">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="Sodium 2-chloroethane sulfonate hydrate">
+  </cell>
+  <cell col="1" row="15" text="0.028">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="Potassium sulphate">
+  </cell>
+  <cell col="1" row="16" text="0.037">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="Ammonium iron (III) citrate">
+  </cell>
+  <cell col="1" row="17" text="0.012">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="Iron (III) citrate hydrate">
+  </cell>
+  <cell col="1" row="18" text="0.038">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="Iron (II) sulfate heptahydrate">
+  </cell>
+  <cell col="1" row="19" text="0.985">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 19 different types of Compound in the given table." type="entailed">
+  </statement>
+  <statement id="1" text="Absorbance has a different value from each other in the given table." type="entailed">
+  </statement>
+  <statement id="2" text="Absorbance has a range between 0.001 to 0.985" type="entailed">
+  </statement>
+  <statement id="3" text="There are 5 different types Compound is in the given table." type="refuted">
+  </statement>
+  <statement id="5" text="Copper (III) sulphate has a lowest Absorbance." type="refuted">
+  </statement>
+  <statement id="6" text="Absorbance (304 nm) has a same value in the given table." type="refuted">
+  </statement>
+  <statement id="7" text="Absorbance has a equal range ." type="refuted">
+  </statement>
+  <statement id="8" text="Table 1 shows absorbances of several compounds at the concentration of 10 mg mL 1 in distilled water." type="entailed">
+  </statement>
+ </statements>
+</Table 1>

@@ -1,0 +1,1648 @@
+<Table 1>
+ <caption text="
+
+   Maximum peak-to-mean factors Ψ
+   
+    0
+   
+   as from
+   
+
+     Eq. (1)
+    
+
+   for different values of the exponent
+   
+    n
+   
+   and assuming t
+   
+    p
+   
+   = 10 s and t
+   
+    m
+   
+   = 600 s. K/M: Klug/Manier stability classification scheme from V (very unstable) to I (very stable).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="K/M">
+  </cell>
+  <cell col="1" row="0" text="Index">
+  </cell>
+  <cell col="2" row="0" text="Stability class">
+  </cell>
+  <cell col="3" row="0" text="n">
+  </cell>
+  <cell col="4" row="0" text="Ψ
+     
+      0">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="V">
+  </cell>
+  <cell col="1" row="1" text="6">
+  </cell>
+  <cell col="2" row="1" text="Very unstable">
+  </cell>
+  <cell col="3" row="1" text="0.68">
+  </cell>
+  <cell col="4" row="1" text="16.2">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="IV">
+  </cell>
+  <cell col="1" row="2" text="5">
+  </cell>
+  <cell col="2" row="2" text="Unstable">
+  </cell>
+  <cell col="3" row="2" text="0.55">
+  </cell>
+  <cell col="4" row="2" text="9.5">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="III/2">
+  </cell>
+  <cell col="1" row="3" text="4">
+  </cell>
+  <cell col="2" row="3" text="Neutral/unstable">
+  </cell>
+  <cell col="3" row="3" text="0.43">
+  </cell>
+  <cell col="4" row="3" text="5.8">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="III/1">
+  </cell>
+  <cell col="1" row="4" text="3">
+  </cell>
+  <cell col="2" row="4" text="Neutral/stable">
+  </cell>
+  <cell col="3" row="4" text="0.30">
+  </cell>
+  <cell col="4" row="4" text="3.4">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="II">
+  </cell>
+  <cell col="1" row="5" text="2">
+  </cell>
+  <cell col="2" row="5" text="Stable">
+  </cell>
+  <cell col="3" row="5" text="0.18">
+  </cell>
+  <cell col="4" row="5" text="2.1">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="I">
+  </cell>
+  <cell col="1" row="6" text="1">
+  </cell>
+  <cell col="2" row="6" text="Very stable">
+  </cell>
+  <cell col="3" row="6" text="0.18">
+  </cell>
+  <cell col="4" row="6" text="2.1">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are six categories of K/M." type="">
+  </statement>
+  <statement id="1" text="The highest n value is for K/M V of 0.68." type="">
+  </statement>
+  <statement id="6" text="The highest  0 value and same for I and II K/M of 0.21." type="">
+  </statement>
+  <statement id="7" text="The values for t m = 600 s and t p" type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 9>
+ <caption text="
+
+   Statistical metrics of performance evaluation comparing observed and predicted Ψ
+   
+    90
+   
+   . Data conditioned by atmospheric stability (neutral and stable).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Approach">
+  </cell>
+  <cell col="1" row="0" text="Conditioning">
+  </cell>
+  <cell col="2" row="0" text="n">
+  </cell>
+  <cell col="3" row="0" text="FAC2">
+  </cell>
+  <cell col="4" row="0" text="MB">
+  </cell>
+  <cell col="5" row="0" text="NMB">
+  </cell>
+  <cell col="6" row="0" text="MAE">
+  </cell>
+  <cell col="7" row="0" text="FB">
+  </cell>
+  <cell col="8" row="0" text="RMSE">
+  </cell>
+  <cell col="9" row="0" text="NMSE">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Approach 1">
+  </cell>
+  <cell col="1" row="1" text="Neutral">
+  </cell>
+  <cell col="2" row="1" text="18">
+  </cell>
+  <cell col="3" row="1" text="0.67">
+  </cell>
+  <cell col="4" row="1" text="1.61">
+  </cell>
+  <cell col="5" row="1" text="0.67">
+  </cell>
+  <cell col="6" row="1" text="1.61">
+  </cell>
+  <cell col="7" row="1" text="−0.50">
+  </cell>
+  <cell col="8" row="1" text="1.73">
+  </cell>
+  <cell col="9" row="1" text="0.31">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Approach 1">
+  </cell>
+  <cell col="1" row="2" text="Stable">
+  </cell>
+  <cell col="2" row="2" text="10">
+  </cell>
+  <cell col="3" row="2" text="0.50">
+  </cell>
+  <cell col="4" row="2" text="1.71">
+  </cell>
+  <cell col="5" row="2" text="0.75">
+  </cell>
+  <cell col="6" row="2" text="1.71">
+  </cell>
+  <cell col="7" row="2" text="−0.54">
+  </cell>
+  <cell col="8" row="2" text="1.90">
+  </cell>
+  <cell col="9" row="2" text="0.39">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Approach 2">
+  </cell>
+  <cell col="1" row="3" text="Neutral">
+  </cell>
+  <cell col="2" row="3" text="18">
+  </cell>
+  <cell col="3" row="3" text="0.72">
+  </cell>
+  <cell col="4" row="3" text="−1.01">
+  </cell>
+  <cell col="5" row="3" text="−0.42">
+  </cell>
+  <cell col="6" row="3" text="1.01">
+  </cell>
+  <cell col="7" row="3" text="0.54">
+  </cell>
+  <cell col="8" row="3" text="1.22">
+  </cell>
+  <cell col="9" row="3" text="0.45">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Approach 2">
+  </cell>
+  <cell col="1" row="4" text="Stable">
+  </cell>
+  <cell col="2" row="4" text="10">
+  </cell>
+  <cell col="3" row="4" text="0.60">
+  </cell>
+  <cell col="4" row="4" text="−1.08">
+  </cell>
+  <cell col="5" row="4" text="−0.47">
+  </cell>
+  <cell col="6" row="4" text="1.08">
+  </cell>
+  <cell col="7" row="4" text="0.62">
+  </cell>
+  <cell col="8" row="4" text="1.37">
+  </cell>
+  <cell col="9" row="4" text="0.68">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Approach 3">
+  </cell>
+  <cell col="1" row="5" text="Neutral">
+  </cell>
+  <cell col="2" row="5" text="18">
+  </cell>
+  <cell col="3" row="5" text="0.94">
+  </cell>
+  <cell col="4" row="5" text="0.92">
+  </cell>
+  <cell col="5" row="5" text="0.39">
+  </cell>
+  <cell col="6" row="5" text="1.08">
+  </cell>
+  <cell col="7" row="5" text="−0.32">
+  </cell>
+  <cell col="8" row="5" text="1.22">
+  </cell>
+  <cell col="9" row="5" text="0.19">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Approach 3">
+  </cell>
+  <cell col="1" row="6" text="Stable">
+  </cell>
+  <cell col="2" row="6" text="10">
+  </cell>
+  <cell col="3" row="6" text="0.50">
+  </cell>
+  <cell col="4" row="6" text="0.30">
+  </cell>
+  <cell col="5" row="6" text="0.13">
+  </cell>
+  <cell col="6" row="6" text="1.27">
+  </cell>
+  <cell col="7" row="6" text="−0.12">
+  </cell>
+  <cell col="8" row="6" text="1.57">
+  </cell>
+  <cell col="9" row="6" text="0.44">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The highest RMSE is 1.90." type="">
+  </statement>
+  <statement id="1" text="The highest RMSE is 1.22." type="">
+  </statement>
+  <statement id="2" text="The highest NMSE is 0.19." type="">
+  </statement>
+  <statement id="3" text="The lowest FAC2 is 0.60." type="">
+  </statement>
+  <statement id="4" text="The value of n is same for all approach ." type="">
+  </statement>
+ </statements>
+</Table 9>
+<Table 4>
+ <caption text="
+
+   Summary statistics of meteorological conditions. The ultrasonic anemometer was mounted at
+   
+    z
+   
+   = 3.5 m a.g.l. about 145 m on average downwind of the point source.
+   
+    L
+   
+   : Obukhov length; ζ: Obukhov stability parameter; K/M: Klug/Manier stability classification scheme;
+   
+    σ
+   
+
+
+     u
+    
+
+   ,
+   
+    σ
+   
+
+
+     v
+    
+
+   ,
+   
+    σ
+   
+
+
+     w
+    
+
+   : standard deviations of the along-wind, crosswind and vertical wind velocity components, respectively;
+   
+    u
+   
+
+
+     ∗
+    
+
+   : surface friction velocity;
+   
+
+
+
+
+        u
+       
+
+        ‾
+       
+
+
+
+
+       (
+      
+
+       z
+      
+
+       )
+      
+
+
+
+   : mean wind speed at height
+   
+    z
+   
+   ; w
+   
+    d
+   
+   : wind direction. Values denote averages over 10 min, except for wind direction for which additional statistics (range and variation) are shown.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Trial">
+  </cell>
+  <cell col="1" row="0" text="L">
+  </cell>
+  <cell col="2" row="0" text="ζ">
+  </cell>
+  <cell col="3" row="0" text="K/M">
+  </cell>
+  <cell col="4" row="0" text="σ
+     
+      u">
+  </cell>
+  <cell col="5" row="0" text="σ
+     
+      v">
+  </cell>
+  <cell col="6" row="0" text="σ
+     
+      w">
+  </cell>
+  <cell col="7" row="0" text="u
+     
+
+      ∗">
+  </cell>
+  <cell col="8" row="0" text="u
+         
+
+          ‾
+         
+
+
+
+
+         (
+        
+
+         z
+        
+
+         )">
+  </cell>
+  <cell col="9" row="0" text="w
+     
+      d">
+  </cell>
+  <cell col="10" row="0" text="w
+     
+      d
+     
+     range">
+  </cell>
+  <cell col="11" row="0" text="w
+     
+      d
+     
+     variation">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="[m]">
+  </cell>
+  <cell col="4" row="1" text="[m s
+     
+      −1
+     
+     ]">
+  </cell>
+  <cell col="5" row="1" text="[m s
+     
+      −1
+     
+     ]">
+  </cell>
+  <cell col="6" row="1" text="[m s
+     
+      −1
+     
+     ]">
+  </cell>
+  <cell col="7" row="1" text="[m s
+     
+      −1
+     
+     ]">
+  </cell>
+  <cell col="8" row="1" text="[m s
+     
+      −1
+     
+     ]">
+  </cell>
+  <cell col="9" row="1" text="[°]">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="B">
+  </cell>
+  <cell col="1" row="2" text="63">
+  </cell>
+  <cell col="2" row="2" text="0.06">
+  </cell>
+  <cell col="3" row="2" text="3.1">
+  </cell>
+  <cell col="4" row="2" text="0.573">
+  </cell>
+  <cell col="5" row="2" text="0.410">
+  </cell>
+  <cell col="6" row="2" text="0.273">
+  </cell>
+  <cell col="7" row="2" text="0.19">
+  </cell>
+  <cell col="8" row="2" text="3.2">
+  </cell>
+  <cell col="9" row="2" text="212">
+  </cell>
+  <cell col="10" row="2" text="205–222">
+  </cell>
+  <cell col="11" row="2" text="17">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="C">
+  </cell>
+  <cell col="1" row="3" text="57">
+  </cell>
+  <cell col="2" row="3" text="0.06">
+  </cell>
+  <cell col="3" row="3" text="3.1">
+  </cell>
+  <cell col="4" row="3" text="0.642">
+  </cell>
+  <cell col="5" row="3" text="0.529">
+  </cell>
+  <cell col="6" row="3" text="0.359">
+  </cell>
+  <cell col="7" row="3" text="0.20">
+  </cell>
+  <cell col="8" row="3" text="3.2">
+  </cell>
+  <cell col="9" row="3" text="222">
+  </cell>
+  <cell col="10" row="3" text="214–238">
+  </cell>
+  <cell col="11" row="3" text="24">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="D">
+  </cell>
+  <cell col="1" row="4" text="14">
+  </cell>
+  <cell col="2" row="4" text="0.25">
+  </cell>
+  <cell col="3" row="4" text="2">
+  </cell>
+  <cell col="4" row="4" text="0.375">
+  </cell>
+  <cell col="5" row="4" text="0.306">
+  </cell>
+  <cell col="6" row="4" text="0.194">
+  </cell>
+  <cell col="7" row="4" text="0.09">
+  </cell>
+  <cell col="8" row="4" text="2.3">
+  </cell>
+  <cell col="9" row="4" text="234">
+  </cell>
+  <cell col="10" row="4" text="222–246">
+  </cell>
+  <cell col="11" row="4" text="24">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="E">
+  </cell>
+  <cell col="1" row="5" text="3952">
+  </cell>
+  <cell col="2" row="5" text="0.0009">
+  </cell>
+  <cell col="3" row="5" text="3.1">
+  </cell>
+  <cell col="4" row="5" text="1.375">
+  </cell>
+  <cell col="5" row="5" text="1.265">
+  </cell>
+  <cell col="6" row="5" text="0.641">
+  </cell>
+  <cell col="7" row="5" text="0.35">
+  </cell>
+  <cell col="8" row="5" text="6.7">
+  </cell>
+  <cell col="9" row="5" text="251">
+  </cell>
+  <cell col="10" row="5" text="238–267">
+  </cell>
+  <cell col="11" row="5" text="29">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="F">
+  </cell>
+  <cell col="1" row="6" text="3588">
+  </cell>
+  <cell col="2" row="6" text="0.0010">
+  </cell>
+  <cell col="3" row="6" text="3.1">
+  </cell>
+  <cell col="4" row="6" text="1.089">
+  </cell>
+  <cell col="5" row="6" text="0.919">
+  </cell>
+  <cell col="6" row="6" text="0.481">
+  </cell>
+  <cell col="7" row="6" text="0.26">
+  </cell>
+  <cell col="8" row="6" text="6.1">
+  </cell>
+  <cell col="9" row="6" text="245">
+  </cell>
+  <cell col="10" row="6" text="217–255">
+  </cell>
+  <cell col="11" row="6" text="38">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="G">
+  </cell>
+  <cell col="1" row="7" text="205">
+  </cell>
+  <cell col="2" row="7" text="0.02">
+  </cell>
+  <cell col="3" row="7" text="3.1">
+  </cell>
+  <cell col="4" row="7" text="1.127">
+  </cell>
+  <cell col="5" row="7" text="0.869">
+  </cell>
+  <cell col="6" row="7" text="0.518">
+  </cell>
+  <cell col="7" row="7" text="0.30">
+  </cell>
+  <cell col="8" row="7" text="5.7">
+  </cell>
+  <cell col="9" row="7" text="245">
+  </cell>
+  <cell col="10" row="7" text="233–258">
+  </cell>
+  <cell col="11" row="7" text="25">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="H">
+  </cell>
+  <cell col="1" row="8" text="51">
+  </cell>
+  <cell col="2" row="8" text="0.07">
+  </cell>
+  <cell col="3" row="8" text="2">
+  </cell>
+  <cell col="4" row="8" text="1.060">
+  </cell>
+  <cell col="5" row="8" text="0.806">
+  </cell>
+  <cell col="6" row="8" text="0.427">
+  </cell>
+  <cell col="7" row="8" text="0.24">
+  </cell>
+  <cell col="8" row="8" text="4.6">
+  </cell>
+  <cell col="9" row="8" text="241">
+  </cell>
+  <cell col="10" row="8" text="225–257">
+  </cell>
+  <cell col="11" row="8" text="32">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="I">
+  </cell>
+  <cell col="1" row="9" text="2297">
+  </cell>
+  <cell col="2" row="9" text="0.0015">
+  </cell>
+  <cell col="3" row="9" text="3.1">
+  </cell>
+  <cell col="4" row="9" text="1.208">
+  </cell>
+  <cell col="5" row="9" text="0.992">
+  </cell>
+  <cell col="6" row="9" text="0.582">
+  </cell>
+  <cell col="7" row="9" text="0.27">
+  </cell>
+  <cell col="8" row="9" text="5.4">
+  </cell>
+  <cell col="9" row="9" text="221">
+  </cell>
+  <cell col="10" row="9" text="208–237">
+  </cell>
+  <cell col="11" row="9" text="29">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="J">
+  </cell>
+  <cell col="1" row="10" text="15,461">
+  </cell>
+  <cell col="2" row="10" text="0.0002">
+  </cell>
+  <cell col="3" row="10" text="3.1">
+  </cell>
+  <cell col="4" row="10" text="1.213">
+  </cell>
+  <cell col="5" row="10" text="1.092">
+  </cell>
+  <cell col="6" row="10" text="0.662">
+  </cell>
+  <cell col="7" row="10" text="0.37">
+  </cell>
+  <cell col="8" row="10" text="5.7">
+  </cell>
+  <cell col="9" row="10" text="222">
+  </cell>
+  <cell col="10" row="10" text="211–235">
+  </cell>
+  <cell col="11" row="10" text="24">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="K">
+  </cell>
+  <cell col="1" row="11" text="289">
+  </cell>
+  <cell col="2" row="11" text="0.01">
+  </cell>
+  <cell col="3" row="11" text="3.1">
+  </cell>
+  <cell col="4" row="11" text="0.886">
+  </cell>
+  <cell col="5" row="11" text="0.797">
+  </cell>
+  <cell col="6" row="11" text="0.442">
+  </cell>
+  <cell col="7" row="11" text="0.24">
+  </cell>
+  <cell col="8" row="11" text="4.3">
+  </cell>
+  <cell col="9" row="11" text="219">
+  </cell>
+  <cell col="10" row="11" text="206–234">
+  </cell>
+  <cell col="11" row="11" text="28">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="L">
+  </cell>
+  <cell col="1" row="12" text="170">
+  </cell>
+  <cell col="2" row="12" text="0.02">
+  </cell>
+  <cell col="3" row="12" text="3.1">
+  </cell>
+  <cell col="4" row="12" text="1.043">
+  </cell>
+  <cell col="5" row="12" text="0.826">
+  </cell>
+  <cell col="6" row="12" text="0.512">
+  </cell>
+  <cell col="7" row="12" text="0.27">
+  </cell>
+  <cell col="8" row="12" text="4.4">
+  </cell>
+  <cell col="9" row="12" text="227">
+  </cell>
+  <cell col="10" row="12" text="216–236">
+  </cell>
+  <cell col="11" row="12" text="20">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="M">
+  </cell>
+  <cell col="1" row="13" text="32">
+  </cell>
+  <cell col="2" row="13" text="0.11">
+  </cell>
+  <cell col="3" row="13" text="2">
+  </cell>
+  <cell col="4" row="13" text="0.805">
+  </cell>
+  <cell col="5" row="13" text="0.683">
+  </cell>
+  <cell col="6" row="13" text="0.417">
+  </cell>
+  <cell col="7" row="13" text="0.21">
+  </cell>
+  <cell col="8" row="13" text="4.4">
+  </cell>
+  <cell col="9" row="13" text="231">
+  </cell>
+  <cell col="10" row="13" text="223–240">
+  </cell>
+  <cell col="11" row="13" text="17">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="N">
+  </cell>
+  <cell col="1" row="14" text="40">
+  </cell>
+  <cell col="2" row="14" text="0.09">
+  </cell>
+  <cell col="3" row="14" text="2">
+  </cell>
+  <cell col="4" row="14" text="0.762">
+  </cell>
+  <cell col="5" row="14" text="0.597">
+  </cell>
+  <cell col="6" row="14" text="0.365">
+  </cell>
+  <cell col="7" row="14" text="0.22">
+  </cell>
+  <cell col="8" row="14" text="3.8">
+  </cell>
+  <cell col="9" row="14" text="228">
+  </cell>
+  <cell col="10" row="14" text="220–235">
+  </cell>
+  <cell col="11" row="14" text="15">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="O">
+  </cell>
+  <cell col="1" row="15" text="11">
+  </cell>
+  <cell col="2" row="15" text="0.32">
+  </cell>
+  <cell col="3" row="15" text="1">
+  </cell>
+  <cell col="4" row="15" text="0.523">
+  </cell>
+  <cell col="5" row="15" text="0.437">
+  </cell>
+  <cell col="6" row="15" text="0.289">
+  </cell>
+  <cell col="7" row="15" text="0.12">
+  </cell>
+  <cell col="8" row="15" text="3.0">
+  </cell>
+  <cell col="9" row="15" text="230">
+  </cell>
+  <cell col="10" row="15" text="217–238">
+  </cell>
+  <cell col="11" row="15" text="21">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are fourteen trials given in the table." type="">
+  </statement>
+  <statement id="1" text="Trial B and C has same  and K/M value." type="">
+  </statement>
+  <statement id="5" text="Only trial E has unique K/M value." type="">
+  </statement>
+  <statement id="6" text="Variable F has lowest w d variation." type="">
+  </statement>
+  <statement id="7" text="trial K does not have w d variation." type="">
+  </statement>
+ </statements>
+</Table 4>
+<Table 3>
+ <caption text="
+
+   Values of mean roughness length
+   
+    z
+   
+
+    0
+   
+   (m).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Trial">
+  </cell>
+  <cell col="1" row="0" text="Date">
+  </cell>
+  <cell col="2" row="0" text="z
+     
+
+      0
+     
+     [m]">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="2" row="1" text="Original dataset">
+  </cell>
+  <cell col="3" row="1" text="Revised dataset">
+  </cell>
+  <cell col="4" row="1" text="Value adopted">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="B, C, D">
+  </cell>
+  <cell col="1" row="2" text="12/Dec/00">
+  </cell>
+  <cell col="2" row="2" text="0.006">
+  </cell>
+  <cell col="3" row="2" text="0.005">
+  </cell>
+  <cell col="4" row="2" text="0.01">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="E, F, G, H">
+  </cell>
+  <cell col="1" row="3" text="13/Dec/00">
+  </cell>
+  <cell col="2" row="3" text="0.018">
+  </cell>
+  <cell col="3" row="3" text="0.018">
+  </cell>
+  <cell col="4" row="3" text="0.02">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="I, J, K, L, M, N, O">
+  </cell>
+  <cell col="1" row="4" text="31/Oct/01">
+  </cell>
+  <cell col="2" row="4" text="0.019">
+  </cell>
+  <cell col="3" row="4" text="0.019">
+  </cell>
+  <cell col="4" row="4" text="0.02">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="All">
+  </cell>
+  <cell col="1" row="5" text="−">
+  </cell>
+  <cell col="2" row="5" text="0.013">
+  </cell>
+  <cell col="3" row="5" text="0.013">
+  </cell>
+  <cell col="4" row="5" text="−">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are three different Trials." type="">
+  </statement>
+  <statement id="1" text="Original dataset for Trial I, J, K, L, M, N, O is 0.019." type="">
+  </statement>
+  <statement id="3" text="There are ten different Trials." type="">
+  </statement>
+  <statement id="4" text="Original dataset for Trial B, C, D is 0.013." type="">
+  </statement>
+  <statement id="6" text="Original dataset and Revised dataset has the different value for all Trials." type="">
+  </statement>
+ </statements>
+</Table 3>
+<Table 8>
+ <caption text="
+
+   Statistical metrics of performance evaluation comparing observed and predicted Ψ
+   
+    90
+   
+   . Data conditioned by distance (near- and far-field).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Approach">
+  </cell>
+  <cell col="1" row="0" text="Conditioning">
+  </cell>
+  <cell col="2" row="0" text="n">
+  </cell>
+  <cell col="3" row="0" text="FAC2">
+  </cell>
+  <cell col="4" row="0" text="MB">
+  </cell>
+  <cell col="5" row="0" text="NMB">
+  </cell>
+  <cell col="6" row="0" text="MAE">
+  </cell>
+  <cell col="7" row="0" text="FB">
+  </cell>
+  <cell col="8" row="0" text="RMSE">
+  </cell>
+  <cell col="9" row="0" text="NMSE">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Approach 1">
+  </cell>
+  <cell col="1" row="1" text="Near-field">
+  </cell>
+  <cell col="2" row="1" text="18">
+  </cell>
+  <cell col="3" row="1" text="0.67">
+  </cell>
+  <cell col="4" row="1" text="1.65">
+  </cell>
+  <cell col="5" row="1" text="0.70">
+  </cell>
+  <cell col="6" row="1" text="1.65">
+  </cell>
+  <cell col="7" row="1" text="−0.52">
+  </cell>
+  <cell col="8" row="1" text="1.81">
+  </cell>
+  <cell col="9" row="1" text="0.35">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Approach 1">
+  </cell>
+  <cell col="1" row="2" text="Far-field">
+  </cell>
+  <cell col="2" row="2" text="10">
+  </cell>
+  <cell col="3" row="2" text="0.50">
+  </cell>
+  <cell col="4" row="2" text="1.63">
+  </cell>
+  <cell col="5" row="2" text="0.69">
+  </cell>
+  <cell col="6" row="2" text="1.63">
+  </cell>
+  <cell col="7" row="2" text="−0.51">
+  </cell>
+  <cell col="8" row="2" text="1.76">
+  </cell>
+  <cell col="9" row="2" text="0.33">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Approach 2">
+  </cell>
+  <cell col="1" row="3" text="Near-field">
+  </cell>
+  <cell col="2" row="3" text="18">
+  </cell>
+  <cell col="3" row="3" text="0.72">
+  </cell>
+  <cell col="4" row="3" text="−0.92">
+  </cell>
+  <cell col="5" row="3" text="−0.39">
+  </cell>
+  <cell col="6" row="3" text="0.92">
+  </cell>
+  <cell col="7" row="3" text="0.49">
+  </cell>
+  <cell col="8" row="3" text="1.18">
+  </cell>
+  <cell col="9" row="3" text="0.41">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Approach 2">
+  </cell>
+  <cell col="1" row="4" text="Far-field">
+  </cell>
+  <cell col="2" row="4" text="10">
+  </cell>
+  <cell col="3" row="4" text="0.60">
+  </cell>
+  <cell col="4" row="4" text="−1.24">
+  </cell>
+  <cell col="5" row="4" text="−0.52">
+  </cell>
+  <cell col="6" row="4" text="1.24">
+  </cell>
+  <cell col="7" row="4" text="0.71">
+  </cell>
+  <cell col="8" row="4" text="1.43">
+  </cell>
+  <cell col="9" row="4" text="0.77">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Approach 3">
+  </cell>
+  <cell col="1" row="5" text="Near-field">
+  </cell>
+  <cell col="2" row="5" text="18">
+  </cell>
+  <cell col="3" row="5" text="0.72">
+  </cell>
+  <cell col="4" row="5" text="0.83">
+  </cell>
+  <cell col="5" row="5" text="0.35">
+  </cell>
+  <cell col="6" row="5" text="1.29">
+  </cell>
+  <cell col="7" row="5" text="−0.30">
+  </cell>
+  <cell col="8" row="5" text="1.49">
+  </cell>
+  <cell col="9" row="5" text="0.30">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Approach 3">
+  </cell>
+  <cell col="1" row="6" text="Far-field">
+  </cell>
+  <cell col="2" row="6" text="10">
+  </cell>
+  <cell col="3" row="6" text="0.90">
+  </cell>
+  <cell col="4" row="6" text="0.47">
+  </cell>
+  <cell col="5" row="6" text="0.20">
+  </cell>
+  <cell col="6" row="6" text="0.90">
+  </cell>
+  <cell col="7" row="6" text="−0.18">
+  </cell>
+  <cell col="8" row="6" text="1.08">
+  </cell>
+  <cell col="9" row="6" text="0.17">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="The RMSE value is &gt;1 for every approach." type="">
+  </statement>
+  <statement id="5" text="Only approach 2 has negative FB value." type="">
+  </statement>
+  <statement id="6" text="Approach 2 returned better results in the near-field, as expected." type="">
+  </statement>
+ </statements>
+</Table 8>
+<Table 7>
+ <caption text="
+
+   Statistical metrics of performance evaluation comparing observed and predicted Ψ
+   
+    90
+   
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Approach">
+  </cell>
+  <cell col="1" row="0" text="n">
+  </cell>
+  <cell col="2" row="0" text="FAC2">
+  </cell>
+  <cell col="3" row="0" text="MB">
+  </cell>
+  <cell col="4" row="0" text="NMB">
+  </cell>
+  <cell col="5" row="0" text="MAE">
+  </cell>
+  <cell col="6" row="0" text="FB">
+  </cell>
+  <cell col="7" row="0" text="RMSE">
+  </cell>
+  <cell col="8" row="0" text="NMSE">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Approach 1">
+  </cell>
+  <cell col="1" row="1" text="28">
+  </cell>
+  <cell col="2" row="1" text="0.61">
+  </cell>
+  <cell col="3" row="1" text="1.64">
+  </cell>
+  <cell col="4" row="1" text="0.70">
+  </cell>
+  <cell col="5" row="1" text="1.64">
+  </cell>
+  <cell col="6" row="1" text="−0.52">
+  </cell>
+  <cell col="7" row="1" text="1.79">
+  </cell>
+  <cell col="8" row="1" text="0.34">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Approach 2">
+  </cell>
+  <cell col="1" row="2" text="28">
+  </cell>
+  <cell col="2" row="2" text="0.68">
+  </cell>
+  <cell col="3" row="2" text="−1.04">
+  </cell>
+  <cell col="4" row="2" text="−0.44">
+  </cell>
+  <cell col="5" row="2" text="1.04">
+  </cell>
+  <cell col="6" row="2" text="0.56">
+  </cell>
+  <cell col="7" row="2" text="1.28">
+  </cell>
+  <cell col="8" row="2" text="0.52">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Approach 3">
+  </cell>
+  <cell col="1" row="3" text="28">
+  </cell>
+  <cell col="2" row="3" text="0.79">
+  </cell>
+  <cell col="3" row="3" text="0.70">
+  </cell>
+  <cell col="4" row="3" text="0.30">
+  </cell>
+  <cell col="5" row="3" text="1.15">
+  </cell>
+  <cell col="6" row="3" text="−0.25">
+  </cell>
+  <cell col="7" row="3" text="1.36">
+  </cell>
+  <cell col="8" row="3" text="0.26">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="They have 3 different approaches in the given table." type="">
+  </statement>
+  <statement id="2" text="The lowest NMB is 0.30." type="">
+  </statement>
+  <statement id="3" text="The highest RMSE is 1.79." type="">
+  </statement>
+  <statement id="4" text="They have 6 different approaches in the given table." type="">
+  </statement>
+  <statement id="5" text="The n has a variation in the values." type="">
+  </statement>
+  <statement id="6" text="The highest MB is -1.04." type="">
+  </statement>
+  <statement id="8" text="All metric results shown in Table 7 are dimensionless because  90 is by definition a non-dimensional quantity." type="">
+  </statement>
+ </statements>
+</Table 7>
+<Table 2>
+ <caption text="
+
+   Data summary of the 14 trials performed in the Uttenweiler field experiment.
+   
+    Receptor 1
+   
+   and
+   
+    Receptor 2
+   
+   represent the two points at which fast-response concentration measurements were undertaken. The Cartesian coordinates (X, Y) are relative to the origin of the coordinate system, that is, the stack.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Trial">
+  </cell>
+  <cell col="1" row="0" text="Date">
+  </cell>
+  <cell col="2" row="0" text="Release time">
+  </cell>
+  <cell col="4" row="0" text="SF
+     
+      6
+     
+     emission rate">
+  </cell>
+  <cell col="5" row="0" text="Ultrasonic anemometer">
+  </cell>
+  <cell col="7" row="0" text="Receptor 1">
+  </cell>
+  <cell col="9" row="0" text="Receptor 2">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="2" row="1" text="Start">
+  </cell>
+  <cell col="3" row="1" text="End">
+  </cell>
+  <cell col="4" row="1" text="[g h
+     
+      −1
+     
+     ]">
+  </cell>
+  <cell col="5" row="1" text="X [m]">
+  </cell>
+  <cell col="6" row="1" text="Y [m]">
+  </cell>
+  <cell col="7" row="1" text="X [m]">
+  </cell>
+  <cell col="8" row="1" text="Y [m]">
+  </cell>
+  <cell col="9" row="1" text="X [m]">
+  </cell>
+  <cell col="10" row="1" text="Y [m]">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="B">
+  </cell>
+  <cell col="1" row="2" text="12/Dec/00">
+  </cell>
+  <cell col="2" row="2" text="13:00">
+  </cell>
+  <cell col="3" row="2" text="13:10">
+  </cell>
+  <cell col="4" row="2" text="121.7">
+  </cell>
+  <cell col="5" row="2" text="109">
+  </cell>
+  <cell col="6" row="2" text="85">
+  </cell>
+  <cell col="7" row="2" text="108">
+  </cell>
+  <cell col="8" row="2" text="95">
+  </cell>
+  <cell col="9" row="2" text="185">
+  </cell>
+  <cell col="10" row="2" text="205">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="C">
+  </cell>
+  <cell col="1" row="3" text="12/Dec/00">
+  </cell>
+  <cell col="2" row="3" text="14:10">
+  </cell>
+  <cell col="3" row="3" text="14:20">
+  </cell>
+  <cell col="4" row="3" text="121.7">
+  </cell>
+  <cell col="5" row="3" text="109">
+  </cell>
+  <cell col="6" row="3" text="85">
+  </cell>
+  <cell col="7" row="3" text="108">
+  </cell>
+  <cell col="8" row="3" text="95">
+  </cell>
+  <cell col="9" row="3" text="185">
+  </cell>
+  <cell col="10" row="3" text="205">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="D">
+  </cell>
+  <cell col="1" row="4" text="12/Dec/00">
+  </cell>
+  <cell col="2" row="4" text="14:45">
+  </cell>
+  <cell col="3" row="4" text="14:55">
+  </cell>
+  <cell col="4" row="4" text="121.7">
+  </cell>
+  <cell col="5" row="4" text="109">
+  </cell>
+  <cell col="6" row="4" text="85">
+  </cell>
+  <cell col="7" row="4" text="84">
+  </cell>
+  <cell col="8" row="4" text="127">
+  </cell>
+  <cell col="9" row="4" text="172">
+  </cell>
+  <cell col="10" row="4" text="220">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="E">
+  </cell>
+  <cell col="1" row="5" text="13/Dec/00">
+  </cell>
+  <cell col="2" row="5" text="12:00">
+  </cell>
+  <cell col="3" row="5" text="12:10">
+  </cell>
+  <cell col="4" row="5" text="121.7">
+  </cell>
+  <cell col="5" row="5" text="131">
+  </cell>
+  <cell col="6" row="5" text="56">
+  </cell>
+  <cell col="7" row="5" text="134">
+  </cell>
+  <cell col="8" row="5" text="61">
+  </cell>
+  <cell col="9" row="5" text="235">
+  </cell>
+  <cell col="10" row="5" text="140">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="F">
+  </cell>
+  <cell col="1" row="6" text="13/Dec/00">
+  </cell>
+  <cell col="2" row="6" text="13:05">
+  </cell>
+  <cell col="3" row="6" text="13:15">
+  </cell>
+  <cell col="4" row="6" text="121.7">
+  </cell>
+  <cell col="5" row="6" text="131">
+  </cell>
+  <cell col="6" row="6" text="56">
+  </cell>
+  <cell col="7" row="6" text="122">
+  </cell>
+  <cell col="8" row="6" text="77">
+  </cell>
+  <cell col="9" row="6" text="235">
+  </cell>
+  <cell col="10" row="6" text="140">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="G">
+  </cell>
+  <cell col="1" row="7" text="13/Dec/00">
+  </cell>
+  <cell col="2" row="7" text="13:50">
+  </cell>
+  <cell col="3" row="7" text="14:00">
+  </cell>
+  <cell col="4" row="7" text="121.7">
+  </cell>
+  <cell col="5" row="7" text="131">
+  </cell>
+  <cell col="6" row="7" text="56">
+  </cell>
+  <cell col="7" row="7" text="122">
+  </cell>
+  <cell col="8" row="7" text="77">
+  </cell>
+  <cell col="9" row="7" text="235">
+  </cell>
+  <cell col="10" row="7" text="140">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="H">
+  </cell>
+  <cell col="1" row="8" text="13/Dec/00">
+  </cell>
+  <cell col="2" row="8" text="15:10">
+  </cell>
+  <cell col="3" row="8" text="15:20">
+  </cell>
+  <cell col="4" row="8" text="121.7">
+  </cell>
+  <cell col="5" row="8" text="131">
+  </cell>
+  <cell col="6" row="8" text="56">
+  </cell>
+  <cell col="7" row="8" text="146">
+  </cell>
+  <cell col="8" row="8" text="46">
+  </cell>
+  <cell col="9" row="8" text="248">
+  </cell>
+  <cell col="10" row="8" text="124">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="I">
+  </cell>
+  <cell col="1" row="9" text="31/Oct/01">
+  </cell>
+  <cell col="2" row="9" text="11:40">
+  </cell>
+  <cell col="3" row="9" text="11:50">
+  </cell>
+  <cell col="4" row="9" text="225.5">
+  </cell>
+  <cell col="5" row="9" text="117">
+  </cell>
+  <cell col="6" row="9" text="92">
+  </cell>
+  <cell col="7" row="9" text="81">
+  </cell>
+  <cell col="8" row="9" text="127">
+  </cell>
+  <cell col="9" row="9" text="114">
+  </cell>
+  <cell col="10" row="9" text="86">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="J">
+  </cell>
+  <cell col="1" row="10" text="31/Oct/01">
+  </cell>
+  <cell col="2" row="10" text="12:00">
+  </cell>
+  <cell col="3" row="10" text="12:10">
+  </cell>
+  <cell col="4" row="10" text="225.5">
+  </cell>
+  <cell col="5" row="10" text="117">
+  </cell>
+  <cell col="6" row="10" text="92">
+  </cell>
+  <cell col="7" row="10" text="81">
+  </cell>
+  <cell col="8" row="10" text="127">
+  </cell>
+  <cell col="9" row="10" text="110">
+  </cell>
+  <cell col="10" row="10" text="92">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="K">
+  </cell>
+  <cell col="1" row="11" text="31/Oct/01">
+  </cell>
+  <cell col="2" row="11" text="13:40">
+  </cell>
+  <cell col="3" row="11" text="13:50">
+  </cell>
+  <cell col="4" row="11" text="225.5">
+  </cell>
+  <cell col="5" row="11" text="117">
+  </cell>
+  <cell col="6" row="11" text="92">
+  </cell>
+  <cell col="7" row="11" text="81">
+  </cell>
+  <cell col="8" row="11" text="127">
+  </cell>
+  <cell col="9" row="11" text="114">
+  </cell>
+  <cell col="10" row="11" text="86">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="L">
+  </cell>
+  <cell col="1" row="12" text="31/Oct/01">
+  </cell>
+  <cell col="2" row="12" text="14:05">
+  </cell>
+  <cell col="3" row="12" text="14:15">
+  </cell>
+  <cell col="4" row="12" text="225.5">
+  </cell>
+  <cell col="5" row="12" text="117">
+  </cell>
+  <cell col="6" row="12" text="92">
+  </cell>
+  <cell col="7" row="12" text="81">
+  </cell>
+  <cell col="8" row="12" text="127">
+  </cell>
+  <cell col="9" row="12" text="114">
+  </cell>
+  <cell col="10" row="12" text="86">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="M">
+  </cell>
+  <cell col="1" row="13" text="31/Oct/01">
+  </cell>
+  <cell col="2" row="13" text="16:25">
+  </cell>
+  <cell col="3" row="13" text="16:35">
+  </cell>
+  <cell col="4" row="13" text="225.5">
+  </cell>
+  <cell col="5" row="13" text="117">
+  </cell>
+  <cell col="6" row="13" text="92">
+  </cell>
+  <cell col="7" row="13" text="116">
+  </cell>
+  <cell col="8" row="13" text="88">
+  </cell>
+  <cell col="9" row="13" text="221">
+  </cell>
+  <cell col="10" row="13" text="161">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="N">
+  </cell>
+  <cell col="1" row="14" text="31/Oct/01">
+  </cell>
+  <cell col="2" row="14" text="16:55">
+  </cell>
+  <cell col="3" row="14" text="17:05">
+  </cell>
+  <cell col="4" row="14" text="225.5">
+  </cell>
+  <cell col="5" row="14" text="117">
+  </cell>
+  <cell col="6" row="14" text="92">
+  </cell>
+  <cell col="7" row="14" text="116">
+  </cell>
+  <cell col="8" row="14" text="88">
+  </cell>
+  <cell col="9" row="14" text="221">
+  </cell>
+  <cell col="10" row="14" text="161">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="O">
+  </cell>
+  <cell col="1" row="15" text="31/Oct/01">
+  </cell>
+  <cell col="2" row="15" text="17:15">
+  </cell>
+  <cell col="3" row="15" text="17:25">
+  </cell>
+  <cell col="4" row="15" text="225.5">
+  </cell>
+  <cell col="5" row="15" text="117">
+  </cell>
+  <cell col="6" row="15" text="92">
+  </cell>
+  <cell col="7" row="15" text="116">
+  </cell>
+  <cell col="8" row="15" text="88">
+  </cell>
+  <cell col="9" row="15" text="221">
+  </cell>
+  <cell col="10" row="15" text="161">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The difference between release start time and release end time is 10 mins." type="">
+  </statement>
+  <statement id="1" text="X and Y are the two Cartesian coordinates for Ultrasonic anemometer, Receptor 1 and Receptor 2." type="">
+  </statement>
+  <statement id="2" text="The X value of Receptor 2 is more than the X value of Receptor 1." type="">
+  </statement>
+  <statement id="5" text="The SF 6 emission rate is 121.7 in the month of October." type="">
+  </statement>
+  <statement id="7" text="1 illustrates the Uttenweiler field experiment with a schematic diagram." type="">
+  </statement>
+ </statements>
+</Table 2>

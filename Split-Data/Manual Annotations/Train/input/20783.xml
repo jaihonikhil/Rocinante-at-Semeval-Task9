@@ -1,0 +1,94 @@
+<Table 1>
+ <caption text="
+
+   Detailed testing protocol for all test types with all parameters and justifications of why they were chosen. The development of protocols was motivated and guided by the goals of obtaining macro-scale specimen-specific and location dependent material properties, acquiring a variety of test information via different test types, limitations of the testing system, and keeping the parameters within non-destructive physiological limits. The testing parameters were also chosen via experiential learning (e.g., number of freeze thaw cycles, number of preconditioning cycles etc.) All data were sampled at 2.5 kHz.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Testing protocol">
+  </cell>
+  <cell col="1" row="0" text="Parameters">
+  </cell>
+  <cell col="2" row="0" text="Justification">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1
+       
+
+        . Establish contact for compression/obtain reference length for uniaxial tension">
+  </cell>
+  <cell col="1" row="1" text="10 g load at 0.005 mm/s.
+     
+     Filtered at 20 Hz using a low pass, third order Butterworth filter during the test.">
+  </cell>
+  <cell col="2" row="1" text="Load is low enough so as to not strain the tissue out of the toe region. Filter was used to remove noise due to machine vibrations.">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2
+       
+
+        . Ramp load - unload">
+  </cell>
+  <cell col="1" row="2" text="15% strain at 20%/s strain rate followed by immediate unload at the same rate (starting 300 μm offset from contact).">
+  </cell>
+  <cell col="2" row="2" text="To obtain tissue response before preconditioning.">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3
+       
+
+        . Preconditioning">
+  </cell>
+  <cell col="1" row="3" text="1000 cycles between 10 and 15% strain at 2 Hz (starting 300 μm offset from contact).">
+  </cell>
+  <cell col="2" row="3" text="Cheng et al. (
+     
+      Cheng et al., 2009
+     
+     ) suggests soft tissues should be preconditioned to the maximum strain used in the study, experiential learning from pilot tests (number of cycles gave repeatable results in pilot tests and 10–15% strain avoided sample dislodging during unconfined compression test)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4
+       
+
+        . Ramp load - unload">
+  </cell>
+  <cell col="1" row="4" text="15% strain at 20%/s strain rate followed by immediate unload at the same rate (starting 300 μm offset from contact).">
+  </cell>
+  <cell col="2" row="4" text="To obtain tissue response after preconditioning.">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="5
+       
+
+        . Establish contact for compression/obtain reference length for uniaxial tension">
+  </cell>
+  <cell col="1" row="5" text="10 g load at 0.005 mm/s.
+     
+     Filtered at 20 Hz using a low pass, third order Butterworth filter during the test.">
+  </cell>
+  <cell col="2" row="5" text="Load is low enough so as to not strain the tissue out of the toe region. Filter was used to remove noise due to machine vibrations.">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="6
+       
+
+        . Multi-step stress-relaxation">
+  </cell>
+  <cell col="1" row="6" text="Ramp to 5-10-15% target strains at 20%/s strain rate and a 30 min wait/hold (starting 300 μm offset from contact).">
+  </cell>
+  <cell col="2" row="6" text="Multi-step test allows examination of a non-linear relaxation model at different strain levels. The strain and strain rates (while trying to reach as high as possible) were decided upon after pilot repeatability tests, assessing limits of testing system to apply them with accuracy and to stay within the non-destructive load ranges.">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Establish contact for compression/obtain reference length for uniaxial tension has parameter of 10 g load at 0.005 mm/s. Filtered at 20 Hz using a low pass, third order Butterworth filter during the test." type="">
+  </statement>
+ </statements>
+</Table 1>

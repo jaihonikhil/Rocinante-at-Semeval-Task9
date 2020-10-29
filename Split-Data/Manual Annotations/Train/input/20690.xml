@@ -1,0 +1,408 @@
+<Table 3>
+ <caption text="
+
+   Post hoc analyses.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="">
+  </cell>
+  <cell col="2" row="0" text="Global FA">
+  </cell>
+  <cell col="5" row="0" text="">
+  </cell>
+  <cell col="6" row="0" text="Tract-specific rCAB FA">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="Std ß">
+  </cell>
+  <cell col="3" row="1" text="t">
+  </cell>
+  <cell col="4" row="1" text="P">
+  </cell>
+  <cell col="5" row="1" text="">
+  </cell>
+  <cell col="6" row="1" text="Std ß">
+  </cell>
+  <cell col="7" row="1" text="t">
+  </cell>
+  <cell col="8" row="1" text="P">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Medication use">
+  </cell>
+  <cell col="1" row="2" text="Binary (yes or no)">
+  </cell>
+  <cell col="2" row="2" text="-0.003">
+  </cell>
+  <cell col="3" row="2" text="-0.206">
+  </cell>
+  <cell col="4" row="2" text="0.837">
+  </cell>
+  <cell col="5" row="2" text="">
+  </cell>
+  <cell col="6" row="2" text="-0.033">
+  </cell>
+  <cell col="7" row="2" text="-0.845">
+  </cell>
+  <cell col="8" row="2" text="0.399">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="">
+  </cell>
+  <cell col="1" row="3" text="Continuous (days)">
+  </cell>
+  <cell col="2" row="3" text="-0.010">
+  </cell>
+  <cell col="3" row="3" text="-0.803">
+  </cell>
+  <cell col="4" row="3" text="0.422">
+  </cell>
+  <cell col="5" row="3" text="">
+  </cell>
+  <cell col="6" row="3" text="-0.078">
+  </cell>
+  <cell col="7" row="3" text="-2.039">
+  </cell>
+  <cell col="8" row="3" text="0.042">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="">
+  </cell>
+  <cell col="1" row="4" text="">
+  </cell>
+  <cell col="2" row="4" text="">
+  </cell>
+  <cell col="3" row="4" text="">
+  </cell>
+  <cell col="4" row="4" text="">
+  </cell>
+  <cell col="5" row="4" text="">
+  </cell>
+  <cell col="6" row="4" text="">
+  </cell>
+  <cell col="7" row="4" text="">
+  </cell>
+  <cell col="8" row="4" text="">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Comorbidities">
+  </cell>
+  <cell col="1" row="5" text="Conduct disorder">
+  </cell>
+  <cell col="2" row="5" text="-0.037">
+  </cell>
+  <cell col="3" row="5" text="-0.714">
+  </cell>
+  <cell col="4" row="5" text="0.480">
+  </cell>
+  <cell col="5" row="5" text="">
+  </cell>
+  <cell col="6" row="5" text="-0.004">
+  </cell>
+  <cell col="7" row="5" text="-0.116">
+  </cell>
+  <cell col="8" row="5" text="0.908">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="(yes or no)">
+  </cell>
+  <cell col="1" row="6" text="Major depression">
+  </cell>
+  <cell col="2" row="6" text="0.095">
+  </cell>
+  <cell col="3" row="6" text="1.975">
+  </cell>
+  <cell col="4" row="6" text="0.051">
+  </cell>
+  <cell col="5" row="6" text="">
+  </cell>
+  <cell col="6" row="6" text="-0.018">
+  </cell>
+  <cell col="7" row="6" text="-0.512">
+  </cell>
+  <cell col="8" row="6" text="0.609">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="">
+  </cell>
+  <cell col="1" row="7" text="Oppositional defiant disorder">
+  </cell>
+  <cell col="2" row="7" text="-0.016">
+  </cell>
+  <cell col="3" row="7" text="-1.352">
+  </cell>
+  <cell col="4" row="7" text="0.177">
+  </cell>
+  <cell col="5" row="7" text="">
+  </cell>
+  <cell col="6" row="7" text="-0.059">
+  </cell>
+  <cell col="7" row="7" text="-1.626">
+  </cell>
+  <cell col="8" row="7" text="0.105">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="">
+  </cell>
+  <cell col="1" row="8" text="">
+  </cell>
+  <cell col="2" row="8" text="">
+  </cell>
+  <cell col="3" row="8" text="">
+  </cell>
+  <cell col="4" row="8" text="">
+  </cell>
+  <cell col="5" row="8" text="">
+  </cell>
+  <cell col="6" row="8" text="">
+  </cell>
+  <cell col="7" row="8" text="">
+  </cell>
+  <cell col="8" row="8" text="">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Substance use">
+  </cell>
+  <cell col="1" row="9" text="Alcohol">
+  </cell>
+  <cell col="2" row="9" text="-0.003">
+  </cell>
+  <cell col="3" row="9" text="-0.211">
+  </cell>
+  <cell col="4" row="9" text="0.833">
+  </cell>
+  <cell col="5" row="9" text="">
+  </cell>
+  <cell col="6" row="9" text="-0.005">
+  </cell>
+  <cell col="7" row="9" text="-0.142">
+  </cell>
+  <cell col="8" row="9" text="0.887">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="(yes or no)">
+  </cell>
+  <cell col="1" row="10" text="Tobacco">
+  </cell>
+  <cell col="2" row="10" text="0.009">
+  </cell>
+  <cell col="3" row="10" text="0.660">
+  </cell>
+  <cell col="4" row="10" text="0.510">
+  </cell>
+  <cell col="5" row="10" text="">
+  </cell>
+  <cell col="6" row="10" text="0.010">
+  </cell>
+  <cell col="7" row="10" text="0.231">
+  </cell>
+  <cell col="8" row="10" text="0.818">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="">
+  </cell>
+  <cell col="1" row="11" text="Cannabis or hash">
+  </cell>
+  <cell col="2" row="11" text="0.002">
+  </cell>
+  <cell col="3" row="11" text="0.118">
+  </cell>
+  <cell col="4" row="11" text="0.906">
+  </cell>
+  <cell col="5" row="11" text="">
+  </cell>
+  <cell col="6" row="11" text="0.052">
+  </cell>
+  <cell col="7" row="11" text="1.252">
+  </cell>
+  <cell col="8" row="11" text="0.211">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="">
+  </cell>
+  <cell col="1" row="12" text="Other drugs">
+  </cell>
+  <cell col="2" row="12" text="-0.010">
+  </cell>
+  <cell col="3" row="12" text="-0.719">
+  </cell>
+  <cell col="4" row="12" text="0.473">
+  </cell>
+  <cell col="5" row="12" text="">
+  </cell>
+  <cell col="6" row="12" text="-0.012">
+  </cell>
+  <cell col="7" row="12" text="-0.313">
+  </cell>
+  <cell col="8" row="12" text="0.754">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="IQ estimate">
+  </cell>
+  <cell col="1" row="13" text="">
+  </cell>
+  <cell col="2" row="13" text="-0.010">
+  </cell>
+  <cell col="3" row="13" text="-0.837">
+  </cell>
+  <cell col="4" row="13" text="0.403">
+  </cell>
+  <cell col="5" row="13" text="">
+  </cell>
+  <cell col="6" row="13" text="0.012">
+  </cell>
+  <cell col="7" row="13" text="0.315">
+  </cell>
+  <cell col="8" row="13" text="0.753">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Medication use Binary (yes or no) Global FA Std  is -0.003." type="">
+  </statement>
+  <statement id="1" text="Tract-specific rCAB FA -0.004 is Comorbidities." type="">
+  </statement>
+  <statement id="2" text="Global FA t -0.033 is Medication use." type="">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   All global model analyses.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="t">
+  </cell>
+  <cell col="2" row="0" text="df">
+  </cell>
+  <cell col="3" row="0" text="Std ß">
+  </cell>
+  <cell col="4" row="0" text="P">
+  </cell>
+  <cell col="5" row="0" text="Tract interaction
+     
+      P">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="State">
+  </cell>
+  <cell col="1" row="1" text="-0.924">
+  </cell>
+  <cell col="2" row="1" text="489">
+  </cell>
+  <cell col="3" row="1" text="-0.011">
+  </cell>
+  <cell col="4" row="1" text="0.356">
+  </cell>
+  <cell col="5" row="1" text="0.000537">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Trait">
+  </cell>
+  <cell col="1" row="2" text="-0.513">
+  </cell>
+  <cell col="2" row="2" text="584">
+  </cell>
+  <cell col="3" row="2" text="-0.006">
+  </cell>
+  <cell col="4" row="2" text="0.608">
+  </cell>
+  <cell col="5" row="2" text="0.000003">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Impairment">
+  </cell>
+  <cell col="1" row="3" text="-1.337">
+  </cell>
+  <cell col="2" row="3" text="571">
+  </cell>
+  <cell col="3" row="3" text="-0.016">
+  </cell>
+  <cell col="4" row="3" text="0.182">
+  </cell>
+  <cell col="5" row="3" text="0.000020">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="CPRS HI + IA">
+  </cell>
+  <cell col="1" row="4" text="-2.280">
+  </cell>
+  <cell col="2" row="4" text="567">
+  </cell>
+  <cell col="3" row="4" text="-0.027">
+  </cell>
+  <cell col="4" row="4" text="0.023">
+  </cell>
+  <cell col="5" row="4" text="0.000140">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="CPRS HI">
+  </cell>
+  <cell col="1" row="5" text="-2.160">
+  </cell>
+  <cell col="2" row="5" text="556">
+  </cell>
+  <cell col="3" row="5" text="-0.026">
+  </cell>
+  <cell col="4" row="5" text="0.031">
+  </cell>
+  <cell col="5" row="5" text="0.000017">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="CPRS IA">
+  </cell>
+  <cell col="1" row="6" text="-2.174">
+  </cell>
+  <cell col="2" row="6" text="564">
+  </cell>
+  <cell col="3" row="6" text="-0.026">
+  </cell>
+  <cell col="4" row="6" text="0.030">
+  </cell>
+  <cell col="5" row="6" text="0.006162">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 6 categories as State, Trait, Impairment, CPRS HI + IA, CPRS HI and CPRS IA." type="">
+  </statement>
+  <statement id="1" text="All the t- values are in negative." type="">
+  </statement>
+  <statement id="2" text="The highest degree of freedom is 584 of Trait." type="">
+  </statement>
+  <statement id="3" text="Standardized beta coefficients value is same for CPRS HI and CPRS IA as -0.026." type="">
+  </statement>
+  <statement id="4" text="All the t- values are in Positive." type="">
+  </statement>
+ </statements>
+</Table 2>

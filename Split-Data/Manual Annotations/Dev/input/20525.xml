@@ -1,0 +1,221 @@
+<Table 1>
+ <caption text="
+
+   List of primers used in this study.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Target
+     
+     Gene">
+  </cell>
+  <cell col="1" row="0" text="Sequences (5′ – 3′)">
+  </cell>
+  <cell col="2" row="0" text="Product
+     
+     size
+     
+     (bp)">
+  </cell>
+  <cell col="3" row="0" text="Annealing
+     
+     temperature
+     
+     °C">
+  </cell>
+  <cell col="4" row="0" text="References">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="16S rRNA
+     
+
+     for
+     
+      Campylobacter
+     
+     spp.">
+  </cell>
+  <cell col="1" row="1" text="F - ATCTAATGGCTTAACCATTAAAC
+     
+     R - GGACGGTAACTAGTTTAGTATT">
+  </cell>
+  <cell col="2" row="1" text="857">
+  </cell>
+  <cell col="3" row="1" text="58">
+  </cell>
+  <cell col="4" row="1" text="Wieczorek and Osek (2005)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="mapA
+     
+
+     for
+     
+      C. jejuni">
+  </cell>
+  <cell col="1" row="2" text="F - CTATTTTATTTTTGAGTGCTTGTG
+     
+     R - GCTTTATTTGCCATTTGTTTTATTA">
+  </cell>
+  <cell col="2" row="2" text="589">
+  </cell>
+  <cell col="3" row="2" text="58">
+  </cell>
+  <cell col="4" row="2" text="Wieczorek and Osek (2005)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="ceuE
+     
+
+     for
+     
+      C. coli">
+  </cell>
+  <cell col="1" row="3" text="F - AATTGAAAATTGCTCCAACTATG
+     
+     R - TGATTTTATTATTTGTAGCAGCG">
+  </cell>
+  <cell col="2" row="3" text="462">
+  </cell>
+  <cell col="3" row="3" text="58">
+  </cell>
+  <cell col="4" row="3" text="Wieczorek and Osek (2005)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="flaA">
+  </cell>
+  <cell col="1" row="4" text="F - AATAAAAATGCTGATAAAACAGGTG
+     
+     R - TACCGAACCAATGTCTGCTCTGATT">
+  </cell>
+  <cell col="2" row="4" text="855">
+  </cell>
+  <cell col="3" row="4" text="53">
+  </cell>
+  <cell col="4" row="4" text="Datta et al. (2003)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="cadF">
+  </cell>
+  <cell col="1" row="5" text="F - TTGAAGGTAATTTAGATATG
+     
+     R - CTAATACCTAAAGTTGAAAC">
+  </cell>
+  <cell col="2" row="5" text="400">
+  </cell>
+  <cell col="3" row="5" text="45">
+  </cell>
+  <cell col="4" row="5" text="Konkel et al. (1999)">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="virB11">
+  </cell>
+  <cell col="1" row="6" text="F - TCTTGTGAGTTGCCTTACCCCTTTT
+     
+     R - CCTGCGTGTCCTGTGTTATTTACCC">
+  </cell>
+  <cell col="2" row="6" text="494">
+  </cell>
+  <cell col="3" row="6" text="53">
+  </cell>
+  <cell col="4" row="6" text="Datta et al. (2003)">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="iam">
+  </cell>
+  <cell col="1" row="7" text="F - GCGCAAAATATTATCACCC
+     
+     R - TTCACGACTACTATGCGG">
+  </cell>
+  <cell col="2" row="7" text="518">
+  </cell>
+  <cell col="3" row="7" text="52">
+  </cell>
+  <cell col="4" row="7" text="Carvalho et al. (2001)">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="racR">
+  </cell>
+  <cell col="1" row="8" text="F - GATGATCCTGACTTTG
+     
+     R - TCTCCTATTTTTACCC">
+  </cell>
+  <cell col="2" row="8" text="584">
+  </cell>
+  <cell col="3" row="8" text="45">
+  </cell>
+  <cell col="4" row="8" text="Datta et al. (2003)">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="pldA">
+  </cell>
+  <cell col="1" row="9" text="F - AAGCTTATGCGTTTTT
+     
+     R - TATAAGGCTTTCTCCA">
+  </cell>
+  <cell col="2" row="9" text="913">
+  </cell>
+  <cell col="3" row="9" text="45">
+  </cell>
+  <cell col="4" row="9" text="Datta et al. (2003)">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="cdtA">
+  </cell>
+  <cell col="1" row="10" text="F - CCTTGTGATGCAAGCAATC
+     
+     R - ACACTCCATTTGCTTTCTG">
+  </cell>
+  <cell col="2" row="10" text="370">
+  </cell>
+  <cell col="3" row="10" text="49">
+  </cell>
+  <cell col="4" row="10" text="Datta et al. (2003)">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="cdtB">
+  </cell>
+  <cell col="1" row="11" text="F - CAGAAAGCAAATGGAGTGTT
+     
+     R - AGCTAAAAGCGGTGGAGTAT">
+  </cell>
+  <cell col="2" row="11" text="620">
+  </cell>
+  <cell col="3" row="11" text="51">
+  </cell>
+  <cell col="4" row="11" text="Datta et al. (2003)">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="cdtC">
+  </cell>
+  <cell col="1" row="12" text="F - CGATGAGTTAAAACAAAAAGATA
+     
+     R - TTGGCATTATAGAAAATACAGTT">
+  </cell>
+  <cell col="2" row="12" text="182">
+  </cell>
+  <cell col="3" row="12" text="47">
+  </cell>
+  <cell col="4" row="12" text="Datta et al. (2003)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The table contain 12 Target Gene." type="">
+  </statement>
+  <statement id="1" text="They have Unique Sequences for all the Target Gene." type="">
+  </statement>
+ </statements>
+</Table 1>

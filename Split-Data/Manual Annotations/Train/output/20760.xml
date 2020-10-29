@@ -1,0 +1,324 @@
+<Table 1>
+ <caption text="
+
+   CT scanners and parameters used for acquision of healhy subjects and patient with low ventricular ejection fraction.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Subjects with normal LV function Study IDs #1 to #11">
+  </cell>
+  <cell col="2" row="0" text="Patients with low LV function Study IDs #12 to #15">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="CT Scanner">
+  </cell>
+  <cell col="1" row="1" text="Toshiba Aquilion ONE">
+  </cell>
+  <cell col="2" row="1" text="GE Revolution CT">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Gantry rotation">
+  </cell>
+  <cell col="1" row="2" text="275–350 ms">
+  </cell>
+  <cell col="2" row="2" text="280 ms">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Wide-area detector">
+  </cell>
+  <cell col="1" row="3" text="320 slices">
+  </cell>
+  <cell col="2" row="3" text="256 slices">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Acquisition mode">
+  </cell>
+  <cell col="1" row="4" text="“Half-scan”">
+  </cell>
+  <cell col="2" row="4" text="Cardiac, 16 cm slab in the Z direction">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="X-ray energy">
+  </cell>
+  <cell col="1" row="5" text="100–120 kVp">
+  </cell>
+  <cell col="2" row="5" text="80–100 kVp">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Timeframes in cardiac cycle">
+  </cell>
+  <cell col="1" row="6" text="20">
+  </cell>
+  <cell col="2" row="6" text="13–16">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Reconstruction method">
+  </cell>
+  <cell col="1" row="7" text="AIDR 3D STD, FC03 filter">
+  </cell>
+  <cell col="2" row="7" text="ASIRv = 0.5, STANDARD kernel">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Pixels (axial planes)">
+  </cell>
+  <cell col="1" row="8" text="512 × 512">
+  </cell>
+  <cell col="2" row="8" text="512 × 512">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Pixel size (axial planes)">
+  </cell>
+  <cell col="1" row="9" text="0.334 × 0.334 – 0.432 × 0.432 mm
+     
+      2">
+  </cell>
+  <cell col="2" row="9" text="0.415 × 0.515 – 0.528 × 0.528 mm
+     
+      2">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Slice spacing">
+  </cell>
+  <cell col="1" row="10" text="0.25–1.0 mm">
+  </cell>
+  <cell col="2" row="10" text="0.625 mm">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Gantry rotation varies from 275350 ms." type="entailed">
+  </statement>
+  <statement id="1" text="Table has been divided into two categories -Subjects with normal LV function Study IDs #1 to #11 and Patients with low LV function Study IDs #12 to #15." type="entailed">
+  </statement>
+  <statement id="2" text="CT Scanner under Patients with low LV function Study is GE Revolution CT." type="entailed">
+  </statement>
+  <statement id="3" text="Slice spacing is 0.625 mm for Patients with low LV function Study IDs #12 to #15." type="entailed">
+  </statement>
+  <statement id="4" text="Gantry rotation varies from 475850 ms." type="refuted">
+  </statement>
+  <statement id="5" text="CT Scanner under Patients with low LV function Study is Toshiba Aquilion ONE." type="refuted">
+  </statement>
+  <statement id="9" text="Study identifiers (IDs) are maintained in all the figures and tables of this work to facilitate the identification of the reported results." type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   Fifteen ECG-Gated 4D-CTA studies were processed. This table summarizes the pixel size, field of view (FOV), and cardiac cycle duration of these studies. IDs #1 to #11 are healhy subjects, while IDs #12 to #15 are patients with low ventricular ejection fraction.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Study ID">
+  </cell>
+  <cell col="1" row="0" text="Pixel size (mm)">
+  </cell>
+  <cell col="2" row="0" text="FOV (mm)">
+  </cell>
+  <cell col="3" row="0" text="Cardiac cycle (s)">
+  </cell>
+  <cell col="4" row="0" text="Frames">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="#1">
+  </cell>
+  <cell col="1" row="1" text="0.339 × 0.339 × 0.5">
+  </cell>
+  <cell col="2" row="1" text="174 × 174 × 120">
+  </cell>
+  <cell col="3" row="1" text="1.12">
+  </cell>
+  <cell col="4" row="1" text="20">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="#2">
+  </cell>
+  <cell col="1" row="2" text="0.395 × 0.395 × 1">
+  </cell>
+  <cell col="2" row="2" text="202 × 202 × 120">
+  </cell>
+  <cell col="3" row="2" text="1.40">
+  </cell>
+  <cell col="4" row="2" text="20">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="#3">
+  </cell>
+  <cell col="1" row="3" text="0.429 × 0.429 × 0.5">
+  </cell>
+  <cell col="2" row="3" text="220 × 220 × 120">
+  </cell>
+  <cell col="3" row="3" text="1.19">
+  </cell>
+  <cell col="4" row="3" text="20">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="#4">
+  </cell>
+  <cell col="1" row="4" text="0.339 × 0.339 × 1">
+  </cell>
+  <cell col="2" row="4" text="174 × 174 × 100">
+  </cell>
+  <cell col="3" row="4" text="1.15">
+  </cell>
+  <cell col="4" row="4" text="20">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="#5">
+  </cell>
+  <cell col="1" row="5" text="0.344 × 0.344 × 0.5">
+  </cell>
+  <cell col="2" row="5" text="176 × 176 × 120">
+  </cell>
+  <cell col="3" row="5" text="1.04">
+  </cell>
+  <cell col="4" row="5" text="20">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="#6">
+  </cell>
+  <cell col="1" row="6" text="0.334 × 0.334 × 1">
+  </cell>
+  <cell col="2" row="6" text="171 × 171 × 120">
+  </cell>
+  <cell col="3" row="6" text="0.91">
+  </cell>
+  <cell col="4" row="6" text="20">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="#7">
+  </cell>
+  <cell col="1" row="7" text="0.432 × 0.432 × 0.25">
+  </cell>
+  <cell col="2" row="7" text="221 × 221 × 120">
+  </cell>
+  <cell col="3" row="7" text="1.08">
+  </cell>
+  <cell col="4" row="7" text="20">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="#8">
+  </cell>
+  <cell col="1" row="8" text="0.376 × 0.376 × 1">
+  </cell>
+  <cell col="2" row="8" text="193 × 193 × 100">
+  </cell>
+  <cell col="3" row="8" text="1.17">
+  </cell>
+  <cell col="4" row="8" text="20">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="#9">
+  </cell>
+  <cell col="1" row="9" text="0.339 × 0.339 × 1">
+  </cell>
+  <cell col="2" row="9" text="174 × 174 × 120">
+  </cell>
+  <cell col="3" row="9" text="1.13">
+  </cell>
+  <cell col="4" row="9" text="20">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="#10">
+  </cell>
+  <cell col="1" row="10" text="0.407 × 0.407 × 0.25">
+  </cell>
+  <cell col="2" row="10" text="208 × 208 × 120">
+  </cell>
+  <cell col="3" row="10" text="1.14">
+  </cell>
+  <cell col="4" row="10" text="20">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="#11">
+  </cell>
+  <cell col="1" row="11" text="0.415 × 0.415 × 1">
+  </cell>
+  <cell col="2" row="11" text="212 × 212 × 100">
+  </cell>
+  <cell col="3" row="11" text="1.35">
+  </cell>
+  <cell col="4" row="11" text="20">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="#12">
+  </cell>
+  <cell col="1" row="12" text="0.528 × 0.528 × 0.625">
+  </cell>
+  <cell col="2" row="12" text="270 × 270 × 160">
+  </cell>
+  <cell col="3" row="12" text="0.98">
+  </cell>
+  <cell col="4" row="12" text="14">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="#13">
+  </cell>
+  <cell col="1" row="13" text="0.422 × 0.422 × 0.625">
+  </cell>
+  <cell col="2" row="13" text="216 × 216 × 160">
+  </cell>
+  <cell col="3" row="13" text="1.05">
+  </cell>
+  <cell col="4" row="13" text="15">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="#14">
+  </cell>
+  <cell col="1" row="14" text="0.510 × 0.510 × 0.625">
+  </cell>
+  <cell col="2" row="14" text="261 × 261 × 125">
+  </cell>
+  <cell col="3" row="14" text="1.12">
+  </cell>
+  <cell col="4" row="14" text="16">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="#15">
+  </cell>
+  <cell col="1" row="15" text="0.441 × 0.441 × 0.625">
+  </cell>
+  <cell col="2" row="15" text="226 × 226 × 160">
+  </cell>
+  <cell col="3" row="15" text="0.91">
+  </cell>
+  <cell col="4" row="15" text="13">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="The FOV (mm) is unique in the table." type="entailed">
+  </statement>
+  <statement id="2" text="The Cardiac cycle (s) is unique in the table." type="entailed">
+  </statement>
+  <statement id="5" text="There are 13 Study ID in the table." type="refuted">
+  </statement>
+ </statements>
+</Table 2>

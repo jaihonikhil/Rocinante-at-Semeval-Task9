@@ -1,0 +1,102 @@
+<Table 1>
+ <caption text="
+
+   Unit-cell parameters for Fe
+   
+    1.4
+   
+   Ti
+   
+    0.6
+   
+   O
+   
+    3
+   
+   samples from “El Ostional” beach.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Sample">
+  </cell>
+  <cell col="1" row="0" text="a (Å)">
+  </cell>
+  <cell col="2" row="0" text="c (Å)">
+  </cell>
+  <cell col="3" row="0" text="V (Å
+     
+      3
+     
+     )">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="S1">
+  </cell>
+  <cell col="1" row="1" text="5.061(2)">
+  </cell>
+  <cell col="2" row="1" text="13.886(6)">
+  </cell>
+  <cell col="3" row="1" text="308.12(3)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="S2">
+  </cell>
+  <cell col="1" row="2" text="5.061(6)">
+  </cell>
+  <cell col="2" row="2" text="13.882(1)">
+  </cell>
+  <cell col="3" row="2" text="307.91(9)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="S3">
+  </cell>
+  <cell col="1" row="3" text="5.062(1)">
+  </cell>
+  <cell col="2" row="3" text="13.888(2)">
+  </cell>
+  <cell col="3" row="3" text="308.30(12)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="S4">
+  </cell>
+  <cell col="1" row="4" text="5.061(1)">
+  </cell>
+  <cell col="2" row="4" text="13.886(4)">
+  </cell>
+  <cell col="3" row="4" text="308.05(19)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="S5">
+  </cell>
+  <cell col="1" row="5" text="5.061(1)">
+  </cell>
+  <cell col="2" row="5" text="13.884(4)">
+  </cell>
+  <cell col="3" row="5" text="308.06(21)">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="S6">
+  </cell>
+  <cell col="1" row="6" text="5.062(1)">
+  </cell>
+  <cell col="2" row="6" text="13.905(5)">
+  </cell>
+  <cell col="3" row="6" text="308.61(22)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 6 types of sample in the given table." type="entailed">
+  </statement>
+  <statement id="1" text="All the values given in the table consist of positive values." type="entailed">
+  </statement>
+  <statement id="2" text="There are 8 types of sample in the given table." type="refuted">
+  </statement>
+ </statements>
+</Table 1>

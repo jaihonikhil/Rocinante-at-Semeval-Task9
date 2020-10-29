@@ -1,0 +1,626 @@
+<Table 1>
+ <caption text="
+
+         Matrix types in
+         
+          Dune-ISTL
+         
+         , the first three matrix types cannot be used as a block matrices.
+        
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="
+           Class
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="0" text="
+           Implements
+          ">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="
+           FieldMatrix
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="1" text="
+           (small) matrix with size known at compile time
+          ">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="
+           DiagonalMatrix
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="2" text="
+           Storage optimal representation of a diagonal matrix with size known at compile time
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="
+           ScaledIdentityMatrix
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="3" text="
+           Storage optimal representation of a scaled identity matrix with size known at compile time
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="
+           BCRSMatrix
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="4" text="
+           (block) compressed row storage matrix
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="
+           BDMatrix
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="5" text="
+           (block) diagonal matrix
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="
+           BTDMatrix
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="6" text="
+           (block) tri-diagonal matrix
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="
+           Matrix
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="7" text="
+           Generic dynamic dense (block) matrix
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="
+           MultiTypeBlockMatrix
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="8" text="
+           Dense block matrix with differing block type known at compile time
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Storage optimal representation of a diagonal matrix with size known at compile time is in implements" type="entailed">
+  </statement>
+  <statement id="1" text="The value (block) compressed tr storage matrix belongs to implements" type="entailed">
+  </statement>
+  <statement id="2" text="The value Dense block matrix with differing block type known at compile time belongs to implements" type="entailed">
+  </statement>
+  <statement id="3" text="Storage optimal representation of a scaled identity matrix with size known at compile time is in implements" type="entailed">
+  </statement>
+  <statement id="4" text="(block) diagonal matrix is in implements" type="entailed">
+  </statement>
+  <statement id="5" text="The value (block) tri-diagonal matrix belongs to implements" type="entailed">
+  </statement>
+  <statement id="6" text="The value (small) matrix with size known at compile time belongs to implements" type="entailed">
+  </statement>
+  <statement id="7" text="Generic dynamic dense (block) matrix is in implements" type="entailed">
+  </statement>
+  <statement id="8" text="Implements has all unique values." type="entailed">
+  </statement>
+  <statement id="9" text="Implements always has the same value." type="refuted">
+  </statement>
+  <statement id="10" text="Implements always has the same value." type="refuted">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+         Vector types in
+         
+          Dune-ISTL
+         
+         , the first vector type cannot be used as a block vector.
+        
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="
+           Class
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="0" text="
+           Implements
+          ">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="
+           FieldVector
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="1" text="
+           (small) vector with size known at compile time
+          ">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="
+           BVector
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="2" text="
+           (block) vector, blocks have same size
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="
+           VariableBlockVector
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="3" text="
+           Block vector where each block may vary in size
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="
+           MultiTypeBlockVector
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="4" text="
+           Block vector with differing block type known at compile time
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The value (block) vector, blocks have same size belongs to implements" type="entailed">
+  </statement>
+  <statement id="1" text="The value (small) vector with size known at compile time belongs to implements" type="entailed">
+  </statement>
+  <statement id="2" text="The value Block vector where each block may vary in size belongs to implements" type="entailed">
+  </statement>
+  <statement id="3" text="Block vector with differing block type known at compile time is in implements" type="entailed">
+  </statement>
+  <statement id="4" text="There are no duplicate values in implements" type="entailed">
+  </statement>
+  <statement id="5" text="Implements always has the same value." type="refuted">
+  </statement>
+ </statements>
+</Table 2>

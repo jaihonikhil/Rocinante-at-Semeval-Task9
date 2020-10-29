@@ -1,0 +1,96 @@
+<Table 5>
+ <caption text="
+
+   Analysis of the association of the rs9533156 polymorphism with BMD and low-energy fractures.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="BMD result">
+  </cell>
+  <cell col="1" row="0" text="Bone fractures">
+  </cell>
+  <cell col="2" row="0" text="Genotype">
+  </cell>
+  <cell col="5" row="0" text="p-
+     
+     value">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="2" row="1" text="TT">
+  </cell>
+  <cell col="3" row="1" text="TC">
+  </cell>
+  <cell col="4" row="1" text="CC">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Osteoporosis
+     
+     n = 70">
+  </cell>
+  <cell col="1" row="2" text="Patients x/y">
+  </cell>
+  <cell col="2" row="2" text="16/21 (76.2%)">
+  </cell>
+  <cell col="3" row="2" text="31/35 (88.6%)">
+  </cell>
+  <cell col="4" row="2" text="11/14 (78.6%)">
+  </cell>
+  <cell col="5" row="2" text="p
+     
+     = 0.2193">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Osteopenia
+     
+     n = 24">
+  </cell>
+  <cell col="1" row="3" text="Patients x/y">
+  </cell>
+  <cell col="2" row="3" text="3/4 (75.0%)">
+  </cell>
+  <cell col="3" row="3" text="8/13 (61.5%)">
+  </cell>
+  <cell col="4" row="3" text="7/7 (100.0%)">
+  </cell>
+  <cell col="5" row="3" text="p
+     
+     = 0.7687">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Normal BMD
+     
+     n = 20">
+  </cell>
+  <cell col="1" row="4" text="Patients x/y">
+  </cell>
+  <cell col="2" row="4" text="1/2 (50.0%)">
+  </cell>
+  <cell col="3" row="4" text="9/10 (90.0%)">
+  </cell>
+  <cell col="4" row="4" text="6/8 (75.0%)">
+  </cell>
+  <cell col="5" row="4" text="p
+     
+     = 0.8487">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Genotype TT,TC,CC has different value for all polymorphism." type="">
+  </statement>
+  <statement id="2" text="Bone fractures will be calculated by using Patients x(number of patients with fractures)/y(number of patients within genotype)." type="">
+  </statement>
+  <statement id="4" text="p- value has same value for all polymorphism." type="">
+  </statement>
+  <statement id="5" text="The Genotype has 5 categories." type="">
+  </statement>
+  <statement id="7" text="n value varies from n=80 to n=120 for all BMD result." type="">
+  </statement>
+  <statement id="8" text="We also performed an analysis of the effect of genetic variants in the TNFSF11 gene on the bone status, taking into account both, BMD results (normal BMD, osteoporosis, and osteopenia) and low-energy fracture rates." type="">
+  </statement>
+ </statements>
+</Table 5>

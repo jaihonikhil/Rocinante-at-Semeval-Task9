@@ -1,0 +1,102 @@
+<Table 1>
+ <caption text="
+
+   Elemental composition of the bulk tailings and tailings concentrate (%).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Tailings">
+  </cell>
+  <cell col="1" row="0" text="C
+     
+      org">
+  </cell>
+  <cell col="2" row="0" text="Fe">
+  </cell>
+  <cell col="3" row="0" text="TS">
+  </cell>
+  <cell col="4" row="0" text="S
+     
+      2−">
+  </cell>
+  <cell col="5" row="0" text="S
+     
+      0">
+  </cell>
+  <cell col="6" row="0" text="Co">
+  </cell>
+  <cell col="7" row="0" text="Cu">
+  </cell>
+  <cell col="8" row="0" text="Zn">
+  </cell>
+  <cell col="9" row="0" text="Pb">
+  </cell>
+  <cell col="10" row="0" text="As">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Bulk">
+  </cell>
+  <cell col="1" row="1" text="0.16">
+  </cell>
+  <cell col="2" row="1" text="10.2">
+  </cell>
+  <cell col="3" row="1" text="9.28">
+  </cell>
+  <cell col="4" row="1" text="7.52">
+  </cell>
+  <cell col="5" row="1" text="0.08">
+  </cell>
+  <cell col="6" row="1" text="0.02">
+  </cell>
+  <cell col="7" row="1" text="0.12">
+  </cell>
+  <cell col="8" row="1" text="1.49">
+  </cell>
+  <cell col="9" row="1" text="1.35">
+  </cell>
+  <cell col="10" row="1" text="0.08">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Concentr.">
+  </cell>
+  <cell col="1" row="2" text="1.44">
+  </cell>
+  <cell col="2" row="2" text="27.9">
+  </cell>
+  <cell col="3" row="2" text="34.25">
+  </cell>
+  <cell col="4" row="2" text="30.7">
+  </cell>
+  <cell col="5" row="2" text="0.10">
+  </cell>
+  <cell col="6" row="2" text="0.06">
+  </cell>
+  <cell col="7" row="2" text="0.57">
+  </cell>
+  <cell col="8" row="2" text="4.85">
+  </cell>
+  <cell col="9" row="2" text="4.09">
+  </cell>
+  <cell col="10" row="2" text="0.25">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are two different Elemental composition." type="entailed">
+  </statement>
+  <statement id="1" text="Bulk tailings of C org have the value of 0.16." type="entailed">
+  </statement>
+  <statement id="2" text="tailings concentr of C org have the value of 1.44." type="entailed">
+  </statement>
+  <statement id="4" text="Bulk tailings of Cu have the value of 17.7." type="refuted">
+  </statement>
+  <statement id="5" text="Bulk tailings of Pb have the value of 0.24." type="refuted">
+  </statement>
+  <statement id="6" text="Microbial communities grown on tailings concentrate produced a heat output of 109 W/g ( Fig. 4 b), which was 2.7 times higher than for bulk tailings, but lower than values obtained for copper concentrate bioleaching at higher temperature" type="entailed">
+  </statement>
+  <statement id="8" text="The higher sulfide content related to pyrite in the tailings concentrate than in the bulk tailings ( Table 1 )" type="entailed">
+  </statement>
+ </statements>
+</Table 1>

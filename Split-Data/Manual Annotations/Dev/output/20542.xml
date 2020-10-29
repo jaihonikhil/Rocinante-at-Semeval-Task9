@@ -1,0 +1,152 @@
+<Table 2>
+ <caption text="
+
+   Chemical compositions of Tuff and ceramic powder and cement.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Property">
+  </cell>
+  <cell col="1" row="0" text="Ceramic
+     
+     powder">
+  </cell>
+  <cell col="2" row="0" text="Tuff">
+  </cell>
+  <cell col="3" row="0" text="Cement">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="SiO
+     
+      2
+     
+     (%)">
+  </cell>
+  <cell col="1" row="1" text="66.32">
+  </cell>
+  <cell col="2" row="1" text="9.56">
+  </cell>
+  <cell col="3" row="1" text="22,76">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Al
+     
+      2
+     
+     O
+     
+      3
+     
+     (%)">
+  </cell>
+  <cell col="1" row="2" text="14.01">
+  </cell>
+  <cell col="2" row="2" text="2.65">
+  </cell>
+  <cell col="3" row="2" text="5.96">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Fe
+     
+      2
+     
+     O
+     
+      3
+     
+     (%)">
+  </cell>
+  <cell col="1" row="3" text="3.63">
+  </cell>
+  <cell col="2" row="3" text="0.58">
+  </cell>
+  <cell col="3" row="3" text="3,57">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="CaO (%)">
+  </cell>
+  <cell col="1" row="4" text="6.73">
+  </cell>
+  <cell col="2" row="4" text="70.25">
+  </cell>
+  <cell col="3" row="4" text="63,43">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="MgO (%)">
+  </cell>
+  <cell col="1" row="5" text="1.36">
+  </cell>
+  <cell col="2" row="5" text="2.61">
+  </cell>
+  <cell col="3" row="5" text="0.21">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="NaOH (%)">
+  </cell>
+  <cell col="1" row="6" text="1.90">
+  </cell>
+  <cell col="2" row="6" text="4.90">
+  </cell>
+  <cell col="3" row="6" text="0.15">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Cl (%)">
+  </cell>
+  <cell col="1" row="7" text="1.05">
+  </cell>
+  <cell col="2" row="7" text="0.25">
+  </cell>
+  <cell col="3" row="7" text="0.25">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="SiO
+     
+      3
+     
+     (%)">
+  </cell>
+  <cell col="1" row="8" text="0.02">
+  </cell>
+  <cell col="2" row="8" text="1.2">
+  </cell>
+  <cell col="3" row="8" text="1.95">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="P.F
+     
+      2
+     
+     (%)">
+  </cell>
+  <cell col="1" row="9" text="4.98">
+  </cell>
+  <cell col="2" row="9" text="7.73">
+  </cell>
+  <cell col="3" row="9" text="1.72">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The Chemical compositions table has been divided into four heads -Property, Ceramic powder, Tuff and Cement." type="entailed">
+  </statement>
+  <statement id="1" text="The CaO (%) has the greatest value of 70.25 under tuff." type="entailed">
+  </statement>
+  <statement id="2" text="The CaO (%) has the greatest value of 170.25 under tuff." type="refuted">
+  </statement>
+  <statement id="4" text="Compare to all the highest value of Ceramic powder is for SiO 2 (%) 76.32." type="refuted">
+  </statement>
+  <statement id="5" text="Compare to all the least value of Ceramic powder is for SiO 3 (%)88.02." type="refuted">
+  </statement>
+  <statement id="8" text="10 and 11 , it can be noted that the addition of cement improves the physical properties and mechanical performance of the optimal TSC opt mixture." type="entailed">
+  </statement>
+ </statements>
+</Table 2>

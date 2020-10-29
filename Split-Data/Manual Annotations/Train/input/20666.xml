@@ -1,0 +1,92 @@
+<Table 1>
+ <caption text="
+
+   Climatological monthly-mean zonal-mean eddy component (deviations from zonal mean) of O
+   
+    3
+   
+   (ppmv), Short Wave Heating Rates (K day
+   
+    −1
+   
+   ) and Temperature (K) for the control run, MEE experiment and the relative difference (MEE-Ctrl, in %). All the fields are averaged between 50° and 70° latitude at 42 km in July in SH and 40 km in December in NH.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="July (SH)">
+  </cell>
+  <cell col="4" row="0" text="December (NH)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="Ctrl">
+  </cell>
+  <cell col="2" row="1" text="MEE">
+  </cell>
+  <cell col="3" row="1" text="Mee-Ctrl (%)">
+  </cell>
+  <cell col="4" row="1" text="Ctrl">
+  </cell>
+  <cell col="5" row="1" text="MEE">
+  </cell>
+  <cell col="6" row="1" text="MEE-Ctrl (%)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Ozone (ppbv)">
+  </cell>
+  <cell col="1" row="2" text="0.30">
+  </cell>
+  <cell col="2" row="2" text="0.32">
+  </cell>
+  <cell col="3" row="2" text="+7">
+  </cell>
+  <cell col="4" row="2" text="0.19">
+  </cell>
+  <cell col="5" row="2" text="0.16">
+  </cell>
+  <cell col="6" row="2" text="−16">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Short Wave Heating Rates (K/day)">
+  </cell>
+  <cell col="1" row="3" text="0.039">
+  </cell>
+  <cell col="2" row="3" text="0.040">
+  </cell>
+  <cell col="3" row="3" text="+3">
+  </cell>
+  <cell col="4" row="3" text="0.042">
+  </cell>
+  <cell col="5" row="3" text="0.039">
+  </cell>
+  <cell col="6" row="3" text="−7">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Temperature (K)">
+  </cell>
+  <cell col="1" row="4" text="9.0">
+  </cell>
+  <cell col="2" row="4" text="9.5">
+  </cell>
+  <cell col="3" row="4" text="+6">
+  </cell>
+  <cell col="4" row="4" text="8.2">
+  </cell>
+  <cell col="5" row="4" text="7.7">
+  </cell>
+  <cell col="6" row="4" text="−6">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Mee-Ctrl in December has negative values for all the components." type="">
+  </statement>
+  <statement id="2" text="Mee-Ctrl in July has negative values for all the components." type="">
+  </statement>
+ </statements>
+</Table 1>

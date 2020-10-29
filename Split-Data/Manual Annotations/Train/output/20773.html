@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="tbl1" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 1
+       </label>
+<caption id="d1e279">
+<simple-para id="d1e280" view="all">
+         OPM Flow performance indicators for simulations of the Norne model. The columns display number of MPI-processes (procs), threads per process during assembly (thr(A)), compute nodes involved, assembly execution time (AT), linear solver execution time (LST), total execution time (TT), total number of linear iterations (iter), speedup and parallel efficiency (eff) with respect to serial simulation. The computations were performed on four dual AMD EPYC 7601 2.2 GHz 32-core processors using 1, 2, …, 64 MPI-processes. The AMD nodes have 8 memory lanes per socket and a 170.6 GB/s memory bandwidth, and the interconnect between the nodes is HDR InfiniBand (200 Gbits/s).
+        </simple-para>
+</caption>
+<tgroup cols="9">
+<colspec align="left" colname="col1" colnum="1"/>
+<colspec align="left" colname="col2" colnum="2"/>
+<colspec align="left" colname="col3" colnum="3"/>
+<colspec align="left" colname="col4" colnum="4"/>
+<colspec align="left" colname="col5" colnum="5"/>
+<colspec align="left" colname="col6" colnum="6"/>
+<colspec align="left" colname="col7" colnum="7"/>
+<colspec align="left" colname="col8" colnum="8"/>
+<colspec align="left" colname="col9" colnum="9"/>
+<thead>
+<tr valign="top">
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Procs
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           thr(A)
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Nodes
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           AT (s)
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           LST (s)
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           TT (s)
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Iter
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Speedup
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           eff
+          </td>
+</tr>
+</thead>
+<tbody>
+<tr valign="top">
+<td align="left" role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           1
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           1
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           1
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           351.49
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           300.59
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           691.26
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           25744
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           –
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           –
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           2
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           1
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           1
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           180.73
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           191.14
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           401.89
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           25331
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           1.72
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.86
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           4
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           1
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           1
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           95.71
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           112.49
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           229.94
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           25148
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           3.00
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.75
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           8
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           1
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           1
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           63.51
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           86.43
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           168.35
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           25388
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           4.11
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.51
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           16
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           4
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           1
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           21.73
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           50.93
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           88.72
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           25736
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           7.79
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.49
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           32
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           4
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           2
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           15.82
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           54.16
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           85.67
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           26123
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           8.07
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.25
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           48
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           4
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           3
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           10.98
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           45.65
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           71.84
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           25920
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           9.62
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.20
+          </td>
+</tr>
+<tr valign="top">
+<td align="left" role="trhead" xmlns="http://www.elsevier.com/xml/common/dtd">
+           64
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           4
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           4
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           8.90
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           49.92
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           74.16
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           26461
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           9.32
+          </td>
+<td align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+           0.15
+          </td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html>

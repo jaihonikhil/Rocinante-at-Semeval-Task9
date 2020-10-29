@@ -1,0 +1,611 @@
+<Table 4>
+ <caption text="
+
+   Experimental and predicted results of specimens.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Specimen designation">
+  </cell>
+  <cell col="1" row="0" text="Longitudinal bar type">
+  </cell>
+  <cell col="2" row="0" text="V
+     
+      f
+     
+     (%)">
+  </cell>
+  <cell col="3" row="0" text="Shear reinforcement type">
+  </cell>
+  <cell col="4" row="0" text="Experimental shear load
+     
+     (Vc,e)
+     
+      *
+     
+
+     kN">
+  </cell>
+  <cell col="5" row="0" text="Predicted shear load (Vc,p)
+     
+     kN">
+  </cell>
+  <cell col="6" row="0" text="Vc,e/Vc,p">
+  </cell>
+  <cell col="7" row="0" text="Failure mode">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="SR-0">
+  </cell>
+  <cell col="1" row="1" text="Steel">
+  </cell>
+  <cell col="2" row="1" text="0">
+  </cell>
+  <cell col="3" row="1" text="Stirrups">
+  </cell>
+  <cell col="4" row="1" text="71">
+  </cell>
+  <cell col="5" row="1" text="63
+     
+      **">
+  </cell>
+  <cell col="6" row="1" text="1.12">
+  </cell>
+  <cell col="7" row="1" text="Flexure">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="SG-0">
+  </cell>
+  <cell col="1" row="2" text="GFRP">
+  </cell>
+  <cell col="2" row="2" text="0">
+  </cell>
+  <cell col="3" row="2" text="Stirrups">
+  </cell>
+  <cell col="4" row="2" text="76.5">
+  </cell>
+  <cell col="5" row="2" text="86
+     
+      **">
+  </cell>
+  <cell col="6" row="2" text="0.89">
+  </cell>
+  <cell col="7" row="2" text="Flexure">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="NG-0">
+  </cell>
+  <cell col="1" row="3" text="GFRP">
+  </cell>
+  <cell col="2" row="3" text="0">
+  </cell>
+  <cell col="3" row="3" text="None">
+  </cell>
+  <cell col="4" row="3" text="31.5">
+  </cell>
+  <cell col="5" row="3" text="30.5">
+  </cell>
+  <cell col="6" row="3" text="1.03">
+  </cell>
+  <cell col="7" row="3" text="Shear">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="NG-0.5">
+  </cell>
+  <cell col="1" row="4" text="GFRP">
+  </cell>
+  <cell col="2" row="4" text="0.5">
+  </cell>
+  <cell col="3" row="4" text="None">
+  </cell>
+  <cell col="4" row="4" text="37.5">
+  </cell>
+  <cell col="5" row="4" text="36">
+  </cell>
+  <cell col="6" row="4" text="1.04">
+  </cell>
+  <cell col="7" row="4" text="Shear">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="NG-1">
+  </cell>
+  <cell col="1" row="5" text="GFRP">
+  </cell>
+  <cell col="2" row="5" text="1">
+  </cell>
+  <cell col="3" row="5" text="None">
+  </cell>
+  <cell col="4" row="5" text="39.5">
+  </cell>
+  <cell col="5" row="5" text="38">
+  </cell>
+  <cell col="6" row="5" text="1.04">
+  </cell>
+  <cell col="7" row="5" text="Shear">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="UG-0">
+  </cell>
+  <cell col="1" row="6" text="GFRP">
+  </cell>
+  <cell col="2" row="6" text="0">
+  </cell>
+  <cell col="3" row="6" text="U-strips">
+  </cell>
+  <cell col="4" row="6" text="51.5">
+  </cell>
+  <cell col="5" row="6" text="47.5">
+  </cell>
+  <cell col="6" row="6" text="1.08">
+  </cell>
+  <cell col="7" row="6" text="Flexure-shear">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="UG-0.5">
+  </cell>
+  <cell col="1" row="7" text="GFRP">
+  </cell>
+  <cell col="2" row="7" text="0.5">
+  </cell>
+  <cell col="3" row="7" text="U-strips">
+  </cell>
+  <cell col="4" row="7" text="55.5">
+  </cell>
+  <cell col="5" row="7" text="53">
+  </cell>
+  <cell col="6" row="7" text="1.05">
+  </cell>
+  <cell col="7" row="7" text="Flexure-shear">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="UG-1">
+  </cell>
+  <cell col="1" row="8" text="GFRP">
+  </cell>
+  <cell col="2" row="8" text="1">
+  </cell>
+  <cell col="3" row="8" text="U-strips">
+  </cell>
+  <cell col="4" row="8" text="61.5">
+  </cell>
+  <cell col="5" row="8" text="55">
+  </cell>
+  <cell col="6" row="8" text="1.11">
+  </cell>
+  <cell col="7" row="8" text="Flexure-shear">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="FG-0">
+  </cell>
+  <cell col="1" row="9" text="GFRP">
+  </cell>
+  <cell col="2" row="9" text="0">
+  </cell>
+  <cell col="3" row="9" text="Full sheets">
+  </cell>
+  <cell col="4" row="9" text="54">
+  </cell>
+  <cell col="5" row="9" text="66">
+  </cell>
+  <cell col="6" row="9" text="0.82">
+  </cell>
+  <cell col="7" row="9" text="Flexure">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="FG-0.5">
+  </cell>
+  <cell col="1" row="10" text="GFRP">
+  </cell>
+  <cell col="2" row="10" text="0.5">
+  </cell>
+  <cell col="3" row="10" text="Full sheets">
+  </cell>
+  <cell col="4" row="10" text="67.5">
+  </cell>
+  <cell col="5" row="10" text="73">
+  </cell>
+  <cell col="6" row="10" text="0.93">
+  </cell>
+  <cell col="7" row="10" text="Flexure">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="FG-1">
+  </cell>
+  <cell col="1" row="11" text="GFRP">
+  </cell>
+  <cell col="2" row="11" text="1">
+  </cell>
+  <cell col="3" row="11" text="Full sheets">
+  </cell>
+  <cell col="4" row="11" text="85">
+  </cell>
+  <cell col="5" row="11" text="76">
+  </cell>
+  <cell col="6" row="11" text="1.12">
+  </cell>
+  <cell col="7" row="11" text="Flexure">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 11 Specific designation." type="entailed">
+  </statement>
+  <statement id="1" text="Experimental shear load ranges from 31.5 to 76.5." type="entailed">
+  </statement>
+  <statement id="3" text="There are 15 Specific designation." type="refuted">
+  </statement>
+ </statements>
+</Table 4>
+<Table 3>
+ <caption text="
+
+   Experimental results of specimens.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Specimen designation">
+  </cell>
+  <cell col="1" row="0" text="Longitudinal bar type">
+  </cell>
+  <cell col="2" row="0" text="V
+     
+      f
+     
+     %">
+  </cell>
+  <cell col="3" row="0" text="Retrofitting arrangement">
+  </cell>
+  <cell col="4" row="0" text="Total failure load, kN">
+  </cell>
+  <cell col="5" row="0" text="Applied shear
+     
+     kN">
+  </cell>
+  <cell col="6" row="0" text="Failure mode">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="SR-0">
+  </cell>
+  <cell col="1" row="1" text="Steel">
+  </cell>
+  <cell col="2" row="1" text="0">
+  </cell>
+  <cell col="3" row="1" text="Stirrups">
+  </cell>
+  <cell col="4" row="1" text="142">
+  </cell>
+  <cell col="5" row="1" text="71">
+  </cell>
+  <cell col="6" row="1" text="Flexure">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="SG-0">
+  </cell>
+  <cell col="1" row="2" text="GFRP">
+  </cell>
+  <cell col="2" row="2" text="0">
+  </cell>
+  <cell col="3" row="2" text="Stirrups">
+  </cell>
+  <cell col="4" row="2" text="153">
+  </cell>
+  <cell col="5" row="2" text="76.5">
+  </cell>
+  <cell col="6" row="2" text="Flexure">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="NG-0">
+  </cell>
+  <cell col="1" row="3" text="GFRP">
+  </cell>
+  <cell col="2" row="3" text="0">
+  </cell>
+  <cell col="3" row="3" text="None">
+  </cell>
+  <cell col="4" row="3" text="63">
+  </cell>
+  <cell col="5" row="3" text="31.5">
+  </cell>
+  <cell col="6" row="3" text="Shear">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="NG-0.5">
+  </cell>
+  <cell col="1" row="4" text="GFRP">
+  </cell>
+  <cell col="2" row="4" text="0.5">
+  </cell>
+  <cell col="3" row="4" text="None">
+  </cell>
+  <cell col="4" row="4" text="75">
+  </cell>
+  <cell col="5" row="4" text="37.5">
+  </cell>
+  <cell col="6" row="4" text="Shear">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="NG-1">
+  </cell>
+  <cell col="1" row="5" text="GFRP">
+  </cell>
+  <cell col="2" row="5" text="1">
+  </cell>
+  <cell col="3" row="5" text="None">
+  </cell>
+  <cell col="4" row="5" text="79">
+  </cell>
+  <cell col="5" row="5" text="39.5">
+  </cell>
+  <cell col="6" row="5" text="Shear">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="UG-0">
+  </cell>
+  <cell col="1" row="6" text="GFRP">
+  </cell>
+  <cell col="2" row="6" text="0">
+  </cell>
+  <cell col="3" row="6" text="U-strips">
+  </cell>
+  <cell col="4" row="6" text="103">
+  </cell>
+  <cell col="5" row="6" text="51.5">
+  </cell>
+  <cell col="6" row="6" text="Flexure-shear">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="UG-0.5">
+  </cell>
+  <cell col="1" row="7" text="GFRP">
+  </cell>
+  <cell col="2" row="7" text="0.5">
+  </cell>
+  <cell col="3" row="7" text="U-strips">
+  </cell>
+  <cell col="4" row="7" text="111">
+  </cell>
+  <cell col="5" row="7" text="55.5">
+  </cell>
+  <cell col="6" row="7" text="Flexure-shear">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="UG-1">
+  </cell>
+  <cell col="1" row="8" text="GFRP">
+  </cell>
+  <cell col="2" row="8" text="1">
+  </cell>
+  <cell col="3" row="8" text="U-strips">
+  </cell>
+  <cell col="4" row="8" text="123">
+  </cell>
+  <cell col="5" row="8" text="61.5">
+  </cell>
+  <cell col="6" row="8" text="Flexure-shear">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="FG-0">
+  </cell>
+  <cell col="1" row="9" text="GFRP">
+  </cell>
+  <cell col="2" row="9" text="0">
+  </cell>
+  <cell col="3" row="9" text="Full sheets">
+  </cell>
+  <cell col="4" row="9" text="108">
+  </cell>
+  <cell col="5" row="9" text="54">
+  </cell>
+  <cell col="6" row="9" text="Flexure">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="FG-0.5">
+  </cell>
+  <cell col="1" row="10" text="GFRP">
+  </cell>
+  <cell col="2" row="10" text="0.5">
+  </cell>
+  <cell col="3" row="10" text="Full sheets">
+  </cell>
+  <cell col="4" row="10" text="135">
+  </cell>
+  <cell col="5" row="10" text="67.5">
+  </cell>
+  <cell col="6" row="10" text="Flexure">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="FG-1">
+  </cell>
+  <cell col="1" row="11" text="GFRP">
+  </cell>
+  <cell col="2" row="11" text="1">
+  </cell>
+  <cell col="3" row="11" text="Full sheets">
+  </cell>
+  <cell col="4" row="11" text="170">
+  </cell>
+  <cell col="5" row="11" text="85">
+  </cell>
+  <cell col="6" row="11" text="Flexure">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are eleven specimen designation is given in the table." type="entailed">
+  </statement>
+  <statement id="1" text="Specimen SR-0 and SG-0 has same Retrofitting arrangement." type="entailed">
+  </statement>
+  <statement id="2" text="Flexure and Shear are two failure mode given in the table." type="entailed">
+  </statement>
+  <statement id="3" text="There are five specimen designation is given in the table." type="refuted">
+  </statement>
+  <statement id="5" text="Specimen UG-0.5 does not have any failure mode." type="refuted">
+  </statement>
+  <statement id="6" text="Specimen FG-1 has lowest total failure load." type="refuted">
+  </statement>
+  <statement id="7" text="On of which, shear failure was noticed in test beams without stirrups (NG-0, NG-0.5 and NG-1), as expected, these beams failed in shear mode with an idealistic shear crack at shear side." type="entailed">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Specifics of the test beams.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Beam denotation">
+  </cell>
+  <cell col="1" row="0" text="Type of flexural rod">
+  </cell>
+  <cell col="2" row="0" text="Steel fiber content (V
+     
+      f
+     
+     ) %">
+  </cell>
+  <cell col="3" row="0" text="Shear strengthening arranging
+     
+      *">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="SR-0">
+  </cell>
+  <cell col="1" row="1" text="Steel">
+  </cell>
+  <cell col="2" row="1" text="None">
+  </cell>
+  <cell col="3" row="1" text="Stirrups">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="SG-0">
+  </cell>
+  <cell col="1" row="2" text="GFRP">
+  </cell>
+  <cell col="2" row="2" text="None">
+  </cell>
+  <cell col="3" row="2" text="Stirrups">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="NG-0">
+  </cell>
+  <cell col="1" row="3" text="GFRP">
+  </cell>
+  <cell col="2" row="3" text="None">
+  </cell>
+  <cell col="3" row="3" text="None">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="NG-0.5">
+  </cell>
+  <cell col="1" row="4" text="GFRP">
+  </cell>
+  <cell col="2" row="4" text="0.5">
+  </cell>
+  <cell col="3" row="4" text="None">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="NG-1">
+  </cell>
+  <cell col="1" row="5" text="GFRP">
+  </cell>
+  <cell col="2" row="5" text="1">
+  </cell>
+  <cell col="3" row="5" text="None">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="UG-0">
+  </cell>
+  <cell col="1" row="6" text="GFRP">
+  </cell>
+  <cell col="2" row="6" text="0">
+  </cell>
+  <cell col="3" row="6" text="U-stripes">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="UG-0.5">
+  </cell>
+  <cell col="1" row="7" text="GFRP">
+  </cell>
+  <cell col="2" row="7" text="0.5">
+  </cell>
+  <cell col="3" row="7" text="U-stripes">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="UG-1">
+  </cell>
+  <cell col="1" row="8" text="GFRP">
+  </cell>
+  <cell col="2" row="8" text="1">
+  </cell>
+  <cell col="3" row="8" text="U-stripes">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="FG-0">
+  </cell>
+  <cell col="1" row="9" text="GFRP">
+  </cell>
+  <cell col="2" row="9" text="0">
+  </cell>
+  <cell col="3" row="9" text="Full sheets">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="FG-0.5">
+  </cell>
+  <cell col="1" row="10" text="GFRP">
+  </cell>
+  <cell col="2" row="10" text="0.5">
+  </cell>
+  <cell col="3" row="10" text="Full sheets">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="FG-1">
+  </cell>
+  <cell col="1" row="11" text="GFRP">
+  </cell>
+  <cell col="2" row="11" text="1">
+  </cell>
+  <cell col="3" row="11" text="Full sheets">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Shear strengthening arranging are of three types." type="entailed">
+  </statement>
+  <statement id="3" text="NG-1 has no Type of flexural rod." type="refuted">
+  </statement>
+ </statements>
+</Table 2>

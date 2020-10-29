@@ -1,0 +1,1679 @@
+<Table 2>
+ <caption text="
+
+         Gibson-Ashby model parameters for the honeycomb gyroid along different loading directions. The model function is
+         
+          E
+         
+
+         *
+         
+         =
+         
+
+          C
+         
+
+          1
+         
+
+
+          ρ
+         
+         *
+         
+
+           n
+          
+
+
+         +
+         
+
+          E
+         
+
+         *
+         
+          0
+         
+         .
+        
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="
+           Direction
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="0" text="
+
+            C
+           
+
+            1
+           
+">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="relevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="2" row="0" text="
+
+            n
+           
+">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="3" row="0" text="
+
+            E
+           
+
+           *
+           
+            0
+           
+
+
+           ×
+           
+           10
+           
+            −3
+           
+">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="
+           [100]
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="1" text="
+           0.73
+           
+           ±
+           
+           0.08
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="relevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="2" row="1" text="
+           3.5
+           
+           ±
+           
+           0.1
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="3" row="1" text="
+           −0.3
+           
+           ±
+           
+           0.3
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="
+           [110]
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="2" text="
+           1.4
+           
+           ±
+           
+           0.3
+          ">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="relevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="2" row="2" text="
+           3.2
+           
+           ±
+           
+           0.3
+          ">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="3" row="2" text="
+           −2
+           
+           ±2
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="
+           [001]
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="3" text="
+           1
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="relevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="2" row="3" text="
+           1
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="3" row="3" text="
+           0
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="5" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="6" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="7" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="8" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="9" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="10" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="11" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="12" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="13" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="14" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="15" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="16" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="17" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="18" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="19" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="20" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="21" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="22" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="23" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="24" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="25" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="26" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="27" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="28" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="29" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="30" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="31" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="32" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="33" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="34" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="35" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="36" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="37" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="38" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The value of 3.2 ± 0.3 for n corresponds to the value of 1.4 ± 0.3 for C 1" type="entailed">
+  </statement>
+  <statement id="1" text="The value of 0 for E * 0 × 10 −3 corresponds to the value of 1 for C 1" type="entailed">
+  </statement>
+  <statement id="2" text="The value of 1 for C 1 corresponds to the value of 1 for n" type="entailed">
+  </statement>
+  <statement id="3" text="The n is 3.5 ± 0.1 when the E * 0 × 10 −3 is −0.3 ± 0.3" type="entailed">
+  </statement>
+  <statement id="4" text="The value of 1 for n corresponds to the value of 0 for E * 0 × 10 −3" type="entailed">
+  </statement>
+  <statement id="5" text="The n is 3.5 ± 0.1 when the C 1 is 0.73 ± 0.08" type="entailed">
+  </statement>
+  <statement id="6" text="The value of 0.73 ± 0.08 for C 1 corresponds to the value of −0.3 ± 0.3 for E * 0 × 10 −3" type="entailed">
+  </statement>
+  <statement id="7" text="The value of −2 ±2 for E * 0 × 10 −3 corresponds to the value of 3.2 ± 0.3 for n" type="entailed">
+  </statement>
+  <statement id="8" text="The E * 0 × 10 −3 is −2 ±2 when the C 1 is 1.4 ± 0.3" type="entailed">
+  </statement>
+  <statement id="9" text="The E * 0 × 10 −3 is −2 ±2 when the n is 1" type="refuted">
+  </statement>
+  <statement id="10" text="The C 1 is 0.73 ± 0.08 when the E * 0 × 10 −3 is −2 ±2" type="refuted">
+  </statement>
+  <statement id="11" text="The value of 1 for n corresponds to the value of −0.3 ± 0.3 for E * 0 × 10 −3" type="refuted">
+  </statement>
+  <statement id="12" text="The C 1 is 0.73 ± 0.08 when the n is 3.2 ± 0.3" type="refuted">
+  </statement>
+  <statement id="13" text="The value of −0.3 ± 0.3 for E * 0 × 10 −3 corresponds to the value of 3.2 ± 0.3 for n" type="refuted">
+  </statement>
+  <statement id="14" text="The n is 3.2 ± 0.3 when the E * 0 × 10 −3 is 0" type="refuted">
+  </statement>
+  <statement id="15" text="The C 1 is 1 when the n is 3.2 ± 0.3" type="refuted">
+  </statement>
+  <statement id="16" text="The n is 3.5 ± 0.1 when the C 1 is 1" type="refuted">
+  </statement>
+  <statement id="17" text="The value of 0.73 ± 0.08 for C 1 corresponds to the value of 1 for n" type="refuted">
+  </statement>
+  <statement id="18" text="The value −0.3 ± 0.3 belongs to E * 0 × 10 −3" type="entailed">
+  </statement>
+  <statement id="19" text="The value 0.73 ± 0.08 belongs to C 1" type="entailed">
+  </statement>
+  <statement id="20" text="1.4 ± 0.3 is in C 1" type="entailed">
+  </statement>
+  <statement id="21" text="The value 0 belongs to E * 0 × 10 −3" type="entailed">
+  </statement>
+  <statement id="22" text="−2 ±2 is in E * 0 × 10 −3" type="entailed">
+  </statement>
+  <statement id="23" text="The value 1 belongs to n" type="entailed">
+  </statement>
+  <statement id="24" text="The value 3.2 ± 0.3 belongs to n" type="entailed">
+  </statement>
+  <statement id="25" text="3.5 ± 0.1 is in n" type="entailed">
+  </statement>
+  <statement id="26" text="The value 1 belongs to C 1" type="entailed">
+  </statement>
+  <statement id="27" text="The value 0 belongs to n" type="refuted">
+  </statement>
+  <statement id="28" text="The value 1.4 ± 0.3 belongs to n" type="refuted">
+  </statement>
+  <statement id="29" text="The value −0.3 ± 0.3 belongs to C 1" type="refuted">
+  </statement>
+  <statement id="30" text="The value 1 belongs to E * 0 × 10 −3" type="refuted">
+  </statement>
+  <statement id="31" text="−2 ±2 is in C 1" type="refuted">
+  </statement>
+  <statement id="32" text="The value 0.73 ± 0.08 belongs to E * 0 × 10 −3" type="refuted">
+  </statement>
+  <statement id="33" text="0.73 ± 0.08 is in n" type="refuted">
+  </statement>
+  <statement id="34" text="0 is in C 1" type="refuted">
+  </statement>
+  <statement id="35" text="3.2 ± 0.3 is in C 1" type="refuted">
+  </statement>
+  <statement id="36" text="E * 0 × 10 −3 has no duplicate values." type="entailed">
+  </statement>
+  <statement id="37" text="N has no duplicate values." type="entailed">
+  </statement>
+  <statement id="38" text="All the values in C 1 are distinct." type="entailed">
+  </statement>
+  <statement id="39" text="N always has the same value." type="refuted">
+  </statement>
+  <statement id="40" text="C 1 always has the same value." type="refuted">
+  </statement>
+  <statement id="41" text="E * 0 × 10 −3 always has the same value." type="refuted">
+  </statement>
+  <statement id="42" text="N always has the same value." type="refuted">
+  </statement>
+  <statement id="43" text="C 1 always has the same value." type="refuted">
+  </statement>
+  <statement id="44" text="E * 0 × 10 −3 always has the same value." type="refuted">
+  </statement>
+ </statements>
+</Table 2>
+<Table 3>
+ <caption text="
+
+         Relative elastic moduli of lattice structures at a volume fraction of 0.15, as determined by compression of fabricated specimens.
+        
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="0" text="
+
+            E
+           
+
+           *
+           
+           ×10
+           
+            −3
+           
+">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="
+           Network [111]
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="1" text="
+           22.9 ± 0.1
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="
+           Matrix [111]
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="2" text="
+           33.3 ± 0.5
+          ">
+   <evidence statement_id="0" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="
+           Honeycomb [001]
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="3" text="
+           98 ± 5
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="relevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="
+           Honeycomb [100]
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="irrelevant" version="0">
+   </evidence>
+  </cell>
+  <cell col="1" row="4" text="
+           0.389 ± 0.009
+          ">
+   <evidence statement_id="0" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="1" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="2" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="3" type="irrelevant" version="0">
+   </evidence>
+   <evidence statement_id="4" type="relevant" version="0">
+   </evidence>
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="98 ± 5 is in E * ×10 −3" type="entailed">
+  </statement>
+  <statement id="1" text="The value 33.3 ± 0.5 belongs to E * ×10 −3" type="entailed">
+  </statement>
+  <statement id="2" text="22.9 ± 0.1 is in E * ×10 −3" type="entailed">
+  </statement>
+  <statement id="3" text="The value 0.389 ± 0.009 belongs to E * ×10 −3" type="entailed">
+  </statement>
+  <statement id="4" text="There are no duplicate values in E * ×10 −3" type="entailed">
+  </statement>
+  <statement id="5" text="E * ×10 −3 always has the same value." type="refuted">
+  </statement>
+ </statements>
+</Table 3>

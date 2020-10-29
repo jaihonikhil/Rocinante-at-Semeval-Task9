@@ -1,0 +1,733 @@
+<Table 1>
+ <caption text="
+
+   Adsorption energies of intermediate species involved in the methanol oxidation on Pd(111), Pd
+   
+    3
+   
+   Ni(111) and PdNi(111) catalysts. In parentheses is the lowest energy adsorption site of each species. The final column shows how the E
+   
+    a
+   
+   vary with the alloying of Ni on Pd where the symbols ⇑, ⇓ and = indicate whether the intermediate presents stronger, weaker or equal adsorption when changing the transition-metal surface from: i) Pd(111) to Pd
+   
+    3
+   
+   Ni(111) and ii) from Pd
+   
+    3
+   
+   Ni(111) to PdNi(111) .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Species">
+  </cell>
+  <cell col="1" row="0" text="Pd - E
+     
+      ad
+     
+     (eV)">
+  </cell>
+  <cell col="2" row="0" text="Pd
+     
+      3
+     
+     Ni - E
+     
+      ad
+     
+     (eV)">
+  </cell>
+  <cell col="3" row="0" text="PdNi - E
+     
+      ad
+     
+     (eV)">
+  </cell>
+  <cell col="4" row="0" text="trend">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="CH
+     
+      2
+     
+     O*">
+  </cell>
+  <cell col="1" row="1" text="0.61 (B
+     
+      Pd
+     
+     )">
+  </cell>
+  <cell col="2" row="1" text="0.09 (B
+     
+      NiPd
+     
+     )">
+  </cell>
+  <cell col="3" row="1" text="-0.02 (B
+     
+      2Ni
+     
+     )">
+  </cell>
+  <cell col="4" row="1" text="⇑⇑">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="CH
+     
+      2
+     
+     OH*">
+  </cell>
+  <cell col="1" row="2" text="0.08(B
+     
+      Pd
+     
+     )">
+  </cell>
+  <cell col="2" row="2" text="0.19 (B
+     
+      2Pd
+     
+     )">
+  </cell>
+  <cell col="3" row="2" text="0.31 (B
+     
+      2Pd
+     
+     )">
+  </cell>
+  <cell col="4" row="2" text="⇓⇓">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="CH
+     
+      3
+     
+     O*">
+  </cell>
+  <cell col="1" row="3" text="0.42 (F
+     
+      Pd
+     
+     )">
+  </cell>
+  <cell col="2" row="3" text="0.07 (F
+     
+      2PdNi
+     
+     )">
+  </cell>
+  <cell col="3" row="3" text="-0.23 (F
+     
+      2NiPd
+     
+     )">
+  </cell>
+  <cell col="4" row="3" text="⇑⇑">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="CH
+     
+      3
+     
+     OH*">
+  </cell>
+  <cell col="1" row="4" text="0.02 (T
+     
+      Pd
+     
+     )">
+  </cell>
+  <cell col="2" row="4" text="-0.16 (T
+     
+      Ni
+     
+     )">
+  </cell>
+  <cell col="3" row="4" text="-0.10 (T
+     
+      Ni
+     
+     )">
+  </cell>
+  <cell col="4" row="4" text="⇑⇓">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="CHO*">
+  </cell>
+  <cell col="1" row="5" text="-0.16 (F
+     
+      Pd
+     
+     )">
+  </cell>
+  <cell col="2" row="5" text="-0.31 (F
+     
+      Ni2Pd
+     
+     )">
+  </cell>
+  <cell col="3" row="5" text="-0.14 (H
+     
+      2PdNi
+     
+     )">
+  </cell>
+  <cell col="4" row="5" text="⇑⇓">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="CHOH *">
+  </cell>
+  <cell col="1" row="6" text="-0.01 (B
+     
+      Pd
+     
+     )">
+  </cell>
+  <cell col="2" row="6" text="0.12 (B
+     
+      PdNi
+     
+     )">
+  </cell>
+  <cell col="3" row="6" text="0.17 (B
+     
+      PdNi
+     
+     )">
+  </cell>
+  <cell col="4" row="6" text="⇓⇓">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="CO*">
+  </cell>
+  <cell col="1" row="7" text="-1.15 (F
+     
+      Pd
+     
+     )">
+  </cell>
+  <cell col="2" row="7" text="-1.07 (F
+     
+      2PdNi
+     
+     )">
+  </cell>
+  <cell col="3" row="7" text="-1.06 (F
+     
+      2NiPd
+     
+     )">
+  </cell>
+  <cell col="4" row="7" text="⇓=">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="CO
+     
+      2
+     
+     *">
+  </cell>
+  <cell col="1" row="8" text="0.12 (B
+     
+      Pd
+     
+     )">
+  </cell>
+  <cell col="2" row="8" text="0.06 (B
+     
+      NiPd
+     
+     )">
+  </cell>
+  <cell col="3" row="8" text="0.07 (B
+     
+      2Ni
+     
+     )">
+  </cell>
+  <cell col="4" row="8" text="⇑=">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="COH *">
+  </cell>
+  <cell col="1" row="9" text="-0.43 (F
+     
+      Pd
+     
+     )">
+  </cell>
+  <cell col="2" row="9" text="-0.32 (F
+     
+      2PdNi
+     
+     )">
+  </cell>
+  <cell col="3" row="9" text="-0.35(F
+     
+      2NiPd
+     
+     )">
+  </cell>
+  <cell col="4" row="9" text="⇑⇓">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="COHOH*">
+  </cell>
+  <cell col="1" row="10" text="0.00 (T
+     
+      Pd
+     
+     )">
+  </cell>
+  <cell col="2" row="10" text="-0.03 (T
+     
+      Ni
+     
+     )">
+  </cell>
+  <cell col="3" row="10" text="0.05 (T
+     
+      Ni
+     
+     )">
+  </cell>
+  <cell col="4" row="10" text="⇑⇓">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="COOH*">
+  </cell>
+  <cell col="1" row="11" text="-0.05 (B
+     
+      Pd
+     
+     )">
+  </cell>
+  <cell col="2" row="11" text="-0.15 (B
+     
+      NiPd
+     
+     )">
+  </cell>
+  <cell col="3" row="11" text="-0.29 (B
+     
+      2Ni
+     
+     )">
+  </cell>
+  <cell col="4" row="11" text="⇑⇑">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="H
+     
+      2
+     
+     COO*">
+  </cell>
+  <cell col="1" row="12" text="1.40 (B
+     
+      Pd
+     
+     )">
+  </cell>
+  <cell col="2" row="12" text="1.09 (B*)">
+  </cell>
+  <cell col="3" row="12" text="0.68">
+  </cell>
+  <cell col="4" row="12" text="⇑⇑">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="H
+     
+      2
+     
+     COOH *">
+  </cell>
+  <cell col="1" row="13" text="0.75 (B
+     
+      Pd
+     
+     )">
+  </cell>
+  <cell col="2" row="13" text="0.42(B
+     
+      NiPd
+     
+     )">
+  </cell>
+  <cell col="3" row="13" text="0.48 (B
+     
+      NiPd
+     
+     )">
+  </cell>
+  <cell col="4" row="13" text="⇑⇓">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="HCOO*">
+  </cell>
+  <cell col="1" row="14" text="0.09 (B
+     
+      Pd
+     
+     )">
+  </cell>
+  <cell col="2" row="14" text="-0.25 (B
+     
+      NiPd
+     
+     )">
+  </cell>
+  <cell col="3" row="14" text="-0.52 (B
+     
+      2Ni
+     
+     )">
+  </cell>
+  <cell col="4" row="14" text="⇑⇑">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="HCOOH*">
+  </cell>
+  <cell col="1" row="15" text="0.06 (T
+     
+      Pd
+     
+     )">
+  </cell>
+  <cell col="2" row="15" text="-0.11 (T
+     
+      Ni
+     
+     )">
+  </cell>
+  <cell col="3" row="15" text="-0.07 (T
+     
+      Ni
+     
+     )">
+  </cell>
+  <cell col="4" row="15" text="⇑⇓">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="H
+     
+      2
+     
+     O*">
+  </cell>
+  <cell col="1" row="16" text="0.04 (T
+     
+      Pd
+     
+     )">
+  </cell>
+  <cell col="2" row="16" text="-0.11 (T
+     
+      Ni
+     
+     )">
+  </cell>
+  <cell col="3" row="16" text="-0.06 (T
+     
+      Ni
+     
+     )">
+  </cell>
+  <cell col="4" row="16" text="⇓⇑">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="OH*">
+  </cell>
+  <cell col="1" row="17" text="0.58 (F
+     
+      Pd
+     
+     )">
+  </cell>
+  <cell col="2" row="17" text="0.19 (F
+     
+      2PdNi
+     
+     )">
+  </cell>
+  <cell col="3" row="17" text="-0.09 (F
+     
+      2NiPd
+     
+     )">
+  </cell>
+  <cell col="4" row="17" text="⇑⇑">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="O*">
+  </cell>
+  <cell col="1" row="18" text="0.82 (F
+     
+      Pd
+     
+     )">
+  </cell>
+  <cell col="2" row="18" text="0.51 (F
+     
+      2PdN
+     
+     )">
+  </cell>
+  <cell col="3" row="18" text="0.12(F
+     
+      2NiPd
+     
+     )">
+  </cell>
+  <cell col="4" row="18" text="⇑⇑">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 3 different types of catalysts in the give table." type="">
+  </statement>
+  <statement id="1" text="There are 18 different types of species." type="">
+  </statement>
+  <statement id="2" text="0.00 is the unique value of Pd - E ad (eV) in COHOH*." type="">
+  </statement>
+  <statement id="4" text="All the values in the table is &gt;2." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   Activation barriers (eV) for specific steps of the methanol electro-oxidation on Pd(111), Pd
+   
+    3
+   
+   Ni(111) and PdNi(111). The corrected values consider a potential of 0.85 V (check
+   for more details). Moreover, reaction with – means that the activation barriers could not be computed since final states were not stable (final states moved back to initial states with the local energy optimization). This suggests that the reaction would not happen under such conditions.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Reaction">
+  </cell>
+  <cell col="1" row="0" text="Pd">
+  </cell>
+  <cell col="2" row="0" text="Pd
+     
+      3
+     
+     Ni">
+  </cell>
+  <cell col="3" row="0" text="PdNi">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="CH
+     
+      3
+     
+     OH → CH
+     
+      3
+     
+     O + H
+     
+      +
+     
+     + e
+     
+      −">
+  </cell>
+  <cell col="1" row="1" text="0.5">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+  <cell col="3" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="CH
+     
+      3
+     
+     OH → CH
+     
+      2
+     
+     OH + H
+     
+      +
+     
+     + e
+     
+      −">
+  </cell>
+  <cell col="1" row="2" text="0.9">
+  </cell>
+  <cell col="2" row="2" text="">
+  </cell>
+  <cell col="3" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="CH
+     
+      2
+     
+     O → CHO + H
+     
+      +
+     
+     + e
+     
+      −">
+  </cell>
+  <cell col="1" row="3" text="0.3">
+  </cell>
+  <cell col="2" row="3" text="0.8">
+  </cell>
+  <cell col="3" row="3" text="1.2">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="CH
+     
+      2
+     
+     O+OH →CH
+     
+      2
+     
+     OOH">
+  </cell>
+  <cell col="1" row="4" text="0.4">
+  </cell>
+  <cell col="2" row="4" text="0.4">
+  </cell>
+  <cell col="3" row="4" text="0.8">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="CHO → CO + H
+     
+      +
+     
+     + e
+     
+      −">
+  </cell>
+  <cell col="1" row="5" text="(spontaneous)">
+  </cell>
+  <cell col="2" row="5" text="(spontaneous)">
+  </cell>
+  <cell col="3" row="5" text="0.4">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="CHO + OH → HCOOH">
+  </cell>
+  <cell col="1" row="6" text="0.2">
+  </cell>
+  <cell col="2" row="6" text="0.2">
+  </cell>
+  <cell col="3" row="6" text="0.2">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="CO + OH → COOH">
+  </cell>
+  <cell col="1" row="7" text="1.1">
+  </cell>
+  <cell col="2" row="7" text="1.2">
+  </cell>
+  <cell col="3" row="7" text="1.5">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="H
+     
+      2
+     
+     COOH → HCOOH + H
+     
+      +
+     
+     + e
+     
+      −">
+  </cell>
+  <cell col="1" row="8" text="">
+  </cell>
+  <cell col="2" row="8" text="0.9">
+  </cell>
+  <cell col="3" row="8" text="1.1">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="H
+     
+      2
+     
+     COOH → H
+     
+      2
+     
+     COO + H
+     
+      +
+     
+     + e
+     
+      −">
+  </cell>
+  <cell col="1" row="9" text="">
+  </cell>
+  <cell col="2" row="9" text="(–)">
+  </cell>
+  <cell col="3" row="9" text="(–)">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="HCOOH → CHOO + H
+     
+      +
+     
+     + e
+     
+      −">
+  </cell>
+  <cell col="1" row="10" text="">
+  </cell>
+  <cell col="2" row="10" text="(spontaneous)">
+  </cell>
+  <cell col="3" row="10" text="(spontaneous)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="9.5 is the Pd value for CH 3 OH  CH 3 O + H + + e  Reaction." type="">
+  </statement>
+  <statement id="1" text="90.4 is the PdNi value for CHO  CO + H + + e  Reaction" type="">
+  </statement>
+ </statements>
+</Table 2>

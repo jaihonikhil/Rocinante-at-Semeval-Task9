@@ -1,0 +1,196 @@
+<Table 4>
+ <caption text="
+
+   LET parameters for relative permeability curves CO
+   
+    2
+   
+   /water without foam in
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="S
+        
+
+
+          w
+         
+
+          i">
+  </cell>
+  <cell col="1" row="0" text="S
+        
+
+
+          g
+         
+
+          r
+         
+
+          w">
+  </cell>
+  <cell col="2" row="0" text="L
+        
+
+         w">
+  </cell>
+  <cell col="3" row="0" text="E
+        
+
+         w">
+  </cell>
+  <cell col="4" row="0" text="T
+        
+
+         w">
+  </cell>
+  <cell col="5" row="0" text="L
+        
+
+         g">
+  </cell>
+  <cell col="6" row="0" text="E
+        
+
+         g">
+  </cell>
+  <cell col="7" row="0" text="T
+        
+
+         g">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="0.07">
+  </cell>
+  <cell col="1" row="1" text="0.00">
+  </cell>
+  <cell col="2" row="1" text="2.20">
+  </cell>
+  <cell col="3" row="1" text="10.34">
+  </cell>
+  <cell col="4" row="1" text="0.39">
+  </cell>
+  <cell col="5" row="1" text="1.73">
+  </cell>
+  <cell col="6" row="1" text="36">
+  </cell>
+  <cell col="7" row="1" text="1.45">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 8 columns in the given table." type="entailed">
+  </statement>
+  <statement id="1" text="The highest value is 36 of E g." type="entailed">
+  </statement>
+  <statement id="2" text="The lowest value is 0.00 of S g r w." type="entailed">
+  </statement>
+  <statement id="3" text="All the values given in the table are positive values." type="entailed">
+  </statement>
+  <statement id="4" text="All the values given in the table is with decimal point except E g value." type="entailed">
+  </statement>
+  <statement id="5" text="There are 10 columns in the given table." type="refuted">
+  </statement>
+  <statement id="7" text="All the values given in the table are negative values." type="refuted">
+  </statement>
+  <statement id="8" text="The lowest value is 0.01 of E g." type="refuted">
+  </statement>
+  <statement id="10" text="( S w = 0.45 to 0.85 )" type="entailed">
+  </statement>
+ </statements>
+</Table 4>
+<Table 2>
+ <caption text="
+
+   Composition of caesium doped synthetic seawater. All salts were EMSURE salts (Merck Millipore) supplied by VWR.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Component">
+  </cell>
+  <cell col="1" row="0" text="Concentration [wt. %]">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Deionized water">
+  </cell>
+  <cell col="1" row="1" text="94.52">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="CsCl">
+  </cell>
+  <cell col="1" row="2" text="2.63">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="NaCl">
+  </cell>
+  <cell col="1" row="3" text="1.37">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="CaCl
+     
+      2
+     
+
+     2H
+     
+      2
+     
+     O">
+  </cell>
+  <cell col="1" row="4" text="0.19">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="MgCl
+     
+      2
+     
+
+     6H
+     
+      2
+     
+     O">
+  </cell>
+  <cell col="1" row="5" text="0.90">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="KCl">
+  </cell>
+  <cell col="1" row="6" text="0.07">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Na
+     
+      2
+     
+     SO
+     
+      4">
+  </cell>
+  <cell col="1" row="7" text="0.33">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Concentration [wt. %] 0.07 Component is KCl." type="entailed">
+  </statement>
+  <statement id="3" text="CsCl Component Concentration [wt. %] is 2.63." type="entailed">
+  </statement>
+  <statement id="4" text="Component NaCl Concentration [wt. %] is 1.37." type="entailed">
+  </statement>
+  <statement id="6" text="KCl Component Concentration [wt. %] is 0.19." type="refuted">
+  </statement>
+  <statement id="7" text="Concentration [wt. %] 0.07 Component is Na 2 SO 4 ." type="refuted">
+  </statement>
+ </statements>
+</Table 2>

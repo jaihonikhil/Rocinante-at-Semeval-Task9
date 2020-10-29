@@ -1,0 +1,178 @@
+<Table 1>
+ <caption text="
+
+   Calcination conditions.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Luminaire spacing (m)">
+  </cell>
+  <cell col="2" row="0" text="Path width (m)">
+  </cell>
+  <cell col="3" row="0" text="Dwellings' height (m)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Condition no. 1">
+  </cell>
+  <cell col="1" row="1" text="200">
+  </cell>
+  <cell col="2" row="1" text="2,0">
+  </cell>
+  <cell col="3" row="1" text="2,3">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Condition no. 2a">
+  </cell>
+  <cell col="1" row="2" text="200">
+  </cell>
+  <cell col="2" row="2" text="1,2 to 2,0">
+  </cell>
+  <cell col="3" row="2" text="2,3">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Condition no. 2 b">
+  </cell>
+  <cell col="1" row="3" text="200">
+  </cell>
+  <cell col="2" row="3" text="2,0">
+  </cell>
+  <cell col="3" row="3" text="1,5 to 2,3">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Condition no. 3">
+  </cell>
+  <cell col="1" row="4" text="100">
+  </cell>
+  <cell col="2" row="4" text="2,0">
+  </cell>
+  <cell col="3" row="4" text="2,3">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Condition no. 1 Luminaire spacing (m) is 200." type="entailed">
+  </statement>
+  <statement id="1" text="Dwellings' height (m) 1,5 to 2,3 is Condition no. 2 b." type="entailed">
+  </statement>
+  <statement id="2" text="1,2 to 2,0 Path width (m) is Condition no. 2a." type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   Average illuminance (Eav), minimum illum. (Emin) and illum. Uniformity (U0) values of path sections #1-10.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Path #1">
+  </cell>
+  <cell col="2" row="0" text="Path #2">
+  </cell>
+  <cell col="3" row="0" text="Path #3">
+  </cell>
+  <cell col="4" row="0" text="Path #4">
+  </cell>
+  <cell col="5" row="0" text="Path #5">
+  </cell>
+  <cell col="6" row="0" text="Path #6">
+  </cell>
+  <cell col="7" row="0" text="Path #7">
+  </cell>
+  <cell col="8" row="0" text="Path #8">
+  </cell>
+  <cell col="9" row="0" text="Path #9">
+  </cell>
+  <cell col="10" row="0" text="Path #10">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Eav (lx)">
+  </cell>
+  <cell col="1" row="1" text="30,00">
+  </cell>
+  <cell col="2" row="1" text="22,00">
+  </cell>
+  <cell col="3" row="1" text="13,00">
+  </cell>
+  <cell col="4" row="1" text="5,37">
+  </cell>
+  <cell col="5" row="1" text="3,80">
+  </cell>
+  <cell col="6" row="1" text="2,72">
+  </cell>
+  <cell col="7" row="1" text="2,38">
+  </cell>
+  <cell col="8" row="1" text="1,71">
+  </cell>
+  <cell col="9" row="1" text="1,24">
+  </cell>
+  <cell col="10" row="1" text="0,77">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Emin (lx)">
+  </cell>
+  <cell col="1" row="2" text="19,00">
+  </cell>
+  <cell col="2" row="2" text="1,27">
+  </cell>
+  <cell col="3" row="2" text="1,59">
+  </cell>
+  <cell col="4" row="2" text="1,54">
+  </cell>
+  <cell col="5" row="2" text="1,26">
+  </cell>
+  <cell col="6" row="2" text="0,99">
+  </cell>
+  <cell col="7" row="2" text="0,88">
+  </cell>
+  <cell col="8" row="2" text="0,61">
+  </cell>
+  <cell col="9" row="2" text="0,41">
+  </cell>
+  <cell col="10" row="2" text="0,23">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="U0">
+  </cell>
+  <cell col="1" row="3" text="0,65">
+  </cell>
+  <cell col="2" row="3" text="0,06">
+  </cell>
+  <cell col="3" row="3" text="0,12">
+  </cell>
+  <cell col="4" row="3" text="0,29">
+  </cell>
+  <cell col="5" row="3" text="0,33">
+  </cell>
+  <cell col="6" row="3" text="0,36">
+  </cell>
+  <cell col="7" row="3" text="0,37">
+  </cell>
+  <cell col="8" row="3" text="0,36">
+  </cell>
+  <cell col="9" row="3" text="0,33">
+  </cell>
+  <cell col="10" row="3" text="0,30">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The highest Path #1 is 30.00." type="entailed">
+  </statement>
+  <statement id="3" text="The highest Path #10 is 1.24." type="refuted">
+  </statement>
+  <statement id="4" text="The lowest Path #20 is 0.33." type="refuted">
+  </statement>
+ </statements>
+</Table 2>

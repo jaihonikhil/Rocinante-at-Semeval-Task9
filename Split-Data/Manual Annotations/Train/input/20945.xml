@@ -1,0 +1,738 @@
+<Table 4>
+ <caption text="
+
+   A comparison between patients (ESS 11) with and without a time-critical condition with regard to age and vital parameters.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Type of condition">
+  </cell>
+  <cell col="1" row="0" text="Time-critical condition (
+     
+      n
+     
+     = 96)">
+  </cell>
+  <cell col="2" row="0" text="Without time-critical condition (
+     
+      n
+     
+     = 1774)">
+  </cell>
+  <cell col="3" row="0" text="P">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Age - year
+     
+
+       a">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+  <cell col="3" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Median (25th, 75th percentile)">
+  </cell>
+  <cell col="1" row="2" text="78 (66−85)">
+  </cell>
+  <cell col="2" row="2" text="72 (54−82)">
+  </cell>
+  <cell col="3" row="2" text="0.001">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Vital signs - Median (25th, 75th percentile)">
+  </cell>
+  <cell col="1" row="3" text="">
+  </cell>
+  <cell col="2" row="3" text="">
+  </cell>
+  <cell col="3" row="3" text="">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Respiratory rate/min
+     
+
+       b">
+  </cell>
+  <cell col="1" row="4" text="16 (16−18)">
+  </cell>
+  <cell col="2" row="4" text="16 (16−18)">
+  </cell>
+  <cell col="3" row="4" text="0.863">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Oxygen saturation - %
+     
+
+       c">
+  </cell>
+  <cell col="1" row="5" text="98 (96−98)">
+  </cell>
+  <cell col="2" row="5" text="98 (97−99)">
+  </cell>
+  <cell col="3" row="5" text="0.026">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Systolic blood pressure - mm/Hg
+     
+
+       d">
+  </cell>
+  <cell col="1" row="6" text="160 (140−174)">
+  </cell>
+  <cell col="2" row="6" text="140 (125−160)">
+  </cell>
+  <cell col="3" row="6" text="&lt;0.001">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Diastolic blood pressure - mm/Hg
+     
+
+       e">
+  </cell>
+  <cell col="1" row="7" text="90 (75−100)">
+  </cell>
+  <cell col="2" row="7" text="80 (75−90)">
+  </cell>
+  <cell col="3" row="7" text="0.008">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Heart rate/min
+     
+
+       f">
+  </cell>
+  <cell col="1" row="8" text="78 (70−90)">
+  </cell>
+  <cell col="2" row="8" text="80 (70−90)">
+  </cell>
+  <cell col="3" row="8" text="0.603">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Temperature °C
+     
+
+       g">
+  </cell>
+  <cell col="1" row="9" text="36.6 (36.1−36.9)">
+  </cell>
+  <cell col="2" row="9" text="36.7 (36.3−37.0)">
+  </cell>
+  <cell col="3" row="9" text="0.093">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="9.893 is the value of P for Temperature C." type="">
+  </statement>
+  <statement id="3" text="180 (125180) is the range of patients Without critical condition" type="">
+  </statement>
+  <statement id="4" text="Respiratory rate/min has a value of 5.863 for P." type="">
+  </statement>
+  <statement id="5" text="Patients with a time-critical condition were older, had slightly lower oxygen saturation and had higher blood pressure than patients without a time-critical condition ( Table 4 )." type="">
+  </statement>
+ </statements>
+</Table 4>
+<Table 3>
+ <caption text="
+
+   Characteristics of patients with a time-critical condition in relation to gender.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Gender">
+  </cell>
+  <cell col="1" row="0" text="Women (
+     
+      n
+     
+     = 47)">
+  </cell>
+  <cell col="2" row="0" text="Men (
+     
+      n
+     
+     = 49)">
+  </cell>
+  <cell col="3" row="0" text="P">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Age - years">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+  <cell col="3" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Median (25th, 75th percentile)">
+  </cell>
+  <cell col="1" row="2" text="81 (70−86)">
+  </cell>
+  <cell col="2" row="2" text="71 (63−83)">
+  </cell>
+  <cell col="3" row="2" text="0.010">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Priority at dispatch centre -
+     
+      n
+     
+     (%)">
+  </cell>
+  <cell col="1" row="3" text="">
+  </cell>
+  <cell col="2" row="3" text="">
+  </cell>
+  <cell col="3" row="3" text="0.058">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Prio 1">
+  </cell>
+  <cell col="1" row="4" text="16 (34.0)">
+  </cell>
+  <cell col="2" row="4" text="26 (53.1)">
+  </cell>
+  <cell col="3" row="4" text="">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Prio 2">
+  </cell>
+  <cell col="1" row="5" text="29 (61.7)">
+  </cell>
+  <cell col="2" row="5" text="22 (44.9)">
+  </cell>
+  <cell col="3" row="5" text="">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Prio 3">
+  </cell>
+  <cell col="1" row="6" text="2 (4.3)">
+  </cell>
+  <cell col="2" row="6" text="1 (2.0)">
+  </cell>
+  <cell col="3" row="6" text="">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Triage colour RETTS -
+     
+      n
+     
+     (%)">
+  </cell>
+  <cell col="1" row="7" text="">
+  </cell>
+  <cell col="2" row="7" text="">
+  </cell>
+  <cell col="3" row="7" text="0.074">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Red">
+  </cell>
+  <cell col="1" row="8" text="0 (0)">
+  </cell>
+  <cell col="2" row="8" text="0 (0)">
+  </cell>
+  <cell col="3" row="8" text="">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Orange">
+  </cell>
+  <cell col="1" row="9" text="16 (34.0)">
+  </cell>
+  <cell col="2" row="9" text="24 (49.0)">
+  </cell>
+  <cell col="3" row="9" text="">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Yellow">
+  </cell>
+  <cell col="1" row="10" text="22 (46.8)">
+  </cell>
+  <cell col="2" row="10" text="21 (42.9)">
+  </cell>
+  <cell col="3" row="10" text="">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Green">
+  </cell>
+  <cell col="1" row="11" text="9 (19.1)">
+  </cell>
+  <cell col="2" row="11" text="4 (8.2)">
+  </cell>
+  <cell col="3" row="11" text="">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Level of care -
+     
+      n
+     
+     (%)">
+  </cell>
+  <cell col="1" row="12" text="">
+  </cell>
+  <cell col="2" row="12" text="">
+  </cell>
+  <cell col="3" row="12" text="0.432">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="To hospital">
+  </cell>
+  <cell col="1" row="13" text="45 (95.7)">
+  </cell>
+  <cell col="2" row="13" text="45 (91.8)">
+  </cell>
+  <cell col="3" row="13" text="">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Stay at the scene">
+  </cell>
+  <cell col="1" row="14" text="2 (4.3)">
+  </cell>
+  <cell col="2" row="14" text="4 (8.2)">
+  </cell>
+  <cell col="3" row="14" text="">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="Seek medical advice within 72 h. -
+     
+      n
+     
+     (%)
+     
+
+       a">
+  </cell>
+  <cell col="1" row="15" text="2 (100)">
+  </cell>
+  <cell col="2" row="15" text="4 (100)">
+  </cell>
+  <cell col="3" row="15" text="">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="Mode of transport -
+     
+      n
+     
+     (%)
+     
+
+       b">
+  </cell>
+  <cell col="1" row="16" text="">
+  </cell>
+  <cell col="2" row="16" text="">
+  </cell>
+  <cell col="3" row="16" text="0.409">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="Ambulance">
+  </cell>
+  <cell col="1" row="17" text="41(91.1)">
+  </cell>
+  <cell col="2" row="17" text="42 (93.3)">
+  </cell>
+  <cell col="3" row="17" text="">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="PTS, immobile
+     
+
+       c">
+  </cell>
+  <cell col="1" row="18" text="1 (2.2)">
+  </cell>
+  <cell col="2" row="18" text="1 (2.2)">
+  </cell>
+  <cell col="3" row="18" text="">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="PTS, seated">
+  </cell>
+  <cell col="1" row="19" text="2 (4.4)">
+  </cell>
+  <cell col="2" row="19" text="0 (0)">
+  </cell>
+  <cell col="3" row="19" text="">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="Single-responder unit">
+  </cell>
+  <cell col="1" row="20" text="0 (0)">
+  </cell>
+  <cell col="2" row="20" text="2 (4.4)">
+  </cell>
+  <cell col="3" row="20" text="">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="Transport by own means">
+  </cell>
+  <cell col="1" row="21" text="1 (2.2)">
+  </cell>
+  <cell col="2" row="21" text="0 (0)">
+  </cell>
+  <cell col="3" row="21" text="">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="They have Men and Women gender." type="">
+  </statement>
+  <statement id="1" text="Median (25th, 75th percentile) of women (n=47) is 81(7-86)." type="">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Characteristics of all ESS 11 cases in relation to gender.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Gender">
+  </cell>
+  <cell col="1" row="0" text="Women (
+     
+      n
+     
+     = 1087)">
+  </cell>
+  <cell col="2" row="0" text="Men (
+     
+      n
+     
+     = 783)">
+  </cell>
+  <cell col="3" row="0" text="P">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Age - years">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+  <cell col="3" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Median (25
+     
+      th
+     
+     ,75
+     
+      th
+     
+     percentile)">
+  </cell>
+  <cell col="1" row="2" text="73 (56−84)">
+  </cell>
+  <cell col="2" row="2" text="71 (55−81)">
+  </cell>
+  <cell col="3" row="2" text="0.025">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Priority at dispatch centre -
+     
+      n
+     
+     (%)
+     
+
+       a">
+  </cell>
+  <cell col="1" row="3" text="">
+  </cell>
+  <cell col="2" row="3" text="">
+  </cell>
+  <cell col="3" row="3" text="0.001">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Prio 1">
+  </cell>
+  <cell col="1" row="4" text="334 (30.8)">
+  </cell>
+  <cell col="2" row="4" text="302 (38.6)">
+  </cell>
+  <cell col="3" row="4" text="">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Prio 2">
+  </cell>
+  <cell col="1" row="5" text="698 (64.3)">
+  </cell>
+  <cell col="2" row="5" text="448 (57.2)">
+  </cell>
+  <cell col="3" row="5" text="">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Prio 3">
+  </cell>
+  <cell col="1" row="6" text="53 (4.9)">
+  </cell>
+  <cell col="2" row="6" text="33 (4.2)">
+  </cell>
+  <cell col="3" row="6" text="">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Triage colour RETTS -
+     
+      n
+     
+     (%)">
+  </cell>
+  <cell col="1" row="7" text="">
+  </cell>
+  <cell col="2" row="7" text="">
+  </cell>
+  <cell col="3" row="7" text="0.002">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Red">
+  </cell>
+  <cell col="1" row="8" text="11 (1.0)">
+  </cell>
+  <cell col="2" row="8" text="13 (1.7)">
+  </cell>
+  <cell col="3" row="8" text="">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Orange">
+  </cell>
+  <cell col="1" row="9" text="224 (20.6)">
+  </cell>
+  <cell col="2" row="9" text="195 (24.9)">
+  </cell>
+  <cell col="3" row="9" text="">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Yellow">
+  </cell>
+  <cell col="1" row="10" text="587 (54.0)">
+  </cell>
+  <cell col="2" row="10" text="423 (54.0)">
+  </cell>
+  <cell col="3" row="10" text="">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Green">
+  </cell>
+  <cell col="1" row="11" text="265 (24.4)">
+  </cell>
+  <cell col="2" row="11" text="152 (19.4)">
+  </cell>
+  <cell col="3" row="11" text="">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Level of care -
+     
+      n
+     
+     (%)">
+  </cell>
+  <cell col="1" row="12" text="">
+  </cell>
+  <cell col="2" row="12" text="">
+  </cell>
+  <cell col="3" row="12" text="0.170">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="To hospital">
+  </cell>
+  <cell col="1" row="13" text="849 (78.1)">
+  </cell>
+  <cell col="2" row="13" text="632 (80.7)">
+  </cell>
+  <cell col="3" row="13" text="">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Stay at the scene">
+  </cell>
+  <cell col="1" row="14" text="238 (21.9)">
+  </cell>
+  <cell col="2" row="14" text="151 (19.3)">
+  </cell>
+  <cell col="3" row="14" text="">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="Seek medical advice within 72 h. -
+     
+      n
+     
+     (%)
+     
+
+       b">
+  </cell>
+  <cell col="1" row="15" text="29 (12.2)">
+  </cell>
+  <cell col="2" row="15" text="15 (9.9)">
+  </cell>
+  <cell col="3" row="15" text="0.517">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="Mode of transport -
+     
+      n
+     
+     (%)
+     
+
+       c">
+  </cell>
+  <cell col="1" row="16" text="">
+  </cell>
+  <cell col="2" row="16" text="">
+  </cell>
+  <cell col="3" row="16" text="0.605">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="Ambulance">
+  </cell>
+  <cell col="1" row="17" text="764 (90.0)">
+  </cell>
+  <cell col="2" row="17" text="584 (92.4)">
+  </cell>
+  <cell col="3" row="17" text="">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="PTS, immobile
+     
+
+       d">
+  </cell>
+  <cell col="1" row="18" text="33 (3.9)">
+  </cell>
+  <cell col="2" row="18" text="17 (2.7)">
+  </cell>
+  <cell col="3" row="18" text="">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="PTS, seated">
+  </cell>
+  <cell col="1" row="19" text="32 (3.8)">
+  </cell>
+  <cell col="2" row="19" text="18 (2.8)">
+  </cell>
+  <cell col="3" row="19" text="">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="Single-responder unit">
+  </cell>
+  <cell col="1" row="20" text="8 (0.9)">
+  </cell>
+  <cell col="2" row="20" text="9 (1.4)">
+  </cell>
+  <cell col="3" row="20" text="">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="Transport by own means">
+  </cell>
+  <cell col="1" row="21" text="12 (1.4)">
+  </cell>
+  <cell col="2" row="21" text="4 (0.6)">
+  </cell>
+  <cell col="3" row="21" text="">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="Type of condition -
+     
+      n
+     
+     (%)">
+  </cell>
+  <cell col="1" row="22" text="">
+  </cell>
+  <cell col="2" row="22" text="">
+  </cell>
+  <cell col="3" row="22" text="">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="Non-time critical">
+  </cell>
+  <cell col="1" row="23" text="1040 (95.7)">
+  </cell>
+  <cell col="2" row="23" text="734 (93.7)">
+  </cell>
+  <cell col="3" row="23" text="0.062">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="Time critical">
+  </cell>
+  <cell col="1" row="24" text="47 (4.3)">
+  </cell>
+  <cell col="2" row="24" text="49 (6.3)">
+  </cell>
+  <cell col="3" row="24" text="">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Transport by own means Men ( n = 783) is 4 (0.6)." type="">
+  </statement>
+  <statement id="2" text="Prio 3 Men ( n = 783) is 53 (4.9)." type="">
+  </statement>
+  <statement id="3" text="Green 587 (54.0) Women ( n = 1087)." type="">
+  </statement>
+  <statement id="6" text="In terms of final diagnosis (ICD code), 4% of women and 6% of men had a time-critical condition (p = 0.06)" type="">
+  </statement>
+ </statements>
+</Table 2>

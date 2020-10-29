@@ -1,0 +1,602 @@
+<Table 1>
+ <caption text="
+
+   Deer population parameter values for simulating Franklin County deer population using MO
+   
+    Ov
+   
+   POP. Parameter values are derived from field-based surveys and harvest data collected by the Missouri Department of Conservation (MDC).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Parameter">
+  </cell>
+  <cell col="1" row="0" text="Description">
+  </cell>
+  <cell col="2" row="0" text="Value">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="post_harvest_density">
+  </cell>
+  <cell col="1" row="1" text="Initial deer density (per forested sq. mile)">
+  </cell>
+  <cell col="2" row="1" text="23">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="sexratio">
+  </cell>
+  <cell col="1" row="2" text="Male: female ratio in the population">
+  </cell>
+  <cell col="2" row="2" text="1:1.2">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="adultprop">
+  </cell>
+  <cell col="1" row="3" text="Adult proportion (≥ 25 months) in the population">
+  </cell>
+  <cell col="2" row="3" text="0.4">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="yearlingprop">
+  </cell>
+  <cell col="1" row="4" text="Yearling proportion in the population">
+  </cell>
+  <cell col="2" row="4" text="0.25">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Post_harvest_density is used to find initial deer density per forested sq. mile." type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   Graphical User Interface settings for MO
+   
+    Ov
+   
+   POP
+   
+    surveillance
+   
+   baseline and alternate scenarios (Model Application).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Scenario (baseline/alternate)">
+  </cell>
+  <cell col="1" row="0" text="adult-prevalence">
+  </cell>
+  <cell col="2" row="0" text="m-f-prev-ratio">
+  </cell>
+  <cell col="3" row="0" text="%adult-male-harvest-tested">
+  </cell>
+  <cell col="4" row="0" text="%adult-female-harvest-tested">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1">
+  </cell>
+  <cell col="1" row="1" text="0.002">
+  </cell>
+  <cell col="2" row="1" text="0.5">
+  </cell>
+  <cell col="3" row="1" text="0.1">
+  </cell>
+  <cell col="4" row="1" text="0.1">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2">
+  </cell>
+  <cell col="1" row="2" text="0.002">
+  </cell>
+  <cell col="2" row="2" text="0.5">
+  </cell>
+  <cell col="3" row="2" text="0.2">
+  </cell>
+  <cell col="4" row="2" text="0.2">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3">
+  </cell>
+  <cell col="1" row="3" text="0.002">
+  </cell>
+  <cell col="2" row="3" text="0.5">
+  </cell>
+  <cell col="3" row="3" text="0.3">
+  </cell>
+  <cell col="4" row="3" text="0.3">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4">
+  </cell>
+  <cell col="1" row="4" text="0.002">
+  </cell>
+  <cell col="2" row="4" text="0.5">
+  </cell>
+  <cell col="3" row="4" text="0.4">
+  </cell>
+  <cell col="4" row="4" text="0.4">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="5">
+  </cell>
+  <cell col="1" row="5" text="0.002">
+  </cell>
+  <cell col="2" row="5" text="0.5">
+  </cell>
+  <cell col="3" row="5" text="0.5">
+  </cell>
+  <cell col="4" row="5" text="0.5">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="6">
+  </cell>
+  <cell col="1" row="6" text="0.004">
+  </cell>
+  <cell col="2" row="6" text="0.5">
+  </cell>
+  <cell col="3" row="6" text="0.1">
+  </cell>
+  <cell col="4" row="6" text="0.1">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="7">
+  </cell>
+  <cell col="1" row="7" text="0.004">
+  </cell>
+  <cell col="2" row="7" text="0.5">
+  </cell>
+  <cell col="3" row="7" text="0.2">
+  </cell>
+  <cell col="4" row="7" text="0.2">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="8">
+  </cell>
+  <cell col="1" row="8" text="0.004">
+  </cell>
+  <cell col="2" row="8" text="0.5">
+  </cell>
+  <cell col="3" row="8" text="0.3">
+  </cell>
+  <cell col="4" row="8" text="0.3">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="9">
+  </cell>
+  <cell col="1" row="9" text="0.004">
+  </cell>
+  <cell col="2" row="9" text="0.5">
+  </cell>
+  <cell col="3" row="9" text="0.4">
+  </cell>
+  <cell col="4" row="9" text="0.4">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="10">
+  </cell>
+  <cell col="1" row="10" text="0.004">
+  </cell>
+  <cell col="2" row="10" text="0.5">
+  </cell>
+  <cell col="3" row="10" text="0.5">
+  </cell>
+  <cell col="4" row="10" text="0.5">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="11">
+  </cell>
+  <cell col="1" row="11" text="0.006">
+  </cell>
+  <cell col="2" row="11" text="0.5">
+  </cell>
+  <cell col="3" row="11" text="0.1">
+  </cell>
+  <cell col="4" row="11" text="0.1">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="12">
+  </cell>
+  <cell col="1" row="12" text="0.006">
+  </cell>
+  <cell col="2" row="12" text="0.5">
+  </cell>
+  <cell col="3" row="12" text="0.2">
+  </cell>
+  <cell col="4" row="12" text="0.2">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="13">
+  </cell>
+  <cell col="1" row="13" text="0.006">
+  </cell>
+  <cell col="2" row="13" text="0.5">
+  </cell>
+  <cell col="3" row="13" text="0.3">
+  </cell>
+  <cell col="4" row="13" text="0.3">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="14">
+  </cell>
+  <cell col="1" row="14" text="0.006">
+  </cell>
+  <cell col="2" row="14" text="0.5">
+  </cell>
+  <cell col="3" row="14" text="0.4">
+  </cell>
+  <cell col="4" row="14" text="0.4">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="15">
+  </cell>
+  <cell col="1" row="15" text="0.006">
+  </cell>
+  <cell col="2" row="15" text="0.5">
+  </cell>
+  <cell col="3" row="15" text="0.5">
+  </cell>
+  <cell col="4" row="15" text="0.5">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="16">
+  </cell>
+  <cell col="1" row="16" text="0.008">
+  </cell>
+  <cell col="2" row="16" text="0.5">
+  </cell>
+  <cell col="3" row="16" text="0.1">
+  </cell>
+  <cell col="4" row="16" text="0.1">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="17">
+  </cell>
+  <cell col="1" row="17" text="0.008">
+  </cell>
+  <cell col="2" row="17" text="0.5">
+  </cell>
+  <cell col="3" row="17" text="0.2">
+  </cell>
+  <cell col="4" row="17" text="0.2">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="18">
+  </cell>
+  <cell col="1" row="18" text="0.008">
+  </cell>
+  <cell col="2" row="18" text="0.5">
+  </cell>
+  <cell col="3" row="18" text="0.3">
+  </cell>
+  <cell col="4" row="18" text="0.3">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="19">
+  </cell>
+  <cell col="1" row="19" text="0.008">
+  </cell>
+  <cell col="2" row="19" text="0.5">
+  </cell>
+  <cell col="3" row="19" text="0.4">
+  </cell>
+  <cell col="4" row="19" text="0.4">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="20">
+  </cell>
+  <cell col="1" row="20" text="0.008">
+  </cell>
+  <cell col="2" row="20" text="0.5">
+  </cell>
+  <cell col="3" row="20" text="0.5">
+  </cell>
+  <cell col="4" row="20" text="0.5">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="21">
+  </cell>
+  <cell col="1" row="21" text="0.01">
+  </cell>
+  <cell col="2" row="21" text="0.5">
+  </cell>
+  <cell col="3" row="21" text="0.1">
+  </cell>
+  <cell col="4" row="21" text="0.1">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="22">
+  </cell>
+  <cell col="1" row="22" text="0.01">
+  </cell>
+  <cell col="2" row="22" text="0.5">
+  </cell>
+  <cell col="3" row="22" text="0.2">
+  </cell>
+  <cell col="4" row="22" text="0.2">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="23">
+  </cell>
+  <cell col="1" row="23" text="0.01">
+  </cell>
+  <cell col="2" row="23" text="0.5">
+  </cell>
+  <cell col="3" row="23" text="0.3">
+  </cell>
+  <cell col="4" row="23" text="0.3">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="24">
+  </cell>
+  <cell col="1" row="24" text="0.01">
+  </cell>
+  <cell col="2" row="24" text="0.5">
+  </cell>
+  <cell col="3" row="24" text="0.4">
+  </cell>
+  <cell col="4" row="24" text="0.4">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="25">
+  </cell>
+  <cell col="1" row="25" text="0.01">
+  </cell>
+  <cell col="2" row="25" text="0.5">
+  </cell>
+  <cell col="3" row="25" text="0.5">
+  </cell>
+  <cell col="4" row="25" text="0.5">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="%adult-male-harvest-tested and %adult-female-harvest-tested are ranges from 0.1 to 0.5." type="entailed">
+  </statement>
+  <statement id="2" text="adult-prevalence has same value for all the scenario." type="refuted">
+  </statement>
+  <statement id="3" text="The table contain the scenario (baseline/alternate) from 1 to 30." type="refuted">
+  </statement>
+  <statement id="5" text="Slider settings for both baseline and alternate scenarios simulated using MO Ov POPsurveillance are provided in Table 3 ." type="entailed">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Calibrated settings for MO
+   
+    Ov
+   
+   POP
+   
+    surveillance
+   
+   evaluation scenarios. These scenarios are simulated using baseline assumptions, i.e. random distribution of CWD+ individuals and random sampling.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Prevalence scenario">
+  </cell>
+  <cell col="1" row="0" text="Confidence level">
+  </cell>
+  <cell col="2" row="0" text="Sample size">
+  </cell>
+  <cell col="3" row="0" text="%adult-male-harvest-tested">
+  </cell>
+  <cell col="4" row="0" text="m-f-prev-ratio">
+  </cell>
+  <cell col="5" row="0" text="adult-prevalence">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="0.5%">
+  </cell>
+  <cell col="1" row="1" text="0.90">
+  </cell>
+  <cell col="2" row="1" text="433">
+  </cell>
+  <cell col="3" row="1" text="0.255">
+  </cell>
+  <cell col="4" row="1" text="1">
+  </cell>
+  <cell col="5" row="1" text="0.002">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="0.5%">
+  </cell>
+  <cell col="1" row="2" text="0.95">
+  </cell>
+  <cell col="2" row="2" text="554">
+  </cell>
+  <cell col="3" row="2" text="0.325">
+  </cell>
+  <cell col="4" row="2" text="1">
+  </cell>
+  <cell col="5" row="2" text="0.002">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="0.5%">
+  </cell>
+  <cell col="1" row="3" text="0.99">
+  </cell>
+  <cell col="2" row="3" text="820">
+  </cell>
+  <cell col="3" row="3" text="0.48">
+  </cell>
+  <cell col="4" row="3" text="1">
+  </cell>
+  <cell col="5" row="3" text="0.002">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="1%">
+  </cell>
+  <cell col="1" row="4" text="0.90">
+  </cell>
+  <cell col="2" row="4" text="222">
+  </cell>
+  <cell col="3" row="4" text="0.13">
+  </cell>
+  <cell col="4" row="4" text="1">
+  </cell>
+  <cell col="5" row="4" text="0.004">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="1%">
+  </cell>
+  <cell col="1" row="5" text="0.95">
+  </cell>
+  <cell col="2" row="5" text="287">
+  </cell>
+  <cell col="3" row="5" text="0.17">
+  </cell>
+  <cell col="4" row="5" text="1">
+  </cell>
+  <cell col="5" row="5" text="0.004">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="1%">
+  </cell>
+  <cell col="1" row="6" text="0.99">
+  </cell>
+  <cell col="2" row="6" text="432">
+  </cell>
+  <cell col="3" row="6" text="0.255">
+  </cell>
+  <cell col="4" row="6" text="1">
+  </cell>
+  <cell col="5" row="6" text="0.004">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="2%">
+  </cell>
+  <cell col="1" row="7" text="0.90">
+  </cell>
+  <cell col="2" row="7" text="113">
+  </cell>
+  <cell col="3" row="7" text="0.065">
+  </cell>
+  <cell col="4" row="7" text="1">
+  </cell>
+  <cell col="5" row="7" text="0.008">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="2%">
+  </cell>
+  <cell col="1" row="8" text="0.95">
+  </cell>
+  <cell col="2" row="8" text="147">
+  </cell>
+  <cell col="3" row="8" text="0.085">
+  </cell>
+  <cell col="4" row="8" text="1">
+  </cell>
+  <cell col="5" row="8" text="0.008">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="2%">
+  </cell>
+  <cell col="1" row="9" text="0.99">
+  </cell>
+  <cell col="2" row="9" text="223">
+  </cell>
+  <cell col="3" row="9" text="0.13">
+  </cell>
+  <cell col="4" row="9" text="1">
+  </cell>
+  <cell col="5" row="9" text="0.008">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="5%">
+  </cell>
+  <cell col="1" row="10" text="0.90">
+  </cell>
+  <cell col="2" row="10" text="46">
+  </cell>
+  <cell col="3" row="10" text="0.025">
+  </cell>
+  <cell col="4" row="10" text="1">
+  </cell>
+  <cell col="5" row="10" text="0.02">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="5%">
+  </cell>
+  <cell col="1" row="11" text="0.95">
+  </cell>
+  <cell col="2" row="11" text="59">
+  </cell>
+  <cell col="3" row="11" text="0.035">
+  </cell>
+  <cell col="4" row="11" text="1">
+  </cell>
+  <cell col="5" row="11" text="0.02">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="5%">
+  </cell>
+  <cell col="1" row="12" text="0.99">
+  </cell>
+  <cell col="2" row="12" text="90">
+  </cell>
+  <cell col="3" row="12" text="0.055">
+  </cell>
+  <cell col="4" row="12" text="1">
+  </cell>
+  <cell col="5" row="12" text="0.02">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The Prevalence scenario value starts from 0.5% to 5%." type="entailed">
+  </statement>
+  <statement id="3" text="The Lowest sample size value is 46." type="entailed">
+  </statement>
+  <statement id="4" text="The Prevalence scenario value starts from 0.1% to 0.5%." type="refuted">
+  </statement>
+  <statement id="6" text="The Confidence level has unique value." type="refuted">
+  </statement>
+ </statements>
+</Table 2>

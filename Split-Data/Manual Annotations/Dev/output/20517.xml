@@ -1,0 +1,966 @@
+<Table 3>
+ <caption text="
+
+   Example values of fundamental parameters for the fishery part of the model. The measurement units are
+   
+
+
+      M
+     
+
+      =
+     
+
+      T
+     
+
+      o
+     
+
+      n
+     
+
+      ,
+     
+
+
+
+
+
+      C
+     
+
+      =
+     
+
+      E
+     
+
+      u
+     
+
+      r
+     
+
+      o
+     
+
+      ,
+     
+
+
+
+
+
+      E
+     
+
+      =
+     
+
+      V
+     
+
+      e
+     
+
+      s
+     
+
+      s
+     
+
+      e
+     
+
+      l
+     
+
+      s
+     
+
+
+   and
+   
+
+
+      T
+     
+
+      =
+     
+
+      Y
+     
+
+      e
+     
+
+      a
+     
+
+      r
+     
+
+
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Parameters">
+  </cell>
+  <cell col="1" row="0" text="Values">
+  </cell>
+  <cell col="2" row="0" text="Units">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="K">
+  </cell>
+  <cell col="1" row="1" text="40000000">
+  </cell>
+  <cell col="2" row="1" text="M">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="G
+      
+       f">
+  </cell>
+  <cell col="1" row="2" text="1000">
+  </cell>
+  <cell col="2" row="2" text="C
+       
+
+
+         M
+        
+
+
+          −
+         
+
+          1">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="q">
+  </cell>
+  <cell col="1" row="3" text="0.000002">
+  </cell>
+  <cell col="2" row="3" text="E
+        
+
+
+          −
+         
+
+          1
+         
+
+
+
+
+         T
+        
+
+
+          −
+         
+
+          1">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="λ
+      
+       f
+      
+
+     /
+     
+      σ">
+  </cell>
+  <cell col="1" row="4" text="0.000025">
+  </cell>
+  <cell col="2" row="4" text="E
+       
+
+        T
+       
+
+
+         C
+        
+
+
+          −
+         
+
+          1">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="w
+      
+       f">
+  </cell>
+  <cell col="1" row="5" text="40000">
+  </cell>
+  <cell col="2" row="5" text="C
+       
+
+
+         E
+        
+
+
+          −
+         
+
+          1
+         
+
+
+
+
+         T
+        
+
+
+          −
+         
+
+          1">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The value of K is the highest 40000000 compare to all other values." type="entailed">
+  </statement>
+  <statement id="1" text="There are five parameters." type="entailed">
+  </statement>
+  <statement id="2" text="The unit of w f is C E  1 T  1." type="entailed">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Definition and interpretation of the nondimensional parameters
+   
+
+
+
+       γ
+      
+
+       n
+      
+
+
+      ,
+     
+
+      n
+     
+
+      =
+     
+
+      1
+     
+
+      ,
+     
+
+      2
+     
+
+      ,
+     
+
+      …
+     
+
+      ,
+     
+
+      14
+     
+
+
+   in the model
+   
+    (24)
+   
+   –
+   
+    (27)
+   
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Parameter definition">
+  </cell>
+  <cell col="1" row="0" text="Interpretation">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="γ
+        
+
+         1
+        
+
+
+        =
+       
+
+
+         λ
+        
+
+         f
+        
+
+
+        q
+       
+
+        K
+       
+
+
+         G
+        
+
+         f
+        
+
+
+        /
+       
+
+        σ">
+  </cell>
+  <cell col="1" row="1" text="Relative unit value of effort in fishery.">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="γ
+        
+
+         2
+        
+
+
+        =
+       
+
+
+         λ
+        
+
+         f
+        
+
+
+        q
+       
+
+
+         β
+        
+
+         f
+        
+
+
+
+         B
+        
+
+
+          f
+         
+
+
+         2
+        
+
+
+        /
+       
+
+
+         σ
+        
+
+         2">
+  </cell>
+  <cell col="1" row="2" text="Impact on fishery price from fishery volume.">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="γ
+        
+
+         3
+        
+
+
+        =
+       
+
+
+         B
+        
+
+         f
+        
+
+
+        /
+       
+
+        K
+       
+
+        σ">
+  </cell>
+  <cell col="1" row="3" text="Fishery price saturation parameter for the fishery volume.">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="γ
+        
+
+         4
+        
+
+
+        =
+       
+
+
+         λ
+        
+
+         f
+        
+
+
+        q
+       
+
+
+         β
+        
+
+
+          f
+         
+
+          a
+         
+
+
+
+
+         D
+        
+
+
+          f
+         
+
+
+         2
+        
+
+
+        /
+       
+
+
+         σ
+        
+
+         2">
+  </cell>
+  <cell col="1" row="4" text="Impact on fishery price from aquaculture volume.">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="γ
+        
+
+         5
+        
+
+
+        =
+       
+
+
+         D
+        
+
+         f
+        
+
+
+        /
+       
+
+        K
+       
+
+        σ">
+  </cell>
+  <cell col="1" row="5" text="Fishery price saturation parameter for the aquaculture volume.">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="γ
+        
+
+         6
+        
+
+
+        =
+       
+
+
+         λ
+        
+
+         f
+        
+
+
+
+         w
+        
+
+         f
+        
+
+
+        /
+       
+
+        σ">
+  </cell>
+  <cell col="1" row="6" text="Relative unit cost of effort in fishery.">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="γ
+        
+
+         7
+        
+
+
+        =
+       
+
+
+
+
+           λ
+          
+
+           a
+          
+
+
+
+           G
+          
+
+           a
+          
+
+
+          K
+         
+
+
+         4
+        
+
+
+        [
+       
+
+
+         r
+        
+
+
+          σ
+         
+
+          K
+         
+
+
+
+        ]
+       
+
+
+
+         4">
+  </cell>
+  <cell col="1" row="7" text="The relative unit value of effort in aquaculture">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="γ
+        
+
+         8
+        
+
+
+        =
+       
+
+
+
+
+           λ
+          
+
+           a
+          
+
+
+
+           β
+          
+
+           a
+          
+
+
+
+           B
+          
+
+
+            a
+           
+
+
+           2
+          
+
+
+
+
+          4
+         
+
+          σ
+         
+
+
+
+        [
+       
+
+
+         r
+        
+
+
+          σ
+         
+
+          K
+         
+
+
+
+        ]
+       
+
+
+
+         4">
+  </cell>
+  <cell col="1" row="8" text="Impact on aquaculture price from aquaculture volume.">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="γ
+        
+
+         9
+        
+
+
+        =
+       
+
+
+         B
+        
+
+         a
+        
+
+
+        /
+       
+
+        K
+       
+
+        σ">
+  </cell>
+  <cell col="1" row="9" text="Aquaculture price saturation parameter for the aquaculture volume.">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="γ
+        
+
+         10
+        
+
+
+        =
+       
+
+
+
+
+           λ
+          
+
+           a
+          
+
+
+
+           β
+          
+
+
+            a
+           
+
+            f
+           
+
+
+
+
+           D
+          
+
+
+            a
+           
+
+
+           2
+          
+
+
+
+
+          4
+         
+
+          σ
+         
+
+
+
+        [
+       
+
+
+         r
+        
+
+
+          σ
+         
+
+          K
+         
+
+
+
+        ]
+       
+
+
+
+         4">
+  </cell>
+  <cell col="1" row="10" text="Impact on aquaculture price from fishery volume.">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="γ
+        
+
+         11
+        
+
+
+        =
+       
+
+
+         D
+        
+
+         a
+        
+
+
+        /
+       
+
+        K
+       
+
+        σ">
+  </cell>
+  <cell col="1" row="11" text="Aquaculture price saturation parameter for the fishery volume.">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="γ
+        
+
+         12
+        
+
+
+        =
+       
+
+
+
+
+           λ
+          
+
+           a
+          
+
+
+
+           w
+          
+
+           a
+          
+
+
+
+
+          2
+         
+
+          σ
+         
+
+
+
+        [
+       
+
+
+         r
+        
+
+
+          σ
+         
+
+          K
+         
+
+
+
+        ]
+       
+
+
+
+         2">
+  </cell>
+  <cell col="1" row="12" text="Relative unit cost of effort in aquaculture.">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="γ
+        
+
+         13
+        
+
+
+        =
+       
+
+        d
+       
+
+        /
+       
+
+        K">
+  </cell>
+  <cell col="1" row="13" text="Remediation capacity parameter.">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="γ
+        
+
+         14
+        
+
+
+        =
+       
+
+        ρ
+       
+
+        /
+       
+
+        K
+       
+
+        σ">
+  </cell>
+  <cell col="1" row="14" text="Relative emission rate.">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The table has been divided into two heads - Parameter definition and Interpretation." type="entailed">
+  </statement>
+  <statement id="1" text="There are fourteen Parameter definition." type="entailed">
+  </statement>
+  <statement id="4" text="The Interpretation for is  14 =  / K  is Impact on fishery price from aquaculture volume." type="refuted">
+  </statement>
+ </statements>
+</Table 2>

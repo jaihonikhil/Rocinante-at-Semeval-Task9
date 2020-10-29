@@ -1,0 +1,650 @@
+<Table 6>
+ <caption text="
+
+   Herfindahl–Hirschman Index (HHI) of agricultural output (by value).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="">
+  </cell>
+  <cell col="2" row="0" text="2002">
+  </cell>
+  <cell col="3" row="0" text="2004">
+  </cell>
+  <cell col="4" row="0" text="2006">
+  </cell>
+  <cell col="5" row="0" text="2008">
+  </cell>
+  <cell col="6" row="0" text="2010">
+  </cell>
+  <cell col="7" row="0" text="2012">
+  </cell>
+  <cell col="8" row="0" text="2014">
+  </cell>
+  <cell col="9" row="0" text="2016">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Total farms">
+  </cell>
+  <cell col="1" row="1" text="Mean">
+  </cell>
+  <cell col="2" row="1" text="0.426">
+  </cell>
+  <cell col="3" row="1" text="0.417">
+  </cell>
+  <cell col="4" row="1" text="0.475">
+  </cell>
+  <cell col="5" row="1" text="0.501">
+  </cell>
+  <cell col="6" row="1" text="0.498">
+  </cell>
+  <cell col="7" row="1" text="0.466">
+  </cell>
+  <cell col="8" row="1" text="0.461">
+  </cell>
+  <cell col="9" row="1" text="0.468">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="">
+  </cell>
+  <cell col="1" row="2" text="S.D">
+  </cell>
+  <cell col="2" row="2" text="0.262">
+  </cell>
+  <cell col="3" row="2" text="0.254">
+  </cell>
+  <cell col="4" row="2" text="0.275">
+  </cell>
+  <cell col="5" row="2" text="0.292">
+  </cell>
+  <cell col="6" row="2" text="0.307">
+  </cell>
+  <cell col="7" row="2" text="0.324">
+  </cell>
+  <cell col="8" row="2" text="0.322">
+  </cell>
+  <cell col="9" row="2" text="0.322">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="">
+  </cell>
+  <cell col="1" row="3" text="Median">
+  </cell>
+  <cell col="2" row="3" text="0.389">
+  </cell>
+  <cell col="3" row="3" text="0.382">
+  </cell>
+  <cell col="4" row="3" text="0.455">
+  </cell>
+  <cell col="5" row="3" text="0.472">
+  </cell>
+  <cell col="6" row="3" text="0.476">
+  </cell>
+  <cell col="7" row="3" text="0.435">
+  </cell>
+  <cell col="8" row="3" text="0.439">
+  </cell>
+  <cell col="9" row="3" text="0.448">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Smallest 20%">
+  </cell>
+  <cell col="1" row="4" text="Mean">
+  </cell>
+  <cell col="2" row="4" text="0.512">
+  </cell>
+  <cell col="3" row="4" text="0.487">
+  </cell>
+  <cell col="4" row="4" text="0.555">
+  </cell>
+  <cell col="5" row="4" text="0.583">
+  </cell>
+  <cell col="6" row="4" text="0.601">
+  </cell>
+  <cell col="7" row="4" text="0.604">
+  </cell>
+  <cell col="8" row="4" text="0.577">
+  </cell>
+  <cell col="9" row="4" text="0.600">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="">
+  </cell>
+  <cell col="1" row="5" text="S.D">
+  </cell>
+  <cell col="2" row="5" text="0.256">
+  </cell>
+  <cell col="3" row="5" text="0.261">
+  </cell>
+  <cell col="4" row="5" text="0.274">
+  </cell>
+  <cell col="5" row="5" text="0.281">
+  </cell>
+  <cell col="6" row="5" text="0.294">
+  </cell>
+  <cell col="7" row="5" text="0.318">
+  </cell>
+  <cell col="8" row="5" text="0.319">
+  </cell>
+  <cell col="9" row="5" text="0.309">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="">
+  </cell>
+  <cell col="1" row="6" text="Median">
+  </cell>
+  <cell col="2" row="6" text="0.479">
+  </cell>
+  <cell col="3" row="6" text="0.452">
+  </cell>
+  <cell col="4" row="6" text="0.516">
+  </cell>
+  <cell col="5" row="6" text="0.541">
+  </cell>
+  <cell col="6" row="6" text="0.577">
+  </cell>
+  <cell col="7" row="6" text="0.582">
+  </cell>
+  <cell col="8" row="6" text="0.558">
+  </cell>
+  <cell col="9" row="6" text="0.569">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Largest 20%">
+  </cell>
+  <cell col="1" row="7" text="Mean">
+  </cell>
+  <cell col="2" row="7" text="0.391">
+  </cell>
+  <cell col="3" row="7" text="0.382">
+  </cell>
+  <cell col="4" row="7" text="0.391">
+  </cell>
+  <cell col="5" row="7" text="0.405">
+  </cell>
+  <cell col="6" row="7" text="0.386">
+  </cell>
+  <cell col="7" row="7" text="0.333">
+  </cell>
+  <cell col="8" row="7" text="0.363">
+  </cell>
+  <cell col="9" row="7" text="0.336">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="">
+  </cell>
+  <cell col="1" row="8" text="S.D">
+  </cell>
+  <cell col="2" row="8" text="0.329">
+  </cell>
+  <cell col="3" row="8" text="0.312">
+  </cell>
+  <cell col="4" row="8" text="0.337">
+  </cell>
+  <cell col="5" row="8" text="0.356">
+  </cell>
+  <cell col="6" row="8" text="0.356">
+  </cell>
+  <cell col="7" row="8" text="0.354">
+  </cell>
+  <cell col="8" row="8" text="0.358">
+  </cell>
+  <cell col="9" row="8" text="0.348">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="">
+  </cell>
+  <cell col="1" row="9" text="Median">
+  </cell>
+  <cell col="2" row="9" text="0.314">
+  </cell>
+  <cell col="3" row="9" text="0.323">
+  </cell>
+  <cell col="4" row="9" text="0.319">
+  </cell>
+  <cell col="5" row="9" text="0.315">
+  </cell>
+  <cell col="6" row="9" text="0.297">
+  </cell>
+  <cell col="7" row="9" text="0.192">
+  </cell>
+  <cell col="8" row="9" text="0.250">
+  </cell>
+  <cell col="9" row="9" text="0.216">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Mean 0.297 for the year 2010 is Largest 20%." type="refuted">
+  </statement>
+  <statement id="3" text="Total farms for the year 2002 Median is 0.426." type="refuted">
+  </statement>
+  <statement id="4" text="Smallest 20% Median for the year 2004 is 0.516." type="refuted">
+  </statement>
+  <statement id="5" text="The top panel of Table 6 summarizes the HHI of agricultural output over the 20022016 period." type="entailed">
+  </statement>
+ </statements>
+</Table 6>
+<Table 5>
+ <caption text="
+
+   Regression Results on Land Productivity of Rice (All Varieties Included).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="1992/98">
+  </cell>
+  <cell col="2" row="0" text="2002/04">
+  </cell>
+  <cell col="3" row="0" text="2006/08">
+  </cell>
+  <cell col="4" row="0" text="2010/12">
+  </cell>
+  <cell col="5" row="0" text="2014/16">
+  </cell>
+  <cell col="6" row="0" text="Difference">
+  </cell>
+  <cell col="7" row="0" text="Difference">
+  </cell>
+  <cell col="8" row="0" text="Difference">
+  </cell>
+  <cell col="9" row="0" text="Difference">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="(1)">
+  </cell>
+  <cell col="2" row="1" text="(2)">
+  </cell>
+  <cell col="3" row="1" text="(3)">
+  </cell>
+  <cell col="4" row="1" text="(4)">
+  </cell>
+  <cell col="5" row="1" text="(5)">
+  </cell>
+  <cell col="6" row="1" text="(6)=(5)-(4)">
+  </cell>
+  <cell col="7" row="1" text="(7)=(5)-(3)">
+  </cell>
+  <cell col="8" row="1" text="(8)=(5)-(2)">
+  </cell>
+  <cell col="9" row="1" text="(9)=(5)-(1)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Log total area of rice (all varieties)">
+  </cell>
+  <cell col="1" row="2" text="−0.1554***">
+  </cell>
+  <cell col="2" row="2" text="−0.1477***">
+  </cell>
+  <cell col="3" row="2" text="−0.0664***">
+  </cell>
+  <cell col="4" row="2" text="−0.0794***">
+  </cell>
+  <cell col="5" row="2" text="−0.0360**">
+  </cell>
+  <cell col="6" row="2" text="0.0434*">
+  </cell>
+  <cell col="7" row="2" text="0.0304">
+  </cell>
+  <cell col="8" row="2" text="0.1116***">
+  </cell>
+  <cell col="9" row="2" text="0.1193***">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="">
+  </cell>
+  <cell col="1" row="3" text="(0.0228)">
+  </cell>
+  <cell col="2" row="3" text="(0.0235)">
+  </cell>
+  <cell col="3" row="3" text="(0.0167)">
+  </cell>
+  <cell col="4" row="3" text="(0.0171)">
+  </cell>
+  <cell col="5" row="3" text="(0.0158)">
+  </cell>
+  <cell col="6" row="3" text="(0.0233)">
+  </cell>
+  <cell col="7" row="3" text="(0.0229)">
+  </cell>
+  <cell col="8" row="3" text="(0.0283)">
+  </cell>
+  <cell col="9" row="3" text="(0.0276)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Male household head">
+  </cell>
+  <cell col="1" row="4" text="−0.0041">
+  </cell>
+  <cell col="2" row="4" text="0.0663**">
+  </cell>
+  <cell col="3" row="4" text="−0.0039">
+  </cell>
+  <cell col="4" row="4" text="−0.0313">
+  </cell>
+  <cell col="5" row="4" text="0.0130">
+  </cell>
+  <cell col="6" row="4" text="0.0443">
+  </cell>
+  <cell col="7" row="4" text="0.0170">
+  </cell>
+  <cell col="8" row="4" text="−0.0532">
+  </cell>
+  <cell col="9" row="4" text="0.0171">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="">
+  </cell>
+  <cell col="1" row="5" text="(0.0317)">
+  </cell>
+  <cell col="2" row="5" text="(0.0330)">
+  </cell>
+  <cell col="3" row="5" text="(0.0326)">
+  </cell>
+  <cell col="4" row="5" text="(0.0299)">
+  </cell>
+  <cell col="5" row="5" text="(0.0341)">
+  </cell>
+  <cell col="6" row="5" text="(0.0453)">
+  </cell>
+  <cell col="7" row="5" text="(0.0472)">
+  </cell>
+  <cell col="8" row="5" text="(0.0475)">
+  </cell>
+  <cell col="9" row="5" text="(0.0465)">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Age of household head">
+  </cell>
+  <cell col="1" row="6" text="0.0001">
+  </cell>
+  <cell col="2" row="6" text="0.0007">
+  </cell>
+  <cell col="3" row="6" text="0.0003">
+  </cell>
+  <cell col="4" row="6" text="−0.0003">
+  </cell>
+  <cell col="5" row="6" text="0.0002">
+  </cell>
+  <cell col="6" row="6" text="0.0005">
+  </cell>
+  <cell col="7" row="6" text="−0.0002">
+  </cell>
+  <cell col="8" row="6" text="−0.0005">
+  </cell>
+  <cell col="9" row="6" text="0.0000">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="">
+  </cell>
+  <cell col="1" row="7" text="(0.0011)">
+  </cell>
+  <cell col="2" row="7" text="(0.0012)">
+  </cell>
+  <cell col="3" row="7" text="(0.0010)">
+  </cell>
+  <cell col="4" row="7" text="(0.0022)">
+  </cell>
+  <cell col="5" row="7" text="(0.0011)">
+  </cell>
+  <cell col="6" row="7" text="(0.0025)">
+  </cell>
+  <cell col="7" row="7" text="(0.0015)">
+  </cell>
+  <cell col="8" row="7" text="(0.0016)">
+  </cell>
+  <cell col="9" row="7" text="(0.0016)">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Highest education of household members">
+  </cell>
+  <cell col="1" row="8" text="0.0127***">
+  </cell>
+  <cell col="2" row="8" text="−0.0000">
+  </cell>
+  <cell col="3" row="8" text="−0.0021">
+  </cell>
+  <cell col="4" row="8" text="0.0045">
+  </cell>
+  <cell col="5" row="8" text="0.0038">
+  </cell>
+  <cell col="6" row="8" text="−0.0007">
+  </cell>
+  <cell col="7" row="8" text="0.0059">
+  </cell>
+  <cell col="8" row="8" text="0.0038">
+  </cell>
+  <cell col="9" row="8" text="−0.0089*">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="">
+  </cell>
+  <cell col="1" row="9" text="(0.0044)">
+  </cell>
+  <cell col="2" row="9" text="(0.0046)">
+  </cell>
+  <cell col="3" row="9" text="(0.0040)">
+  </cell>
+  <cell col="4" row="9" text="(0.0044)">
+  </cell>
+  <cell col="5" row="9" text="(0.0031)">
+  </cell>
+  <cell col="6" row="9" text="(0.0054)">
+  </cell>
+  <cell col="7" row="9" text="(0.0050)">
+  </cell>
+  <cell col="8" row="9" text="(0.0055)">
+  </cell>
+  <cell col="9" row="9" text="(0.0053)">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Number of male members">
+  </cell>
+  <cell col="1" row="10" text="0.0193">
+  </cell>
+  <cell col="2" row="10" text="−0.0039">
+  </cell>
+  <cell col="3" row="10" text="0.0082">
+  </cell>
+  <cell col="4" row="10" text="−0.0045">
+  </cell>
+  <cell col="5" row="10" text="0.0154">
+  </cell>
+  <cell col="6" row="10" text="0.0199">
+  </cell>
+  <cell col="7" row="10" text="0.0071">
+  </cell>
+  <cell col="8" row="10" text="0.0193">
+  </cell>
+  <cell col="9" row="10" text="−0.0039">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="">
+  </cell>
+  <cell col="1" row="11" text="(0.0159)">
+  </cell>
+  <cell col="2" row="11" text="(0.0139)">
+  </cell>
+  <cell col="3" row="11" text="(0.0139)">
+  </cell>
+  <cell col="4" row="11" text="(0.0155)">
+  </cell>
+  <cell col="5" row="11" text="(0.0114)">
+  </cell>
+  <cell col="6" row="11" text="(0.0192)">
+  </cell>
+  <cell col="7" row="11" text="(0.0179)">
+  </cell>
+  <cell col="8" row="11" text="(0.0180)">
+  </cell>
+  <cell col="9" row="11" text="(0.0195)">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Household size">
+  </cell>
+  <cell col="1" row="12" text="0.0056">
+  </cell>
+  <cell col="2" row="12" text="0.0156*">
+  </cell>
+  <cell col="3" row="12" text="0.0035">
+  </cell>
+  <cell col="4" row="12" text="0.0141*">
+  </cell>
+  <cell col="5" row="12" text="−0.0068">
+  </cell>
+  <cell col="6" row="12" text="−0.0208*">
+  </cell>
+  <cell col="7" row="12" text="−0.0103">
+  </cell>
+  <cell col="8" row="12" text="−0.0224*">
+  </cell>
+  <cell col="9" row="12" text="−0.0123">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="">
+  </cell>
+  <cell col="1" row="13" text="(0.0079)">
+  </cell>
+  <cell col="2" row="13" text="(0.0095)">
+  </cell>
+  <cell col="3" row="13" text="(0.0079)">
+  </cell>
+  <cell col="4" row="13" text="(0.0083)">
+  </cell>
+  <cell col="5" row="13" text="(0.0070)">
+  </cell>
+  <cell col="6" row="13" text="(0.0109)">
+  </cell>
+  <cell col="7" row="13" text="(0.0106)">
+  </cell>
+  <cell col="8" row="13" text="(0.0118)">
+  </cell>
+  <cell col="9" row="13" text="(0.0105)">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Second year of the panel">
+  </cell>
+  <cell col="1" row="14" text="0.0334***">
+  </cell>
+  <cell col="2" row="14" text="0.0209***">
+  </cell>
+  <cell col="3" row="14" text="0.0108***">
+  </cell>
+  <cell col="4" row="14" text="0.0103">
+  </cell>
+  <cell col="5" row="14" text="0.0018">
+  </cell>
+  <cell col="6" row="14" text="−0.0085">
+  </cell>
+  <cell col="7" row="14" text="−0.0090**">
+  </cell>
+  <cell col="8" row="14" text="−0.0190***">
+  </cell>
+  <cell col="9" row="14" text="−0.0315***">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="">
+  </cell>
+  <cell col="1" row="15" text="(0.0028)">
+  </cell>
+  <cell col="2" row="15" text="(0.0039)">
+  </cell>
+  <cell col="3" row="15" text="(0.0030)">
+  </cell>
+  <cell col="4" row="15" text="(0.0064)">
+  </cell>
+  <cell col="5" row="15" text="(0.0029)">
+  </cell>
+  <cell col="6" row="15" text="(0.0070)">
+  </cell>
+  <cell col="7" row="15" text="(0.0042)">
+  </cell>
+  <cell col="8" row="15" text="(0.0048)">
+  </cell>
+  <cell col="9" row="15" text="(0.0040)">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="Observations">
+  </cell>
+  <cell col="1" row="16" text="5917">
+  </cell>
+  <cell col="2" row="16" text="4625">
+  </cell>
+  <cell col="3" row="16" text="4333">
+  </cell>
+  <cell col="4" row="16" text="3993">
+  </cell>
+  <cell col="5" row="16" text="3782">
+  </cell>
+  <cell col="6" row="16" text="">
+  </cell>
+  <cell col="7" row="16" text="">
+  </cell>
+  <cell col="8" row="16" text="">
+  </cell>
+  <cell col="9" row="16" text="">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="R-squared">
+  </cell>
+  <cell col="1" row="17" text="0.205">
+  </cell>
+  <cell col="2" row="17" text="0.080">
+  </cell>
+  <cell col="3" row="17" text="0.029">
+  </cell>
+  <cell col="4" row="17" text="0.098">
+  </cell>
+  <cell col="5" row="17" text="0.010">
+  </cell>
+  <cell col="6" row="17" text="">
+  </cell>
+  <cell col="7" row="17" text="">
+  </cell>
+  <cell col="8" row="17" text="">
+  </cell>
+  <cell col="9" row="17" text="">
+  </cell>
+ </row>
+ <statements>
+  <statement id="3" text="Household size Difference (6)=(5)-(4) is 0.1193***." type="refuted">
+  </statement>
+  <statement id="6" text="Male household head Difference (7)=(5)-(3) is 0.0005." type="refuted">
+  </statement>
+  <statement id="7" text="We thus run the same regressions for spring ordinary rice and autumn ordinary rice separately as a robustness check." type="entailed">
+  </statement>
+ </statements>
+</Table 5>

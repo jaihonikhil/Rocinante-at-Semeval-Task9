@@ -1,0 +1,74 @@
+<Table 1>
+ <caption text="
+
+   Results of FT at 8 days.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Sample">
+  </cell>
+  <cell col="1" row="0" text="[OH]
+     
+     mmol l
+     
+      −1">
+  </cell>
+  <cell col="2" row="0" text="[CaO]
+     
+     mmol l
+     
+      −1">
+  </cell>
+  <cell col="3" row="0" text="TMC [CaO]
+     
+     mmol l
+     
+      −1">
+  </cell>
+  <cell col="4" row="0" text="[CaO] reduction
+     
+     (%)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Control">
+  </cell>
+  <cell col="1" row="1" text="56.83">
+  </cell>
+  <cell col="2" row="1" text="8.25">
+  </cell>
+  <cell col="3" row="1" text="8.37">
+  </cell>
+  <cell col="4" row="1" text="0.70">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="CCA">
+  </cell>
+  <cell col="1" row="2" text="39.72">
+  </cell>
+  <cell col="2" row="2" text="4.63">
+  </cell>
+  <cell col="3" row="2" text="14.16">
+  </cell>
+  <cell col="4" row="2" text="50.72">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="[CaO] reduction (%) 50.72 Sample is CCA." type="">
+  </statement>
+  <statement id="2" text="TMC [CaO] mmol l 1 8.37 Sample is Control." type="">
+  </statement>
+  <statement id="3" text="14.16 TMC [CaO] mmol l 1 Sample is CCA." type="">
+  </statement>
+  <statement id="4" text="8.37 TMC [CaO] mmol l 1 Sample is CCA." type="">
+  </statement>
+  <statement id="5" text="4.63 [CaO] mmol l 1 Sample is Control." type="">
+  </statement>
+  <statement id="6" text="TMC [CaO] mmol l 1 0.70 Sample is Control." type="">
+  </statement>
+  <statement id="7" text="Sample Control [CaO] mmol l 1 is 7.37." type="">
+  </statement>
+ </statements>
+</Table 1>

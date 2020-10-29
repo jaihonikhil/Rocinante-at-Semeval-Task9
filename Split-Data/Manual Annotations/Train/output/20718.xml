@@ -1,0 +1,434 @@
+<Table 2>
+ <caption text="
+
+   Community selection.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Community and ward number">
+  </cell>
+  <cell col="1" row="0" text="District">
+  </cell>
+  <cell col="2" row="0" text="Community size (total household number)">
+  </cell>
+  <cell col="3" row="0" text="Assistance types">
+  </cell>
+  <cell col="4" row="0" text="Total number of technical assistance interventions">
+  </cell>
+  <cell col="5" row="0" text="Classification technical assistance intensity">
+  </cell>
+  <cell col="6" row="0" text="Damage levels">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Aaruaarbang −1">
+  </cell>
+  <cell col="1" row="1" text="G">
+  </cell>
+  <cell col="2" row="1" text="77">
+  </cell>
+  <cell col="3" row="1" text="B,C,G,H,I">
+  </cell>
+  <cell col="4" row="1" text="47">
+  </cell>
+  <cell col="5" row="1" text="H">
+  </cell>
+  <cell col="6" row="1" text="5">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Bakrang - 4">
+  </cell>
+  <cell col="1" row="2" text="G">
+  </cell>
+  <cell col="2" row="2" text="101">
+  </cell>
+  <cell col="3" row="2" text="B,C,F,H">
+  </cell>
+  <cell col="4" row="2" text="12">
+  </cell>
+  <cell col="5" row="2" text="H">
+  </cell>
+  <cell col="6" row="2" text="4">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Bungkot - 4">
+  </cell>
+  <cell col="1" row="3" text="G">
+  </cell>
+  <cell col="2" row="3" text="224">
+  </cell>
+  <cell col="3" row="3" text="B,C,E,F,G,H,I">
+  </cell>
+  <cell col="4" row="3" text="60">
+  </cell>
+  <cell col="5" row="3" text="H">
+  </cell>
+  <cell col="6" row="3" text="4">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Ghyalchok −8">
+  </cell>
+  <cell col="1" row="4" text="G">
+  </cell>
+  <cell col="2" row="4" text="98">
+  </cell>
+  <cell col="3" row="4" text="H,I">
+  </cell>
+  <cell col="4" row="4" text="5">
+  </cell>
+  <cell col="5" row="4" text="M">
+  </cell>
+  <cell col="6" row="4" text="3">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Keroja −5&amp;6">
+  </cell>
+  <cell col="1" row="5" text="G">
+  </cell>
+  <cell col="2" row="5" text="250">
+  </cell>
+  <cell col="3" row="5" text="A,B,C,D,E,G,H">
+  </cell>
+  <cell col="4" row="5" text="32">
+  </cell>
+  <cell col="5" row="5" text="H">
+  </cell>
+  <cell col="6" row="5" text="5">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Lapu – 6">
+  </cell>
+  <cell col="1" row="6" text="G">
+  </cell>
+  <cell col="2" row="6" text="85">
+  </cell>
+  <cell col="3" row="6" text="B,C,G,H,I">
+  </cell>
+  <cell col="4" row="6" text="46">
+  </cell>
+  <cell col="5" row="6" text="H">
+  </cell>
+  <cell col="6" row="6" text="5">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Sirdibas −1">
+  </cell>
+  <cell col="1" row="7" text="G">
+  </cell>
+  <cell col="2" row="7" text="56">
+  </cell>
+  <cell col="3" row="7" text="H">
+  </cell>
+  <cell col="4" row="7" text="6">
+  </cell>
+  <cell col="5" row="7" text="L">
+  </cell>
+  <cell col="6" row="7" text="4">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Swara – 9">
+  </cell>
+  <cell col="1" row="8" text="G">
+  </cell>
+  <cell col="2" row="8" text="79">
+  </cell>
+  <cell col="3" row="8" text="C,E,G,H,I">
+  </cell>
+  <cell col="4" row="8" text="36">
+  </cell>
+  <cell col="5" row="8" text="H">
+  </cell>
+  <cell col="6" row="8" text="5">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Bhussinga −4">
+  </cell>
+  <cell col="1" row="9" text="O">
+  </cell>
+  <cell col="2" row="9" text="85">
+  </cell>
+  <cell col="3" row="9" text="A,I,H">
+  </cell>
+  <cell col="4" row="9" text="2">
+  </cell>
+  <cell col="5" row="9" text="L">
+  </cell>
+  <cell col="6" row="9" text="3">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Fulbari −5">
+  </cell>
+  <cell col="1" row="10" text="O">
+  </cell>
+  <cell col="2" row="10" text="80">
+  </cell>
+  <cell col="3" row="10" text="B,H">
+  </cell>
+  <cell col="4" row="10" text="3">
+  </cell>
+  <cell col="5" row="10" text="M">
+  </cell>
+  <cell col="6" row="10" text="3–4">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Harkapur −5">
+  </cell>
+  <cell col="1" row="11" text="O">
+  </cell>
+  <cell col="2" row="11" text="61">
+  </cell>
+  <cell col="3" row="11" text="B,C,H">
+  </cell>
+  <cell col="4" row="11" text="3">
+  </cell>
+  <cell col="5" row="11" text="M">
+  </cell>
+  <cell col="6" row="11" text="1">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Jantarkhani −1">
+  </cell>
+  <cell col="1" row="12" text="O">
+  </cell>
+  <cell col="2" row="12" text="113">
+  </cell>
+  <cell col="3" row="12" text="">
+  </cell>
+  <cell col="4" row="12" text="0">
+  </cell>
+  <cell col="5" row="12" text="L">
+  </cell>
+  <cell col="6" row="12" text="4">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Jantarkhani −9">
+  </cell>
+  <cell col="1" row="13" text="O">
+  </cell>
+  <cell col="2" row="13" text="62">
+  </cell>
+  <cell col="3" row="13" text="">
+  </cell>
+  <cell col="4" row="13" text="0">
+  </cell>
+  <cell col="5" row="13" text="L">
+  </cell>
+  <cell col="6" row="13" text="4">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Kalikadevi −2">
+  </cell>
+  <cell col="1" row="14" text="O">
+  </cell>
+  <cell col="2" row="14" text="37">
+  </cell>
+  <cell col="3" row="14" text="B,H">
+  </cell>
+  <cell col="4" row="14" text="2">
+  </cell>
+  <cell col="5" row="14" text="M">
+  </cell>
+  <cell col="6" row="14" text="3">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="Kaptigaun −2">
+  </cell>
+  <cell col="1" row="15" text="O">
+  </cell>
+  <cell col="2" row="15" text="76">
+  </cell>
+  <cell col="3" row="15" text="H">
+  </cell>
+  <cell col="4" row="15" text="1">
+  </cell>
+  <cell col="5" row="15" text="L">
+  </cell>
+  <cell col="6" row="15" text="3">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="Kaptigaun −8">
+  </cell>
+  <cell col="1" row="16" text="O">
+  </cell>
+  <cell col="2" row="16" text="46">
+  </cell>
+  <cell col="3" row="16" text="H">
+  </cell>
+  <cell col="4" row="16" text="1">
+  </cell>
+  <cell col="5" row="16" text="L">
+  </cell>
+  <cell col="6" row="16" text="3">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="KhijiChandeshwori −6">
+  </cell>
+  <cell col="1" row="17" text="O">
+  </cell>
+  <cell col="2" row="17" text="44">
+  </cell>
+  <cell col="3" row="17" text="A,B,H,I">
+  </cell>
+  <cell col="4" row="17" text="6">
+  </cell>
+  <cell col="5" row="17" text="M">
+  </cell>
+  <cell col="6" row="17" text="3–4">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="KhijiChandeshwori −7">
+  </cell>
+  <cell col="1" row="18" text="O">
+  </cell>
+  <cell col="2" row="18" text="42">
+  </cell>
+  <cell col="3" row="18" text="A,B,H,I">
+  </cell>
+  <cell col="4" row="18" text="5">
+  </cell>
+  <cell col="5" row="18" text="M">
+  </cell>
+  <cell col="6" row="18" text="3–4">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="Khijifalate −7">
+  </cell>
+  <cell col="1" row="19" text="O">
+  </cell>
+  <cell col="2" row="19" text="88">
+  </cell>
+  <cell col="3" row="19" text="A,H">
+  </cell>
+  <cell col="4" row="19" text="2">
+  </cell>
+  <cell col="5" row="19" text="L">
+  </cell>
+  <cell col="6" row="19" text="3">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="Pokali −4">
+  </cell>
+  <cell col="1" row="20" text="O">
+  </cell>
+  <cell col="2" row="20" text="95">
+  </cell>
+  <cell col="3" row="20" text="I">
+  </cell>
+  <cell col="4" row="20" text="2">
+  </cell>
+  <cell col="5" row="20" text="M">
+  </cell>
+  <cell col="6" row="20" text="4">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="Ragani −2">
+  </cell>
+  <cell col="1" row="21" text="O">
+  </cell>
+  <cell col="2" row="21" text="138">
+  </cell>
+  <cell col="3" row="21" text="A,H">
+  </cell>
+  <cell col="4" row="21" text="2">
+  </cell>
+  <cell col="5" row="21" text="L">
+  </cell>
+  <cell col="6" row="21" text="4–5">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="Raniban −3">
+  </cell>
+  <cell col="1" row="22" text="O">
+  </cell>
+  <cell col="2" row="22" text="48">
+  </cell>
+  <cell col="3" row="22" text="E,H">
+  </cell>
+  <cell col="4" row="22" text="2">
+  </cell>
+  <cell col="5" row="22" text="L">
+  </cell>
+  <cell col="6" row="22" text="3–4">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="Ratmata −9">
+  </cell>
+  <cell col="1" row="23" text="O">
+  </cell>
+  <cell col="2" row="23" text="72">
+  </cell>
+  <cell col="3" row="23" text="">
+  </cell>
+  <cell col="4" row="23" text="0">
+  </cell>
+  <cell col="5" row="23" text="L">
+  </cell>
+  <cell col="6" row="23" text="2">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="Singhadevi −9">
+  </cell>
+  <cell col="1" row="24" text="O">
+  </cell>
+  <cell col="2" row="24" text="80">
+  </cell>
+  <cell col="3" row="24" text="B,I">
+  </cell>
+  <cell col="4" row="24" text="7">
+  </cell>
+  <cell col="5" row="24" text="M">
+  </cell>
+  <cell col="6" row="24" text="3–4">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="Thulachap −9">
+  </cell>
+  <cell col="1" row="25" text="O">
+  </cell>
+  <cell col="2" row="25" text="42">
+  </cell>
+  <cell col="3" row="25" text="">
+  </cell>
+  <cell col="4" row="25" text="0">
+  </cell>
+  <cell col="5" row="25" text="L">
+  </cell>
+  <cell col="6" row="25" text="2">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="250 is the highest total household number." type="entailed">
+  </statement>
+  <statement id="1" text="Fulbari community has Damage levels of 34 ." type="entailed">
+  </statement>
+  <statement id="2" text="There are 52 community in the table." type="refuted">
+  </statement>
+  <statement id="3" text="50 is the highest total household number." type="refuted">
+  </statement>
+ </statements>
+</Table 2>

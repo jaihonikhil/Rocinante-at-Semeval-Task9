@@ -1,0 +1,554 @@
+<Table 1>
+ <caption text="
+
+         Resin duct metric name and description.
+        
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="
+           Metric
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="1" row="0" text="
+           Type
+           
+
+             1
+            
+
+">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="2" row="0" text="
+           Description
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="
+           Duct size (mm
+           
+            2
+           
+           )
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="1" row="1" text="
+           Unstandardized
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="2" row="1" text="
+           Mean size of all ducts per annual ring
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="
+           Duct production (no. year
+           
+            −1
+           
+           )
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="1" row="2" text="
+           Unstandardized
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="2" row="2" text="
+           Total number of ducts per annual ring
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="
+           Total duct area (mm
+           
+            2
+           
+           year
+           
+            −1
+           
+           )
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="1" row="3" text="
+           Unstandardized
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="2" row="3" text="
+           Sum of duct area per annual ring
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="
+           Duct density (no. mm
+           
+            −2
+           
+           year
+           
+            −1
+           
+           )
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="1" row="4" text="
+           Standardized
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="2" row="4" text="
+           Total number of ducts per annual ring divided by ring area
+           
+
+             2
+            
+
+">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="
+           Relative duct area (% annual ring)
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="1" row="5" text="
+           Standardized
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+  </cell>
+  <cell col="2" row="5" text="
+           Total duct area divided by ring area
+           
+
+             2
+            
+
+           × 100
+          ">
+   <evidence statement_id="0" type="" version="">
+   </evidence>
+   <evidence statement_id="1" type="" version="">
+   </evidence>
+   <evidence statement_id="2" type="" version="">
+   </evidence>
+   <evidence statement_id="3" type="" version="">
+   </evidence>
+   <evidence statement_id="4" type="" version="">
+   </evidence>
+   <evidence statement_id="5" type="" version="">
+   </evidence>
+   <evidence statement_id="6" type="" version="">
+   </evidence>
+   <evidence statement_id="7" type="" version="">
+   </evidence>
+   <evidence statement_id="8" type="" version="">
+   </evidence>
+   <evidence statement_id="9" type="" version="">
+   </evidence>
+   <evidence statement_id="10" type="" version="">
+   </evidence>
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The value Total number of ducts per annual ring divided by ring area belongs to description" type="">
+  </statement>
+  <statement id="1" text="Total number of ducts per annual ring is in description" type="">
+  </statement>
+  <statement id="2" text="The value Total duct area divided by ring area × 100 belongs to description" type="">
+  </statement>
+  <statement id="3" text="Mean size of all ducts per annual ring is in description" type="">
+  </statement>
+  <statement id="4" text="Sum of duct area per annual ring is in description" type="">
+  </statement>
+  <statement id="5" text="Total duct area divided by ring area × 100 is in type" type="">
+  </statement>
+  <statement id="6" text="The value Sum of duct area per annual ring belongs to type" type="">
+  </statement>
+  <statement id="7" text="Total number of ducts per annual ring divided by ring area is in type" type="">
+  </statement>
+  <statement id="8" text="The value Unstandardized belongs to description" type="">
+  </statement>
+  <statement id="9" text="Mean size of all ducts per annual ring is in type" type="">
+  </statement>
+  <statement id="10" text="Description has no duplicate values." type="">
+  </statement>
+  <statement id="11" text="Description always has the same value." type="">
+  </statement>
+ </statements>
+</Table 1>

@@ -1,0 +1,978 @@
+<Table 5>
+ <caption text="
+
+   Pairwise comparisons between the years of the species assemblages of foundations and controls. A 3-way crossed ANOSIM analyses of the species assemblages revealed significant differences between the years (global R = 0.279; p &lt; 0.0001). Significant differences between years are italicized.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Pairwise Tests">
+  </cell>
+  <cell col="3" row="0" text="Permutations">
+  </cell>
+  <cell col="5" row="0" text="No. obs.">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Years compared">
+  </cell>
+  <cell col="1" row="1" text="R value">
+  </cell>
+  <cell col="2" row="1" text="Significance Level %">
+  </cell>
+  <cell col="3" row="1" text="Possible">
+  </cell>
+  <cell col="4" row="1" text="Actual">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2007 vs. 2008">
+  </cell>
+  <cell col="1" row="2" text="0.212">
+  </cell>
+  <cell col="2" row="2" text="0.01">
+  </cell>
+  <cell col="3" row="2" text="Very large">
+  </cell>
+  <cell col="4" row="2" text="9999">
+  </cell>
+  <cell col="5" row="2" text="0">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="2007 vs. 2016">
+  </cell>
+  <cell col="1" row="3" text="0.443">
+  </cell>
+  <cell col="2" row="3" text="0.01">
+  </cell>
+  <cell col="3" row="3" text="Very large">
+  </cell>
+  <cell col="4" row="3" text="9999">
+  </cell>
+  <cell col="5" row="3" text="0">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="2007 vs. 2017">
+  </cell>
+  <cell col="1" row="4" text="0.298">
+  </cell>
+  <cell col="2" row="4" text="0.01">
+  </cell>
+  <cell col="3" row="4" text="Very large">
+  </cell>
+  <cell col="4" row="4" text="9999">
+  </cell>
+  <cell col="5" row="4" text="0">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="2007 vs. 2018">
+  </cell>
+  <cell col="1" row="5" text="0.169">
+  </cell>
+  <cell col="2" row="5" text="0.1">
+  </cell>
+  <cell col="3" row="5" text="Very large">
+  </cell>
+  <cell col="4" row="5" text="9999">
+  </cell>
+  <cell col="5" row="5" text="9">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="2007 vs. 2019">
+  </cell>
+  <cell col="1" row="6" text="0.317">
+  </cell>
+  <cell col="2" row="6" text="0.01">
+  </cell>
+  <cell col="3" row="6" text="Very large">
+  </cell>
+  <cell col="4" row="6" text="9999">
+  </cell>
+  <cell col="5" row="6" text="0">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="2008 vs. 2016">
+  </cell>
+  <cell col="1" row="7" text="0.397">
+  </cell>
+  <cell col="2" row="7" text="0.01">
+  </cell>
+  <cell col="3" row="7" text="Very large">
+  </cell>
+  <cell col="4" row="7" text="9999">
+  </cell>
+  <cell col="5" row="7" text="0">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="2008 vs. 2017">
+  </cell>
+  <cell col="1" row="8" text="0.255">
+  </cell>
+  <cell col="2" row="8" text="0.01">
+  </cell>
+  <cell col="3" row="8" text="Very large">
+  </cell>
+  <cell col="4" row="8" text="9999">
+  </cell>
+  <cell col="5" row="8" text="0">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="2008 vs. 2018">
+  </cell>
+  <cell col="1" row="9" text="0.282">
+  </cell>
+  <cell col="2" row="9" text="0.02">
+  </cell>
+  <cell col="3" row="9" text="Very large">
+  </cell>
+  <cell col="4" row="9" text="9999">
+  </cell>
+  <cell col="5" row="9" text="1">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="2008 vs. 2019">
+  </cell>
+  <cell col="1" row="10" text="0.383">
+  </cell>
+  <cell col="2" row="10" text="0.01">
+  </cell>
+  <cell col="3" row="10" text="Very large">
+  </cell>
+  <cell col="4" row="10" text="9999">
+  </cell>
+  <cell col="5" row="10" text="0">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="2016 vs. 2017">
+  </cell>
+  <cell col="1" row="11" text="0.101">
+  </cell>
+  <cell col="2" row="11" text="1.9">
+  </cell>
+  <cell col="3" row="11" text="Very large">
+  </cell>
+  <cell col="4" row="11" text="9999">
+  </cell>
+  <cell col="5" row="11" text="192">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="2016 vs. 2018">
+  </cell>
+  <cell col="1" row="12" text="0.445">
+  </cell>
+  <cell col="2" row="12" text="0.01">
+  </cell>
+  <cell col="3" row="12" text="Very large">
+  </cell>
+  <cell col="4" row="12" text="9999">
+  </cell>
+  <cell col="5" row="12" text="0">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="2016 vs. 2019">
+  </cell>
+  <cell col="1" row="13" text="0.373">
+  </cell>
+  <cell col="2" row="13" text="0.01">
+  </cell>
+  <cell col="3" row="13" text="Very large">
+  </cell>
+  <cell col="4" row="13" text="9999">
+  </cell>
+  <cell col="5" row="13" text="0">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="2017 vs. 2018">
+  </cell>
+  <cell col="1" row="14" text="0.243">
+  </cell>
+  <cell col="2" row="14" text="0.02">
+  </cell>
+  <cell col="3" row="14" text="Very large">
+  </cell>
+  <cell col="4" row="14" text="9999">
+  </cell>
+  <cell col="5" row="14" text="1">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="2017 vs. 2019">
+  </cell>
+  <cell col="1" row="15" text="0.275">
+  </cell>
+  <cell col="2" row="15" text="0.01">
+  </cell>
+  <cell col="3" row="15" text="Very large">
+  </cell>
+  <cell col="4" row="15" text="9999">
+  </cell>
+  <cell col="5" row="15" text="0">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="2018 vs. 2019">
+  </cell>
+  <cell col="1" row="16" text="0.314">
+  </cell>
+  <cell col="2" row="16" text="0.01">
+  </cell>
+  <cell col="3" row="16" text="Very large">
+  </cell>
+  <cell col="4" row="16" text="9999">
+  </cell>
+  <cell col="5" row="16" text="0">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Significance Level % 0.01 for the 2008 vs. 2019 Years compared." type="entailed">
+  </statement>
+ </statements>
+</Table 5>
+<Table 1>
+ <caption text="
+
+   List of surveyed foundations 2007, 2008, 2016–2019, split in complex foundations with holes and non-complex foundations without holes and split for their location north or south in the Lysekil research site.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="2007">
+  </cell>
+  <cell col="2" row="0" text="2008">
+  </cell>
+  <cell col="3" row="0" text="2016">
+  </cell>
+  <cell col="4" row="0" text="2017">
+  </cell>
+  <cell col="5" row="0" text="2018">
+  </cell>
+  <cell col="6" row="0" text="2019">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Total number of foundations (north/south)">
+  </cell>
+  <cell col="1" row="1" text="21 (10/11)">
+  </cell>
+  <cell col="2" row="1" text="19 (10/9)">
+  </cell>
+  <cell col="3" row="1" text="14 (5/9)">
+  </cell>
+  <cell col="4" row="1" text="15 (5/10)">
+  </cell>
+  <cell col="5" row="1" text="13 (5/8)">
+  </cell>
+  <cell col="6" row="1" text="15 (5/10)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Thereof complex foundations (north/south)">
+  </cell>
+  <cell col="1" row="2" text="11 (5/6)">
+  </cell>
+  <cell col="2" row="2" text="10 (5/5)">
+  </cell>
+  <cell col="3" row="2" text="8 (3/5)">
+  </cell>
+  <cell col="4" row="2" text="9 (3/6)">
+  </cell>
+  <cell col="5" row="2" text="7 (3/4)">
+  </cell>
+  <cell col="6" row="2" text="9 (3/6)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Thereof non-complex foundations (north/south)">
+  </cell>
+  <cell col="1" row="3" text="10 (5/5)">
+  </cell>
+  <cell col="2" row="3" text="9 (5/4)">
+  </cell>
+  <cell col="3" row="3" text="6 (2/4)">
+  </cell>
+  <cell col="4" row="3" text="6 (2/4)">
+  </cell>
+  <cell col="5" row="3" text="6 (2/4)">
+  </cell>
+  <cell col="6" row="3" text="6 (2/4)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Control areas (north/south)">
+  </cell>
+  <cell col="1" row="4" text="21 (10/11)">
+  </cell>
+  <cell col="2" row="4" text="19 (10/9)">
+  </cell>
+  <cell col="3" row="4" text="14 (5/9)">
+  </cell>
+  <cell col="4" row="4" text="15 (5/10)">
+  </cell>
+  <cell col="5" row="4" text="13 (5/8)">
+  </cell>
+  <cell col="6" row="4" text="15 (5/10)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Total number of foundations (north/south) for the year 2019 is 15 (5/10)." type="entailed">
+  </statement>
+  <statement id="3" text="Thereof non-complex foundations (north/south) for the year 2009 is 10 (5/5)." type="refuted">
+  </statement>
+  <statement id="5" text="During 2007 the surveys covered all 21 foundations with associated 21 controls." type="entailed">
+  </statement>
+  <statement id="6" text="In 2008, 19 foundations and associated 19 controls were sampled." type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 4>
+ <caption text="
+
+   Summary of the 2-way crossed SIMPER results for the comparison of the species assemblage between sampling areas. Average abundance of discriminating species in each sampling area, foundation and control, their contribution (%) to the dissimilarity between sampling areas, and cumulative total (%) of contributions. Listed taxa contributed to at least 80% of the dissimilarity between the foundations and controls.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Species">
+  </cell>
+  <cell col="1" row="0" text="Abundance">
+  </cell>
+  <cell col="3" row="0" text="Contribution">
+  </cell>
+  <cell col="4" row="0" text="Cumulative">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="Foundations">
+  </cell>
+  <cell col="2" row="1" text="Controls">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Cancer pagurus">
+  </cell>
+  <cell col="1" row="2" text="1.39">
+  </cell>
+  <cell col="2" row="2" text="0.11">
+  </cell>
+  <cell col="3" row="2" text="16.71">
+  </cell>
+  <cell col="4" row="2" text="16.71">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Pagurus
+     
+     spp.">
+  </cell>
+  <cell col="1" row="3" text="1.13">
+  </cell>
+  <cell col="2" row="3" text="0.28">
+  </cell>
+  <cell col="3" row="3" text="12.03">
+  </cell>
+  <cell col="4" row="3" text="28.74">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Marthasterias glacialis">
+  </cell>
+  <cell col="1" row="4" text="1.04">
+  </cell>
+  <cell col="2" row="4" text="0.08">
+  </cell>
+  <cell col="3" row="4" text="10.61">
+  </cell>
+  <cell col="4" row="4" text="39.35">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Astropecten irregularis">
+  </cell>
+  <cell col="1" row="5" text="0.48">
+  </cell>
+  <cell col="2" row="5" text="0.94">
+  </cell>
+  <cell col="3" row="5" text="9.42">
+  </cell>
+  <cell col="4" row="5" text="48.77">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Gadus morhua
+     
+     (juv.)">
+  </cell>
+  <cell col="1" row="6" text="0.79">
+  </cell>
+  <cell col="2" row="6" text="0.21">
+  </cell>
+  <cell col="3" row="6" text="6.52">
+  </cell>
+  <cell col="4" row="6" text="55.29">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Liocarcinus depurator">
+  </cell>
+  <cell col="1" row="7" text="0.54">
+  </cell>
+  <cell col="2" row="7" text="0.28">
+  </cell>
+  <cell col="3" row="7" text="6.35">
+  </cell>
+  <cell col="4" row="7" text="61.64">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Asterias rubens">
+  </cell>
+  <cell col="1" row="8" text="0.47">
+  </cell>
+  <cell col="2" row="8" text="0.03">
+  </cell>
+  <cell col="3" row="8" text="4.93">
+  </cell>
+  <cell col="4" row="8" text="66.57">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Ctenolabrus rupestris">
+  </cell>
+  <cell col="1" row="9" text="0.45">
+  </cell>
+  <cell col="2" row="9" text="0">
+  </cell>
+  <cell col="3" row="9" text="4.04">
+  </cell>
+  <cell col="4" row="9" text="70.61">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Hyas araneus">
+  </cell>
+  <cell col="1" row="10" text="0.29">
+  </cell>
+  <cell col="2" row="10" text="0.05">
+  </cell>
+  <cell col="3" row="10" text="3.67">
+  </cell>
+  <cell col="4" row="10" text="74.28">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Ophiuroidea">
+  </cell>
+  <cell col="1" row="11" text="0.45">
+  </cell>
+  <cell col="2" row="11" text="0.01">
+  </cell>
+  <cell col="3" row="11" text="3.41">
+  </cell>
+  <cell col="4" row="11" text="77.69">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Pomatoschistus
+     
+     spp.">
+  </cell>
+  <cell col="1" row="12" text="0.13">
+  </cell>
+  <cell col="2" row="12" text="0.2">
+  </cell>
+  <cell col="3" row="12" text="2.72">
+  </cell>
+  <cell col="4" row="12" text="80.4">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Average dissimilarity">
+  </cell>
+  <cell col="1" row="13" text="">
+  </cell>
+  <cell col="2" row="13" text="">
+  </cell>
+  <cell col="3" row="13" text="">
+  </cell>
+  <cell col="4" row="13" text="81.56">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="The Contribution ranges from 2.72 to 16.71." type="entailed">
+  </statement>
+  <statement id="5" text="The dissimilarity between the two sampling areas (foundations and controls) was driven by 11 species covering the taxa fishes, crustaceans and echinoderms, which collectively accounted for 82% of the dissimilarity as shown by a 2-way crossed SIMPER analyses ( Table 4 )." type="entailed">
+  </statement>
+ </statements>
+</Table 4>
+<Table 3>
+ <caption text="
+
+   Results of the 3-way crossed ANOSIM analyses for the taxa Cancer pagurus, Pagurus spp., Marthasterias glacialis and Astropecten irregularis. Global tests on the effects of sampling area: foundations and controls, year and geographical position.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Taxa">
+  </cell>
+  <cell col="1" row="0" text="Sampling area">
+  </cell>
+  <cell col="3" row="0" text="Year">
+  </cell>
+  <cell col="5" row="0" text="Geographical position">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="Global R">
+  </cell>
+  <cell col="2" row="1" text="P-value">
+  </cell>
+  <cell col="3" row="1" text="Global R">
+  </cell>
+  <cell col="4" row="1" text="P-value">
+  </cell>
+  <cell col="5" row="1" text="Global R">
+  </cell>
+  <cell col="6" row="1" text="P-value">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Cancer pagurus">
+  </cell>
+  <cell col="1" row="2" text="0.851">
+  </cell>
+  <cell col="2" row="2" text="0.0001">
+  </cell>
+  <cell col="3" row="2" text="0.003">
+  </cell>
+  <cell col="4" row="2" text="0.052">
+  </cell>
+  <cell col="5" row="2" text="−0.016">
+  </cell>
+  <cell col="6" row="2" text="0.724">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Pagurus
+     
+     spp
+     
+      .">
+  </cell>
+  <cell col="1" row="3" text="0.585">
+  </cell>
+  <cell col="2" row="3" text="0.0001">
+  </cell>
+  <cell col="3" row="3" text="0.044">
+  </cell>
+  <cell col="4" row="3" text="0.027">
+  </cell>
+  <cell col="5" row="3" text="0.03">
+  </cell>
+  <cell col="6" row="3" text="0.153">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Marthasterias glacialis">
+  </cell>
+  <cell col="1" row="4" text="0.872">
+  </cell>
+  <cell col="2" row="4" text="0.0001">
+  </cell>
+  <cell col="3" row="4" text="0.1">
+  </cell>
+  <cell col="4" row="4" text="0.0001">
+  </cell>
+  <cell col="5" row="4" text="−0.008">
+  </cell>
+  <cell col="6" row="4" text="0.585">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Astropecten irregularis">
+  </cell>
+  <cell col="1" row="5" text="0.358">
+  </cell>
+  <cell col="2" row="5" text="0.0001">
+  </cell>
+  <cell col="3" row="5" text="0.186">
+  </cell>
+  <cell col="4" row="5" text="0.0001">
+  </cell>
+  <cell col="5" row="5" text="0.037">
+  </cell>
+  <cell col="6" row="5" text="0.115">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="Taxa , Sampling area , Year and Geographical position are heads given." type="entailed">
+  </statement>
+  <statement id="3" text="0.153 is the P-value Pagurus spp under Geographical position ." type="entailed">
+  </statement>
+  <statement id="4" text="Taxa has fourteen categories under it." type="refuted">
+  </statement>
+  <statement id="5" text="Marthasterias glacialis has 10.1 as Global value for Year" type="refuted">
+  </statement>
+  <statement id="6" text="10.153 is the P-value Pagurus spp under Geographical position ." type="refuted">
+  </statement>
+  <statement id="10" text="Differences between years and geographical position did not show differences between the factor levels ( Table 3 )." type="entailed">
+  </statement>
+  <statement id="11" text="During all years almost all taxa had greater numbers of individuals on foundations than in controls." type="entailed">
+  </statement>
+ </statements>
+</Table 3>
+<Table 10>
+ <caption text="
+
+   Results of the 3-way crossed ANOSIM analyses for the taxa fishes, crustaceans and echinoderms. Global tests on the effects of sampling area foundations and controls, year and geographical position.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Sampling area">
+  </cell>
+  <cell col="3" row="0" text="Year">
+  </cell>
+  <cell col="5" row="0" text="Geographical position">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Taxa">
+  </cell>
+  <cell col="1" row="1" text="Global R">
+  </cell>
+  <cell col="2" row="1" text="P-value">
+  </cell>
+  <cell col="3" row="1" text="Global R">
+  </cell>
+  <cell col="4" row="1" text="P-value">
+  </cell>
+  <cell col="5" row="1" text="Global R">
+  </cell>
+  <cell col="6" row="1" text="P-value">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Fishes">
+  </cell>
+  <cell col="1" row="2" text="0.494">
+  </cell>
+  <cell col="2" row="2" text="0.0001">
+  </cell>
+  <cell col="3" row="2" text="0.19">
+  </cell>
+  <cell col="4" row="2" text="0.0001">
+  </cell>
+  <cell col="5" row="2" text="0.078">
+  </cell>
+  <cell col="6" row="2" text="0.012">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Crustaceans">
+  </cell>
+  <cell col="1" row="3" text="0.68">
+  </cell>
+  <cell col="2" row="3" text="0.0001">
+  </cell>
+  <cell col="3" row="3" text="0.161">
+  </cell>
+  <cell col="4" row="3" text="0.0001">
+  </cell>
+  <cell col="5" row="3" text="0.034">
+  </cell>
+  <cell col="6" row="3" text="0.122">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Echinoderms">
+  </cell>
+  <cell col="1" row="4" text="0.552">
+  </cell>
+  <cell col="2" row="4" text="0.0001">
+  </cell>
+  <cell col="3" row="4" text="0.152">
+  </cell>
+  <cell col="4" row="4" text="0.0001">
+  </cell>
+  <cell col="5" row="4" text="0.055">
+  </cell>
+  <cell col="6" row="4" text="0.056">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="The P-value under Geographical position is 0.122 for Crustaceans" type="entailed">
+  </statement>
+  <statement id="2" text="There are 3 global test - Fishes ,Crustaceans and Echinoderms." type="entailed">
+  </statement>
+  <statement id="3" text="The P-value for Sampling area and Year is constant 0.0001." type="entailed">
+  </statement>
+  <statement id="5" text="The highest Global R value is for Echinoderms 7.552 under Sampling area." type="refuted">
+  </statement>
+ </statements>
+</Table 10>
+<Table 7>
+ <caption text="
+
+   Pairwise comparisons between the years of the species assemblages of complex foundations and the non-complex foundations. A 3-way crossed ANOSIM analyses of the species assemblages revealed significant differences between the years (global R = 0.274; p &lt; 0.001). Significant differences between years are italicized.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Pairwise Tests">
+  </cell>
+  <cell col="3" row="0" text="Permutations">
+  </cell>
+  <cell col="5" row="0" text="No. obs.">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Years compared">
+  </cell>
+  <cell col="1" row="1" text="R value">
+  </cell>
+  <cell col="2" row="1" text="Significance Level %">
+  </cell>
+  <cell col="3" row="1" text="Possible">
+  </cell>
+  <cell col="4" row="1" text="Actual">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2007 vs. 2008">
+  </cell>
+  <cell col="1" row="2" text="0.298">
+  </cell>
+  <cell col="2" row="2" text="0.08">
+  </cell>
+  <cell col="3" row="2" text="924173712">
+  </cell>
+  <cell col="4" row="2" text="9999">
+  </cell>
+  <cell col="5" row="2" text="7">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="2007 vs. 2016">
+  </cell>
+  <cell col="1" row="3" text="0.572">
+  </cell>
+  <cell col="2" row="3" text="0.01">
+  </cell>
+  <cell col="3" row="3" text="68457312">
+  </cell>
+  <cell col="4" row="3" text="9999">
+  </cell>
+  <cell col="5" row="3" text="0">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="2007 vs. 2017">
+  </cell>
+  <cell col="1" row="4" text="0.478">
+  </cell>
+  <cell col="2" row="4" text="0.01">
+  </cell>
+  <cell col="3" row="4" text="68457312">
+  </cell>
+  <cell col="4" row="4" text="9999">
+  </cell>
+  <cell col="5" row="4" text="0">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="2007 vs. 2018">
+  </cell>
+  <cell col="1" row="5" text="0.318">
+  </cell>
+  <cell col="2" row="5" text="0.1">
+  </cell>
+  <cell col="3" row="5" text="31116960">
+  </cell>
+  <cell col="4" row="5" text="9999">
+  </cell>
+  <cell col="5" row="5" text="12">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="2007 vs. 2019">
+  </cell>
+  <cell col="1" row="6" text="0.471">
+  </cell>
+  <cell col="2" row="6" text="0.01">
+  </cell>
+  <cell col="3" row="6" text="68457312">
+  </cell>
+  <cell col="4" row="6" text="9999">
+  </cell>
+  <cell col="5" row="6" text="0">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="2008 vs. 2016">
+  </cell>
+  <cell col="1" row="7" text="0.468">
+  </cell>
+  <cell col="2" row="7" text="0.01">
+  </cell>
+  <cell col="3" row="7" text="5186160">
+  </cell>
+  <cell col="4" row="7" text="9999">
+  </cell>
+  <cell col="5" row="7" text="0">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="2008 vs. 2017">
+  </cell>
+  <cell col="1" row="8" text="0.459">
+  </cell>
+  <cell col="2" row="8" text="0.01">
+  </cell>
+  <cell col="3" row="8" text="19015920">
+  </cell>
+  <cell col="4" row="8" text="9999">
+  </cell>
+  <cell col="5" row="8" text="0">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="2008 vs. 2018">
+  </cell>
+  <cell col="1" row="9" text="0.402">
+  </cell>
+  <cell col="2" row="9" text="0.05">
+  </cell>
+  <cell col="3" row="9" text="5186160">
+  </cell>
+  <cell col="4" row="9" text="9999">
+  </cell>
+  <cell col="5" row="9" text="4">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="2008 vs. 2019">
+  </cell>
+  <cell col="1" row="10" text="0.526">
+  </cell>
+  <cell col="2" row="10" text="0.02">
+  </cell>
+  <cell col="3" row="10" text="19015920">
+  </cell>
+  <cell col="4" row="10" text="9999">
+  </cell>
+  <cell col="5" row="10" text="1">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="2016 vs. 2017">
+  </cell>
+  <cell col="1" row="11" text="0.108">
+  </cell>
+  <cell col="2" row="11" text="12.2">
+  </cell>
+  <cell col="3" row="11" text="485100">
+  </cell>
+  <cell col="4" row="11" text="9999">
+  </cell>
+  <cell col="5" row="11" text="1220">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="2016 vs. 2018">
+  </cell>
+  <cell col="1" row="12" text="0.548">
+  </cell>
+  <cell col="2" row="12" text="0.02">
+  </cell>
+  <cell col="3" row="12" text="132300">
+  </cell>
+  <cell col="4" row="12" text="9999">
+  </cell>
+  <cell col="5" row="12" text="1">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="2016 vs. 2019">
+  </cell>
+  <cell col="1" row="13" text="0.612">
+  </cell>
+  <cell col="2" row="13" text="0.01">
+  </cell>
+  <cell col="3" row="13" text="485100">
+  </cell>
+  <cell col="4" row="13" text="9999">
+  </cell>
+  <cell col="5" row="13" text="0">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="2017 vs. 2018">
+  </cell>
+  <cell col="1" row="14" text="0.313">
+  </cell>
+  <cell col="2" row="14" text="0.3">
+  </cell>
+  <cell col="3" row="14" text="220500">
+  </cell>
+  <cell col="4" row="14" text="9999">
+  </cell>
+  <cell col="5" row="14" text="24">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="2017 vs. 2019">
+  </cell>
+  <cell col="1" row="15" text="0.279">
+  </cell>
+  <cell col="2" row="15" text="0.06">
+  </cell>
+  <cell col="3" row="15" text="485100">
+  </cell>
+  <cell col="4" row="15" text="9999">
+  </cell>
+  <cell col="5" row="15" text="5">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="2018 vs. 2019">
+  </cell>
+  <cell col="1" row="16" text="0.482">
+  </cell>
+  <cell col="2" row="16" text="0.02">
+  </cell>
+  <cell col="3" row="16" text="220500">
+  </cell>
+  <cell col="4" row="16" text="9999">
+  </cell>
+  <cell col="5" row="16" text="1">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Permutations Possible 19015920 Years compared is 2008 vs. 2019." type="entailed">
+  </statement>
+  <statement id="2" text="Permutations Actual is 999 for all the Years compared." type="entailed">
+  </statement>
+  <statement id="3" text="31116960 Permutations Years compared is 2007 vs. 2018." type="entailed">
+  </statement>
+  <statement id="4" text="Permutations Actual is 1000 for all the Years compared." type="refuted">
+  </statement>
+  <statement id="5" text="Pairwise Tests Years compared 2008 vs. 2017 Significance Level % is 0.08." type="refuted">
+  </statement>
+ </statements>
+</Table 7>

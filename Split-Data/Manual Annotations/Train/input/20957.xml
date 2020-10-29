@@ -1,0 +1,751 @@
+<Table 1>
+ <caption text="
+
+   Patient inclusion and exclusion criteria for the AL specified for the case hospital.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Category">
+  </cell>
+  <cell col="1" row="0" text="Status">
+  </cell>
+  <cell col="2" row="0" text="Age">
+  </cell>
+  <cell col="3" row="0" text="ASA">
+  </cell>
+  <cell col="4" row="0" text="Specialties">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="CW">
+  </cell>
+  <cell col="1" row="1" text="Non-elective">
+  </cell>
+  <cell col="2" row="1" text="≥ 86">
+  </cell>
+  <cell col="3" row="1" text="IV, V">
+  </cell>
+  <cell col="4" row="1" text="–">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Grey">
+  </cell>
+  <cell col="1" row="2" text="–">
+  </cell>
+  <cell col="2" row="2" text="76–85">
+  </cell>
+  <cell col="3" row="2" text="III">
+  </cell>
+  <cell col="4" row="2" text="BAR">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="AL">
+  </cell>
+  <cell col="1" row="3" text="Elective">
+  </cell>
+  <cell col="2" row="3" text="18–75">
+  </cell>
+  <cell col="3" row="3" text="I, II">
+  </cell>
+  <cell col="4" row="3" text="CHI, KAA, NCH, ORT, PLA, URO">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The age groups are  86, 7685, 1875." type="">
+  </statement>
+  <statement id="1" text="Category AL Specialties are CHI, KAA, NCH, ORT, PLA, URO" type="">
+  </statement>
+  <statement id="2" text="Elective is the only Status." type="">
+  </statement>
+  <statement id="5" text="Category AL Specialties are not given in the table." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 4>
+ <caption text="
+
+   Patient assignment options for the AL.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Option">
+  </cell>
+  <cell col="1" row="0" text="ASA">
+  </cell>
+  <cell col="2" row="0" text="age">
+  </cell>
+  <cell col="3" row="0" text="speciality">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1">
+  </cell>
+  <cell col="1" row="1" text="III">
+  </cell>
+  <cell col="2" row="1" text="–">
+  </cell>
+  <cell col="3" row="1" text="–">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2">
+  </cell>
+  <cell col="1" row="2" text="III">
+  </cell>
+  <cell col="2" row="2" text="76–80">
+  </cell>
+  <cell col="3" row="2" text="–">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3">
+  </cell>
+  <cell col="1" row="3" text="III">
+  </cell>
+  <cell col="2" row="3" text="76–85">
+  </cell>
+  <cell col="3" row="3" text="–">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4">
+  </cell>
+  <cell col="1" row="4" text="III">
+  </cell>
+  <cell col="2" row="4" text="–">
+  </cell>
+  <cell col="3" row="4" text="BAR">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="5">
+  </cell>
+  <cell col="1" row="5" text="III">
+  </cell>
+  <cell col="2" row="5" text="76–80">
+  </cell>
+  <cell col="3" row="5" text="BAR">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="6">
+  </cell>
+  <cell col="1" row="6" text="III">
+  </cell>
+  <cell col="2" row="6" text="76–85">
+  </cell>
+  <cell col="3" row="6" text="BAR">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="7
+     
+
+       †">
+  </cell>
+  <cell col="1" row="7" text="–">
+  </cell>
+  <cell col="2" row="7" text="–">
+  </cell>
+  <cell col="3" row="7" text="–">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="8">
+  </cell>
+  <cell col="1" row="8" text="–">
+  </cell>
+  <cell col="2" row="8" text="76–80">
+  </cell>
+  <cell col="3" row="8" text="–">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="9">
+  </cell>
+  <cell col="1" row="9" text="–">
+  </cell>
+  <cell col="2" row="9" text="76–85">
+  </cell>
+  <cell col="3" row="9" text="–">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="10">
+  </cell>
+  <cell col="1" row="10" text="–">
+  </cell>
+  <cell col="2" row="10" text="–">
+  </cell>
+  <cell col="3" row="10" text="BAR">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="11">
+  </cell>
+  <cell col="1" row="11" text="–">
+  </cell>
+  <cell col="2" row="11" text="76–80">
+  </cell>
+  <cell col="3" row="11" text="BAR">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="12">
+  </cell>
+  <cell col="1" row="12" text="–">
+  </cell>
+  <cell col="2" row="12" text="76–85">
+  </cell>
+  <cell col="3" row="12" text="BAR">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The age value is not given for option 1, 4, 7 and 10." type="">
+  </statement>
+  <statement id="2" text="There are 15 different types of option in the given table." type="">
+  </statement>
+  <statement id="3" text="Together with the initial case mix selection there are 12 selection options to assess ( Table 4 )." type="">
+  </statement>
+ </statements>
+</Table 4>
+<Table 3>
+ <caption text="
+
+   Performance of the AL in the case hospital calculated with our deterministic model (case hospital data, 2015–2017,
+   
+    n
+   
+   = 7565).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Beds">
+  </cell>
+  <cell col="1" row="0" text="Rejected hours (%)">
+  </cell>
+  <cell col="2" row="0" text="Rejected days (%)">
+  </cell>
+  <cell col="3" row="0" text="Occupancy (%)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1">
+  </cell>
+  <cell col="1" row="1" text="25.1">
+  </cell>
+  <cell col="2" row="1" text="71.4">
+  </cell>
+  <cell col="3" row="1" text="82.9">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2">
+  </cell>
+  <cell col="1" row="2" text="12.3">
+  </cell>
+  <cell col="2" row="2" text="41.9">
+  </cell>
+  <cell col="3" row="2" text="65.5">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3">
+  </cell>
+  <cell col="1" row="3" text="5.1">
+  </cell>
+  <cell col="2" row="3" text="20.4">
+  </cell>
+  <cell col="3" row="3" text="51.8">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4">
+  </cell>
+  <cell col="1" row="4" text="2.9">
+  </cell>
+  <cell col="2" row="4" text="8.1">
+  </cell>
+  <cell col="3" row="4" text="41.4">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="5">
+  </cell>
+  <cell col="1" row="5" text="0.4">
+  </cell>
+  <cell col="2" row="5" text="2.1">
+  </cell>
+  <cell col="3" row="5" text="33.9">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="6">
+  </cell>
+  <cell col="1" row="6" text="0">
+  </cell>
+  <cell col="2" row="6" text="0.2">
+  </cell>
+  <cell col="3" row="6" text="28.4">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="7">
+  </cell>
+  <cell col="1" row="7" text="0">
+  </cell>
+  <cell col="2" row="7" text="0">
+  </cell>
+  <cell col="3" row="7" text="24.3">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Bed 7 has zero rejected hours and zero rejected days percentage." type="">
+  </statement>
+  <statement id="1" text="Only Bed 6 does not have rejected hours percent." type="">
+  </statement>
+  <statement id="2" text="Each bed has different rejected days." type="">
+  </statement>
+  <statement id="3" text="Bed 7 has highest occupancy percent." type="">
+  </statement>
+  <statement id="4" text="Each bed has same rejected days." type="">
+  </statement>
+  <statement id="5" text="Table 3 shows that the occupancy ratio is relatively low for a relatively high rejection rate, compared to the performance of the CW." type="">
+  </statement>
+ </statements>
+</Table 3>
+<Table 5>
+ <caption text="
+
+   Top 5 performing assignment options for the AL's patient assignment enumeration (case hospital data, 2015–2017,
+   
+    n
+   
+   = 7565).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Rank">
+  </cell>
+  <cell col="1" row="0" text="Option">
+  </cell>
+  <cell col="2" row="0" text="Beds CW with AL">
+  </cell>
+  <cell col="3" row="0" text="Reduction CW">
+  </cell>
+  <cell col="4" row="0" text="Occupancy CW (%)">
+  </cell>
+  <cell col="5" row="0" text="Beds AL">
+  </cell>
+  <cell col="6" row="0" text="Rejected hours AL (%)">
+  </cell>
+  <cell col="7" row="0" text="Occupancy AL (%)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1">
+  </cell>
+  <cell col="1" row="1" text="1">
+  </cell>
+  <cell col="2" row="1" text="35">
+  </cell>
+  <cell col="3" row="1" text="2">
+  </cell>
+  <cell col="4" row="1" text="79.6">
+  </cell>
+  <cell col="5" row="1" text="3">
+  </cell>
+  <cell col="6" row="1" text="6.9">
+  </cell>
+  <cell col="7" row="1" text="56.0">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2">
+  </cell>
+  <cell col="1" row="2" text="2">
+  </cell>
+  <cell col="2" row="2" text="35">
+  </cell>
+  <cell col="3" row="2" text="2">
+  </cell>
+  <cell col="4" row="2" text="79.3">
+  </cell>
+  <cell col="5" row="2" text="3">
+  </cell>
+  <cell col="6" row="2" text="9.1">
+  </cell>
+  <cell col="7" row="2" text="59.8">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3">
+  </cell>
+  <cell col="1" row="3" text="4">
+  </cell>
+  <cell col="2" row="3" text="35">
+  </cell>
+  <cell col="3" row="3" text="2">
+  </cell>
+  <cell col="4" row="3" text="79.3">
+  </cell>
+  <cell col="5" row="3" text="3">
+  </cell>
+  <cell col="6" row="3" text="9.7">
+  </cell>
+  <cell col="7" row="3" text="60.1">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4">
+  </cell>
+  <cell col="1" row="4" text="6">
+  </cell>
+  <cell col="2" row="4" text="34">
+  </cell>
+  <cell col="3" row="4" text="3">
+  </cell>
+  <cell col="4" row="4" text="80.1">
+  </cell>
+  <cell col="5" row="4" text="4">
+  </cell>
+  <cell col="6" row="4" text="7.5">
+  </cell>
+  <cell col="7" row="4" text="56.2">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="5">
+  </cell>
+  <cell col="1" row="5" text="12">
+  </cell>
+  <cell col="2" row="5" text="35">
+  </cell>
+  <cell col="3" row="5" text="2">
+  </cell>
+  <cell col="4" row="5" text="79.8">
+  </cell>
+  <cell col="5" row="5" text="3">
+  </cell>
+  <cell col="6" row="5" text="7.9">
+  </cell>
+  <cell col="7" row="5" text="57.0">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are five Rank observed in the table." type="">
+  </statement>
+  <statement id="2" text="Rank 5 is having 12 Option in the table." type="">
+  </statement>
+  <statement id="4" text="Rejected hours AL (%) are same for all." type="">
+  </statement>
+ </statements>
+</Table 5>
+<Table 2>
+ <caption text="
+
+   Inputs for the Erlang loss models and the corresponding required beds and corresponding occupancy (occ.) ratios (case hospital data, 2015–2017,
+   
+    n
+   
+   = 7565).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="2" row="0" text="Current situation">
+  </cell>
+  <cell col="7" row="0" text="With the admission lounge">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+  <cell col="3" row="1" text="p
+     
+      b
+     
+     = 0.05">
+  </cell>
+  <cell col="5" row="1" text="p
+     
+      b
+     
+     = 0.01">
+  </cell>
+  <cell col="7" row="1" text="">
+  </cell>
+  <cell col="8" row="1" text="p
+     
+      b
+     
+     = 0.05">
+  </cell>
+  <cell col="10" row="1" text="p
+     
+      b
+     
+     = 0.01">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="speciality">
+  </cell>
+  <cell col="1" row="2" text="λ">
+  </cell>
+  <cell col="2" row="2" text="μ">
+  </cell>
+  <cell col="3" row="2" text="beds">
+  </cell>
+  <cell col="4" row="2" text="occ.">
+  </cell>
+  <cell col="5" row="2" text="beds">
+  </cell>
+  <cell col="6" row="2" text="occ.">
+  </cell>
+  <cell col="7" row="2" text="μ">
+  </cell>
+  <cell col="8" row="2" text="beds">
+  </cell>
+  <cell col="9" row="2" text="occ.">
+  </cell>
+  <cell col="10" row="2" text="beds">
+  </cell>
+  <cell col="11" row="2" text="occ.">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="BAR">
+  </cell>
+  <cell col="1" row="3" text="1.38">
+  </cell>
+  <cell col="2" row="3" text="1.87">
+  </cell>
+  <cell col="3" row="3" text="6">
+  </cell>
+  <cell col="4" row="3" text="42%">
+  </cell>
+  <cell col="5" row="3" text="8">
+  </cell>
+  <cell col="6" row="3" text="32%">
+  </cell>
+  <cell col="7" row="3" text="–">
+  </cell>
+  <cell col="8" row="3" text="–">
+  </cell>
+  <cell col="9" row="3" text="–">
+  </cell>
+  <cell col="10" row="3" text="–">
+  </cell>
+  <cell col="11" row="3" text="–">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="CHI">
+  </cell>
+  <cell col="1" row="4" text="3.36">
+  </cell>
+  <cell col="2" row="4" text="4.57">
+  </cell>
+  <cell col="3" row="4" text="21">
+  </cell>
+  <cell col="4" row="4" text="70%">
+  </cell>
+  <cell col="5" row="4" text="25">
+  </cell>
+  <cell col="6" row="4" text="61%">
+  </cell>
+  <cell col="7" row="4" text="4.47">
+  </cell>
+  <cell col="8" row="4" text="20">
+  </cell>
+  <cell col="9" row="4" text="72%">
+  </cell>
+  <cell col="10" row="4" text="24">
+  </cell>
+  <cell col="11" row="4" text="62%">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="KAA">
+  </cell>
+  <cell col="1" row="5" text="0.07">
+  </cell>
+  <cell col="2" row="5" text="1.19">
+  </cell>
+  <cell col="3" row="5" text="2">
+  </cell>
+  <cell col="4" row="5" text="4%">
+  </cell>
+  <cell col="5" row="5" text="2">
+  </cell>
+  <cell col="6" row="5" text="4%">
+  </cell>
+  <cell col="7" row="5" text="1.03">
+  </cell>
+  <cell col="8" row="5" text="2">
+  </cell>
+  <cell col="9" row="5" text="4%">
+  </cell>
+  <cell col="10" row="5" text="2">
+  </cell>
+  <cell col="11" row="5" text="4%">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="NCH">
+  </cell>
+  <cell col="1" row="6" text="0.29">
+  </cell>
+  <cell col="2" row="6" text="1.17">
+  </cell>
+  <cell col="3" row="6" text="2">
+  </cell>
+  <cell col="4" row="6" text="16%">
+  </cell>
+  <cell col="5" row="6" text="3">
+  </cell>
+  <cell col="6" row="6" text="11%">
+  </cell>
+  <cell col="7" row="6" text="1.09">
+  </cell>
+  <cell col="8" row="6" text="2">
+  </cell>
+  <cell col="9" row="6" text="15%">
+  </cell>
+  <cell col="10" row="6" text="3">
+  </cell>
+  <cell col="11" row="6" text="10%">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="ORT">
+  </cell>
+  <cell col="1" row="7" text="1.97">
+  </cell>
+  <cell col="2" row="7" text="3.03">
+  </cell>
+  <cell col="3" row="7" text="10">
+  </cell>
+  <cell col="4" row="7" text="57%">
+  </cell>
+  <cell col="5" row="7" text="13">
+  </cell>
+  <cell col="6" row="7" text="46%">
+  </cell>
+  <cell col="7" row="7" text="2.94">
+  </cell>
+  <cell col="8" row="7" text="10">
+  </cell>
+  <cell col="9" row="7" text="56%">
+  </cell>
+  <cell col="10" row="7" text="12">
+  </cell>
+  <cell col="11" row="7" text="48%">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="PLA">
+  </cell>
+  <cell col="1" row="8" text="1.66">
+  </cell>
+  <cell col="2" row="8" text="2.14">
+  </cell>
+  <cell col="3" row="8" text="7">
+  </cell>
+  <cell col="4" row="8" text="49%">
+  </cell>
+  <cell col="5" row="8" text="9">
+  </cell>
+  <cell col="6" row="8" text="39%">
+  </cell>
+  <cell col="7" row="8" text="1.92">
+  </cell>
+  <cell col="8" row="8" text="7">
+  </cell>
+  <cell col="9" row="8" text="44%">
+  </cell>
+  <cell col="10" row="8" text="9">
+  </cell>
+  <cell col="11" row="8" text="35%">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="URO">
+  </cell>
+  <cell col="1" row="9" text="1.12">
+  </cell>
+  <cell col="2" row="9" text="2.21">
+  </cell>
+  <cell col="3" row="9" text="6">
+  </cell>
+  <cell col="4" row="9" text="40%">
+  </cell>
+  <cell col="5" row="9" text="7">
+  </cell>
+  <cell col="6" row="9" text="35%">
+  </cell>
+  <cell col="7" row="9" text="2.14">
+  </cell>
+  <cell col="8" row="9" text="6">
+  </cell>
+  <cell col="9" row="9" text="39%">
+  </cell>
+  <cell col="10" row="9" text="7">
+  </cell>
+  <cell col="11" row="9" text="34%">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Pooled">
+  </cell>
+  <cell col="1" row="10" text="9.86">
+  </cell>
+  <cell col="2" row="10" text="3.17">
+  </cell>
+  <cell col="3" row="10" text="37">
+  </cell>
+  <cell col="4" row="10" text="80%">
+  </cell>
+  <cell col="5" row="10" text="43">
+  </cell>
+  <cell col="6" row="10" text="72%">
+  </cell>
+  <cell col="7" row="10" text="3.08">
+  </cell>
+  <cell col="8" row="10" text="35">
+  </cell>
+  <cell col="9" row="10" text="80%">
+  </cell>
+  <cell col="10" row="10" text="41">
+  </cell>
+  <cell col="11" row="10" text="71%">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="The Pooled is having same occupancy of 80% in the table." type="">
+  </statement>
+  <statement id="3" text="The case hospital data is from 2015 to 2017." type="">
+  </statement>
+  <statement id="4" text="There are no values found for BAR With the admission lounge." type="">
+  </statement>
+  <statement id="7" text="The speciality KAA for Current situation and With the admission lounge is unique." type="">
+  </statement>
+  <statement id="8" text="The minimum percentage is 1% for occupancy (occ.)" type="">
+  </statement>
+  <statement id="11" text="The hospital posed that a pooled capacity of 37 beds could be an accurate estimation for the assessed period." type="">
+  </statement>
+ </statements>
+</Table 2>

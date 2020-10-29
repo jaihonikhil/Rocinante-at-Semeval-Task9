@@ -1,0 +1,281 @@
+<Table 1>
+ <caption text="
+
+   Parameter values for the base case.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Parameter">
+  </cell>
+  <cell col="1" row="0" text="Value">
+  </cell>
+  <cell col="2" row="0" text="Unit">
+  </cell>
+  <cell col="3" row="0" text="Description">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="I">
+  </cell>
+  <cell col="1" row="1" text="2 600 000">
+  </cell>
+  <cell col="2" row="1" text="EUR">
+  </cell>
+  <cell col="3" row="1" text="Investment cost">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="K">
+  </cell>
+  <cell col="1" row="2" text="5200">
+  </cell>
+  <cell col="2" row="2" text="MWh">
+  </cell>
+  <cell col="3" row="2" text="Annual production of power plant">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="C
+     
+
+      0">
+  </cell>
+  <cell col="1" row="3" text="8.44">
+  </cell>
+  <cell col="2" row="3" text="EUR/MWh">
+  </cell>
+  <cell col="3" row="3" text="Marginal production cost">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="C
+     
+     (
+     
+      K
+     
+     )">
+  </cell>
+  <cell col="1" row="4" text="43,900">
+  </cell>
+  <cell col="2" row="4" text="EUR/year">
+  </cell>
+  <cell col="3" row="4" text="Total production cost">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="p">
+  </cell>
+  <cell col="1" row="5" text="35.08">
+  </cell>
+  <cell col="2" row="5" text="EUR/MWh">
+  </cell>
+  <cell col="3" row="5" text="Base-load electricity start price">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="p
+       
+
+        +
+       
+
+        F">
+  </cell>
+  <cell col="1" row="6" text="59.4">
+  </cell>
+  <cell col="2" row="6" text="EUR/MWh">
+  </cell>
+  <cell col="3" row="6" text="Feed-in-Tariff">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="λ
+     
+
+      0">
+  </cell>
+  <cell col="1" row="7" text="π
+       
+
+        200">
+  </cell>
+  <cell col="2" row="7" text="-">
+  </cell>
+  <cell col="3" row="7" text="">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="σ">
+  </cell>
+  <cell col="1" row="8" text="0.185">
+  </cell>
+  <cell col="2" row="8" text="-">
+  </cell>
+  <cell col="3" row="8" text="Electricity price volatility">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="μ">
+  </cell>
+  <cell col="1" row="9" text="0">
+  </cell>
+  <cell col="2" row="9" text="-">
+  </cell>
+  <cell col="3" row="9" text="Electricity price drift">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="r">
+  </cell>
+  <cell col="1" row="10" text="0.03">
+  </cell>
+  <cell col="2" row="10" text="-">
+  </cell>
+  <cell col="3" row="10" text="Discount rate">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="The Parameter P has unique unit ." type="">
+  </statement>
+  <statement id="3" text="The parameter value ranges from 0 to 4500000." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   Threshold results of the benchmark and robustness models for constant retraction risk for different values of
+   
+    σ
+   
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="threshold">
+  </cell>
+  <cell col="1" row="0" text="σ
+       
+
+        =
+       
+
+        0.185">
+  </cell>
+  <cell col="2" row="0" text="σ
+       
+
+        =
+       
+
+        0.100">
+  </cell>
+  <cell col="3" row="0" text="σ
+       
+
+        =
+       
+
+        0.05">
+  </cell>
+  <cell col="4" row="0" text="σ
+       
+
+        =
+       
+
+        0.005">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="p
+     
+     *">
+  </cell>
+  <cell col="1" row="1" text="22.11">
+  </cell>
+  <cell col="2" row="1" text="19.32">
+  </cell>
+  <cell col="3" row="1" text="18.17">
+  </cell>
+  <cell col="4" row="1" text="17.83">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="p
+        
+
+         ¯
+        
+
+
+        *">
+  </cell>
+  <cell col="1" row="2" text="32.65">
+  </cell>
+  <cell col="2" row="2" text="23.73">
+  </cell>
+  <cell col="3" row="2" text="20.07">
+  </cell>
+  <cell col="4" row="2" text="18.00">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="=0.100 has Retraction risk of 19.32 for Threshold P*." type="">
+  </statement>
+  <statement id="1" text="Table does not contains any Threshold results of the benchmark and robustness models" type="">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Threshold results of the benchmark and robustness models for the case of constant retraction risk for the base case parameter set.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="threshold">
+  </cell>
+  <cell col="1" row="0" text="value">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="p
+     
+     *">
+  </cell>
+  <cell col="1" row="1" text="22.11">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="p
+        
+
+         ¯
+        
+
+
+        *">
+  </cell>
+  <cell col="1" row="2" text="32.65">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The value ranges from 22.11 to 32.65." type="">
+  </statement>
+  <statement id="1" text="The highest value is 32.65 of p   *." type="">
+  </statement>
+  <statement id="2" text="The lowest value is 22.11 of p *" type="">
+  </statement>
+  <statement id="4" text="They have 3 parameters ." type="">
+  </statement>
+  <statement id="6" text="They have three values in this table." type="">
+  </statement>
+  <statement id="8" text="In Table 2 we state the investment thresholds for the benchmark and the robustness cases for constant retraction risk, using the base case parameter set." type="">
+  </statement>
+ </statements>
+</Table 2>

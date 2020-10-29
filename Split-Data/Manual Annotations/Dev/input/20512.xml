@@ -1,0 +1,806 @@
+<Table 1>
+ <caption text="
+
+   Sample description, column percentages (rounded).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Variables">
+  </cell>
+  <cell col="1" row="0" text="Home-based business">
+  </cell>
+  <cell col="2" row="0" text="Non-home-based business">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Sales from e-commerce">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="None">
+  </cell>
+  <cell col="1" row="2" text="0.66">
+  </cell>
+  <cell col="2" row="2" text="0.72">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Less than half">
+  </cell>
+  <cell col="1" row="3" text="0.14">
+  </cell>
+  <cell col="2" row="3" text="0.21">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="About half">
+  </cell>
+  <cell col="1" row="4" text="0.06">
+  </cell>
+  <cell col="2" row="4" text="0.02">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="More than half">
+  </cell>
+  <cell col="1" row="5" text="0.10">
+  </cell>
+  <cell col="2" row="5" text="0.05">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="All">
+  </cell>
+  <cell col="1" row="6" text="0.04">
+  </cell>
+  <cell col="2" row="6" text="(-)">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="">
+  </cell>
+  <cell col="1" row="7" text="(n=387)">
+  </cell>
+  <cell col="2" row="7" text="(n=607)">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Business location">
+  </cell>
+  <cell col="1" row="8" text="">
+  </cell>
+  <cell col="2" row="8" text="">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="City">
+  </cell>
+  <cell col="1" row="9" text="0.18">
+  </cell>
+  <cell col="2" row="9" text="0.29">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Town">
+  </cell>
+  <cell col="1" row="10" text="0.29">
+  </cell>
+  <cell col="2" row="10" text="0.44">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Village/rural">
+  </cell>
+  <cell col="1" row="11" text="0.53">
+  </cell>
+  <cell col="2" row="11" text="0.27">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="">
+  </cell>
+  <cell col="1" row="12" text="(n=383)">
+  </cell>
+  <cell col="2" row="12" text="(n=606)">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Location of majority of sales/customers">
+  </cell>
+  <cell col="1" row="13" text="">
+  </cell>
+  <cell col="2" row="13" text="">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Local">
+  </cell>
+  <cell col="1" row="14" text="0.22">
+  </cell>
+  <cell col="2" row="14" text="0.36">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="Region/Scotland">
+  </cell>
+  <cell col="1" row="15" text="0.36">
+  </cell>
+  <cell col="2" row="15" text="0.42">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="UK">
+  </cell>
+  <cell col="1" row="16" text="0.29">
+  </cell>
+  <cell col="2" row="16" text="0.17">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="International">
+  </cell>
+  <cell col="1" row="17" text="0.12">
+  </cell>
+  <cell col="2" row="17" text="0.06">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="">
+  </cell>
+  <cell col="1" row="18" text="(n=385)">
+  </cell>
+  <cell col="2" row="18" text="(n=605)">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="Industry (SIC07)">
+  </cell>
+  <cell col="1" row="19" text="">
+  </cell>
+  <cell col="2" row="19" text="">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="Agriculture, forestry, fishing (A)">
+  </cell>
+  <cell col="1" row="20" text="0.05">
+  </cell>
+  <cell col="2" row="20" text="0.02">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="Manufacturing, energy, water (C–E)">
+  </cell>
+  <cell col="1" row="21" text="0.06">
+  </cell>
+  <cell col="2" row="21" text="0.13">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="Construction (F)">
+  </cell>
+  <cell col="1" row="22" text="0.12">
+  </cell>
+  <cell col="2" row="22" text="0.12">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="Wholesale and retail (G)">
+  </cell>
+  <cell col="1" row="23" text="0.06">
+  </cell>
+  <cell col="2" row="23" text="0.30">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="Transportation (H)">
+  </cell>
+  <cell col="1" row="24" text="0.02">
+  </cell>
+  <cell col="2" row="24" text="0.02">
+  </cell>
+ </row>
+ <row row="25">
+  <cell col="0" row="25" text="Accommodation and food (I)">
+  </cell>
+  <cell col="1" row="25" text="0.23">
+  </cell>
+  <cell col="2" row="25" text="0.13">
+  </cell>
+ </row>
+ <row row="26">
+  <cell col="0" row="26" text="Information and Communication (J)">
+  </cell>
+  <cell col="1" row="26" text="0.05">
+  </cell>
+  <cell col="2" row="26" text="0.02">
+  </cell>
+ </row>
+ <row row="27">
+  <cell col="0" row="27" text="Finance, insurance, real estate (K, L)">
+  </cell>
+  <cell col="1" row="27" text="0.03">
+  </cell>
+  <cell col="2" row="27" text="0.04">
+  </cell>
+ </row>
+ <row row="28">
+  <cell col="0" row="28" text="Professional, scientific, technical (M)">
+  </cell>
+  <cell col="1" row="28" text="0.13">
+  </cell>
+  <cell col="2" row="28" text="0.06">
+  </cell>
+ </row>
+ <row row="29">
+  <cell col="0" row="29" text="Education (P)">
+  </cell>
+  <cell col="1" row="29" text="0.04">
+  </cell>
+  <cell col="2" row="29" text="0.02">
+  </cell>
+ </row>
+ <row row="30">
+  <cell col="0" row="30" text="Health and Social (Q)">
+  </cell>
+  <cell col="1" row="30" text="0.03">
+  </cell>
+  <cell col="2" row="30" text="0.04">
+  </cell>
+ </row>
+ <row row="31">
+  <cell col="0" row="31" text="Arts, entertainment (R)">
+  </cell>
+  <cell col="1" row="31" text="0.09">
+  </cell>
+  <cell col="2" row="31" text="0.05">
+  </cell>
+ </row>
+ <row row="32">
+  <cell col="0" row="32" text="Other services (S)">
+  </cell>
+  <cell col="1" row="32" text="0.07">
+  </cell>
+  <cell col="2" row="32" text="0.04">
+  </cell>
+ </row>
+ <row row="33">
+  <cell col="0" row="33" text="Other">
+  </cell>
+  <cell col="1" row="33" text="0.02">
+  </cell>
+  <cell col="2" row="33" text="0.01">
+  </cell>
+ </row>
+ <row row="34">
+  <cell col="0" row="34" text="">
+  </cell>
+  <cell col="1" row="34" text="(n=387)">
+  </cell>
+  <cell col="2" row="34" text="(n=606)">
+  </cell>
+ </row>
+ <row row="35">
+  <cell col="0" row="35" text="Business is part-time">
+  </cell>
+  <cell col="1" row="35" text="0.17">
+  </cell>
+  <cell col="2" row="35" text="0.07">
+  </cell>
+ </row>
+ <row row="36">
+  <cell col="0" row="36" text="">
+  </cell>
+  <cell col="1" row="36" text="(n=386)">
+  </cell>
+  <cell col="2" row="36" text="(n=606)">
+  </cell>
+ </row>
+ <row row="37">
+  <cell col="0" row="37" text="Employed people in business">
+  </cell>
+  <cell col="1" row="37" text="">
+  </cell>
+  <cell col="2" row="37" text="">
+  </cell>
+ </row>
+ <row row="38">
+  <cell col="0" row="38" text="Owner only">
+  </cell>
+  <cell col="1" row="38" text="0.35">
+  </cell>
+  <cell col="2" row="38" text="0.15">
+  </cell>
+ </row>
+ <row row="39">
+  <cell col="0" row="39" text="2–3 (incl. owner)">
+  </cell>
+  <cell col="1" row="39" text="0.38">
+  </cell>
+  <cell col="2" row="39" text="0.21">
+  </cell>
+ </row>
+ <row row="40">
+  <cell col="0" row="40" text="4–9 (incl. owner)">
+  </cell>
+  <cell col="1" row="40" text="0.18">
+  </cell>
+  <cell col="2" row="40" text="0.39">
+  </cell>
+ </row>
+ <row row="41">
+  <cell col="0" row="41" text="10+ (incl. owner)">
+  </cell>
+  <cell col="1" row="41" text="0.08">
+  </cell>
+  <cell col="2" row="41" text="0.24">
+  </cell>
+ </row>
+ <row row="42">
+  <cell col="0" row="42" text="">
+  </cell>
+  <cell col="1" row="42" text="(n=387)">
+  </cell>
+  <cell col="2" row="42" text="(n=607)">
+  </cell>
+ </row>
+ <row row="43">
+  <cell col="0" row="43" text="Turnover in last year">
+  </cell>
+  <cell col="1" row="43" text="">
+  </cell>
+  <cell col="2" row="43" text="">
+  </cell>
+ </row>
+ <row row="44">
+  <cell col="0" row="44" text="Less than £25,000">
+  </cell>
+  <cell col="1" row="44" text="0.27">
+  </cell>
+  <cell col="2" row="44" text="0.09">
+  </cell>
+ </row>
+ <row row="45">
+  <cell col="0" row="45" text="£25,000 - £50,000">
+  </cell>
+  <cell col="1" row="45" text="0.19">
+  </cell>
+  <cell col="2" row="45" text="0.08">
+  </cell>
+ </row>
+ <row row="46">
+  <cell col="0" row="46" text="£50,001 - £100,000">
+  </cell>
+  <cell col="1" row="46" text="0.27">
+  </cell>
+  <cell col="2" row="46" text="0.16">
+  </cell>
+ </row>
+ <row row="47">
+  <cell col="0" row="47" text="£100,001 - £250,000">
+  </cell>
+  <cell col="1" row="47" text="0.18">
+  </cell>
+  <cell col="2" row="47" text="0.22">
+  </cell>
+ </row>
+ <row row="48">
+  <cell col="0" row="48" text="£250,001 - £500,000">
+  </cell>
+  <cell col="1" row="48" text="0.07">
+  </cell>
+  <cell col="2" row="48" text="0.19">
+  </cell>
+ </row>
+ <row row="49">
+  <cell col="0" row="49" text="£500,001+">
+  </cell>
+  <cell col="1" row="49" text="0.02">
+  </cell>
+  <cell col="2" row="49" text="0.26">
+  </cell>
+ </row>
+ <row row="50">
+  <cell col="0" row="50" text="">
+  </cell>
+  <cell col="1" row="50" text="(n=373)">
+  </cell>
+  <cell col="2" row="50" text="(n=595)">
+  </cell>
+ </row>
+ <row row="51">
+  <cell col="0" row="51" text="Years of trading">
+  </cell>
+  <cell col="1" row="51" text="">
+  </cell>
+  <cell col="2" row="51" text="">
+  </cell>
+ </row>
+ <row row="52">
+  <cell col="0" row="52" text="0–&lt;2">
+  </cell>
+  <cell col="1" row="52" text="0.09">
+  </cell>
+  <cell col="2" row="52" text="0.05">
+  </cell>
+ </row>
+ <row row="53">
+  <cell col="0" row="53" text="2–&lt;5">
+  </cell>
+  <cell col="1" row="53" text="0.15">
+  </cell>
+  <cell col="2" row="53" text="0.14">
+  </cell>
+ </row>
+ <row row="54">
+  <cell col="0" row="54" text="5–&lt;10">
+  </cell>
+  <cell col="1" row="54" text="0.22">
+  </cell>
+  <cell col="2" row="54" text="0.17">
+  </cell>
+ </row>
+ <row row="55">
+  <cell col="0" row="55" text="10–&lt;15">
+  </cell>
+  <cell col="1" row="55" text="0.20">
+  </cell>
+  <cell col="2" row="55" text="0.18">
+  </cell>
+ </row>
+ <row row="56">
+  <cell col="0" row="56" text="15–24">
+  </cell>
+  <cell col="1" row="56" text="0.21">
+  </cell>
+  <cell col="2" row="56" text="0.20">
+  </cell>
+ </row>
+ <row row="57">
+  <cell col="0" row="57" text="25+">
+  </cell>
+  <cell col="1" row="57" text="0.13">
+  </cell>
+  <cell col="2" row="57" text="0.25">
+  </cell>
+ </row>
+ <row row="58">
+  <cell col="0" row="58" text="">
+  </cell>
+  <cell col="1" row="58" text="(n=382)">
+  </cell>
+  <cell col="2" row="58" text="(n=592)">
+  </cell>
+ </row>
+ <row row="59">
+  <cell col="0" row="59" text="Type of customers">
+  </cell>
+  <cell col="1" row="59" text="">
+  </cell>
+  <cell col="2" row="59" text="">
+  </cell>
+ </row>
+ <row row="60">
+  <cell col="0" row="60" text="Other businesses">
+  </cell>
+  <cell col="1" row="60" text="0.41">
+  </cell>
+  <cell col="2" row="60" text="0.35">
+  </cell>
+ </row>
+ <row row="61">
+  <cell col="0" row="61" text="Individuals">
+  </cell>
+  <cell col="1" row="61" text="0.51">
+  </cell>
+  <cell col="2" row="61" text="0.56">
+  </cell>
+ </row>
+ <row row="62">
+  <cell col="0" row="62" text="Other">
+  </cell>
+  <cell col="1" row="62" text="0.09">
+  </cell>
+  <cell col="2" row="62" text="0.10">
+  </cell>
+ </row>
+ <row row="63">
+  <cell col="0" row="63" text="">
+  </cell>
+  <cell col="1" row="63" text="(n=386)">
+  </cell>
+  <cell col="2" row="63" text="(n=603)">
+  </cell>
+ </row>
+ <row row="64">
+  <cell col="0" row="64" text="Women owners">
+  </cell>
+  <cell col="1" row="64" text="0.33">
+  </cell>
+  <cell col="2" row="64" text="0.33">
+  </cell>
+ </row>
+ <row row="65">
+  <cell col="0" row="65" text="">
+  </cell>
+  <cell col="1" row="65" text="(n=383)">
+  </cell>
+  <cell col="2" row="65" text="(n=605)">
+  </cell>
+ </row>
+ <row row="66">
+  <cell col="0" row="66" text="Age of owner">
+  </cell>
+  <cell col="1" row="66" text="">
+  </cell>
+  <cell col="2" row="66" text="">
+  </cell>
+ </row>
+ <row row="67">
+  <cell col="0" row="67" text="&lt;=40">
+  </cell>
+  <cell col="1" row="67" text="0.08">
+  </cell>
+  <cell col="2" row="67" text="0.11">
+  </cell>
+ </row>
+ <row row="68">
+  <cell col="0" row="68" text="41–54">
+  </cell>
+  <cell col="1" row="68" text="0.39">
+  </cell>
+  <cell col="2" row="68" text="0.45">
+  </cell>
+ </row>
+ <row row="69">
+  <cell col="0" row="69" text="55–64">
+  </cell>
+  <cell col="1" row="69" text="0.37">
+  </cell>
+  <cell col="2" row="69" text="0.29">
+  </cell>
+ </row>
+ <row row="70">
+  <cell col="0" row="70" text="65+">
+  </cell>
+  <cell col="1" row="70" text="0.16">
+  </cell>
+  <cell col="2" row="70" text="0.15">
+  </cell>
+ </row>
+ <row row="71">
+  <cell col="0" row="71" text="">
+  </cell>
+  <cell col="1" row="71" text="(n=383)">
+  </cell>
+  <cell col="2" row="71" text="(n=606)">
+  </cell>
+ </row>
+ <row row="72">
+  <cell col="0" row="72" text="Owner has disability/long-term health condition">
+  </cell>
+  <cell col="1" row="72" text="0.14">
+  </cell>
+  <cell col="2" row="72" text="0.13">
+  </cell>
+ </row>
+ <row row="73">
+  <cell col="0" row="73" text="">
+  </cell>
+  <cell col="1" row="73" text="(n=384)">
+  </cell>
+  <cell col="2" row="73" text="(n=605)">
+  </cell>
+ </row>
+ <row row="74">
+  <cell col="0" row="74" text="Number of children in household">
+  </cell>
+  <cell col="1" row="74" text="">
+  </cell>
+  <cell col="2" row="74" text="">
+  </cell>
+ </row>
+ <row row="75">
+  <cell col="0" row="75" text="0">
+  </cell>
+  <cell col="1" row="75" text="0.74">
+  </cell>
+  <cell col="2" row="75" text="0.69">
+  </cell>
+ </row>
+ <row row="76">
+  <cell col="0" row="76" text="1 child">
+  </cell>
+  <cell col="1" row="76" text="0.11">
+  </cell>
+  <cell col="2" row="76" text="0.13">
+  </cell>
+ </row>
+ <row row="77">
+  <cell col="0" row="77" text="2 and more children">
+  </cell>
+  <cell col="1" row="77" text="0.15">
+  </cell>
+  <cell col="2" row="77" text="0.18">
+  </cell>
+ </row>
+ <row row="78">
+  <cell col="0" row="78" text="">
+  </cell>
+  <cell col="1" row="78" text="(n=387)">
+  </cell>
+  <cell col="2" row="78" text="(n=607)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Variables More than half Home-based busines is 0.10." type="">
+  </statement>
+  <statement id="2" text="Variables International Home-based business 0.12." type="">
+  </statement>
+  <statement id="4" text="Variables International Home-based business 0.66 ." type="">
+  </statement>
+  <statement id="7" text="This said, descriptive findings show that the geography of sales is more international and national in nature amongst home-based businesses compared to non-home-based businesses ( Table 1 )." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   Modelling framework.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Variables in models">
+  </cell>
+  <cell col="1" row="0" text="Research Questions">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Dependent variable">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Proportion of sales from e-commerce (no sales, less than half, half and more)">
+  </cell>
+  <cell col="1" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Key co-variates">
+  </cell>
+  <cell col="1" row="3" text="">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Home-based business (yes/no)">
+  </cell>
+  <cell col="1" row="4" text="1st research question">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Business location (city, town, village/rural)">
+  </cell>
+  <cell col="1" row="5" text="">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="(Broadband speed at postcode district level)">
+  </cell>
+  <cell col="1" row="6" text="">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Interaction term between home-based business and business location">
+  </cell>
+  <cell col="1" row="7" text="2nd research question">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Location of customers (local; regional (Scotland); national (UK); international)">
+  </cell>
+  <cell col="1" row="8" text="">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Interaction term between home-based business and location of customers">
+  </cell>
+  <cell col="1" row="9" text="3rd research question">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Controls">
+  </cell>
+  <cell col="1" row="10" text="">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Business characteristics">
+  </cell>
+  <cell col="1" row="11" text="">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Number of employees">
+  </cell>
+  <cell col="1" row="12" text="">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Turnover last year">
+  </cell>
+  <cell col="1" row="13" text="">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Part-time business">
+  </cell>
+  <cell col="1" row="14" text="">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="Type of majority of customers">
+  </cell>
+  <cell col="1" row="15" text="">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="Industry (selected sectors)">
+  </cell>
+  <cell col="1" row="16" text="">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="(Age of business)">
+  </cell>
+  <cell col="1" row="17" text="">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="Entrepreneur characteristics">
+  </cell>
+  <cell col="1" row="18" text="">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="Age of owner">
+  </cell>
+  <cell col="1" row="19" text="">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="Sex of owner">
+  </cell>
+  <cell col="1" row="20" text="">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="Lives with children">
+  </cell>
+  <cell col="1" row="21" text="">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="Disability of owner">
+  </cell>
+  <cell col="1" row="22" text="">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Home-based business (yes/no) are 1st research question." type="">
+  </statement>
+  <statement id="2" text="Interaction term between home-based business and business location is the 2nd research question." type="">
+  </statement>
+  <statement id="3" text="Lives with children is the 2nd research question." type="">
+  </statement>
+  <statement id="5" text="There are 25 Modelling framework observed in the tables ." type="">
+  </statement>
+ </statements>
+</Table 2>

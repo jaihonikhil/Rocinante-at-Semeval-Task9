@@ -1,0 +1,489 @@
+<Table 1>
+ <caption text="
+
+   Summary of Irrigation Automation Using Various Artificial Intelligence Technologies.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="No.">
+  </cell>
+  <cell col="1" row="0" text="Algorithms">
+  </cell>
+  <cell col="2" row="0" text="Method of evapotranspiration / desired calculation">
+  </cell>
+  <cell col="3" row="0" text="Other Technologies">
+  </cell>
+  <cell col="4" row="0" text="Advantages/Results">
+  </cell>
+  <cell col="5" row="0" text="References">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1.">
+  </cell>
+  <cell col="1" row="1" text="PLSR and other regression
+     
+     Algorithms">
+  </cell>
+  <cell col="2" row="1" text="Evapotranspiration model">
+  </cell>
+  <cell col="3" row="1" text="Sensors for data collection, IOT Hardware Implementation">
+  </cell>
+  <cell col="4" row="1" text="Increased efficiency and economic feasibility">
+  </cell>
+  <cell col="5" row="1" text="Choudhary et al. (2019)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2.">
+  </cell>
+  <cell col="1" row="2" text="Artificial Neural Network based control system">
+  </cell>
+  <cell col="2" row="2" text="Evapotranspiration model">
+  </cell>
+  <cell col="3" row="2" text="Sensors for measurement of soil,temperature,wind speed, etc.">
+  </cell>
+  <cell col="4" row="2" text="Automation">
+  </cell>
+  <cell col="5" row="2" text="Umair and Usman (2010)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3.">
+  </cell>
+  <cell col="1" row="3" text="Fuzzy Logic">
+  </cell>
+  <cell col="2" row="3" text="FAO Penman- Monteith method">
+  </cell>
+  <cell col="3" row="3" text="–">
+  </cell>
+  <cell col="4" row="3" text="Optimization">
+  </cell>
+  <cell col="5" row="3" text="Kia et al. (2009)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4.">
+  </cell>
+  <cell col="1" row="4" text="ANN (multilayer neural model), Levenberg Marquardt, Backpropagation">
+  </cell>
+  <cell col="2" row="4" text="Penman–Monteith method">
+  </cell>
+  <cell col="3" row="4" text="–">
+  </cell>
+  <cell col="4" row="4" text="Evaporation decreased due to schedule and savings observed in water and electrical energy">
+  </cell>
+  <cell col="5" row="4" text="Karasekreter et al. (2013)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="5.">
+  </cell>
+  <cell col="1" row="5" text="Fuzzy Logic">
+  </cell>
+  <cell col="2" row="5" text="–">
+  </cell>
+  <cell col="3" row="5" text="WSN, Zigbee">
+  </cell>
+  <cell col="4" row="5" text="Experimental results verification. Can be applied to home gardens and grass">
+  </cell>
+  <cell col="5" row="5" text="Al-Ali et al. (2015)">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="6.">
+  </cell>
+  <cell col="1" row="6" text="ANN
+     
+     Feed Forward, Backpropogation">
+  </cell>
+  <cell col="2" row="6" text="–">
+  </cell>
+  <cell col="3" row="6" text="–">
+  </cell>
+  <cell col="4" row="6" text="Optimization of water resources in a smart farm.">
+  </cell>
+  <cell col="5" row="6" text="Dela Cruz et al. (2017)">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="7.">
+  </cell>
+  <cell col="1" row="7" text="Fuzzy Logic Controller">
+  </cell>
+  <cell col="2" row="7" text="Penman–Monteith method">
+  </cell>
+  <cell col="3" row="7" text="Wireless sensors">
+  </cell>
+  <cell col="4" row="7" text="Drip irrigation prevents wastage of water and evaporation">
+  </cell>
+  <cell col="5" row="7" text="Anand et al. (2015)">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="8.">
+  </cell>
+  <cell col="1" row="8" text="Machine Learning algorithm">
+  </cell>
+  <cell col="2" row="8" text="–">
+  </cell>
+  <cell col="3" row="8" text="Sensors, Zigbee, Arduino microcontroller">
+  </cell>
+  <cell col="4" row="8" text="Prediction and tackles drought situations">
+  </cell>
+  <cell col="5" row="8" text="Arvind et al. (2017)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="They have 8 Algorithms in the given table." type="">
+  </statement>
+  <statement id="1" text="They have 5 Algorithms in the given table." type="">
+  </statement>
+  <statement id="2" text="They has a references has mentioned in the given table." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 4>
+ <caption text="
+
+   Summary of various applications of drones in agriculture.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="No.">
+  </cell>
+  <cell col="1" row="0" text="Application">
+  </cell>
+  <cell col="2" row="0" text="Technologies/algorithms used">
+  </cell>
+  <cell col="3" row="0" text="Results">
+  </cell>
+  <cell col="4" row="0" text="Reference">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1.">
+  </cell>
+  <cell col="1" row="1" text="Pesticide Spraying">
+  </cell>
+  <cell col="2" row="1" text="Wireless Sensor Networks, Gyroscope and Accelerometer sensors">
+  </cell>
+  <cell col="3" row="1" text="N/A">
+  </cell>
+  <cell col="4" row="1" text="Garre and Harish (2018)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2.">
+  </cell>
+  <cell col="1" row="2" text="Crop Monitoring, Mapping, and Spraying">
+  </cell>
+  <cell col="2" row="2" text="DJI Phantom 3 Advanced UAV and other softwares">
+  </cell>
+  <cell col="3" row="2" text="UAVs could be used in order to detect abnormalities and identify potential problems.">
+  </cell>
+  <cell col="4" row="2" text="Psirofonia et al. (2017)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3.">
+  </cell>
+  <cell col="1" row="3" text="Crop Monitoring">
+  </cell>
+  <cell col="2" row="3" text="Multispectral sensor">
+  </cell>
+  <cell col="3" row="3" text="Linear regressions between NDVI and plant nitrogen, aerial biomass, etc. were significant. This has the potential to provide insight to good management practices and techniques.">
+  </cell>
+  <cell col="4" row="3" text="Vega et al. (2015)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4.">
+  </cell>
+  <cell col="1" row="4" text="Pesticide Spraying">
+  </cell>
+  <cell col="2" row="4" text="Spray motor">
+  </cell>
+  <cell col="3" row="4" text="Worked satisfactorily when tested on groundnuts and paddy crops">
+  </cell>
+  <cell col="4" row="4" text="Yallappa et al. (2017)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="5.">
+  </cell>
+  <cell col="1" row="5" text="Remote Sensing">
+  </cell>
+  <cell col="2" row="5" text="Multispectral camera">
+  </cell>
+  <cell col="3" row="5" text="The UAV remote sensing system was tested on a turf grass field and was capable of monitoring the temporal changes in the field.">
+  </cell>
+  <cell col="4" row="5" text="Xiang and Tian (2011)">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="6.">
+  </cell>
+  <cell col="1" row="6" text="Remote Sensing">
+  </cell>
+  <cell col="2" row="6" text="Spectral Spatial classification, Bayesian information criterion (BIC)">
+  </cell>
+  <cell col="3" row="6" text="Manual Tomato detection is difficult so using this technology, the areas could be classified into tomato and non tomato regions. Detection was carried out successfully on two representative images.">
+  </cell>
+  <cell col="4" row="6" text="Senthilnath et al. (2016)">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="7.">
+  </cell>
+  <cell col="1" row="7" text="Crop Monitoring">
+  </cell>
+  <cell col="2" row="7" text="Hyperspectral Frame Camera">
+  </cell>
+  <cell col="3" row="7" text="Camera flight campaign successfully delivered the hyperspectral data. This enables the monitoring of the leaf nitrogen concentration in rice.">
+  </cell>
+  <cell col="4" row="7" text="Zheng et al. (2016)">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="8.">
+  </cell>
+  <cell col="1" row="8" text="Crop Monitoring">
+  </cell>
+  <cell col="2" row="8" text="Camera and Softwares">
+  </cell>
+  <cell col="3" row="8" text="Accurate way to monitor various aspects of the farm like creating digital map of field, detecting problems with crop health, etc.">
+  </cell>
+  <cell col="4" row="8" text="Reinecke and Prinsloo (2017a, 2017b)">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="9.">
+  </cell>
+  <cell col="1" row="9" text="Precision Agriculture Monitoring">
+  </cell>
+  <cell col="2" row="9" text="–">
+  </cell>
+  <cell col="3" row="9" text="Provides an approach for the segregation of sparse and dense areas within a sugarcane field.
+     
+     It makes use of satellite data. Accuracy was 87% for testing.">
+  </cell>
+  <cell col="4" row="9" text="Murugan et al. (2017)">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="10.">
+  </cell>
+  <cell col="1" row="10" text="Spraying Fertilizers and Pesticides">
+  </cell>
+  <cell col="2" row="10" text="Accelerometer and Gyroscope Sensors, Arduino">
+  </cell>
+  <cell col="3" row="10" text="It has the ability to reduce time and human effort.">
+  </cell>
+  <cell col="4" row="10" text="Pharne et al. (2018)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Except crop monitoring none of the application is having reference." type="">
+  </statement>
+  <statement id="3" text="Result of crop monitoring is not available." type="">
+  </statement>
+  <statement id="4" text="Precision Agriculture MonitoringCrop Monitoring, Mapping, and Spraying" type="">
+  </statement>
+ </statements>
+</Table 4>
+<Table 3>
+ <caption text="
+
+   Classification of Drones for Agricultural Application.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="UAV">
+  </cell>
+  <cell col="1" row="0" text="ROTARY WINGS">
+  </cell>
+  <cell col="2" row="0" text="FIXED WINGS">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Flight duration">
+  </cell>
+  <cell col="1" row="1" text="Fly upto 20 min">
+  </cell>
+  <cell col="2" row="1" text="Fly up to an hour">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Wind pressure">
+  </cell>
+  <cell col="1" row="2" text="Can be flown from in winds gusting from 20 to 50 mph">
+  </cell>
+  <cell col="2" row="2" text="Fly in and out of the wind for satisfactory images">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Flexibility in changing direction">
+  </cell>
+  <cell col="1" row="3" text="Allow new direction during flight for re-direction">
+  </cell>
+  <cell col="2" row="3" text="Allow new direction upload during flight for re-direction">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Price range">
+  </cell>
+  <cell col="1" row="4" text="$500 to $100,000">
+  </cell>
+  <cell col="2" row="4" text="$500 to $100,000">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Deployable option">
+  </cell>
+  <cell col="1" row="5" text="Highly deployable">
+  </cell>
+  <cell col="2" row="5" text="Highly deployable">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Flight duration UAV has Fly up to an hour as FIXED WINGS." type="">
+  </statement>
+  <statement id="2" text="Highly deployable is the Deployable option given for ROTARY WINGS and FIXED WINGS." type="">
+  </statement>
+  <statement id="3" text="The table has ten columns." type="">
+  </statement>
+  <statement id="5" text="Price range is $200 to $1500,000 for both ROTARY WINGS and FIXED WINGS." type="">
+  </statement>
+ </statements>
+</Table 3>
+<Table 5>
+ <caption text="
+
+   Summary of the literature of the weeding, soil moisture detection, spraying and crop yield monitoring.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Sr no.">
+  </cell>
+  <cell col="1" row="0" text="Function">
+  </cell>
+  <cell col="2" row="0" text="Method">
+  </cell>
+  <cell col="3" row="0" text="Description">
+  </cell>
+  <cell col="4" row="0" text="Challenges and future scope">
+  </cell>
+  <cell col="5" row="0" text="References">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1.">
+  </cell>
+  <cell col="1" row="1" text="Weeding">
+  </cell>
+  <cell col="2" row="1" text="Bradley Method">
+  </cell>
+  <cell col="3" row="1" text="The Bradleys used their approach to successfully remove weeds in Ashton Park, part of Sydney Harbor National Park, NSW, from a 16-hectare (40-acre) reserve.">
+  </cell>
+  <cell col="4" row="1" text="The word ‘bush regeneration ‘currently includes practices other than weed removal, such as replanting and adding species to an environment where soil, water, or fire regimes have transferred the correct type of plant to the region.">
+  </cell>
+  <cell col="5" row="1" text="Buchanan (1989)
+     
+     .">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2.">
+  </cell>
+  <cell col="1" row="2" text="Weeding">
+  </cell>
+  <cell col="2" row="2" text="Computer vision assisted system">
+  </cell>
+  <cell col="3" row="2" text="The mechanically weeding actuator consists of an integrated servo motor coupled with the computer vision aided system to detect plant sites and direct the weeding actuator to perform mechanical weeding operations without harming crops.">
+  </cell>
+  <cell col="4" row="2" text="The accuracy of the system is found to be 93.6% using haar cascade classifier using OpenCV open source framework. Hence, it can be continued using in future.">
+  </cell>
+  <cell col="5" row="2" text="Nanda and Reddy (2018)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3">
+  </cell>
+  <cell col="1" row="3" text="Soil moisture detection">
+  </cell>
+  <cell col="2" row="3" text="Moisture Analyzers and METTLER TOLEDO">
+  </cell>
+  <cell col="3" row="3" text="Precise temperature control with halogen heating technology and outstanding weighing technology">
+  </cell>
+  <cell col="4" row="3" text="Robust construction, built-in performance tests and a comprehensive service offering">
+  </cell>
+  <cell col="5" row="3" text="(
+     
+      Hanson et al., 2007
+     
+     )">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4">
+  </cell>
+  <cell col="1" row="4" text="Spraying">
+  </cell>
+  <cell col="2" row="4" text="Telerobotic navigation and target selection">
+  </cell>
+  <cell col="3" row="4" text="Targeted selection focuses on the development of a user interface suitable for targeted spraying, while simultaneously telerobotic navigation acknowledges the robot along the rows, so the farmer will be at a safe place away from hazardous materials during the spraying process.">
+  </cell>
+  <cell col="4" row="4" text="Operator has to guide the robot in any given environment; it may be harsh, mild, etc. Aims to develop further for making it applicable in AgriRobot Project.">
+  </cell>
+  <cell col="5" row="4" text="George Adamides et al. User Interface Design Principles for Robotics in Agriculture: The Case of Telerobotic Navigation and Target Selection for Spraying">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="5">
+  </cell>
+  <cell col="1" row="5" text="Spraying">
+  </cell>
+  <cell col="2" row="5" text="Filter-paper ratio assured methods for spraying droplets">
+  </cell>
+  <cell col="3" row="5" text="In this method, the spraying droplet is measured through filter paper ratio-assumed titration,and works out the corresponding function relationship between the diameter of coloured spots and diameter of liquid drops with regression analysis">
+  </cell>
+  <cell col="4" row="5" text="Provides simpler way for gathering data, sampling, measuring spraying droplet and research on new type of plant protection machine.">
+  </cell>
+  <cell col="5" row="5" text="Chen Zhenyu et al. (1996)
+     
+
+      Shang et al. (2004)">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="6">
+  </cell>
+  <cell col="1" row="6" text="Crop Yield Monitoring Systems">
+  </cell>
+  <cell col="2" row="6" text="Grain flow sensors for crop yield monitoring">
+  </cell>
+  <cell col="3" row="6" text="It includes mass flow and volume flow methods which are located below the pivoted auger under the grain tank and in the middle of the elevator respectively. Mass flow methods use weighing type, impact-type, and radiometric-type units while Volume flow methods include paddle wheel type and optical type units.">
+  </cell>
+  <cell col="4" row="6" text="Design and fabrication of any particular crop might be affected by the sensing approach which is employed. Signal processing as well correction approaches should be implemented for accurate monitoring">
+  </cell>
+  <cell col="5" row="6" text="Sun-Ok-
+     
+      Chung et al. (2016)
+     
+
+
+      Kormann et al. (1998)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="3" text="There are 8 types of functions in the given table." type="">
+  </statement>
+  <statement id="5" text="The references for Crop Yield Monitoring Systems function is not given." type="">
+  </statement>
+ </statements>
+</Table 5>

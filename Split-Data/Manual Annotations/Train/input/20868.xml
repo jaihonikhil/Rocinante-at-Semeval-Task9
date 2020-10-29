@@ -1,0 +1,146 @@
+<Table 1>
+ <caption text="
+
+   Material properties of PEEK.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Mechanical properties">
+  </cell>
+  <cell col="1" row="0" text="">
+  </cell>
+  <cell col="2" row="0" text="Thermal properties">
+  </cell>
+  <cell col="3" row="0" text="">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Elastic modulus (GPa)">
+  </cell>
+  <cell col="1" row="1" text="3.6">
+  </cell>
+  <cell col="2" row="1" text="Thermal conductivity (W/mk)">
+  </cell>
+  <cell col="3" row="1" text="4.7">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Density (kg/m
+     
+      3
+     
+     )">
+  </cell>
+  <cell col="1" row="2" text="1300">
+  </cell>
+  <cell col="2" row="2" text="Specific heat (J/kg K)">
+  </cell>
+  <cell col="3" row="2" text="2180">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Poisso’s ratio">
+  </cell>
+  <cell col="1" row="3" text="0.38">
+  </cell>
+  <cell col="2" row="3" text="Glass transition temperature(K)">
+  </cell>
+  <cell col="3" row="3" text="416">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Yield stress (MPa)">
+  </cell>
+  <cell col="1" row="4" text="107">
+  </cell>
+  <cell col="2" row="4" text="Melting temperature(K)">
+  </cell>
+  <cell col="3" row="4" text="616">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Material Properties of PEEK is classified into 2 Classifications." type="">
+  </statement>
+  <statement id="2" text="PEEK has the Elastic modulus of 3.6 GPa." type="">
+  </statement>
+  <statement id="3" text="PEEK has the Elastic modulus of 0.6 GPa." type="">
+  </statement>
+  <statement id="9" text="The process parameters are as follows: the step depth of 0.4 mm, tool diameter of 10 mm, tool rotation speed of 100 r/min and Grease MP-3 continuous lubrication." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   Material properties of PVC.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Mechanical properties">
+  </cell>
+  <cell col="1" row="0" text="">
+  </cell>
+  <cell col="2" row="0" text="Thermal properties">
+  </cell>
+  <cell col="3" row="0" text="">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Elastic modulus (GPa)">
+  </cell>
+  <cell col="1" row="1" text="2.9-3.4">
+  </cell>
+  <cell col="2" row="1" text="Thermal conductivity (W/mk)">
+  </cell>
+  <cell col="3" row="1" text="0.16">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Density (kg/m
+     
+      3
+     
+     )">
+  </cell>
+  <cell col="1" row="2" text="1380">
+  </cell>
+  <cell col="2" row="2" text="Specific heat (J/kg K)">
+  </cell>
+  <cell col="3" row="2" text="900">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Poisso’s ratio">
+  </cell>
+  <cell col="1" row="3" text="0.38">
+  </cell>
+  <cell col="2" row="3" text="Glass transition temperature(K)">
+  </cell>
+  <cell col="3" row="3" text="361">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Yield stress (MPa)">
+  </cell>
+  <cell col="1" row="4" text="50-80">
+  </cell>
+  <cell col="2" row="4" text="Melting temperature(K)">
+  </cell>
+  <cell col="3" row="4" text="486">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are four Mechanical properties ." type="">
+  </statement>
+  <statement id="1" text="There are four Thermal properties ." type="">
+  </statement>
+  <statement id="2" text="Elastic modulus (GPa) ranges from 2.9-3.4." type="">
+  </statement>
+  <statement id="3" text="Thermal conductivity (W/mk) is 0.16." type="">
+  </statement>
+  <statement id="5" text="Melting temperature(K) is 0." type="">
+  </statement>
+ </statements>
+</Table 2>

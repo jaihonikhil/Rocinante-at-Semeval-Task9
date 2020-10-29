@@ -1,0 +1,930 @@
+<!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="t0020" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 4
+       </label>
+<caption id="ca0050">
+<simple-para id="sp0050" view="all">
+         Detailed performance on Pascal VOC 2012 test set.
+        </simple-para>
+</caption>
+
+<tgroup cols="22">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<colspec colname="col4"/>
+<colspec colname="col5"/>
+<colspec colname="col6"/>
+<colspec colname="col7"/>
+<colspec colname="col8"/>
+<colspec colname="col9"/>
+<colspec colname="col10"/>
+<colspec colname="col11"/>
+<colspec colname="col12"/>
+<colspec colname="col13"/>
+<colspec colname="col14"/>
+<colspec colname="col15"/>
+<colspec colname="col16"/>
+<colspec colname="col17"/>
+<colspec colname="col18"/>
+<colspec colname="col19"/>
+<colspec colname="col20"/>
+<colspec colname="col21"/>
+<colspec colname="col22"/>
+<thead>
+<tr trsep="1" valign="top">
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Method
+          </td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Aero
+          </td>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Bike
+          </td>
+<td colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Bird
+          </td>
+<td colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Boat
+          </td>
+<td colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Bottle
+          </td>
+<td colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Bus
+          </td>
+<td colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Car
+          </td>
+<td colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Cat
+          </td>
+<td colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Chair
+          </td>
+<td colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Cow
+          </td>
+<td colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Table
+          </td>
+<td colname="col13" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Dog
+          </td>
+<td colname="col14" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Horse
+          </td>
+<td colname="col15" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Mbike
+          </td>
+<td colname="col16" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Person
+          </td>
+<td colname="col17" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Plant
+          </td>
+<td colname="col18" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Sheep
+          </td>
+<td colname="col19" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Sofa
+          </td>
+<td colname="col20" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Train
+          </td>
+<td colname="col21" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Tv
+          </td>
+<td colname="col22" xmlns="http://www.elsevier.com/xml/common/dtd">
+           mIoU(%)
+          </td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           FCN
+           
+</td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">
+           76.8
+          </td>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+           34.2
+          </td>
+<td colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">
+           68.9
+          </td>
+<td colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">
+           49.4
+          </td>
+<td colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">
+           60.3
+          </td>
+<td colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">
+           75.3
+          </td>
+<td colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">
+           74.7
+          </td>
+<td colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">
+           77.6
+          </td>
+<td colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">
+           21.4
+          </td>
+<td colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">
+           62.5
+          </td>
+<td colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">
+           46.8
+          </td>
+<td colname="col13" xmlns="http://www.elsevier.com/xml/common/dtd">
+           71.8
+          </td>
+<td colname="col14" xmlns="http://www.elsevier.com/xml/common/dtd">
+           63.9
+          </td>
+<td colname="col15" xmlns="http://www.elsevier.com/xml/common/dtd">
+           76.5
+          </td>
+<td colname="col16" xmlns="http://www.elsevier.com/xml/common/dtd">
+           73.9
+          </td>
+<td colname="col17" xmlns="http://www.elsevier.com/xml/common/dtd">
+           45.2
+          </td>
+<td colname="col18" xmlns="http://www.elsevier.com/xml/common/dtd">
+           72.4
+          </td>
+<td colname="col19" xmlns="http://www.elsevier.com/xml/common/dtd">
+           37.4
+          </td>
+<td colname="col20" xmlns="http://www.elsevier.com/xml/common/dtd">
+           70.9
+          </td>
+<td colname="col21" xmlns="http://www.elsevier.com/xml/common/dtd">
+           55.1
+          </td>
+<td colname="col22" xmlns="http://www.elsevier.com/xml/common/dtd">
+           62.2
+          </td>
+</tr>
+<tr>
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           DeepLabv2
+           
+</td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">
+           84.4
+          </td>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+           54.5
+          </td>
+<td colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">
+           81.5
+          </td>
+<td colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">
+           63.6
+          </td>
+<td colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">
+           65.9
+          </td>
+<td colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">
+           85.1
+          </td>
+<td colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">
+           79.1
+          </td>
+<td colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">
+           83.4
+          </td>
+<td colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">
+           30.7
+          </td>
+<td colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">
+           74.1
+          </td>
+<td colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">
+           59.8
+          </td>
+<td colname="col13" xmlns="http://www.elsevier.com/xml/common/dtd">
+           79.0
+          </td>
+<td colname="col14" xmlns="http://www.elsevier.com/xml/common/dtd">
+           76.1
+          </td>
+<td colname="col15" xmlns="http://www.elsevier.com/xml/common/dtd">
+           83.27
+          </td>
+<td colname="col16" xmlns="http://www.elsevier.com/xml/common/dtd">
+           80.8
+          </td>
+<td colname="col17" xmlns="http://www.elsevier.com/xml/common/dtd">
+           59.7
+          </td>
+<td colname="col18" xmlns="http://www.elsevier.com/xml/common/dtd">
+           82.2
+          </td>
+<td colname="col19" xmlns="http://www.elsevier.com/xml/common/dtd">
+           50.4
+          </td>
+<td colname="col20" xmlns="http://www.elsevier.com/xml/common/dtd">
+           73.1
+          </td>
+<td colname="col21" xmlns="http://www.elsevier.com/xml/common/dtd">
+           63.7
+          </td>
+<td colname="col22" xmlns="http://www.elsevier.com/xml/common/dtd">
+           71.6
+          </td>
+</tr>
+<tr>
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           CRF-RNN
+           
+</td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">
+           87.5
+          </td>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+           39.0
+          </td>
+<td colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">
+           79.7
+          </td>
+<td colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">
+           64.2
+          </td>
+<td colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">
+           68.3
+          </td>
+<td colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">
+           87.6
+          </td>
+<td colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">
+           80.8
+          </td>
+<td colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">
+           84.4
+          </td>
+<td colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">
+           30.4
+          </td>
+<td colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">
+           78.2
+          </td>
+<td colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">
+           60.4
+          </td>
+<td colname="col13" xmlns="http://www.elsevier.com/xml/common/dtd">
+           80.5
+          </td>
+<td colname="col14" xmlns="http://www.elsevier.com/xml/common/dtd">
+           77.8
+          </td>
+<td colname="col15" xmlns="http://www.elsevier.com/xml/common/dtd">
+           83.1
+          </td>
+<td colname="col16" xmlns="http://www.elsevier.com/xml/common/dtd">
+           80.6
+          </td>
+<td colname="col17" xmlns="http://www.elsevier.com/xml/common/dtd">
+           59.5
+          </td>
+<td colname="col18" xmlns="http://www.elsevier.com/xml/common/dtd">
+           82.8
+          </td>
+<td colname="col19" xmlns="http://www.elsevier.com/xml/common/dtd">
+           47.8
+          </td>
+<td colname="col20" xmlns="http://www.elsevier.com/xml/common/dtd">
+           78.3
+          </td>
+<td colname="col21" xmlns="http://www.elsevier.com/xml/common/dtd">
+           67.1
+          </td>
+<td colname="col22" xmlns="http://www.elsevier.com/xml/common/dtd">
+           72.0
+          </td>
+</tr>
+<tr>
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           DeconvNet
+           
+</td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">
+           89.9
+          </td>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+           39.3
+          </td>
+<td colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">
+           79.7
+          </td>
+<td colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">
+           63.9
+          </td>
+<td colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">
+           68.2
+          </td>
+<td colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">
+           87.4
+          </td>
+<td colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">
+           81.2
+          </td>
+<td colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">
+           86.1
+          </td>
+<td colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">
+           28.5
+          </td>
+<td colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">
+           77.0
+          </td>
+<td colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">
+           62.0
+          </td>
+<td colname="col13" xmlns="http://www.elsevier.com/xml/common/dtd">
+           79.0
+          </td>
+<td colname="col14" xmlns="http://www.elsevier.com/xml/common/dtd">
+           80.3
+          </td>
+<td colname="col15" xmlns="http://www.elsevier.com/xml/common/dtd">
+           83.6
+          </td>
+<td colname="col16" xmlns="http://www.elsevier.com/xml/common/dtd">
+           80.2
+          </td>
+<td colname="col17" xmlns="http://www.elsevier.com/xml/common/dtd">
+           58.8
+          </td>
+<td colname="col18" xmlns="http://www.elsevier.com/xml/common/dtd">
+           83.4
+          </td>
+<td colname="col19" xmlns="http://www.elsevier.com/xml/common/dtd">
+           54.3
+          </td>
+<td colname="col20" xmlns="http://www.elsevier.com/xml/common/dtd">
+           80.7
+          </td>
+<td colname="col21" xmlns="http://www.elsevier.com/xml/common/dtd">
+           65.0
+          </td>
+<td colname="col22" xmlns="http://www.elsevier.com/xml/common/dtd">
+           72.5
+          </td>
+</tr>
+<tr>
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           DPN
+           
+</td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">
+           87.7
+          </td>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+           59.4
+          </td>
+<td colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">
+           78.4
+          </td>
+<td colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">
+           64.9
+          </td>
+<td colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">
+           70.3
+          </td>
+<td colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">
+           89.3
+          </td>
+<td colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">
+           83.5
+          </td>
+<td colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">
+           86.1
+          </td>
+<td colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">
+           31.7
+          </td>
+<td colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">
+           79.9
+          </td>
+<td colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">
+           62.6
+          </td>
+<td colname="col13" xmlns="http://www.elsevier.com/xml/common/dtd">
+           81.9
+          </td>
+<td colname="col14" xmlns="http://www.elsevier.com/xml/common/dtd">
+           80.0
+          </td>
+<td colname="col15" xmlns="http://www.elsevier.com/xml/common/dtd">
+           83.5
+          </td>
+<td colname="col16" xmlns="http://www.elsevier.com/xml/common/dtd">
+           82.3
+          </td>
+<td colname="col17" xmlns="http://www.elsevier.com/xml/common/dtd">
+           60.5
+          </td>
+<td colname="col18" xmlns="http://www.elsevier.com/xml/common/dtd">
+           83.2
+          </td>
+<td colname="col19" xmlns="http://www.elsevier.com/xml/common/dtd">
+           53.4
+          </td>
+<td colname="col20" xmlns="http://www.elsevier.com/xml/common/dtd">
+           77.9
+          </td>
+<td colname="col21" xmlns="http://www.elsevier.com/xml/common/dtd">
+           65.0
+          </td>
+<td colname="col22" xmlns="http://www.elsevier.com/xml/common/dtd">
+           74.1
+          </td>
+</tr>
+<tr>
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Piecewise
+           
+</td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">
+           90.6
+          </td>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+           37.6
+          </td>
+<td colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">
+           80.0
+          </td>
+<td colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">
+           67.8
+          </td>
+<td colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">
+           74.4
+          </td>
+<td colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">
+           92.0
+          </td>
+<td colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">
+           85.2
+          </td>
+<td colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">
+           86.2
+          </td>
+<td colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">
+           39.1
+          </td>
+<td colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">
+           81.2
+          </td>
+<td colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">
+           58.9
+          </td>
+<td colname="col13" xmlns="http://www.elsevier.com/xml/common/dtd">
+           83.8
+          </td>
+<td colname="col14" xmlns="http://www.elsevier.com/xml/common/dtd">
+           83.9
+          </td>
+<td colname="col15" xmlns="http://www.elsevier.com/xml/common/dtd">
+           84.3
+          </td>
+<td colname="col16" xmlns="http://www.elsevier.com/xml/common/dtd">
+           84.8
+          </td>
+<td colname="col17" xmlns="http://www.elsevier.com/xml/common/dtd">
+           62.1
+          </td>
+<td colname="col18" xmlns="http://www.elsevier.com/xml/common/dtd">
+           83.2
+          </td>
+<td colname="col19" xmlns="http://www.elsevier.com/xml/common/dtd">
+           58.2
+          </td>
+<td colname="col20" xmlns="http://www.elsevier.com/xml/common/dtd">
+           80.8
+          </td>
+<td colname="col21" xmlns="http://www.elsevier.com/xml/common/dtd">
+           72.3
+          </td>
+<td colname="col22" xmlns="http://www.elsevier.com/xml/common/dtd">
+           75.3
+          </td>
+</tr>
+<tr>
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           PSPNet
+           
+</td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">
+           91.8
+          </td>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+           71.9
+          </td>
+<td colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">
+           94.7
+          </td>
+<td colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">
+           71.2
+          </td>
+<td colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">
+           75.8
+          </td>
+<td colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">
+           95.2
+          </td>
+<td colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">
+           89.9
+          </td>
+<td colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">
+           95.9
+          </td>
+<td colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            39.3
+           </bold>
+</td>
+<td colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            90.7
+           </bold>
+</td>
+<td colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            71.7
+           </bold>
+</td>
+<td colname="col13" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            90.5
+           </bold>
+</td>
+<td colname="col14" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            94.5
+           </bold>
+</td>
+<td colname="col15" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            88.8
+           </bold>
+</td>
+<td colname="col16" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            89.6
+           </bold>
+</td>
+<td colname="col17" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            72.8
+           </bold>
+</td>
+<td colname="col18" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            89.6
+           </bold>
+</td>
+<td colname="col19" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            64.0
+           </bold>
+</td>
+<td colname="col20" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            85.1
+           </bold>
+</td>
+<td colname="col21" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            76.3
+           </bold>
+</td>
+<td colname="col22" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            82.6
+           </bold>
+</td>
+</tr>
+<tr>
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           EncNet
+           
+</td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            94.1
+           </bold>
+</td>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+           69.2
+          </td>
+<td colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            96.3
+           </bold>
+</td>
+<td colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            76.7
+           </bold>
+</td>
+<td colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">
+           86.2
+          </td>
+<td colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            96.3
+           </bold>
+</td>
+<td colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">
+           90.7
+          </td>
+<td colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">
+           94.2
+          </td>
+<td colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">
+           38.8
+          </td>
+<td colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">
+           90.7
+          </td>
+<td colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">
+           73.3
+          </td>
+<td colname="col13" xmlns="http://www.elsevier.com/xml/common/dtd">
+           90.0
+          </td>
+<td colname="col14" xmlns="http://www.elsevier.com/xml/common/dtd">
+           92.5
+          </td>
+<td colname="col15" xmlns="http://www.elsevier.com/xml/common/dtd">
+           88.8
+          </td>
+<td colname="col16" xmlns="http://www.elsevier.com/xml/common/dtd">
+           87.9
+          </td>
+<td colname="col17" xmlns="http://www.elsevier.com/xml/common/dtd">
+           68.7
+          </td>
+<td colname="col18" xmlns="http://www.elsevier.com/xml/common/dtd">
+           92.6
+          </td>
+<td colname="col19" xmlns="http://www.elsevier.com/xml/common/dtd">
+           59.0
+          </td>
+<td colname="col20" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            86.4
+           </bold>
+</td>
+<td colname="col21" xmlns="http://www.elsevier.com/xml/common/dtd">
+           73.4
+          </td>
+<td colname="col22" xmlns="http://www.elsevier.com/xml/common/dtd">
+           82.9
+          </td>
+</tr>
+<tr>
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           PCANet
+          </td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">
+           93.8
+          </td>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            74.7
+           </bold>
+</td>
+<td colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">
+           95.6
+          </td>
+<td colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">
+           72.0
+          </td>
+<td colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            86.9
+           </bold>
+</td>
+<td colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">
+           95.2
+          </td>
+<td colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            92.3
+           </bold>
+</td>
+<td colname="col9" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            96.3
+           </bold>
+</td>
+<td colname="col10" xmlns="http://www.elsevier.com/xml/common/dtd">
+           39.2
+          </td>
+<td colname="col11" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            92.5
+           </bold>
+</td>
+<td colname="col12" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            75.6
+           </bold>
+</td>
+<td colname="col13" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            93.7
+           </bold>
+</td>
+<td colname="col14" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            95.8
+           </bold>
+</td>
+<td colname="col15" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            90.3
+           </bold>
+</td>
+<td colname="col16" xmlns="http://www.elsevier.com/xml/common/dtd">
+           89.1
+          </td>
+<td colname="col17" xmlns="http://www.elsevier.com/xml/common/dtd">
+           71.8
+          </td>
+<td colname="col18" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            94.1
+           </bold>
+</td>
+<td colname="col19" xmlns="http://www.elsevier.com/xml/common/dtd">
+           61.0
+          </td>
+<td colname="col20" xmlns="http://www.elsevier.com/xml/common/dtd">
+           85.3
+          </td>
+<td colname="col21" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            76.9
+           </bold>
+</td>
+<td colname="col22" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            84.2
+           </bold>
+</td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html><!DOCTYPE html>
+<html><head><style>table, th, td {border: 1px solid black;border-collapse: collapse;}</style></head>
+<table colsep="0" frame="topbot" id="t0025" trsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<label>
+        Table 5
+       </label>
+<caption id="ca0055">
+<simple-para id="sp0055" view="all">
+         Detailed performance on Cityscapes test set. Coarse: Use the extra 20,000 coarsely annotated training images.
+        </simple-para>
+</caption>
+
+<tgroup cols="3">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<thead>
+<tr trsep="1" valign="top">
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Method
+          </td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Coarse
+          </td>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+           Mean IoU(%)
+          </td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           DeepLabv2-CRF
+           
+</td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+           70.4
+          </td>
+</tr>
+<tr>
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           LRR-4
+           <hsp sp="0.10"/>
+           ×
+           
+</td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">
+           ✓
+          </td>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+           71.8
+          </td>
+</tr>
+<tr>
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           RefineNet
+           
+</td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+           73.6
+          </td>
+</tr>
+<tr>
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           DUC
+           
+</td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+           77.6
+          </td>
+</tr>
+<tr>
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           PSPNet
+           
+</td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+           78.4
+          </td>
+</tr>
+<tr>
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           PAN
+           
+</td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+           78.6
+          </td>
+</tr>
+<tr>
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           BiSeNet
+           
+</td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+           78.9
+          </td>
+</tr>
+<tr>
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           SegNet
+           
+</td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">
+           ✓
+          </td>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+           79.2
+          </td>
+</tr>
+<tr>
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           DFN
+           
+</td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+           79.3
+          </td>
+</tr>
+<tr>
+<td colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+           PCANet
+          </td>
+<td colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd"/>
+<td colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+<bold>
+            80.1
+           </bold>
+</td>
+</tr>
+</tbody>
+</tgroup>
+</table>
+</html>

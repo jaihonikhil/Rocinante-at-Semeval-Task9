@@ -1,0 +1,744 @@
+<Table 1>
+ <caption text="
+
+   Descriptive characteristics of the sample (n = 9785).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="General population (n = 9489)">
+  </cell>
+  <cell col="3" row="0" text="Received CWS-interventions">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="2" row="1" text="HIS
+     
+     (n = 141)">
+  </cell>
+  <cell col="3" row="1" text="p-value">
+  </cell>
+  <cell col="4" row="1" text="FC
+     
+     (n = 155)">
+  </cell>
+  <cell col="5" row="1" text="p-value">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Sex: Girls, n (%)">
+  </cell>
+  <cell col="1" row="2" text="5051 (53.2)">
+  </cell>
+  <cell col="2" row="2" text="Ref.">
+  </cell>
+  <cell col="3" row="2" text="95 (67.4)">
+  </cell>
+  <cell col="4" row="2" text="0.001">
+  </cell>
+  <cell col="5" row="2" text="70 (45.2)">
+  </cell>
+  <cell col="6" row="2" text="0.046">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Age, mean (SD)">
+  </cell>
+  <cell col="1" row="3" text="17.43 (0.84)">
+  </cell>
+  <cell col="2" row="3" text="Ref.">
+  </cell>
+  <cell col="3" row="3" text="17.20 (0.77)">
+  </cell>
+  <cell col="4" row="3" text="0.001">
+  </cell>
+  <cell col="5" row="3" text="17.24 (0.78)">
+  </cell>
+  <cell col="6" row="3" text="0.006">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Perceived economic well-being, n (%)">
+  </cell>
+  <cell col="1" row="4" text="">
+  </cell>
+  <cell col="2" row="4" text="Ref.">
+  </cell>
+  <cell col="3" row="4" text="">
+  </cell>
+  <cell col="4" row="4" text="&lt;0.001">
+  </cell>
+  <cell col="5" row="4" text="">
+  </cell>
+  <cell col="6" row="4" text="0.123">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="- Poorer than others">
+  </cell>
+  <cell col="1" row="5" text="630 (6.8)">
+  </cell>
+  <cell col="2" row="5" text="">
+  </cell>
+  <cell col="3" row="5" text="39 (28.9)">
+  </cell>
+  <cell col="4" row="5" text="">
+  </cell>
+  <cell col="5" row="5" text="16 (11.3)">
+  </cell>
+  <cell col="6" row="5" text="">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="- As most others">
+  </cell>
+  <cell col="1" row="6" text="6292 (67.6)">
+  </cell>
+  <cell col="2" row="6" text="">
+  </cell>
+  <cell col="3" row="6" text="69 (51.1)">
+  </cell>
+  <cell col="4" row="6" text="">
+  </cell>
+  <cell col="5" row="6" text="91 (64.1)">
+  </cell>
+  <cell col="6" row="6" text="">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="- Better than others">
+  </cell>
+  <cell col="1" row="7" text="2382 (25.6)">
+  </cell>
+  <cell col="2" row="7" text="">
+  </cell>
+  <cell col="3" row="7" text="27 (20.0)">
+  </cell>
+  <cell col="4" row="7" text="">
+  </cell>
+  <cell col="5" row="7" text="33 (24.7)">
+  </cell>
+  <cell col="6" row="7" text="">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Maternal education, n (%)">
+  </cell>
+  <cell col="1" row="8" text="">
+  </cell>
+  <cell col="2" row="8" text="Ref.">
+  </cell>
+  <cell col="3" row="8" text="">
+  </cell>
+  <cell col="4" row="8" text="&lt;0.001">
+  </cell>
+  <cell col="5" row="8" text="">
+  </cell>
+  <cell col="6" row="8" text="0.004">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="- Primary school">
+  </cell>
+  <cell col="1" row="9" text="716 (10.0)">
+  </cell>
+  <cell col="2" row="9" text="">
+  </cell>
+  <cell col="3" row="9" text="29 (31.2)">
+  </cell>
+  <cell col="4" row="9" text="">
+  </cell>
+  <cell col="5" row="9" text="18 (19.0)">
+  </cell>
+  <cell col="6" row="9" text="">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="- High school">
+  </cell>
+  <cell col="1" row="10" text="2954 (41.1)">
+  </cell>
+  <cell col="2" row="10" text="">
+  </cell>
+  <cell col="3" row="10" text="38 (40.9)">
+  </cell>
+  <cell col="4" row="10" text="">
+  </cell>
+  <cell col="5" row="10" text="41 (43.2)">
+  </cell>
+  <cell col="6" row="10" text="">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="- College / university">
+  </cell>
+  <cell col="1" row="11" text="3513 (48.9)">
+  </cell>
+  <cell col="2" row="11" text="">
+  </cell>
+  <cell col="3" row="11" text="26 (28.0)">
+  </cell>
+  <cell col="4" row="11" text="">
+  </cell>
+  <cell col="5" row="11" text="36 (37.9)">
+  </cell>
+  <cell col="6" row="11" text="">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Paternal education, n (%)">
+  </cell>
+  <cell col="1" row="12" text="">
+  </cell>
+  <cell col="2" row="12" text="Ref.">
+  </cell>
+  <cell col="3" row="12" text="">
+  </cell>
+  <cell col="4" row="12" text="&lt;0.001">
+  </cell>
+  <cell col="5" row="12" text="">
+  </cell>
+  <cell col="6" row="12" text="0.062">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="- Primary school">
+  </cell>
+  <cell col="1" row="13" text="736 (10.5)">
+  </cell>
+  <cell col="2" row="13" text="">
+  </cell>
+  <cell col="3" row="13" text="19 (24.4)">
+  </cell>
+  <cell col="4" row="13" text="">
+  </cell>
+  <cell col="5" row="13" text="12 (13.8)">
+  </cell>
+  <cell col="6" row="13" text="">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="- High school">
+  </cell>
+  <cell col="1" row="14" text="3262 (46.4)">
+  </cell>
+  <cell col="2" row="14" text="">
+  </cell>
+  <cell col="3" row="14" text="42 (53.9)">
+  </cell>
+  <cell col="4" row="14" text="">
+  </cell>
+  <cell col="5" row="14" text="46 (52.9)">
+  </cell>
+  <cell col="6" row="14" text="">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="- College / university">
+  </cell>
+  <cell col="1" row="15" text="3039 (43.2)">
+  </cell>
+  <cell col="2" row="15" text="">
+  </cell>
+  <cell col="3" row="15" text="17 (21.8)">
+  </cell>
+  <cell col="4" row="15" text="">
+  </cell>
+  <cell col="5" row="15" text="29 (33.3)">
+  </cell>
+  <cell col="6" row="15" text="">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="Ethnicity, n (%)">
+  </cell>
+  <cell col="1" row="16" text="">
+  </cell>
+  <cell col="2" row="16" text="">
+  </cell>
+  <cell col="3" row="16" text="">
+  </cell>
+  <cell col="4" row="16" text="">
+  </cell>
+  <cell col="5" row="16" text="">
+  </cell>
+  <cell col="6" row="16" text="">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="- Self: From Norway">
+  </cell>
+  <cell col="1" row="17" text="8900 (94.9)">
+  </cell>
+  <cell col="2" row="17" text="Ref.">
+  </cell>
+  <cell col="3" row="17" text="116 (85.3)">
+  </cell>
+  <cell col="4" row="17" text="&lt;0.001">
+  </cell>
+  <cell col="5" row="17" text="109 (74.7)">
+  </cell>
+  <cell col="6" row="17" text="&lt;0.001">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="- Mother: From Norway">
+  </cell>
+  <cell col="1" row="18" text="8683 (91.6)">
+  </cell>
+  <cell col="2" row="18" text="Ref.">
+  </cell>
+  <cell col="3" row="18" text="116 (82.3)">
+  </cell>
+  <cell col="4" row="18" text="&lt;0.001">
+  </cell>
+  <cell col="5" row="18" text="109 (71.2)">
+  </cell>
+  <cell col="6" row="18" text="&lt;0.001">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="- Father: From Norway">
+  </cell>
+  <cell col="1" row="19" text="8532 (90.3)">
+  </cell>
+  <cell col="2" row="19" text="">
+  </cell>
+  <cell col="3" row="19" text="110 (78.0)">
+  </cell>
+  <cell col="4" row="19" text="&lt;0.001">
+  </cell>
+  <cell col="5" row="19" text="109 (71.9)">
+  </cell>
+  <cell col="6" row="19" text="&lt;0.001">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="SRP, n (%)">
+  </cell>
+  <cell col="1" row="20" text="">
+  </cell>
+  <cell col="2" row="20" text="">
+  </cell>
+  <cell col="3" row="20" text="">
+  </cell>
+  <cell col="4" row="20" text="">
+  </cell>
+  <cell col="5" row="20" text="">
+  </cell>
+  <cell col="6" row="20" text="">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="- Tried illicit drugs">
+  </cell>
+  <cell col="1" row="21" text="929 (9.9)">
+  </cell>
+  <cell col="2" row="21" text="Ref.">
+  </cell>
+  <cell col="3" row="21" text="39 (27.7)">
+  </cell>
+  <cell col="4" row="21" text="&lt;0.001">
+  </cell>
+  <cell col="5" row="21" text="29 (19.0)">
+  </cell>
+  <cell col="6" row="21" text="&lt;0.001">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="- High-level alcohol consumption">
+  </cell>
+  <cell col="1" row="22" text="512 (5.8)">
+  </cell>
+  <cell col="2" row="22" text="Ref.">
+  </cell>
+  <cell col="3" row="22" text="26 (20.0)">
+  </cell>
+  <cell col="4" row="22" text="&lt;0.001">
+  </cell>
+  <cell col="5" row="22" text="11 (8.5)">
+  </cell>
+  <cell col="6" row="22" text="0.197">
+  </cell>
+ </row>
+ <row row="23">
+  <cell col="0" row="23" text="- Frequent alcohol intoxication">
+  </cell>
+  <cell col="1" row="23" text="1857 (19.6)">
+  </cell>
+  <cell col="2" row="23" text="Ref.">
+  </cell>
+  <cell col="3" row="23" text="43 (30.5)">
+  </cell>
+  <cell col="4" row="23" text="0.001">
+  </cell>
+  <cell col="5" row="23" text="29 (18.7)">
+  </cell>
+  <cell col="6" row="23" text="0.789">
+  </cell>
+ </row>
+ <row row="24">
+  <cell col="0" row="24" text="- Positive CRAFFT score">
+  </cell>
+  <cell col="1" row="24" text="1956 (20.8)">
+  </cell>
+  <cell col="2" row="24" text="Ref.">
+  </cell>
+  <cell col="3" row="24" text="58 (41.4)">
+  </cell>
+  <cell col="4" row="24" text="&lt;0.001">
+  </cell>
+  <cell col="5" row="24" text="43 (28.5)">
+  </cell>
+  <cell col="6" row="24" text="0.022">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The highest value for General population (n = 9489) is 8900 (94.9)." type="entailed">
+  </statement>
+  <statement id="2" text="The highest value for FC (n = 155) is 109 (74.7)." type="entailed">
+  </statement>
+  <statement id="3" text="The highest value for p-value is 0.197." type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   Ordered logistic regression analyses for associations between IHS- and FC-status and the total degree of SRP (n = 9,785).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Received CWS-interventions">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="IHS(n = 141)">
+  </cell>
+  <cell col="2" row="1" text="p-value">
+  </cell>
+  <cell col="3" row="1" text="FC(n = 155)">
+  </cell>
+  <cell col="4" row="1" text="p-value">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Unadjusted, OR (95% CI)">
+  </cell>
+  <cell col="1" row="2" text="3.23 (2.35, 4.45)">
+  </cell>
+  <cell col="2" row="2" text="&lt;0.001">
+  </cell>
+  <cell col="3" row="2" text="1.56 (1.11, 2.17)">
+  </cell>
+  <cell col="4" row="2" text="0.010">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Adjusted for sex, AOR (95% CI)">
+  </cell>
+  <cell col="1" row="3" text="3.22 (2.34, 4.43)">
+  </cell>
+  <cell col="2" row="3" text="&lt;0.001">
+  </cell>
+  <cell col="3" row="3" text="1.56 (1.11, 2.18)">
+  </cell>
+  <cell col="4" row="3" text="0.010">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="(+) adjusted for age, AOR (95% CI)">
+  </cell>
+  <cell col="1" row="4" text="3.54 (2.56, 4.89)">
+  </cell>
+  <cell col="2" row="4" text="&lt;0.001">
+  </cell>
+  <cell col="3" row="4" text="1.72 (1.22, 2.43)">
+  </cell>
+  <cell col="4" row="4" text="0.002">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="(+) adjusted for ethnicity, AOR (95% CI)">
+  </cell>
+  <cell col="1" row="5" text="3.89 (2.80, 5.40)">
+  </cell>
+  <cell col="2" row="5" text="&lt;0.001">
+  </cell>
+  <cell col="3" row="5" text="1.92 (1.35, 2.73)">
+  </cell>
+  <cell col="4" row="5" text="&lt;0.001">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="(+) adjusted for internalizing problems, AOR (95% CI)">
+  </cell>
+  <cell col="1" row="6" text="3.55 (2.55, 4.94)">
+  </cell>
+  <cell col="2" row="6" text="&lt;0.001">
+  </cell>
+  <cell col="3" row="6" text="1.89 (1.32, 2.69)">
+  </cell>
+  <cell col="4" row="6" text="&lt;0.001">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="(+) adjusted for externalizing problems, AOR (95% CI)">
+  </cell>
+  <cell col="1" row="7" text="2.31 (1.72, 3.38)">
+  </cell>
+  <cell col="2" row="7" text="&lt;0.001">
+  </cell>
+  <cell col="3" row="7" text="1.51 (1.05, 2.18)">
+  </cell>
+  <cell col="4" row="7" text="0.027">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 6 types of analysis in the given table." type="entailed">
+  </statement>
+  <statement id="1" text="The highest FC(n = 155) is 1.92 (1.35, 2.73)." type="entailed">
+  </statement>
+  <statement id="2" text="The lowest IHS(n = 141) is 2.31 (1.72, 3.38)." type="entailed">
+  </statement>
+  <statement id="3" text="p-value has a constant in the given table." type="entailed">
+  </statement>
+  <statement id="6" text="The lowest p-value is 0.027." type="refuted">
+  </statement>
+  <statement id="7" text="We found a strong association between IHS-status and the total degree of SRP in both the unadjusted model (OR = 3.23, p &lt; 0.001) and in the fully adjusted model (AOR = 2.31, p &lt; 0.001)" type="entailed">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Regression analyses for associations between IHS- and FC-status and single measures of SRP (n = 9785).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Received CWS-interventions">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="IHS
+     
+     (n = 141)">
+  </cell>
+  <cell col="2" row="1" text="p-value">
+  </cell>
+  <cell col="3" row="1" text="FC
+     
+     (n = 155)">
+  </cell>
+  <cell col="4" row="1" text="p-value">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Ever used illicit drugs">
+  </cell>
+  <cell col="1" row="2" text="">
+  </cell>
+  <cell col="2" row="2" text="">
+  </cell>
+  <cell col="3" row="2" text="">
+  </cell>
+  <cell col="4" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="- Unadjusted, OR (95% CI)">
+  </cell>
+  <cell col="1" row="3" text="3.49 (2.40, 5.08)">
+  </cell>
+  <cell col="2" row="3" text="&lt;0.001">
+  </cell>
+  <cell col="3" row="3" text="2.14 (1.42, 3.22)">
+  </cell>
+  <cell col="4" row="3" text="&lt;0.001">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="- Partially adjusted, OR (95% CI)">
+  </cell>
+  <cell col="1" row="4" text="3.44 (2.31, 5.11)">
+  </cell>
+  <cell col="2" row="4" text="&lt;0.001">
+  </cell>
+  <cell col="3" row="4" text="2.10 (1.36, 3.23)">
+  </cell>
+  <cell col="4" row="4" text="0.001">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="- Fully adjusted, AOR (95% CI)">
+  </cell>
+  <cell col="1" row="5" text="2.97 (1.70, 5.17)">
+  </cell>
+  <cell col="2" row="5" text="&lt;0.001">
+  </cell>
+  <cell col="3" row="5" text="1.75 (1.13, 2.72)">
+  </cell>
+  <cell col="4" row="5" text="0.013">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Frequent alcohol intoxication">
+  </cell>
+  <cell col="1" row="6" text="">
+  </cell>
+  <cell col="2" row="6" text="">
+  </cell>
+  <cell col="3" row="6" text="">
+  </cell>
+  <cell col="4" row="6" text="">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="- Unadjusted, OR (95% CI)">
+  </cell>
+  <cell col="1" row="7" text="1.80 (1.26, 2.59)">
+  </cell>
+  <cell col="2" row="7" text="0.001">
+  </cell>
+  <cell col="3" row="7" text="0.95 (0.63, 2.59)">
+  </cell>
+  <cell col="4" row="7" text="0.789">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="- Partially adjusted, OR (95% CI)">
+  </cell>
+  <cell col="1" row="8" text="2.66 (1.80, 3.94)">
+  </cell>
+  <cell col="2" row="8" text="&lt;0.001">
+  </cell>
+  <cell col="3" row="8" text="1.38 (0.89, 2.13)">
+  </cell>
+  <cell col="4" row="8" text="0.144">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="- Fully adjusted, AOR (95% CI)">
+  </cell>
+  <cell col="1" row="9" text="1.97 (1.31, 2.95)">
+  </cell>
+  <cell col="2" row="9" text="0.001">
+  </cell>
+  <cell col="3" row="9" text="1.12 (0.72, 1.75)">
+  </cell>
+  <cell col="4" row="9" text="0.618">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Positive CRAFFT score">
+  </cell>
+  <cell col="1" row="10" text="">
+  </cell>
+  <cell col="2" row="10" text="">
+  </cell>
+  <cell col="3" row="10" text="">
+  </cell>
+  <cell col="4" row="10" text="">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="- Unadjusted, OR (95% CI)">
+  </cell>
+  <cell col="1" row="11" text="2.69 (1.92, 3.78)">
+  </cell>
+  <cell col="2" row="11" text="&lt;0.001">
+  </cell>
+  <cell col="3" row="11" text="1.52 (1.06, 2.16)">
+  </cell>
+  <cell col="4" row="11" text="0.023">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="- Partially adjusted, OR (95% CI)">
+  </cell>
+  <cell col="1" row="12" text="2.52 (1.76, 3.60)">
+  </cell>
+  <cell col="2" row="12" text="&lt;0.001">
+  </cell>
+  <cell col="3" row="12" text="1.74 (1.20, 2.53)">
+  </cell>
+  <cell col="4" row="12" text="0.004">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="- Fully adjusted, AOR (95% CI)">
+  </cell>
+  <cell col="1" row="13" text="1.81 (1.24, 2.63)">
+  </cell>
+  <cell col="2" row="13" text="0.014">
+  </cell>
+  <cell col="3" row="13" text="1.42 (0.96, 2.10)">
+  </cell>
+  <cell col="4" row="13" text="0.076">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Alcohol consumption">
+  </cell>
+  <cell col="1" row="14" text="">
+  </cell>
+  <cell col="2" row="14" text="">
+  </cell>
+  <cell col="3" row="14" text="">
+  </cell>
+  <cell col="4" row="14" text="">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="- Unadjusted, mean difference (95% CI)">
+  </cell>
+  <cell col="1" row="15" text="1.69 (1.17, 2.22)">
+  </cell>
+  <cell col="2" row="15" text="&lt;0.001">
+  </cell>
+  <cell col="3" row="15" text="0.39 (-0.13, 0.90)">
+  </cell>
+  <cell col="4" row="15" text="0.141">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="- Partially adjusted, adj mean diff (95% CI)">
+  </cell>
+  <cell col="1" row="16" text="2.00 (1.50, 2.52)">
+  </cell>
+  <cell col="2" row="16" text="&lt;0.001">
+  </cell>
+  <cell col="3" row="16" text="0.65 (0.13, 1.17)">
+  </cell>
+  <cell col="4" row="16" text="0.015">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="- Fully adjusted, adj mean diff (95% CI)">
+  </cell>
+  <cell col="1" row="17" text="1.49 (0.98, 2.01)">
+  </cell>
+  <cell col="2" row="17" text="0.004">
+  </cell>
+  <cell col="3" row="17" text="0.41 (-0.09, 0.92)">
+  </cell>
+  <cell col="4" row="17" text="0.111">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="- Unadjusted, OR (95% CI) Received CWS-interventions IHS (n = 141) is 3.49 (2.40, 5.08)." type="entailed">
+  </statement>
+  <statement id="1" text="Received CWS-interventions p-value &lt;0.001 is - Partially adjusted, adj mean diff (95% CI)." type="entailed">
+  </statement>
+  <statement id="2" text="0.004 p-value Received CWS-interventions is - Fully adjusted, adj mean diff (95% CI)." type="entailed">
+  </statement>
+ </statements>
+</Table 2>

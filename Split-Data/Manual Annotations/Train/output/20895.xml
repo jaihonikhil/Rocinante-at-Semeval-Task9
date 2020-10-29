@@ -1,0 +1,64 @@
+<Table 2>
+ <caption text="
+
+   Correlation between cerebral perfusion pressure and brain tissue oxygenation in 5 patients.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Patient No">
+  </cell>
+  <cell col="1" row="0" text="Pearson coefficient (r) of correlation between CPP and PbtO
+     
+      2
+     
+     and probability (p)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1">
+  </cell>
+  <cell col="1" row="1" text="0.79, p &lt; 0.01">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2">
+  </cell>
+  <cell col="1" row="2" text="0.38, p &lt; 0.01">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3">
+  </cell>
+  <cell col="1" row="3" text="0.35, p &lt; 0.01">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4">
+  </cell>
+  <cell col="1" row="4" text="0.77, p &lt; 0.01">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="5">
+  </cell>
+  <cell col="1" row="5" text="0.7, p &lt; 0.01">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The table is having five Patients." type="entailed">
+  </statement>
+  <statement id="1" text="Pearson coefficient are &lt; 0.01 for all the patients." type="entailed">
+  </statement>
+  <statement id="2" text="Patient No 4 is having 0.77, p &lt; 0.01 correlation between CPP and PbtO 2 and probability (p)." type="entailed">
+  </statement>
+  <statement id="3" text="There are 7 patients listed." type="refuted">
+  </statement>
+  <statement id="4" text="The patient no 2 is having probability (p) of 0.7, p &lt; 0.01." type="refuted">
+  </statement>
+  <statement id="5" text="The patient no 4 is having probability (p) of 0.38, p &lt; 0.01." type="refuted">
+  </statement>
+  <statement id="6" text="The brain tissue oxygenation in 3 patients are observed." type="refuted">
+  </statement>
+ </statements>
+</Table 2>

@@ -1,0 +1,504 @@
+<Table 2>
+ <caption text="
+
+   Dosimetric parameters for FS-HDR-BT plans and MR-Linac plans for a single, 19 Gy dose prescription to the CTV and PTV respectively. *CTV for FS-HDR-BT and PTV for MR-Linac.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="">
+  </cell>
+  <cell col="2" row="0" text="FS-HDR-BT">
+  </cell>
+  <cell col="4" row="0" text="MR-Linac">
+  </cell>
+  <cell col="6" row="0" text="">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Parameter">
+  </cell>
+  <cell col="1" row="1" text="Reference dose">
+  </cell>
+  <cell col="2" row="1" text="Median (n = 30)">
+  </cell>
+  <cell col="3" row="1" text="Range">
+  </cell>
+  <cell col="4" row="1" text="Median (n = 30)">
+  </cell>
+  <cell col="5" row="1" text="Range">
+  </cell>
+  <cell col="6" row="1" text="p-value">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Target coverage">
+  </cell>
+  <cell col="1" row="2" text="">
+  </cell>
+  <cell col="2" row="2" text="">
+  </cell>
+  <cell col="3" row="2" text="">
+  </cell>
+  <cell col="4" row="2" text="">
+  </cell>
+  <cell col="5" row="2" text="">
+  </cell>
+  <cell col="6" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="D95% CTV/PTV*">
+  </cell>
+  <cell col="1" row="3" text="≥19 Gy">
+  </cell>
+  <cell col="2" row="3" text="18.8 Gy">
+  </cell>
+  <cell col="3" row="3" text="14.0–21.7 Gy">
+  </cell>
+  <cell col="4" row="3" text="19.0 Gy">
+  </cell>
+  <cell col="5" row="3" text="15.5–21.7 Gy">
+  </cell>
+  <cell col="6" row="3" text="0.053">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="D90% CTV/PTV*">
+  </cell>
+  <cell col="1" row="4" text="≥17 Gy">
+  </cell>
+  <cell col="2" row="4" text="20.3 Gy">
+  </cell>
+  <cell col="3" row="4" text="15.9–23.8 Gy">
+  </cell>
+  <cell col="4" row="4" text="20.2 Gy">
+  </cell>
+  <cell col="5" row="4" text="16.7–22.6 Gy">
+  </cell>
+  <cell col="6" row="4" text="0.484">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="High dose volumes">
+  </cell>
+  <cell col="1" row="5" text="">
+  </cell>
+  <cell col="2" row="5" text="">
+  </cell>
+  <cell col="3" row="5" text="">
+  </cell>
+  <cell col="4" row="5" text="">
+  </cell>
+  <cell col="5" row="5" text="">
+  </cell>
+  <cell col="6" row="5" text="">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="V100% CTV/PTV*">
+  </cell>
+  <cell col="1" row="6" text="–">
+  </cell>
+  <cell col="2" row="6" text="95%">
+  </cell>
+  <cell col="3" row="6" text="73–99%">
+  </cell>
+  <cell col="4" row="6" text="95%">
+  </cell>
+  <cell col="5" row="6" text="69–100%">
+  </cell>
+  <cell col="6" row="6" text="0.894">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="V150% CTV/PTV*">
+  </cell>
+  <cell col="1" row="7" text="–">
+  </cell>
+  <cell col="2" row="7" text="55%">
+  </cell>
+  <cell col="3" row="7" text="25–77%">
+  </cell>
+  <cell col="4" row="7" text="1%">
+  </cell>
+  <cell col="5" row="7" text="0–38%">
+  </cell>
+  <cell col="6" row="7" text="&lt;0.001">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="V200% CTV/PTV*">
+  </cell>
+  <cell col="1" row="8" text="–">
+  </cell>
+  <cell col="2" row="8" text="25%">
+  </cell>
+  <cell col="3" row="8" text="9–54%">
+  </cell>
+  <cell col="4" row="8" text="0%">
+  </cell>
+  <cell col="5" row="8" text="0–0%">
+  </cell>
+  <cell col="6" row="8" text="&lt;0.001">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="OAR dose">
+  </cell>
+  <cell col="1" row="9" text="">
+  </cell>
+  <cell col="2" row="9" text="">
+  </cell>
+  <cell col="3" row="9" text="">
+  </cell>
+  <cell col="4" row="9" text="">
+  </cell>
+  <cell col="5" row="9" text="">
+  </cell>
+  <cell col="6" row="9" text="">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Urethra D10%">
+  </cell>
+  <cell col="1" row="10" text="&lt;17.7 Gy">
+  </cell>
+  <cell col="2" row="10" text="16.0 Gy">
+  </cell>
+  <cell col="3" row="10" text="6.7–18.2 Gy">
+  </cell>
+  <cell col="4" row="10" text="17.5 Gy">
+  </cell>
+  <cell col="5" row="10" text="8.2–17.7 Gy">
+  </cell>
+  <cell col="6" row="10" text="&lt;0.001">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Rectum D1cm
+     
+      3">
+  </cell>
+  <cell col="1" row="11" text="&lt;12 Gy">
+  </cell>
+  <cell col="2" row="11" text="10.2 Gy">
+  </cell>
+  <cell col="3" row="11" text="4.1–12.0 Gy">
+  </cell>
+  <cell col="4" row="11" text="12.0 Gy">
+  </cell>
+  <cell col="5" row="11" text="9.4–12.0 Gy">
+  </cell>
+  <cell col="6" row="11" text="&lt;0.001">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Rectum D2cm
+     
+      3">
+  </cell>
+  <cell col="1" row="12" text="–">
+  </cell>
+  <cell col="2" row="12" text="8.6 Gy">
+  </cell>
+  <cell col="3" row="12" text="1.6–10.8 Gy">
+  </cell>
+  <cell col="4" row="12" text="10.7 Gy">
+  </cell>
+  <cell col="5" row="12" text="8.4–11.3 Gy">
+  </cell>
+  <cell col="6" row="12" text="&lt;0.001">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Bladder D1cm
+     
+      3">
+  </cell>
+  <cell col="1" row="13" text="&lt;12 Gy">
+  </cell>
+  <cell col="2" row="13" text="8.5 Gy">
+  </cell>
+  <cell col="3" row="13" text="1.8–12.1 Gy">
+  </cell>
+  <cell col="4" row="13" text="8.4 Gy">
+  </cell>
+  <cell col="5" row="13" text="0.4–12.0 Gy">
+  </cell>
+  <cell col="6" row="13" text="0.102">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Bladder D2cm
+     
+      3">
+  </cell>
+  <cell col="1" row="14" text="–">
+  </cell>
+  <cell col="2" row="14" text="7.0 Gy">
+  </cell>
+  <cell col="3" row="14" text="1.6–10.8 Gy">
+  </cell>
+  <cell col="4" row="14" text="6.6 Gy">
+  </cell>
+  <cell col="5" row="14" text="0.5–11.1 Gy">
+  </cell>
+  <cell col="6" row="14" text="0.090">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The median value for both FS-HDR-BT and MR-Linac in V100% CTV/PTV* is 95%" type="entailed">
+  </statement>
+  <statement id="2" text="The median value for both FS-HDR-BT and MR-Linac in V100% CTV/PTV* is 96%" type="refuted">
+  </statement>
+  <statement id="3" text="There are 4 types of categories." type="refuted">
+  </statement>
+  <statement id="4" text="We performed a comparative planning study to evaluate the feasibility of delivering a single 19 Gy dose to a local recurrent prostate cancer lesion using a 1.5 Tesla MR-Linac system." type="entailed">
+  </statement>
+  <statement id="6" text="The SBRT technique combined with the additional 1 mm PTV margin resulted in a higher median dose to both the urethra and rectum for the MR-Linac plans." type="entailed">
+  </statement>
+ </statements>
+</Table 2>
+<Table 1>
+ <caption text="
+
+   Dose prescription and organs-at-risk constraints. *CTV for FS-HDR-BT plan and PTV for MR-Linac plan.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Target/OAR">
+  </cell>
+  <cell col="1" row="0" text="Dosimetric parameter">
+  </cell>
+  <cell col="2" row="0" text="Prescribed dose
+     
+      or
+     
+     constraint">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="CTV/PTV*">
+  </cell>
+  <cell col="1" row="1" text="D95%
+     
+     D90%">
+  </cell>
+  <cell col="2" row="1" text="≥ 19.0 Gy
+     
+     ≥ 17.0 Gy">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Urethra">
+  </cell>
+  <cell col="1" row="2" text="D10%">
+  </cell>
+  <cell col="2" row="2" text="&lt; 17.7 Gy">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Rectum">
+  </cell>
+  <cell col="1" row="3" text="D1cm
+     
+      3">
+  </cell>
+  <cell col="2" row="3" text="&lt; 12.0 Gy">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Bladder">
+  </cell>
+  <cell col="1" row="4" text="D1cm
+     
+      3">
+  </cell>
+  <cell col="2" row="4" text="&lt; 12.0 Gy">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 4 types of Target/OAR." type="entailed">
+  </statement>
+  <statement id="2" text="OAR dose constraints are provided in Table 1 ." type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   Median D95% coverage with ranges for the different tumor locations (both anatomical location and position with respect to organs-at-risk) for FS-HDR-BT and MR-Linac plans respectively. U = urethra. R = rectum. B = bladder.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="">
+  </cell>
+  <cell col="2" row="0" text="">
+  </cell>
+  <cell col="3" row="0" text="FS-HDR-BT">
+  </cell>
+  <cell col="5" row="0" text="MR-Linac">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Location">
+  </cell>
+  <cell col="1" row="1" text="Near or between OAR?">
+  </cell>
+  <cell col="2" row="1" text="N">
+  </cell>
+  <cell col="3" row="1" text="Median D95 CTV (Gy)">
+  </cell>
+  <cell col="4" row="1" text="Range (Gy)">
+  </cell>
+  <cell col="5" row="1" text="Median D95 PTV (Gy)">
+  </cell>
+  <cell col="6" row="1" text="Range (Gy)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Peripheral">
+  </cell>
+  <cell col="1" row="2" text="No">
+  </cell>
+  <cell col="2" row="2" text="5">
+  </cell>
+  <cell col="3" row="2" text="20.0">
+  </cell>
+  <cell col="4" row="2" text="19.1–21.1">
+  </cell>
+  <cell col="5" row="2" text="21.0">
+  </cell>
+  <cell col="6" row="2" text="20.4–22.0">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Central">
+  </cell>
+  <cell col="1" row="3" text="U">
+  </cell>
+  <cell col="2" row="3" text="3">
+  </cell>
+  <cell col="3" row="3" text="19.7">
+  </cell>
+  <cell col="4" row="3" text="16.6–21.2">
+  </cell>
+  <cell col="5" row="3" text="19.0">
+  </cell>
+  <cell col="6" row="3" text="19.0–19.7">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Peripheral">
+  </cell>
+  <cell col="1" row="4" text="U and R">
+  </cell>
+  <cell col="2" row="4" text="3">
+  </cell>
+  <cell col="3" row="4" text="19.1">
+  </cell>
+  <cell col="4" row="4" text="17.5–19.1">
+  </cell>
+  <cell col="5" row="4" text="19.0">
+  </cell>
+  <cell col="6" row="4" text="18.1–19.2">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Central">
+  </cell>
+  <cell col="1" row="5" text="U and R">
+  </cell>
+  <cell col="2" row="5" text="4">
+  </cell>
+  <cell col="3" row="5" text="18.4">
+  </cell>
+  <cell col="4" row="5" text="17.7–18.7">
+  </cell>
+  <cell col="5" row="5" text="18.5">
+  </cell>
+  <cell col="6" row="5" text="17.4–19.3">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Central">
+  </cell>
+  <cell col="1" row="6" text="U and B">
+  </cell>
+  <cell col="2" row="6" text="3">
+  </cell>
+  <cell col="3" row="6" text="15.2">
+  </cell>
+  <cell col="4" row="6" text="14.0–21.7">
+  </cell>
+  <cell col="5" row="6" text="17.7">
+  </cell>
+  <cell col="6" row="6" text="17.0–20.7">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Peripheral">
+  </cell>
+  <cell col="1" row="7" text="R">
+  </cell>
+  <cell col="2" row="7" text="4">
+  </cell>
+  <cell col="3" row="7" text="19.7">
+  </cell>
+  <cell col="4" row="7" text="18.6–21.1">
+  </cell>
+  <cell col="5" row="7" text="19.1">
+  </cell>
+  <cell col="6" row="7" text="18.8–20.1">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Seminal vesicles">
+  </cell>
+  <cell col="1" row="8" text="R and/or B">
+  </cell>
+  <cell col="2" row="8" text="5">
+  </cell>
+  <cell col="3" row="8" text="16.8">
+  </cell>
+  <cell col="4" row="8" text="16.0–19.2">
+  </cell>
+  <cell col="5" row="8" text="17.9">
+  </cell>
+  <cell col="6" row="8" text="15.5–19.1">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Base">
+  </cell>
+  <cell col="1" row="9" text="R and B">
+  </cell>
+  <cell col="2" row="9" text="3">
+  </cell>
+  <cell col="3" row="9" text="16.3">
+  </cell>
+  <cell col="4" row="9" text="15.7–18.7">
+  </cell>
+  <cell col="5" row="9" text="16.1">
+  </cell>
+  <cell col="6" row="9" text="16.0–18.6">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The Base Near or between OAR? is R and B." type="entailed">
+  </statement>
+  <statement id="1" text="MR-Linac of Median D95 PTV (Gy) is having Base of 16.1." type="entailed">
+  </statement>
+  <statement id="2" text="Seminal vesicles of Location has no values." type="refuted">
+  </statement>
+  <statement id="3" text="FS-HDR-BT of Median D95 CTV (Gy) is having Base of 20.3." type="refuted">
+  </statement>
+ </statements>
+</Table 3>

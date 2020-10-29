@@ -1,0 +1,84 @@
+<Table 3>
+ <caption text="
+
+   The post-processing treatments applied in the current study.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Sub-group (designation)">
+  </cell>
+  <cell col="1" row="0" text="Post-processing parameters">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="As-processed (AP)">
+  </cell>
+  <cell col="1" row="1" text="L-PBF Ti6Al4V with a diamond unit cell of 1.5 mm.">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Hot isostatic pressing (HIP)">
+  </cell>
+  <cell col="1" row="2" text="Heated at 920 °C under 100 MPa pressure for 120 min in an argon atmosphere followed by furnace cooling at a rate of 10 °C/min.">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Sand blasting (SB)">
+  </cell>
+  <cell col="1" row="3" text="Sandblasting with abrasive Al
+     
+      2
+     
+     O
+     
+      3
+     
+     particles (50 μm) for 90 s with a nozzle pressure of 4.5 bar and a sample rotation speed of 20 RPM.">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Chemical etching (CE1)">
+  </cell>
+  <cell col="1" row="4" text="Immersing in a solution made by mixing 50 mL H
+     
+      2
+     
+     O, 25 mL HNO
+     
+      3
+     
+     , and 5 mL HF for 120 s in an ultrasonic bath.">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Chemical etching (CE2)">
+  </cell>
+  <cell col="1" row="5" text="Immersing in a solution made by mixing 50 mL H
+     
+      2
+     
+     O, 25 mL H
+     
+      2
+     
+     SO
+     
+      4
+     
+     , and 25 mL HCl for 60 min in an ultrasonic bath.">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are some empty blocks to be filled in the table." type="refuted">
+  </statement>
+  <statement id="1" text="Chemical etching (CE2) takes 25min in an ultrasonic bath." type="refuted">
+  </statement>
+  <statement id="2" text="As-processed (AP) is having L-PBF Ti6Al4V with a diamond unit cell of 120 mm." type="refuted">
+  </statement>
+  <statement id="3" text="There are 3 post-processing treatments applied in the current study." type="refuted">
+  </statement>
+  <statement id="4" text="The details of the post-processing parameters used in the current study are presented in Table 3 ." type="entailed">
+  </statement>
+ </statements>
+</Table 3>

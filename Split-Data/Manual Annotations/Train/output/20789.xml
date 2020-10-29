@@ -1,0 +1,192 @@
+<Table 1>
+ <caption text="
+
+   The alterations of NVU components in diabetes and the effects.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="NVU components">
+  </cell>
+  <cell col="1" row="0" text="Alterations">
+  </cell>
+  <cell col="2" row="0" text="Effects">
+  </cell>
+  <cell col="3" row="0" text="References">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Astrocytes">
+  </cell>
+  <cell col="1" row="1" text="Have ruffled cell membranes;
+     
+     Decreased in number;
+     
+     Foot processes are detached from EC/PC BM.">
+  </cell>
+  <cell col="2" row="1" text="Impair functional hyperemia;
+     
+     Impair the control of information processing;
+     
+     Lead to the loss of EC TJs and AJs.">
+  </cell>
+  <cell col="3" row="1" text="[
+     
+      38
+     
+     ,
+     
+      39
+     
+     ,
+     
+      48
+     
+     ]">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Microglia">
+  </cell>
+  <cell col="1" row="2" text="Abnormally activated;
+     
+     Transit to M1 polarized phenotype.">
+  </cell>
+  <cell col="2" row="2" text="Excessively secrete pro-inflammatory cytokines;
+     
+     Produce redox molecules like iNOS and ROS;
+     
+     Contribute to astrocyte detachment.">
+  </cell>
+  <cell col="3" row="2" text="[
+     
+      39
+     
+     ,
+     
+      41
+     
+     ,
+     
+      48
+     
+     ]">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Oligodendrocytes">
+  </cell>
+  <cell col="1" row="3" text="Decreased survival;
+     
+     Diminished proliferation.">
+  </cell>
+  <cell col="2" row="3" text="Lead to myelin remodeling changes;
+     
+     Delay distant information transduction;
+     
+     Lead to the vulnerability of axons.">
+  </cell>
+  <cell col="3" row="3" text="[
+     
+      39
+     
+     ,
+     
+      42
+     
+     ,
+     
+      43
+     
+     ,
+     
+      48
+     
+     ]">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Endothelial cells">
+  </cell>
+  <cell col="1" row="4" text="BM thickening and structure-rearrangement;
+     
+     Reduced content of TJ proteins;
+     
+     Accelerated senescence.">
+  </cell>
+  <cell col="2" row="4" text="Increase BBB permeability;
+     
+     Reduce the density of microvasculature;
+     
+     Impair dilation reactivity.">
+  </cell>
+  <cell col="3" row="4" text="[
+     
+      39
+     
+     ,
+     
+      40
+     
+     ,
+     
+      44
+     
+     ,
+     
+      48
+     
+     ,
+     
+      55
+     
+     ,
+     
+      56
+     
+     ]">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Pericytes">
+  </cell>
+  <cell col="1" row="5" text="Apoptosis;
+     
+     Decreased in number;
+     
+     Retracted from ECs.">
+  </cell>
+  <cell col="2" row="5" text="Lead to neurovascular uncoupling;
+     
+     Increase BBB permeability;
+     
+     Dysregulate capillary tone.">
+  </cell>
+  <cell col="3" row="5" text="[
+     
+      39
+     
+     ,
+     
+      51
+     
+     ,
+     
+      109
+     
+     ]">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="We have a unique Effects for different NVU components." type="entailed">
+  </statement>
+  <statement id="3" text="There are nine NVU components mentioned in the table." type="refuted">
+  </statement>
+  <statement id="4" text="Astrocytes NVU components has Excessively secrete pro-inflammatory cytokines; Produce redox molecules like iNOS and ROS; Contribute to astrocyte detachment Effects." type="refuted">
+  </statement>
+  <statement id="5" text="Lead to neurovascular uncoupling; Increase BBB permeability; Dysregulate capillary tone is an effect ofEndothelial cells." type="refuted">
+  </statement>
+  <statement id="6" text="Pericytes NVU components has Excessively secrete pro-inflammatory cytokines; Produce redox molecules like iNOS and ROS; Contribute to astrocyte detachment Effects." type="refuted">
+  </statement>
+ </statements>
+</Table 1>

@@ -1,0 +1,78 @@
+<Table 4>
+ <caption text="
+
+   Impact of women’s empowerment interaction with technology adoption on WDDS, multiple treatment results.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Treatment">
+  </cell>
+  <cell col="2" row="0" text="Actual outcome">
+  </cell>
+  <cell col="3" row="0" text="Counterfactual outcome">
+  </cell>
+  <cell col="4" row="0" text="ATT">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1">
+  </cell>
+  <cell col="1" row="1" text="Women’s empowerment for non-PPT adopting households (actual = t1 and counterfactual = t0)">
+  </cell>
+  <cell col="2" row="1" text="7.087">
+  </cell>
+  <cell col="3" row="1" text="6.758">
+  </cell>
+  <cell col="4" row="1" text="0.329(0.107)***">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2">
+  </cell>
+  <cell col="1" row="2" text="Women’s empowerment for PPT adopting households (actual = t2 and counterfactual = t3)">
+  </cell>
+  <cell col="2" row="2" text="7.532">
+  </cell>
+  <cell col="3" row="2" text="7.338">
+  </cell>
+  <cell col="4" row="2" text="0.194(0.070)***">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3">
+  </cell>
+  <cell col="1" row="3" text="PPT adoption for households with disempowered women (actual = t3 and counterfactual = t0)">
+  </cell>
+  <cell col="2" row="3" text="7.335">
+  </cell>
+  <cell col="3" row="3" text="6.969">
+  </cell>
+  <cell col="4" row="3" text="0.366(0.073)***">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4">
+  </cell>
+  <cell col="1" row="4" text="PPT adoption for households with empowered women (actual = t2 and counterfactual = t1)">
+  </cell>
+  <cell col="2" row="4" text="7.532">
+  </cell>
+  <cell col="3" row="4" text="6.902">
+  </cell>
+  <cell col="4" row="4" text="0.630(0.084)***">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 4 different types of treatment in the given table." type="entailed">
+  </statement>
+  <statement id="1" text="The lowest Counterfactual outcome is 6.758." type="entailed">
+  </statement>
+  <statement id="3" text="Each treatment has a different values from each other." type="entailed">
+  </statement>
+  <statement id="4" text="The highest ATT is 7.532." type="refuted">
+  </statement>
+  <statement id="6" text="In summary, our results indicate that womens empowerment boosts the dietary diversity gains from agricultural technology adoption, for the case of PPT adoption in Kenya." type="entailed">
+  </statement>
+ </statements>
+</Table 4>

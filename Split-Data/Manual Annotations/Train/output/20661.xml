@@ -1,0 +1,493 @@
+<Table 1>
+ <caption text="
+
+   Free-stream velocities and Reynolds numbers.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Case">
+  </cell>
+  <cell col="1" row="0" text="U
+         
+
+
+
+          ∞
+         
+
+
+
+
+        [
+       
+
+        m
+       
+
+
+
+
+          s
+         
+
+
+
+          -
+         
+
+          1
+         
+
+
+
+        ]">
+  </cell>
+  <cell col="2" row="0" text="Re">
+  </cell>
+  <cell col="3" row="0" text="">
+  </cell>
+  <cell col="4" row="0" text="">
+  </cell>
+  <cell col="5" row="0" text="">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="I, III">
+  </cell>
+  <cell col="1" row="1" text="1.44">
+  </cell>
+  <cell col="2" row="1" text="9.66
+       
+
+        ×
+       
+
+
+
+          10
+         
+
+
+
+          3">
+  </cell>
+  <cell col="3" row="1" text="">
+  </cell>
+  <cell col="4" row="1" text="">
+  </cell>
+  <cell col="5" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="I, III">
+  </cell>
+  <cell col="1" row="2" text="2.46">
+  </cell>
+  <cell col="2" row="2" text="1.65
+       
+
+        ×
+       
+
+
+
+          10
+         
+
+
+
+          4">
+  </cell>
+  <cell col="3" row="2" text="">
+  </cell>
+  <cell col="4" row="2" text="">
+  </cell>
+  <cell col="5" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="I, III">
+  </cell>
+  <cell col="1" row="3" text="3.56">
+  </cell>
+  <cell col="2" row="3" text="2.39
+       
+
+        ×
+       
+
+
+
+          10
+         
+
+
+
+          4">
+  </cell>
+  <cell col="3" row="3" text="">
+  </cell>
+  <cell col="4" row="3" text="">
+  </cell>
+  <cell col="5" row="3" text="">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="I, III">
+  </cell>
+  <cell col="1" row="4" text="4.56">
+  </cell>
+  <cell col="2" row="4" text="3.06
+       
+
+        ×
+       
+
+
+
+          10
+         
+
+
+
+          4">
+  </cell>
+  <cell col="3" row="4" text="">
+  </cell>
+  <cell col="4" row="4" text="">
+  </cell>
+  <cell col="5" row="4" text="">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="III">
+  </cell>
+  <cell col="1" row="5" text="5.06">
+  </cell>
+  <cell col="2" row="5" text="3.39
+       
+
+        ×
+       
+
+
+
+          10
+         
+
+
+
+          4">
+  </cell>
+  <cell col="3" row="5" text="">
+  </cell>
+  <cell col="4" row="5" text="">
+  </cell>
+  <cell col="5" row="5" text="">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="I">
+  </cell>
+  <cell col="1" row="6" text="5.37">
+  </cell>
+  <cell col="2" row="6" text="3.60
+       
+
+        ×
+       
+
+
+
+          10
+         
+
+
+
+          4">
+  </cell>
+  <cell col="3" row="6" text="">
+  </cell>
+  <cell col="4" row="6" text="">
+  </cell>
+  <cell col="5" row="6" text="">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are six different Cases." type="entailed">
+  </statement>
+  <statement id="2" text="The lowest value of U au [ m s - 1 ] is 1.44" type="entailed">
+  </statement>
+  <statement id="7" text="The lowest value of Re 9.66 o 10 3." type="refuted">
+  </statement>
+ </statements>
+</Table 1>
+<Table 6>
+ <caption text="
+
+   Initial vertical force
+   
+
+
+
+
+        F
+       
+
+
+
+        z
+       
+
+
+
+
+   and moment
+   
+
+
+
+
+        M
+       
+
+
+
+        y
+       
+
+
+
+        E
+       
+
+
+
+
+   for the numerical 2-DOF free-oscillation tests in still air.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Parameter">
+  </cell>
+  <cell col="1" row="0" text="Symbol">
+  </cell>
+  <cell col="2" row="0" text="Unit">
+  </cell>
+  <cell col="3" row="0" text="Case I">
+  </cell>
+  <cell col="4" row="0" text="Case II">
+  </cell>
+  <cell col="5" row="0" text="Case III">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="">
+  </cell>
+  <cell col="2" row="1" text="">
+  </cell>
+  <cell col="3" row="1" text="x
+         
+
+
+
+          EG
+         
+
+
+
+        ≈
+       
+
+        0">
+  </cell>
+  <cell col="4" row="1" text="x
+         
+
+
+
+          EG
+         
+
+
+
+        &lt;
+       
+
+        0">
+  </cell>
+  <cell col="5" row="1" text="x
+         
+
+
+
+          EG
+         
+
+
+
+        &gt;
+       
+
+        0">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Initial vertical force">
+  </cell>
+  <cell col="1" row="2" text="F
+         
+
+
+
+          z">
+  </cell>
+  <cell col="2" row="2" text="N">
+  </cell>
+  <cell col="3" row="2" text="-
+       
+
+        7.15
+       
+
+        ×
+       
+
+
+
+          10
+         
+
+
+
+          -
+         
+
+          1">
+  </cell>
+  <cell col="4" row="2" text="-
+       
+
+        3.00
+       
+
+        ×
+       
+
+
+
+          10
+         
+
+
+
+          -
+         
+
+          1">
+  </cell>
+  <cell col="5" row="2" text="-
+       
+
+        1.00
+       
+
+        ×
+       
+
+
+
+          10
+         
+
+
+
+          -
+         
+
+          2">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Initial vertical moment">
+  </cell>
+  <cell col="1" row="3" text="M
+         
+
+
+
+          y
+         
+
+
+
+          E">
+  </cell>
+  <cell col="2" row="3" text="Nm">
+  </cell>
+  <cell col="3" row="3" text="9.00
+       
+
+        ×
+       
+
+
+
+          10
+         
+
+
+
+          -
+         
+
+          3">
+  </cell>
+  <cell col="4" row="3" text="1.00
+       
+
+        ×
+       
+
+
+
+          10
+         
+
+
+
+          -
+         
+
+          3">
+  </cell>
+  <cell col="5" row="3" text="2.50
+       
+
+        ×
+       
+
+
+
+          10
+         
+
+
+
+          -
+         
+
+          2">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="9.00  10 - 3 Case I is Parameter Initial vertical moment." type="entailed">
+  </statement>
+  <statement id="2" text="Case - 7.15  10 - 1 Parameter is Initial vertical force." type="refuted">
+  </statement>
+ </statements>
+</Table 6>

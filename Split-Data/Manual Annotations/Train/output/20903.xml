@@ -1,0 +1,46 @@
+<Table 1>
+ <caption text="
+
+   Professional Instruments Used to Calibrate the Simplified Sensing Module Outputs
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Sensor">
+  </cell>
+  <cell col="1" row="0" text="Output (unit)">
+  </cell>
+  <cell col="2" row="0" text="Professional Instrument">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Adafruit TSL2591">
+  </cell>
+  <cell col="1" row="1" text="Spectral irradiance (w/m
+     
+      2
+     
+     )">
+  </cell>
+  <cell col="2" row="1" text="ASEQ LR1-T v.2">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="">
+  </cell>
+  <cell col="1" row="2" text="Visible light illuminance (lux)">
+  </cell>
+  <cell col="2" row="2" text="KMT-10MA">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The professional unit used for Adafruit TSL2591 is ASEQ LR1-T v.2." type="entailed">
+  </statement>
+  <statement id="3" text="There are 4 different columns in the given table." type="refuted">
+  </statement>
+  <statement id="4" text="There are 3 outputs and 3 professional units in the given table." type="refuted">
+  </statement>
+  <statement id="6" text="It is also more accurate than other cadmium sulfide cells and enables exact lux calculations both in infrared and full-spectrum diodes [12] ." type="entailed">
+  </statement>
+ </statements>
+</Table 1>

@@ -1,0 +1,360 @@
+<Table 1>
+ <caption text="
+
+   Related joint angles and value ranges of local maximums to detect occurrence of picking activities.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Subclass type of picking activities">
+  </cell>
+  <cell col="1" row="0" text="Joint angles">
+  </cell>
+  <cell col="2" row="0" text="Range">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Picking from high location (
+     
+      P
+      
+       high
+      
+
+     )">
+  </cell>
+  <cell col="1" row="1" text="Upper arm">
+  </cell>
+  <cell col="2" row="1" text="x&gt;60°">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Picking from low location (
+     
+      P
+      
+       low
+      
+
+     )">
+  </cell>
+  <cell col="1" row="2" text="Leg
+     
+     or Trunk">
+  </cell>
+  <cell col="2" row="2" text="x&gt;60°
+     
+     x&gt;110°">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Picking from medium-height location (
+     
+      P
+      
+       med
+      
+
+     )">
+  </cell>
+  <cell col="1" row="3" text="Upper arm
+     
+     or Lower arm
+     
+     (Trunk)">
+  </cell>
+  <cell col="2" row="3" text="30°&lt;x&lt;60°
+     
+     x&gt;90°
+     
+     x&lt;60°">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Unloading from cart to packing area (
+     
+      P
+      
+       unload
+      
+
+     )">
+  </cell>
+  <cell col="1" row="4" text="Trunk">
+  </cell>
+  <cell col="2" row="4" text="60°&lt;x&lt;110°">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Range x&gt;60 x&gt;110 is Picking from low location ( P low )." type="">
+  </statement>
+  <statement id="1" text="Picking from low location ( P low ) Range is x&gt;60 x&gt;110." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   Comparison of three order picking environments by integrating activity information with posture risk.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="OP environment A: store same type of item in same layer">
+  </cell>
+  <cell col="5" row="0" text="OP environment B: store half of every type of item into medium-height layers">
+  </cell>
+  <cell col="9" row="0" text="OP environment C: increase space of aisle between storage blocks">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="Time(s)">
+  </cell>
+  <cell col="2" row="1" text="MRS">
+  </cell>
+  <cell col="3" row="1" text="MF">
+  </cell>
+  <cell col="4" row="1" text="MTPA">
+  </cell>
+  <cell col="5" row="1" text="Time">
+  </cell>
+  <cell col="6" row="1" text="MRS">
+  </cell>
+  <cell col="7" row="1" text="MF">
+  </cell>
+  <cell col="8" row="1" text="MTPA">
+  </cell>
+  <cell col="9" row="1" text="Time">
+  </cell>
+  <cell col="10" row="1" text="MRS">
+  </cell>
+  <cell col="11" row="1" text="MF">
+  </cell>
+  <cell col="12" row="1" text="MTPA">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Total">
+  </cell>
+  <cell col="1" row="2" text="200.61">
+  </cell>
+  <cell col="2" row="2" text="3.89">
+  </cell>
+  <cell col="3" row="2" text="-">
+  </cell>
+  <cell col="4" row="2" text="-">
+  </cell>
+  <cell col="5" row="2" text="184.64">
+  </cell>
+  <cell col="6" row="2" text="3.57">
+  </cell>
+  <cell col="7" row="2" text="-">
+  </cell>
+  <cell col="8" row="2" text="-">
+  </cell>
+  <cell col="9" row="2" text="204.29">
+  </cell>
+  <cell col="10" row="2" text="3.76">
+  </cell>
+  <cell col="11" row="2" text="-">
+  </cell>
+  <cell col="12" row="2" text="-">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Picking items from high location (
+     
+
+      P
+     
+
+
+       high
+      
+
+
+      )">
+  </cell>
+  <cell col="1" row="3" text="24.53">
+  </cell>
+  <cell col="2" row="3" text="3.79">
+  </cell>
+  <cell col="3" row="3" text="3.00">
+  </cell>
+  <cell col="4" row="3" text="8.18">
+  </cell>
+  <cell col="5" row="3" text="8.91">
+  </cell>
+  <cell col="6" row="3" text="3.63">
+  </cell>
+  <cell col="7" row="3" text="1.83">
+  </cell>
+  <cell col="8" row="3" text="4.87">
+  </cell>
+  <cell col="9" row="3" text="26.20">
+  </cell>
+  <cell col="10" row="3" text="3.47">
+  </cell>
+  <cell col="11" row="3" text="3.00">
+  </cell>
+  <cell col="12" row="3" text="8.73">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Picking items from low location (
+     
+
+      P
+     
+
+
+       low
+      
+
+
+      )">
+  </cell>
+  <cell col="1" row="4" text="28.78">
+  </cell>
+  <cell col="2" row="4" text="5.36">
+  </cell>
+  <cell col="3" row="4" text="4.00">
+  </cell>
+  <cell col="4" row="4" text="7.20">
+  </cell>
+  <cell col="5" row="4" text="6.63">
+  </cell>
+  <cell col="6" row="4" text="5.43">
+  </cell>
+  <cell col="7" row="4" text="1.67">
+  </cell>
+  <cell col="8" row="4" text="3.97">
+  </cell>
+  <cell col="9" row="4" text="35.45">
+  </cell>
+  <cell col="10" row="4" text="5.34">
+  </cell>
+  <cell col="11" row="4" text="4.00">
+  </cell>
+  <cell col="12" row="4" text="8.86">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Picking items from medium-height location (
+     
+
+      P
+     
+
+
+       med
+      
+
+
+      )">
+  </cell>
+  <cell col="1" row="5" text="19.11">
+  </cell>
+  <cell col="2" row="5" text="3.42">
+  </cell>
+  <cell col="3" row="5" text="3.00">
+  </cell>
+  <cell col="4" row="5" text="6.37">
+  </cell>
+  <cell col="5" row="5" text="46.44">
+  </cell>
+  <cell col="6" row="5" text="3.62">
+  </cell>
+  <cell col="7" row="5" text="6.33">
+  </cell>
+  <cell col="8" row="5" text="7.34">
+  </cell>
+  <cell col="9" row="5" text="16.88">
+  </cell>
+  <cell col="10" row="5" text="3.31">
+  </cell>
+  <cell col="11" row="5" text="3.00">
+  </cell>
+  <cell col="12" row="5" text="5.63">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Unloading items from cart to packing area (
+     
+
+      P
+     
+
+
+       unload
+      
+
+
+      )">
+  </cell>
+  <cell col="1" row="6" text="45.61">
+  </cell>
+  <cell col="2" row="6" text="4.86">
+  </cell>
+  <cell col="3" row="6" text="2.17">
+  </cell>
+  <cell col="4" row="6" text="21.02">
+  </cell>
+  <cell col="5" row="6" text="49.94">
+  </cell>
+  <cell col="6" row="6" text="4.39">
+  </cell>
+  <cell col="7" row="6" text="2.17">
+  </cell>
+  <cell col="8" row="6" text="23.01">
+  </cell>
+  <cell col="9" row="6" text="54.00">
+  </cell>
+  <cell col="10" row="6" text="4.20">
+  </cell>
+  <cell col="11" row="6" text="2.00">
+  </cell>
+  <cell col="12" row="6" text="27.00">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Others (e.g., walking and pushing cart)">
+  </cell>
+  <cell col="1" row="7" text="82.58">
+  </cell>
+  <cell col="2" row="7" text="2.96">
+  </cell>
+  <cell col="3" row="7" text="-">
+  </cell>
+  <cell col="4" row="7" text="-">
+  </cell>
+  <cell col="5" row="7" text="72.72">
+  </cell>
+  <cell col="6" row="7" text="2.76">
+  </cell>
+  <cell col="7" row="7" text="-">
+  </cell>
+  <cell col="8" row="7" text="-">
+  </cell>
+  <cell col="9" row="7" text="71.77">
+  </cell>
+  <cell col="10" row="7" text="2.87">
+  </cell>
+  <cell col="11" row="7" text="-">
+  </cell>
+  <cell col="12" row="7" text="-">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Unloading items from cart to packing area ( P unload ) has more time in OP environment C." type="">
+  </statement>
+  <statement id="2" text="Picking items from medium-height location ( P med ) has same MF value in OP environment A and C." type="">
+  </statement>
+  <statement id="4" text="We compare the three OP environments by taking the average for all participants." type="">
+  </statement>
+ </statements>
+</Table 2>

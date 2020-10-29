@@ -1,0 +1,354 @@
+<Table 1>
+ <caption text="
+
+   Time delays for baroreflex model
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="τ
+     
+
+
+       pc">
+  </cell>
+  <cell col="1" row="0" text="τ
+     
+
+
+       sc">
+  </cell>
+  <cell col="2" row="0" text="τ
+     
+
+
+       sr">
+  </cell>
+  <cell col="3" row="0" text="τ
+     
+
+
+       a">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="0.3">
+  </cell>
+  <cell col="1" row="1" text="0.8">
+  </cell>
+  <cell col="2" row="1" text="0.85">
+  </cell>
+  <cell col="3" row="1" text="0.5">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="All the Models will have unique Time delay." type="entailed">
+  </statement>
+  <statement id="3" text="Delay time varies from 0.3 to 0.85." type="entailed">
+  </statement>
+  <statement id="5" text=" sr Model will have low delay time." type="refuted">
+  </statement>
+  <statement id="7" text="There are 5 Models in the table." type="refuted">
+  </statement>
+ </statements>
+</Table 1>
+<Table 4>
+ <caption text="
+
+   Modification of
+   
+    β
+   
+   values due to pulsatility.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Arctan function">
+  </cell>
+  <cell col="1" row="0" text="β
+     
+
+
+       pc">
+  </cell>
+  <cell col="2" row="0" text="β
+     
+
+
+       sc">
+  </cell>
+  <cell col="3" row="0" text="β
+     
+
+
+       sr">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Original Arctan (Case 1 &amp;2)">
+  </cell>
+  <cell col="1" row="1" text="−0.1342">
+  </cell>
+  <cell col="2" row="1" text="0.035">
+  </cell>
+  <cell col="3" row="1" text="0.04">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="EQNL Arctan (Case 3)">
+  </cell>
+  <cell col="1" row="2" text="−0.1342*0.55">
+  </cell>
+  <cell col="2" row="2" text="0.035*0.875">
+  </cell>
+  <cell col="3" row="2" text="0.04*0.82">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 2 types of Arctan function." type="entailed">
+  </statement>
+  <statement id="3" text="Each Arctan function has its own unique value." type="entailed">
+  </statement>
+ </statements>
+</Table 4>
+<Table 3>
+ <caption text="
+
+   Segmentation of clinical data.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Parameter">
+  </cell>
+  <cell col="1" row="0" text="t
+     
+
+
+       o
+      
+
+
+     −
+     
+
+      t
+     
+
+      1">
+  </cell>
+  <cell col="2" row="0" text="t
+     
+
+      1
+     
+
+     −
+     
+
+      t
+     
+
+      2">
+  </cell>
+  <cell col="3" row="0" text="t
+     
+
+      2
+     
+
+     −
+     
+
+      t
+     
+
+      3">
+  </cell>
+  <cell col="4" row="0" text="t
+     
+
+      3
+     
+
+     −
+     
+
+      t
+     
+
+
+       p">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="A
+     
+     (height)">
+  </cell>
+  <cell col="1" row="1" text="29.18">
+  </cell>
+  <cell col="2" row="1" text="26.02">
+  </cell>
+  <cell col="3" row="1" text="0">
+  </cell>
+  <cell col="4" row="1" text="3.37">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="τ
+     
+     (length)">
+  </cell>
+  <cell col="1" row="2" text="0.068">
+  </cell>
+  <cell col="2" row="2" text="0.104">
+  </cell>
+  <cell col="3" row="2" text="0.0452">
+  </cell>
+  <cell col="4" row="2" text="0.053">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 2 types of parameters - A (height) and  (length)." type="entailed">
+  </statement>
+  <statement id="1" text="The length value is &lt; 0 in all the columns." type="entailed">
+  </statement>
+  <statement id="2" text="All the values in the given table consist of positive values." type="entailed">
+  </statement>
+  <statement id="3" text="The highest value is 29.18 of t o  t 1 in A (height) parameter." type="entailed">
+  </statement>
+  <statement id="4" text="There are 5 types of parameters" type="refuted">
+  </statement>
+  <statement id="5" text="All the values in the given table consist of negative values." type="refuted">
+  </statement>
+  <statement id="7" text="The specific parameters for each segment can be found in Table 3 ." type="entailed">
+  </statement>
+ </statements>
+</Table 3>
+<Table 6>
+ <caption text="
+
+   Test conditions.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Case">
+  </cell>
+  <cell col="1" row="0" text="Baroreflex function parameters">
+  </cell>
+  <cell col="2" row="0" text="Pulse signal
+     
+      P
+     
+     present">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1">
+  </cell>
+  <cell col="1" row="1" text="f
+     
+
+
+       xx">
+  </cell>
+  <cell col="2" row="1" text="Yes">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2">
+  </cell>
+  <cell col="1" row="2" text="f
+     
+
+
+       xx">
+  </cell>
+  <cell col="2" row="2" text="No">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3">
+  </cell>
+  <cell col="1" row="3" text="f
+       
+
+        xx
+       
+
+        e">
+  </cell>
+  <cell col="2" row="3" text="No">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The pulse signal P present is no for both 2 and 3 case." type="entailed">
+  </statement>
+  <statement id="1" text="The Baroreflex function parameters is same for 1 and 2 case." type="entailed">
+  </statement>
+  <statement id="2" text="f xx e is the Baroreflex function parameters for case 3." type="entailed">
+  </statement>
+  <statement id="3" text="The pulse signal P present is no for only 1 case." type="refuted">
+  </statement>
+  <statement id="6" text="Pulsatility can therefore be represented, for simulation purposes, either by including a pulsatile component P in the BP signal, as shown in Fig. 1" type="entailed">
+  </statement>
+ </statements>
+</Table 6>
+<Table 5>
+ <caption text="
+
+   Comparative LF oscillation amplitude for analytical and simulation results.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Case">
+  </cell>
+  <cell col="1" row="0" text="A
+     
+     ′">
+  </cell>
+  <cell col="2" row="0" text="BP
+     
+     osc. ampl. (mmHg)">
+  </cell>
+  <cell col="3" row="0" text="Osc. freq. (Hz)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Analytical soln.">
+  </cell>
+  <cell col="1" row="1" text="16.4504">
+  </cell>
+  <cell col="2" row="1" text="∼ 1.38">
+  </cell>
+  <cell col="3" row="1" text="0.317">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Simulation">
+  </cell>
+  <cell col="1" row="2" text="15.1">
+  </cell>
+  <cell col="2" row="2" text="∼ 1.34">
+  </cell>
+  <cell col="3" row="2" text="0.307">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 2 different types of case in the given table." type="entailed">
+  </statement>
+  <statement id="1" text="The lowest BP osc. ampl. (mmHg) is  1.34." type="entailed">
+  </statement>
+  <statement id="2" text="Each value has a unique in the given table." type="entailed">
+  </statement>
+  <statement id="3" text="The lowest BP is 350." type="refuted">
+  </statement>
+  <statement id="4" text="The lowest SCR is 50." type="refuted">
+  </statement>
+ </statements>
+</Table 5>

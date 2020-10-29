@@ -1,0 +1,80 @@
+<Table 1>
+ <row row="0">
+  <cell col="0" row="0" text="Period">
+  </cell>
+  <cell col="1" row="0" text="Acquisition">
+  </cell>
+  <cell col="2" row="0" text="Range">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="T1">
+  </cell>
+  <cell col="1" row="1" text="Baseline">
+  </cell>
+  <cell col="2" row="1" text="T= 2min -&gt; 6min">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="T2">
+  </cell>
+  <cell col="1" row="2" text="Baseline">
+  </cell>
+  <cell col="2" row="2" text="T= 22min -&gt; 26min">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="T3">
+  </cell>
+  <cell col="1" row="3" text="After Scopolamine">
+  </cell>
+  <cell col="2" row="3" text="T= 1min -&gt; 5min">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="T4">
+  </cell>
+  <cell col="1" row="4" text="After Scopolamine">
+  </cell>
+  <cell col="2" row="4" text="T= 13min -&gt; 17min">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="T5">
+  </cell>
+  <cell col="1" row="5" text="After Scopolamine">
+  </cell>
+  <cell col="2" row="5" text="T= 28min -&gt; 31min">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="T6">
+  </cell>
+  <cell col="1" row="6" text="After Scopolamine">
+  </cell>
+  <cell col="2" row="6" text="T= 44min -&gt; 47min">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="T7">
+  </cell>
+  <cell col="1" row="7" text="After Scopolamine">
+  </cell>
+  <cell col="2" row="7" text="T= 55min -&gt; 60min">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 7 types of period given in the table." type="">
+  </statement>
+  <statement id="1" text="Acquisition is differentiated into Baseline and After Scopolamine." type="">
+  </statement>
+  <statement id="2" text="The range for T1 is T= 2min -&gt; 6min." type="">
+  </statement>
+  <statement id="3" text="The highest range is T= 55min -&gt; 60min of T7." type="">
+  </statement>
+  <statement id="5" text="There are 12 types of period given in the table." type="">
+  </statement>
+  <statement id="7" text="The time ranges of those periods are detailed in Table 1 and presented in Fig. 2 ." type="">
+  </statement>
+ </statements>
+</Table 1>

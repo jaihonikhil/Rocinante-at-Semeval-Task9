@@ -1,0 +1,246 @@
+<Table 1>
+ <caption text="
+
+   Parameters ranges and respective step of variation.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="var">
+  </cell>
+  <cell col="1" row="0" text="min">
+  </cell>
+  <cell col="2" row="0" text="max">
+  </cell>
+  <cell col="3" row="0" text="step">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="R
+          
+
+
+
+           ˆ
+          
+
+
+
+
+
+         0">
+  </cell>
+  <cell col="1" row="1" text="0.01">
+  </cell>
+  <cell col="2" row="1" text="0.44">
+  </cell>
+  <cell col="3" row="1" text="0.01">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="log
+       
+
+
+
+
+
+            μ
+           
+
+
+
+            ˆ
+           
+
+
+
+
+
+          1">
+  </cell>
+  <cell col="1" row="2" text="−3">
+  </cell>
+  <cell col="2" row="2" text="0">
+  </cell>
+  <cell col="3" row="2" text="0.01">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="log
+       
+
+
+
+
+
+            ρ
+           
+
+
+
+            ˆ
+           
+
+
+
+
+
+          1">
+  </cell>
+  <cell col="1" row="3" text="−3">
+  </cell>
+  <cell col="2" row="3" text="0">
+  </cell>
+  <cell col="3" row="3" text="0.01">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="λ
+        
+
+
+
+         1">
+  </cell>
+  <cell col="1" row="4" text="1">
+  </cell>
+  <cell col="2" row="4" text="7">
+  </cell>
+  <cell col="3" row="4" text="0.1">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="λ
+        
+
+
+
+         2">
+  </cell>
+  <cell col="1" row="5" text="1">
+  </cell>
+  <cell col="2" row="5" text="7">
+  </cell>
+  <cell col="3" row="5" text="0.1">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="S
+         
+
+
+
+          1
+         
+
+
+
+        (MR)">
+  </cell>
+  <cell col="1" row="6" text="0.6">
+  </cell>
+  <cell col="2" row="6" text="1">
+  </cell>
+  <cell col="3" row="6" text="0.01">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="S
+         
+
+
+
+          1
+         
+
+
+
+        (NH)">
+  </cell>
+  <cell col="1" row="7" text="1">
+  </cell>
+  <cell col="2" row="7" text="1">
+  </cell>
+  <cell col="3" row="7" text="–">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Variation  1 and  2 has same min, max and step value." type="">
+  </statement>
+  <statement id="1" text="Variatio log   1 and log   1 has zero max value." type="">
+  </statement>
+  <statement id="2" text="Variation S 1 (NH) has constant min and max valuee." type="">
+  </statement>
+  <statement id="3" text="Variation  1 and  2 has different min, max and step value." type="">
+  </statement>
+  <statement id="4" text="Variation  1 does not have step value." type="">
+  </statement>
+  <statement id="5" text="Variatio log   1 and log   1 has 0.1 as max value." type="">
+  </statement>
+  <statement id="6" text="Variation S 1 (NH) has different min and max valuee." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   Convergence values where ‘
+   
+    ng
+   
+   ’ stays for the generation at which optimum has been detected, ‘
+   
+    nc
+   
+   ’ number of analysed candidates (net of repeated designs) and ‘
+   
+    ncf
+   
+   ’ the number of feasible designs among ‘
+   
+    nc
+   
+   ’.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="model">
+  </cell>
+  <cell col="1" row="0" text="ng">
+  </cell>
+  <cell col="2" row="0" text="nc">
+  </cell>
+  <cell col="3" row="0" text="ncf">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="NH">
+  </cell>
+  <cell col="1" row="1" text="144">
+  </cell>
+  <cell col="2" row="1" text="5247">
+  </cell>
+  <cell col="3" row="1" text="1923">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="MR">
+  </cell>
+  <cell col="1" row="2" text="90">
+  </cell>
+  <cell col="2" row="2" text="5138">
+  </cell>
+  <cell col="3" row="2" text="3469">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There Table has 4 categories model, ng, nc and ncf ." type="">
+  </statement>
+  <statement id="1" text="The table has unique convergence value for all the Models." type="">
+  </statement>
+  <statement id="2" text="Model NH has highest convergence value for ncf." type="">
+  </statement>
+ </statements>
+</Table 2>

@@ -1,0 +1,176 @@
+<Table 1>
+ <caption text="
+
+   Assignment of frustules (black), protoplasm (green), vacuole (blue), and chloroplast (red) based on RI analysis.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Black">
+  </cell>
+  <cell col="2" row="0" text="Green">
+  </cell>
+  <cell col="3" row="0" text="Blue">
+  </cell>
+  <cell col="4" row="0" text="Red">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Min RI">
+  </cell>
+  <cell col="1" row="1" text="1.3520">
+  </cell>
+  <cell col="2" row="1" text="1.3630">
+  </cell>
+  <cell col="3" row="1" text="1.3880">
+  </cell>
+  <cell col="4" row="1" text="1.4030">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Max RI">
+  </cell>
+  <cell col="1" row="2" text="1.3570">
+  </cell>
+  <cell col="2" row="2" text="1.3810">
+  </cell>
+  <cell col="3" row="2" text="1.3950">
+  </cell>
+  <cell col="4" row="2" text="1.4360">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Volume (um³)">
+  </cell>
+  <cell col="1" row="3" text="147.4674">
+  </cell>
+  <cell col="2" row="3" text="109.0293">
+  </cell>
+  <cell col="3" row="3" text="63.3513">
+  </cell>
+  <cell col="4" row="3" text="42.5344">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Volume of color (um³)">
+  </cell>
+  <cell col="1" row="4" text="38.4381">
+  </cell>
+  <cell col="2" row="4" text="45.6780">
+  </cell>
+  <cell col="3" row="4" text="20.8169">
+  </cell>
+  <cell col="4" row="4" text="42.5344">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Surface area (um²)">
+  </cell>
+  <cell col="1" row="5" text="288.5568">
+  </cell>
+  <cell col="2" row="5" text="197.5795">
+  </cell>
+  <cell col="3" row="5" text="145.0073">
+  </cell>
+  <cell col="4" row="5" text="114.9186">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Projected area (um²)">
+  </cell>
+  <cell col="1" row="6" text="57.2084">
+  </cell>
+  <cell col="2" row="6" text="43.5051">
+  </cell>
+  <cell col="3" row="6" text="33.1990">
+  </cell>
+  <cell col="4" row="6" text="26.5573">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Mean RI">
+  </cell>
+  <cell col="1" row="7" text="1.3878">
+  </cell>
+  <cell col="2" row="7" text="1.3989">
+  </cell>
+  <cell col="3" row="7" text="1.4164">
+  </cell>
+  <cell col="4" row="7" text="1.4271">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Concentration (pg/um³)">
+  </cell>
+  <cell col="1" row="8" text="0.2849">
+  </cell>
+  <cell col="2" row="8" text="0.3432">
+  </cell>
+  <cell col="3" row="8" text="0.4351">
+  </cell>
+  <cell col="4" row="8" text="0.4917">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Dry mass (pg)">
+  </cell>
+  <cell col="1" row="9" text="42.0068">
+  </cell>
+  <cell col="2" row="9" text="37.4194">
+  </cell>
+  <cell col="3" row="9" text="27.5611">
+  </cell>
+  <cell col="4" row="9" text="20.9152">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Dry mass of color (pg)">
+  </cell>
+  <cell col="1" row="10" text="4.5874">
+  </cell>
+  <cell col="2" row="10" text="9.8583">
+  </cell>
+  <cell col="3" row="10" text="6.6459">
+  </cell>
+  <cell col="4" row="10" text="20.9152">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="Sphericity">
+  </cell>
+  <cell col="1" row="11" text="0.4678">
+  </cell>
+  <cell col="2" row="11" text="0.5586">
+  </cell>
+  <cell col="3" row="11" text="0.5300">
+  </cell>
+  <cell col="4" row="11" text="0.5128">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="Threshold RI">
+  </cell>
+  <cell col="1" row="12" text="1.3520">
+  </cell>
+  <cell col="2" row="12" text="1.3630">
+  </cell>
+  <cell col="3" row="12" text="1.3880">
+  </cell>
+  <cell col="4" row="12" text="1.4030">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Min Red is 1.4030." type="entailed">
+  </statement>
+  <statement id="1" text="33.1990 Blue is Projected area (um2)." type="entailed">
+  </statement>
+  <statement id="2" text="Green 42.0068 is Dry mass (pg)." type="refuted">
+  </statement>
+  <statement id="3" text="33.1990 Red is Projected area (um2)." type="refuted">
+  </statement>
+  <statement id="4" text="Red 197.5795 is Surface area (um2)." type="refuted">
+  </statement>
+ </statements>
+</Table 1>

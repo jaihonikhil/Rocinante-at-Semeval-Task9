@@ -1,0 +1,870 @@
+<Table 6>
+ <caption text="
+
+   Information  related to the execution of the stretch with conventional and unconventional asphalt concrete.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Type">
+  </cell>
+  <cell col="1" row="0" text="Conventional HMA">
+  </cell>
+  <cell col="3" row="0" text="HMA with H/S/R">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="Projected">
+  </cell>
+  <cell col="2" row="1" text="Extracted in 50 months">
+  </cell>
+  <cell col="3" row="1" text="Projected">
+  </cell>
+  <cell col="4" row="1" text="Extracted in 50 months">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Resilience module (MPa)">
+  </cell>
+  <cell col="1" row="2" text="6965.45">
+  </cell>
+  <cell col="2" row="2" text="6474.22">
+  </cell>
+  <cell col="3" row="2" text="9615.64">
+  </cell>
+  <cell col="4" row="2" text="9482.48">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Tensile strength (MPa)">
+  </cell>
+  <cell col="1" row="3" text="1.23">
+  </cell>
+  <cell col="2" row="3" text="1.18">
+  </cell>
+  <cell col="3" row="3" text="1.32">
+  </cell>
+  <cell col="4" row="3" text="1.31">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Resilience module/Tensile strength">
+  </cell>
+  <cell col="1" row="4" text="5662.97">
+  </cell>
+  <cell col="2" row="4" text="5486.63">
+  </cell>
+  <cell col="3" row="4" text="7284.58">
+  </cell>
+  <cell col="4" row="4" text="7238.53">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="The difference between Projected and Extracted value is 0.01 in Tensile strength (MPa)." type="">
+  </statement>
+ </statements>
+</Table 6>
+<Table 1>
+ <caption text="
+
+   Properties of the bitumen matrix.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="NOR">
+  </cell>
+  <cell col="1" row="0" text="Specification">
+  </cell>
+  <cell col="2" row="0" text="Results">
+  </cell>
+  <cell col="3" row="0" text="Specification limits">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Penetration (0.1 mm)">
+  </cell>
+  <cell col="1" row="1" text="DNER - ME 003/93">
+  </cell>
+  <cell col="2" row="1" text="58">
+  </cell>
+  <cell col="3" row="1" text="50–70">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Saybolt Viscosity at 160 °C (seconds)">
+  </cell>
+  <cell col="1" row="2" text="DNER - ME 004/94">
+  </cell>
+  <cell col="2" row="2" text="92">
+  </cell>
+  <cell col="3" row="2" text="30–150">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Density (g/cm³)">
+  </cell>
+  <cell col="1" row="3" text="DNER - ME 193/96">
+  </cell>
+  <cell col="2" row="3" text="1.03">
+  </cell>
+  <cell col="3" row="3" text="1.00–1.18">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Softening point (ºC)">
+  </cell>
+  <cell col="1" row="4" text="ABNT - NBR 6560/85">
+  </cell>
+  <cell col="2" row="4" text="52">
+  </cell>
+  <cell col="3" row="4" text="30–80">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Flash point (ºC)">
+  </cell>
+  <cell col="1" row="5" text="DNER - ME 148/94">
+  </cell>
+  <cell col="2" row="5" text="245">
+  </cell>
+  <cell col="3" row="5" text="&lt;340">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Density (g/cm3) has highest Results." type="">
+  </statement>
+  <statement id="3" text="The Specification limits ranges from 2.00 to &lt;540." type="">
+  </statement>
+  <statement id="5" text="Penetration (0.1 mm) has lowest Results ." type="">
+  </statement>
+  <statement id="6" text="(A) produced by PETROBRAS at its refinery located in Fortaleza, Ceara (LUBNOR) and underwent penetration tests, Saybolt Furol viscosity, density," type="">
+  </statement>
+  <statement id="7" text="softening point and flash point, whose results are available in Table 1 [ 19 ]." type="">
+  </statement>
+ </statements>
+</Table 1>
+<Table 4>
+ <caption text="
+
+   Marshall Dosing with 2%, 3% and 4% premixes with A/S/R and A/H/S/R.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="(%) / A/S/R">
+  </cell>
+  <cell col="1" row="0" text="2
+     
+     C
+     
+      7">
+  </cell>
+  <cell col="2" row="0" text="3
+     
+     C
+     
+      7">
+  </cell>
+  <cell col="3" row="0" text="4
+     
+     C
+     
+      7">
+  </cell>
+  <cell col="4" row="0" text="2
+     
+     C
+     
+      7.5">
+  </cell>
+  <cell col="5" row="0" text="3
+     
+     C
+     
+      7.5">
+  </cell>
+  <cell col="6" row="0" text="4
+     
+     C
+     
+      7.5">
+  </cell>
+  <cell col="7" row="0" text="2
+     
+     C
+     
+      8">
+  </cell>
+  <cell col="8" row="0" text="3
+     
+     C
+     
+      8">
+  </cell>
+  <cell col="9" row="0" text="4
+     
+     C
+     
+      8">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="CS">
+  </cell>
+  <cell col="1" row="1" text="48.00">
+  </cell>
+  <cell col="2" row="1" text="47.75">
+  </cell>
+  <cell col="3" row="1" text="47.00">
+  </cell>
+  <cell col="4" row="1" text="47.75">
+  </cell>
+  <cell col="5" row="1" text="47.50">
+  </cell>
+  <cell col="6" row="1" text="46.75">
+  </cell>
+  <cell col="7" row="1" text="48.00">
+  </cell>
+  <cell col="8" row="1" text="47.25">
+  </cell>
+  <cell col="9" row="1" text="46.50">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="S">
+  </cell>
+  <cell col="1" row="2" text="42.00">
+  </cell>
+  <cell col="2" row="2" text="40.75">
+  </cell>
+  <cell col="3" row="2" text="40.00">
+  </cell>
+  <cell col="4" row="2" text="41.75">
+  </cell>
+  <cell col="5" row="2" text="40.50">
+  </cell>
+  <cell col="6" row="2" text="39.75">
+  </cell>
+  <cell col="7" row="2" text="41.00">
+  </cell>
+  <cell col="8" row="2" text="40.25">
+  </cell>
+  <cell col="9" row="2" text="39.50">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="A">
+  </cell>
+  <cell col="1" row="3" text="7.00">
+  </cell>
+  <cell col="2" row="3" text="7.00">
+  </cell>
+  <cell col="3" row="3" text="7.00">
+  </cell>
+  <cell col="4" row="3" text="7.50">
+  </cell>
+  <cell col="5" row="3" text="7.50">
+  </cell>
+  <cell col="6" row="3" text="7.50">
+  </cell>
+  <cell col="7" row="3" text="8.00">
+  </cell>
+  <cell col="8" row="3" text="8.00">
+  </cell>
+  <cell col="9" row="3" text="8.00">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="R">
+  </cell>
+  <cell col="1" row="4" text="2.06">
+  </cell>
+  <cell col="2" row="4" text="3.09">
+  </cell>
+  <cell col="3" row="4" text="4.12">
+  </cell>
+  <cell col="4" row="4" text="2.06">
+  </cell>
+  <cell col="5" row="4" text="3.09">
+  </cell>
+  <cell col="6" row="4" text="4.12">
+  </cell>
+  <cell col="7" row="4" text="2.06">
+  </cell>
+  <cell col="8" row="4" text="3.09">
+  </cell>
+  <cell col="9" row="4" text="4.12">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="D (%) / A/H/S/R">
+  </cell>
+  <cell col="1" row="5" text="2
+     
+     C
+     
+      7">
+  </cell>
+  <cell col="2" row="5" text="3
+     
+     C
+     
+      7">
+  </cell>
+  <cell col="3" row="5" text="4
+     
+     C
+     
+      7">
+  </cell>
+  <cell col="4" row="5" text="2
+     
+     C
+     
+      7.5">
+  </cell>
+  <cell col="5" row="5" text="3
+     
+     C
+     
+      7.5">
+  </cell>
+  <cell col="6" row="5" text="4
+     
+     C
+     
+      7.5">
+  </cell>
+  <cell col="7" row="5" text="2
+     
+     C
+     
+      8">
+  </cell>
+  <cell col="8" row="5" text="3
+     
+     C
+     
+      8">
+  </cell>
+  <cell col="9" row="5" text="4
+     
+     C
+     
+      8">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="CS">
+  </cell>
+  <cell col="1" row="6" text="48.00">
+  </cell>
+  <cell col="2" row="6" text="47.75">
+  </cell>
+  <cell col="3" row="6" text="47.00">
+  </cell>
+  <cell col="4" row="6" text="47.75">
+  </cell>
+  <cell col="5" row="6" text="47.50">
+  </cell>
+  <cell col="6" row="6" text="46.75">
+  </cell>
+  <cell col="7" row="6" text="48.00">
+  </cell>
+  <cell col="8" row="6" text="47.25">
+  </cell>
+  <cell col="9" row="6" text="46.50">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="S">
+  </cell>
+  <cell col="1" row="7" text="42.00">
+  </cell>
+  <cell col="2" row="7" text="40.75">
+  </cell>
+  <cell col="3" row="7" text="40.00">
+  </cell>
+  <cell col="4" row="7" text="41.75">
+  </cell>
+  <cell col="5" row="7" text="40.50">
+  </cell>
+  <cell col="6" row="7" text="39.75">
+  </cell>
+  <cell col="7" row="7" text="41.00">
+  </cell>
+  <cell col="8" row="7" text="40.25">
+  </cell>
+  <cell col="9" row="7" text="39.50">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="A">
+  </cell>
+  <cell col="1" row="8" text="7.00">
+  </cell>
+  <cell col="2" row="8" text="7.00">
+  </cell>
+  <cell col="3" row="8" text="7.00">
+  </cell>
+  <cell col="4" row="8" text="7.50">
+  </cell>
+  <cell col="5" row="8" text="7.50">
+  </cell>
+  <cell col="6" row="8" text="7.50">
+  </cell>
+  <cell col="7" row="8" text="8.00">
+  </cell>
+  <cell col="8" row="8" text="8.00">
+  </cell>
+  <cell col="9" row="8" text="8.00">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="R">
+  </cell>
+  <cell col="1" row="9" text="0.18">
+  </cell>
+  <cell col="2" row="9" text="0.28">
+  </cell>
+  <cell col="3" row="9" text="0.37">
+  </cell>
+  <cell col="4" row="9" text="0.18">
+  </cell>
+  <cell col="5" row="9" text="0.28">
+  </cell>
+  <cell col="6" row="9" text="0.37">
+  </cell>
+  <cell col="7" row="9" text="0.18">
+  </cell>
+  <cell col="8" row="9" text="0.28">
+  </cell>
+  <cell col="9" row="9" text="0.37">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="H">
+  </cell>
+  <cell col="1" row="10" text="1.88">
+  </cell>
+  <cell col="2" row="10" text="2.81">
+  </cell>
+  <cell col="3" row="10" text="3.75">
+  </cell>
+  <cell col="4" row="10" text="1.88">
+  </cell>
+  <cell col="5" row="10" text="2.81">
+  </cell>
+  <cell col="6" row="10" text="3.75">
+  </cell>
+  <cell col="7" row="10" text="1.88">
+  </cell>
+  <cell col="8" row="10" text="2.81">
+  </cell>
+  <cell col="9" row="10" text="3.75">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="The power of C varries with 0.25." type="">
+  </statement>
+  <statement id="3" text="The values of Marshall Dosing are all different in CS, S, and A of both A/S/R and A/H/S/R." type="">
+  </statement>
+ </statements>
+</Table 4>
+<Table 3>
+ <caption text="
+
+   Compound Dosage for rheology testing A/S/R and A/H/S/R.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="% A/S/R">
+  </cell>
+  <cell col="1" row="0" text="7
+     
+     R
+     
+      3">
+  </cell>
+  <cell col="2" row="0" text="7
+     
+     R
+     
+      4.5">
+  </cell>
+  <cell col="3" row="0" text="7
+     
+     R
+     
+      6">
+  </cell>
+  <cell col="4" row="0" text="7.5
+     
+     R
+     
+      3">
+  </cell>
+  <cell col="5" row="0" text="7.5
+     
+     R
+     
+      4.5">
+  </cell>
+  <cell col="6" row="0" text="7.5
+     
+     R
+     
+      6">
+  </cell>
+  <cell col="7" row="0" text="8
+     
+     R
+     
+      3">
+  </cell>
+  <cell col="8" row="0" text="8
+     
+     R
+     
+      4.5">
+  </cell>
+  <cell col="9" row="0" text="8
+     
+     R
+     
+      6">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="A 50/70">
+  </cell>
+  <cell col="1" row="1" text="70.0">
+  </cell>
+  <cell col="2" row="1" text="60.9">
+  </cell>
+  <cell col="3" row="1" text="53.8">
+  </cell>
+  <cell col="4" row="1" text="71.4">
+  </cell>
+  <cell col="5" row="1" text="62.5">
+  </cell>
+  <cell col="6" row="1" text="55.6">
+  </cell>
+  <cell col="7" row="1" text="72.7">
+  </cell>
+  <cell col="8" row="1" text="64.0">
+  </cell>
+  <cell col="9" row="1" text="57.1">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="R">
+  </cell>
+  <cell col="1" row="2" text="11.2">
+  </cell>
+  <cell col="2" row="2" text="14.4">
+  </cell>
+  <cell col="3" row="2" text="16.6">
+  </cell>
+  <cell col="4" row="2" text="10.6">
+  </cell>
+  <cell col="5" row="2" text="13.4">
+  </cell>
+  <cell col="6" row="2" text="16.0">
+  </cell>
+  <cell col="7" row="2" text="10.6">
+  </cell>
+  <cell col="8" row="2" text="14.8">
+  </cell>
+  <cell col="9" row="2" text="16.3">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="S">
+  </cell>
+  <cell col="1" row="3" text="18.8">
+  </cell>
+  <cell col="2" row="3" text="24.7">
+  </cell>
+  <cell col="3" row="3" text="29.6">
+  </cell>
+  <cell col="4" row="3" text="18.0">
+  </cell>
+  <cell col="5" row="3" text="24.1">
+  </cell>
+  <cell col="6" row="3" text="28.4">
+  </cell>
+  <cell col="7" row="3" text="16.7">
+  </cell>
+  <cell col="8" row="3" text="21.2">
+  </cell>
+  <cell col="9" row="3" text="26.6">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="%
+     
+     A/H/S/R">
+  </cell>
+  <cell col="1" row="4" text="7
+     
+     R
+     
+      3">
+  </cell>
+  <cell col="2" row="4" text="7
+     
+     R
+     
+      4.5">
+  </cell>
+  <cell col="3" row="4" text="7
+     
+     R
+     
+      6">
+  </cell>
+  <cell col="4" row="4" text="7.5
+     
+     R
+     
+      3">
+  </cell>
+  <cell col="5" row="4" text="7.5
+     
+     R
+     
+      4.5">
+  </cell>
+  <cell col="6" row="4" text="7.5
+     
+     R
+     
+      6">
+  </cell>
+  <cell col="7" row="4" text="8
+     
+     R
+     
+      3">
+  </cell>
+  <cell col="8" row="4" text="8
+     
+     R
+     
+      4.5">
+  </cell>
+  <cell col="9" row="4" text="8
+     
+     R
+     
+      6">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="A 50/70">
+  </cell>
+  <cell col="1" row="5" text="70.0">
+  </cell>
+  <cell col="2" row="5" text="60.9">
+  </cell>
+  <cell col="3" row="5" text="53.8">
+  </cell>
+  <cell col="4" row="5" text="71.4">
+  </cell>
+  <cell col="5" row="5" text="62.5">
+  </cell>
+  <cell col="6" row="5" text="55.6">
+  </cell>
+  <cell col="7" row="5" text="72.7">
+  </cell>
+  <cell col="8" row="5" text="64.0">
+  </cell>
+  <cell col="9" row="5" text="57.1">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="H">
+  </cell>
+  <cell col="1" row="6" text="6.3">
+  </cell>
+  <cell col="2" row="6" text="8.2">
+  </cell>
+  <cell col="3" row="6" text="9.7">
+  </cell>
+  <cell col="4" row="6" text="6.0">
+  </cell>
+  <cell col="5" row="6" text="7.9">
+  </cell>
+  <cell col="6" row="6" text="9.4">
+  </cell>
+  <cell col="7" row="6" text="5.7">
+  </cell>
+  <cell col="8" row="6" text="7.6">
+  </cell>
+  <cell col="9" row="6" text="9.0">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="R">
+  </cell>
+  <cell col="1" row="7" text="7.9">
+  </cell>
+  <cell col="2" row="7" text="10.3">
+  </cell>
+  <cell col="3" row="7" text="12.1">
+  </cell>
+  <cell col="4" row="7" text="7.5">
+  </cell>
+  <cell col="5" row="7" text="9.9">
+  </cell>
+  <cell col="6" row="7" text="11.7">
+  </cell>
+  <cell col="7" row="7" text="7.2">
+  </cell>
+  <cell col="8" row="7" text="9.5">
+  </cell>
+  <cell col="9" row="7" text="11.3">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="S">
+  </cell>
+  <cell col="1" row="8" text="15.8">
+  </cell>
+  <cell col="2" row="8" text="20.6">
+  </cell>
+  <cell col="3" row="8" text="24.3">
+  </cell>
+  <cell col="4" row="8" text="15.0">
+  </cell>
+  <cell col="5" row="8" text="19.7">
+  </cell>
+  <cell col="6" row="8" text="23.4">
+  </cell>
+  <cell col="7" row="8" text="14.4">
+  </cell>
+  <cell col="8" row="8" text="18.9">
+  </cell>
+  <cell col="9" row="8" text="22.6">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="the value of S (A/S/R) under 7 R 4.5 is 24.7" type="">
+  </statement>
+  <statement id="1" text="tHe value of R ( A/S/R)UNDER 7 R 3 IS 11.2" type="">
+  </statement>
+  <statement id="2" text="The value of A ranges 50-90." type="">
+  </statement>
+  <statement id="3" text="tHe value of R ( A/S/R)UNDER 7 R 3 IS 15.2" type="">
+  </statement>
+  <statement id="4" text="The least value of S (A/H/S/R) is 14.4 under 8 R 13" type="">
+  </statement>
+ </statements>
+</Table 3>
+<Table 5>
+ <caption text="
+
+   Information related to the execution of the stretch with conventional and unconventional asphalt concrete.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Paving">
+  </cell>
+  <cell col="1" row="0" text="conventional asphalt concrete">
+  </cell>
+  <cell col="2" row="0" text="unconventional asphalt concrete">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Start Time from the paving">
+  </cell>
+  <cell col="1" row="1" text="9:00 h">
+  </cell>
+  <cell col="2" row="1" text="15:25 h">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Temperature in 8:00 and 9:00 h">
+  </cell>
+  <cell col="1" row="2" text="31 and 32 °C">
+  </cell>
+  <cell col="2" row="2" text="32 e 33 °C">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Air humidity at 9:00 and 11:00 h">
+  </cell>
+  <cell col="1" row="3" text="77 and 68 %">
+  </cell>
+  <cell col="2" row="3" text="64 e 62 %">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Asphalt Temperature on Truck">
+  </cell>
+  <cell col="1" row="4" text="170 °C">
+  </cell>
+  <cell col="2" row="4" text="175 °C">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Application temperature">
+  </cell>
+  <cell col="1" row="5" text="165 °C">
+  </cell>
+  <cell col="2" row="5" text="170 °C">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Pneumatic tire rollers 176.51 kN">
+  </cell>
+  <cell col="1" row="6" text="18 nunber of past">
+  </cell>
+  <cell col="2" row="6" text="26 nunber of past">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="tandem roller 98.07 kN no vibration">
+  </cell>
+  <cell col="1" row="7" text="10 nunber of past">
+  </cell>
+  <cell col="2" row="7" text="19 nunber of pasts">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Compaction temperature">
+  </cell>
+  <cell col="1" row="8" text="150 °C">
+  </cell>
+  <cell col="2" row="8" text="165 °C">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Bulk Density">
+  </cell>
+  <cell col="1" row="9" text="2.69 kN/m³">
+  </cell>
+  <cell col="2" row="9" text="2.79 kN/m³">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="Degree of compaction">
+  </cell>
+  <cell col="1" row="10" text="98.43 %">
+  </cell>
+  <cell col="2" row="10" text="99.39 %">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="There are about 10 Paving observed in the table." type="">
+  </statement>
+  <statement id="4" text="Start Time from the paving is unique as observed in the table." type="">
+  </statement>
+  <statement id="5" text="All the details are unique as observed." type="">
+  </statement>
+ </statements>
+</Table 5>

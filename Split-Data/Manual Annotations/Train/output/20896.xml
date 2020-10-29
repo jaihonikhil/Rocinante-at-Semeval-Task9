@@ -1,0 +1,212 @@
+<Table 1>
+ <caption text="
+
+   Conditional probabilities
+   
+
+
+
+
+        p
+       
+
+
+
+        τ
+       
+
+
+
+
+   with uncertainty representation assumed for the case study for transition mechanisms
+   
+
+
+      τ
+     
+
+
+   .
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Transition mechanism">
+  </cell>
+  <cell col="1" row="0" text="Best-guess probability
+     
+
+
+
+
+          p
+         
+
+
+
+          τ
+         
+
+          ,
+         
+
+          0">
+  </cell>
+  <cell col="2" row="0" text="Lower probability
+     
+
+
+
+
+          p
+         
+
+
+
+          τ
+         
+
+          ,
+         
+
+          -">
+  </cell>
+  <cell col="3" row="0" text="Upper probability
+     
+
+
+
+
+          p
+         
+
+
+
+          τ
+         
+
+          ,
+         
+
+          +">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Missing protection system operation (
+     
+
+
+
+
+          p
+         
+
+
+
+          m
+         
+
+
+
+
+     )">
+  </cell>
+  <cell col="1" row="1" text="0.0205">
+  </cell>
+  <cell col="2" row="1" text="0.01">
+  </cell>
+  <cell col="3" row="1" text="0.04">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Unwanted unselective tripping (
+     
+
+
+
+
+          p
+         
+
+
+
+          u
+         
+
+
+
+
+     )">
+  </cell>
+  <cell col="1" row="2" text="0.007">
+  </cell>
+  <cell col="2" row="2" text="0.004">
+  </cell>
+  <cell col="3" row="2" text="0.02">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Failure of corrective actions (
+     
+
+
+
+
+          p
+         
+
+
+
+          c
+         
+
+
+
+
+     )">
+  </cell>
+  <cell col="1" row="3" text="0.02">
+  </cell>
+  <cell col="2" row="3" text="0.005">
+  </cell>
+  <cell col="3" row="3" text="0.04">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Failure of islanding (
+     
+
+
+
+
+          p
+         
+
+
+
+          i
+         
+
+
+
+
+     )">
+  </cell>
+  <cell col="1" row="4" text="0.01">
+  </cell>
+  <cell col="2" row="4" text="0.002">
+  </cell>
+  <cell col="3" row="4" text="0.04">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are four Transition mechanism in the table." type="entailed">
+  </statement>
+  <statement id="1" text="Lower probability p  , - is unique for all." type="entailed">
+  </statement>
+  <statement id="2" text="Unwanted unselective tripping ( p u ) is having 0.02 as Upper probability p  , +." type="entailed">
+  </statement>
+  <statement id="5" text="One can observe that the uncertainty associated with the events is very large (of the same order of magnitude as  P , i itself), as they all are dependent upon one or more barrier failures that each have substantial uncertainty." type="entailed">
+  </statement>
+ </statements>
+</Table 1>

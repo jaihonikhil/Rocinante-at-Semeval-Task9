@@ -1,0 +1,304 @@
+<Table 1>
+ <caption text="
+
+   ESOL textbook corpus.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Textbooks">
+  </cell>
+  <cell col="1" row="0" text="14
+     
+
+       a">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Total words">
+  </cell>
+  <cell col="1" row="1" text="154,681">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Collocations identified by WordSmith">
+  </cell>
+  <cell col="1" row="2" text="844">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="High-frequency collocations
+     
+
+       b">
+  </cell>
+  <cell col="1" row="3" text="294">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="After manual checks">
+  </cell>
+  <cell col="1" row="4" text="118">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Top 40-item list
+     
+
+       c
+      
+
+     (contains 80 collocations)">
+  </cell>
+  <cell col="1" row="5" text="Represents 67.7% of manually checked collocations">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The Total words are 154,681." type="entailed">
+  </statement>
+  <statement id="1" text="High-frequency collocations is having 294." type="entailed">
+  </statement>
+  <statement id="3" text="The observed table is having unique textbooks." type="refuted">
+  </statement>
+ </statements>
+</Table 1>
+<Table 2>
+ <caption text="
+
+   Major ESL learning acts (based on the top 40-item list, or
+   ).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Acts">
+  </cell>
+  <cell col="1" row="0" text="Estimations">
+  </cell>
+  <cell col="2" row="0" text="Examples (frequency)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Constructivist (Con)">
+  </cell>
+  <cell col="1" row="1" text="2474 → 2241">
+  </cell>
+  <cell col="2" row="1" text="Work
+     
+     in
+     
+      pairs
+     
+     (1,067)
+     
+
+      Work
+     
+     in
+     
+      groups
+     
+     (494)
+     
+
+      Work
+     
+     with a
+     
+      partner
+     
+     (409)
+     
+      [Other examples are in
+     
+
+      ]">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Listening (L)">
+  </cell>
+  <cell col="1" row="2" text="1797">
+  </cell>
+  <cell col="2" row="2" text="Listen again
+     
+     (616)
+     
+
+      Listen
+     
+     and
+     
+      check
+     
+     (531)
+     
+
+      Listen
+     
+     and
+     
+      repeat
+     
+     (185)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Lexical-grammatical (LG)">
+  </cell>
+  <cell col="1" row="3" text="1162">
+  </cell>
+  <cell col="2" row="3" text="Use the
+     
+      words
+     
+     and
+     
+      phrases
+     
+     (249)
+     
+     Look at the
+     
+      words
+     
+     in
+     
+      box
+     
+     (185)
+     
+
+      Correct form
+     
+     of the verbs (119)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Reading (R)">
+  </cell>
+  <cell col="1" row="4" text="1198 → 981">
+  </cell>
+  <cell col="2" row="4" text="Read
+     
+     the
+     
+      article
+     
+     (320)
+     
+
+      Read
+     
+     the
+     
+      text
+     
+     (101)
+     
+
+      Read
+     
+     the
+     
+      information
+     
+     (83)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Writing (W)">
+  </cell>
+  <cell col="1" row="5" text="644">
+  </cell>
+  <cell col="2" row="5" text="Make note
+     
+     of … (206)
+     
+
+      Complete
+     
+
+      table
+     
+     (101)
+     
+
+      Write down
+     
+     [the questions] (75)">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Speaking/Pronouncing (S)">
+  </cell>
+  <cell col="1" row="6" text="364">
+  </cell>
+  <cell col="2" row="6" text="Listen
+     
+     and
+     
+      repeat
+     
+     the dialogue (185)
+     
+
+      Practise saying
+     
+     the words (140)
+     
+     Listen,
+     
+      check
+     
+     and
+     
+      repeat
+     
+     (39)">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Others (/)">
+  </cell>
+  <cell col="1" row="7" text="1599">
+  </cell>
+  <cell col="2" row="7" text="Choose the
+     
+      correct option
+     
+     (129)
+     
+
+      Look
+     
+     at the
+     
+      photos
+     
+     of (182)
+     
+     Listen and
+     
+      find out
+     
+     (125)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are seven different Acts." type="entailed">
+  </statement>
+  <statement id="1" text="Constructivist (Con) has Estimations of 2474  2241." type="entailed">
+  </statement>
+  <statement id="2" text="Lexical-grammatical (LG) has Estimations of 1162." type="entailed">
+  </statement>
+  <statement id="3" text="Reading (R) has Estimations of 1198  981." type="entailed">
+  </statement>
+  <statement id="5" text="Listening (L) has Estimations of 5747." type="refuted">
+  </statement>
+  <statement id="6" text="Lexical-grammatical (LG) has Estimations of 6543." type="refuted">
+  </statement>
+  <statement id="8" text="This research further extends our understanding of how much grammar weighs in these textbooks; for example, Table 2 shows that many textbook commands call attention to grammar." type="entailed">
+  </statement>
+ </statements>
+</Table 2>

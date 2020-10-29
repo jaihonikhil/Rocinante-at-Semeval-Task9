@@ -1,0 +1,128 @@
+<Table 1>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Mean">
+  </cell>
+  <cell col="2" row="0" text="SD">
+  </cell>
+  <cell col="3" row="0" text="Minimum">
+  </cell>
+  <cell col="4" row="0" text="Maximum">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="SIAS">
+  </cell>
+  <cell col="1" row="1" text="25.96">
+  </cell>
+  <cell col="2" row="1" text="15.78">
+  </cell>
+  <cell col="3" row="1" text="6">
+  </cell>
+  <cell col="4" row="1" text="71/80">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="BFNE">
+  </cell>
+  <cell col="1" row="2" text="38">
+  </cell>
+  <cell col="2" row="2" text="12.23">
+  </cell>
+  <cell col="3" row="2" text="13">
+  </cell>
+  <cell col="4" row="2" text="60/60">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="STAI">
+  </cell>
+  <cell col="1" row="3" text="42.59">
+  </cell>
+  <cell col="2" row="3" text="12.33">
+  </cell>
+  <cell col="3" row="3" text="24">
+  </cell>
+  <cell col="4" row="3" text="73/80">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="AQ">
+  </cell>
+  <cell col="1" row="4" text="8.87">
+  </cell>
+  <cell col="2" row="4" text="5.30">
+  </cell>
+  <cell col="3" row="4" text="1">
+  </cell>
+  <cell col="4" row="4" text="22/33">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="BFI Extraversion">
+  </cell>
+  <cell col="1" row="5" text="3.37">
+  </cell>
+  <cell col="2" row="5" text="1.06">
+  </cell>
+  <cell col="3" row="5" text="1.25">
+  </cell>
+  <cell col="4" row="5" text="5/5">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="BFI Agreeableness">
+  </cell>
+  <cell col="1" row="6" text="2.83">
+  </cell>
+  <cell col="2" row="6" text="0.72">
+  </cell>
+  <cell col="3" row="6" text="1">
+  </cell>
+  <cell col="4" row="6" text="4.5/5">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="BFI Conscientiousness">
+  </cell>
+  <cell col="1" row="7" text="3.77">
+  </cell>
+  <cell col="2" row="7" text="0.65">
+  </cell>
+  <cell col="3" row="7" text="2.25">
+  </cell>
+  <cell col="4" row="7" text="5/5">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="BFI Neuroticism">
+  </cell>
+  <cell col="1" row="8" text="3.45">
+  </cell>
+  <cell col="2" row="8" text="0.88">
+  </cell>
+  <cell col="3" row="8" text="1">
+  </cell>
+  <cell col="4" row="8" text="5/5">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="BFI Openness">
+  </cell>
+  <cell col="1" row="9" text="4.10">
+  </cell>
+  <cell col="2" row="9" text="0.66">
+  </cell>
+  <cell col="3" row="9" text="1.8">
+  </cell>
+  <cell col="4" row="9" text="5/5">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Minimum 2.25 for BFI Conscientiousness." type="">
+  </statement>
+  <statement id="2" text="BFNE Mean is 38." type="">
+  </statement>
+ </statements>
+</Table 1>

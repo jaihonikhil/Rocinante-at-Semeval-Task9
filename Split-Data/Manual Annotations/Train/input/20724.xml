@@ -1,0 +1,82 @@
+<Table 1>
+ <caption text="
+
+   Evolution of power density values of MFCs studied.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Anode">
+  </cell>
+  <cell col="1" row="0" text="Maximum power density (mW m
+     
+      −2
+     
+     )">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="day 12">
+  </cell>
+  <cell col="2" row="1" text="day 17">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="GRbare #1">
+  </cell>
+  <cell col="1" row="2" text="12">
+  </cell>
+  <cell col="2" row="2" text="359">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="GRbare #2">
+  </cell>
+  <cell col="1" row="3" text="5">
+  </cell>
+  <cell col="2" row="3" text="353">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="GR_S #1">
+  </cell>
+  <cell col="1" row="4" text="242">
+  </cell>
+  <cell col="2" row="4" text="320">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="GR_S #2">
+  </cell>
+  <cell col="1" row="5" text="397">
+  </cell>
+  <cell col="2" row="5" text="330">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="GR350 #1">
+  </cell>
+  <cell col="1" row="6" text="258">
+  </cell>
+  <cell col="2" row="6" text="325">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="GR350 #2">
+  </cell>
+  <cell col="1" row="7" text="347">
+  </cell>
+  <cell col="2" row="7" text="334">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Anode GRbare #2 for Maximum power density (mW m 2 ) day 12 is 5." type="">
+  </statement>
+  <statement id="1" text="334 day 17 Maximum power density (mW m 2 ) for Anode GR350 #2." type="">
+  </statement>
+  <statement id="4" text="Anode GRbare #2 for Maximum power density (mW m 2 ) day 12 is 10." type="">
+  </statement>
+  <statement id="6" text="This is also evident from maximum power densities reported in Table 1 , which indicate that after 18 days all bioanodes display comparable performance." type="">
+  </statement>
+ </statements>
+</Table 1>

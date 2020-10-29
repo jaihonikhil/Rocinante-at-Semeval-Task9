@@ -1,0 +1,229 @@
+<Table 3>
+ <caption text="
+
+   Food self-provisioning and exchange in Sogamoso.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Variables">
+  </cell>
+  <cell col="1" row="0" text="Type A (N = 32)">
+  </cell>
+  <cell col="2" row="0" text="Type B (N = 38)">
+  </cell>
+  <cell col="3" row="0" text="Type C (N = 54)">
+  </cell>
+  <cell col="4" row="0" text="Type D (N = 36)">
+  </cell>
+  <cell col="5" row="0" text="Total (N = 160)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Number of households that consumed at least part of own animal production">
+  </cell>
+  <cell col="1" row="1" text="8 (25.0)">
+  </cell>
+  <cell col="2" row="1" text="21 (55.3)">
+  </cell>
+  <cell col="3" row="1" text="16 (29.6)">
+  </cell>
+  <cell col="4" row="1" text="5 (13.9)">
+  </cell>
+  <cell col="5" row="1" text="50 (31.3)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Number of households that consumed at least part of own vegetable, fruit and/or herbs production">
+  </cell>
+  <cell col="1" row="2" text="23 (71.9)">
+  </cell>
+  <cell col="2" row="2" text="31 (81.6)">
+  </cell>
+  <cell col="3" row="2" text="40 (74.1)">
+  </cell>
+  <cell col="4" row="2" text="26 (72.2)">
+  </cell>
+  <cell col="5" row="2" text="120 (75.0)">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Number of households that consumed at least part of either own animal production, and own production of vegetable, fruit and/or herbs">
+  </cell>
+  <cell col="1" row="3" text="23 (71.9)">
+  </cell>
+  <cell col="2" row="3" text="36 (94.7)">
+  </cell>
+  <cell col="3" row="3" text="46 (85.2)">
+  </cell>
+  <cell col="4" row="3" text="28 (77.8)">
+  </cell>
+  <cell col="5" row="3" text="133 (83.1)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Number of households that exchanged own livestock and/or animal production">
+  </cell>
+  <cell col="1" row="4" text="0 (0.0)">
+  </cell>
+  <cell col="2" row="4" text="3 (7.9)">
+  </cell>
+  <cell col="3" row="4" text="5 (9.3)">
+  </cell>
+  <cell col="4" row="4" text="4 (11.1)">
+  </cell>
+  <cell col="5" row="4" text="12 (7.5)">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Number of households that exchanged own vegetables, fruit, and/or herbs">
+  </cell>
+  <cell col="1" row="5" text="4 (12.5)">
+  </cell>
+  <cell col="2" row="5" text="10 (26.3)">
+  </cell>
+  <cell col="3" row="5" text="15 (27.8)">
+  </cell>
+  <cell col="4" row="5" text="11 (30.6)">
+  </cell>
+  <cell col="5" row="5" text="40 (25.0)">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Number of households that exchanged own livestock and/or animal production, and/or own vegetables, fruit, and/or herbs">
+  </cell>
+  <cell col="1" row="6" text="4 (12.5)">
+  </cell>
+  <cell col="2" row="6" text="10 (26.3)">
+  </cell>
+  <cell col="3" row="6" text="16 (29.6)">
+  </cell>
+  <cell col="4" row="6" text="12 (33.3)">
+  </cell>
+  <cell col="5" row="6" text="42 (26.3)">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="They have different kinds of variables given." type="entailed">
+  </statement>
+  <statement id="1" text="Number of households that exchanged own vegetables, fruit, and/or herbs of Type D is 11(30.6)." type="entailed">
+  </statement>
+  <statement id="3" text="The Highest value in TypeB is 133 (83.1)." type="refuted">
+  </statement>
+  <statement id="4" text="The Lowest value in TypeC is 12 (7.5)." type="refuted">
+  </statement>
+  <statement id="5" text="The Lowest value in TypeD is 42 (26.3)." type="refuted">
+  </statement>
+  <statement id="6" text="In relation to this point, types B, C, and D, which had higher engagement rates in FSPE ( Table 3 ), tended to use fewer chemical inputs than type A ( Table 1 )." type="entailed">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Sell of produce by destination.
+   
+
+     a
+    
+
+
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Buyer">
+  </cell>
+  <cell col="1" row="0" text="Animal produce">
+  </cell>
+  <cell col="2" row="0" text="Crop produce">
+  </cell>
+  <cell col="3" row="0" text="Total">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Local middleman">
+  </cell>
+  <cell col="1" row="1" text="20">
+  </cell>
+  <cell col="2" row="1" text="22">
+  </cell>
+  <cell col="3" row="1" text="42">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Cooperative">
+  </cell>
+  <cell col="1" row="2" text="0">
+  </cell>
+  <cell col="2" row="2" text="2">
+  </cell>
+  <cell col="3" row="2" text="2">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Wholesaler">
+  </cell>
+  <cell col="1" row="3" text="3">
+  </cell>
+  <cell col="2" row="3" text="24">
+  </cell>
+  <cell col="3" row="3" text="27">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Retailer">
+  </cell>
+  <cell col="1" row="4" text="5">
+  </cell>
+  <cell col="2" row="4" text="12">
+  </cell>
+  <cell col="3" row="4" text="17">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Local market">
+  </cell>
+  <cell col="1" row="5" text="6">
+  </cell>
+  <cell col="2" row="5" text="38">
+  </cell>
+  <cell col="3" row="5" text="44">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Supermarket">
+  </cell>
+  <cell col="1" row="6" text="2">
+  </cell>
+  <cell col="2" row="6" text="0">
+  </cell>
+  <cell col="3" row="6" text="2">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Final consumer">
+  </cell>
+  <cell col="1" row="7" text="34">
+  </cell>
+  <cell col="2" row="7" text="69">
+  </cell>
+  <cell col="3" row="7" text="105">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 7 types of Buyer in the given table." type="entailed">
+  </statement>
+  <statement id="1" text="The total of Cooperative and Supermarket is same as 2." type="entailed">
+  </statement>
+  <statement id="3" text="The total of Cooperative and Supermarket is same as 4." type="refuted">
+  </statement>
+  <statement id="4" text="There are 9 types of Buyer in the given table." type="refuted">
+  </statement>
+  <statement id="5" text="All the values in the given table is &lt;0." type="refuted">
+  </statement>
+  <statement id="6" text="The lowest Crop produce is 69 in Final consumer." type="refuted">
+  </statement>
+  <statement id="7" text="The crop produce in supermarket and the animal produce in cooperative is 1." type="refuted">
+  </statement>
+ </statements>
+</Table 2>

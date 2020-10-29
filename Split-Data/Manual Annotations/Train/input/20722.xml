@@ -1,0 +1,158 @@
+<Table 1>
+ <caption text="
+
+   Attributes of each relational table of the FESTIval's data schema.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Relational table">
+  </cell>
+  <cell col="1" row="0" text="Attributes">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Source">
+  </cell>
+  <cell col="1" row="1" text="src_id, schema_name, table_name, column_name, pk_name">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="BasicConfiguration">
+  </cell>
+  <cell col="1" row="2" text="bc_id, ss_id, page_size, io_access, refinement_type">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="StorageSystem">
+  </cell>
+  <cell col="1" row="3" text="ss_id, storage_system, description">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="FlashDBSimConfiguration">
+  </cell>
+  <cell col="1" row="4" text="ss_id, ftl_id, vfd_id">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="VirtualFlashDevice">
+  </cell>
+  <cell col="1" row="5" text="vfd_id, nand_device_type, block_count, page_count_per_block, page_size1, page_size2, erase_limitation, read_random_time, read_serial_time, program_time, erase_time">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="FlashTranslationLayer">
+  </cell>
+  <cell col="1" row="6" text="ftl_id, ftl_type, map_list_size, wear_leveling_threshold">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="BufferConfiguration">
+  </cell>
+  <cell col="1" row="7" text="buf_id, buf_type, buf_size">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="SpecializedConfiguration">
+  </cell>
+  <cell col="1" row="8" text="sc_id, description">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="RTreeConfiguration">
+  </cell>
+  <cell col="1" row="9" text="sc_id, or_id, split_type">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="RStarTreeConfiguration">
+  </cell>
+  <cell col="1" row="10" text="sc_id, or_id, reinsertion_perc_internal_nodes, reinsertion_perc_leaf_nodes, reinsertion_type, max_neighbors_exam">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="HilbertRTreeConfiguration">
+  </cell>
+  <cell col="1" row="11" text="sc_id, or_id, order_splitting_policy">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="FORTreeConfiguration">
+  </cell>
+  <cell col="1" row="12" text="sc_id, or_id, buffer_size, flushing_unit_size, ration_flushing, x, y">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="FASTConfiguration">
+  </cell>
+  <cell col="1" row="13" text="sc_id, index_type, db_sc_id, buffer_size, flushing_unit_size, flushing_policy, log_size">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="eFINDConfiguration">
+  </cell>
+  <cell col="1" row="14" text="sc_id, index_type, db_sc_id, buffer_size, read_buffer_perc, temporal_control_policy, read_temporal_control_perc, write_temporal_control_size, write_temporal_control_mindist, write_temporal_control_stride, timestamp_percentage, flushing_unit_size, flushing_policy, read_buffer_policy, log_size">
+  </cell>
+ </row>
+ <row row="15">
+  <cell col="0" row="15" text="OccupancyRate">
+  </cell>
+  <cell col="1" row="15" text="or_id, min_fill_int_nodes, min_fill_leaf_nodes, max_fill_int_nodes, max_fill_leaf_nodes">
+  </cell>
+ </row>
+ <row row="16">
+  <cell col="0" row="16" text="IndexConfiguration">
+  </cell>
+  <cell col="1" row="16" text="config_id, src_id, bc_id, sc_id, buf_id">
+  </cell>
+ </row>
+ <row row="17">
+  <cell col="0" row="17" text="SpatialIndex">
+  </cell>
+  <cell col="1" row="17" text="idx_id, config_id, idx_name, idx_path, idx_creation, idx_last_mod">
+  </cell>
+ </row>
+ <row row="18">
+  <cell col="0" row="18" text="Execution
+     
+
+       a">
+  </cell>
+  <cell col="1" row="18" text="pe_id, idx_id, execution_name, total_time, index_time, read_time, write_time, split_time, reads_num, writes_num, total_cpu_time, index_cpu_time, read_cpu_time, write_cpu_time, split_cpu_time,...">
+  </cell>
+ </row>
+ <row row="19">
+  <cell col="0" row="19" text="ReadWriteOrder">
+  </cell>
+  <cell col="1" row="19" text="pe_id, rw_order, op_type, op_timestamp, page_id">
+  </cell>
+ </row>
+ <row row="20">
+  <cell col="0" row="20" text="FlashSimulatorStatistics">
+  </cell>
+  <cell col="1" row="20" text="pe_id, read_count, write_count, erase_count, read_latency, write_latency, erase_latency">
+  </cell>
+ </row>
+ <row row="21">
+  <cell col="0" row="21" text="IndexSnapshot
+     
+
+       a">
+  </cell>
+  <cell col="1" row="21" text="pe_id, height, num_int_nodes, num_leaf_nodes, num_entries_int_nodes, num_entries_leaf_nodes, avg_num_entries_pnode, avg_coverage_area_pnode,...">
+  </cell>
+ </row>
+ <row row="22">
+  <cell col="0" row="22" text="PrintIndex">
+  </cell>
+  <cell col="1" row="22" text="pe_id, node_id, geom, elem_position, node_height">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="The attribute for RTreeConfiguration is ss_id, ftl_id, vfd_id" type="">
+  </statement>
+  <statement id="3" text="There are 30 categories under Relational table." type="">
+  </statement>
+ </statements>
+</Table 1>

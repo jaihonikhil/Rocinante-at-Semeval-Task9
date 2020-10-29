@@ -1,0 +1,556 @@
+<Table 1>
+ <caption text="
+
+   Properties of Oils
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Property">
+  </cell>
+  <cell col="1" row="0" text="Servocut ‘S’
+     
+      [5]">
+  </cell>
+  <cell col="2" row="0" text="Palm Oil">
+  </cell>
+  <cell col="3" row="0" text="Peanut Oil">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="C1">
+  </cell>
+  <cell col="2" row="1" text="C2">
+  </cell>
+  <cell col="3" row="1" text="C3">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Relative density">
+  </cell>
+  <cell col="1" row="2" text="0.877">
+  </cell>
+  <cell col="2" row="2" text="0.924">
+  </cell>
+  <cell col="3" row="2" text="0.92">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Kinematic Viscosity at 40
+     
+      0
+     
+     C">
+  </cell>
+  <cell col="1" row="3" text="20 cSt">
+  </cell>
+  <cell col="2" row="3" text="48 cSt">
+  </cell>
+  <cell col="3" row="3" text="42 cSt">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Flash Point">
+  </cell>
+  <cell col="1" row="4" text="150
+     
+      0
+     
+     C">
+  </cell>
+  <cell col="2" row="4" text="324
+     
+      0
+     
+     C">
+  </cell>
+  <cell col="3" row="4" text="315
+     
+      0
+     
+     C">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Relative density, Kinematic Viscosity and Flash point are the properties of oil's." type="entailed">
+  </statement>
+  <statement id="1" text="Relative density of Palm Oil is 0.924." type="entailed">
+  </statement>
+  <statement id="2" text="Palm Oil has the heighest Kinematic Viscosity." type="entailed">
+  </statement>
+  <statement id="3" text="Palm Oil has the lowest Kinematic Viscosity." type="refuted">
+  </statement>
+  <statement id="4" text="There are 4 type of oil." type="refuted">
+  </statement>
+  <statement id="8" text="The properties of the oil are given in Table 1 ." type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   Turning control factors and levels
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Control factors">
+  </cell>
+  <cell col="1" row="0" text="Notation">
+  </cell>
+  <cell col="2" row="0" text="Levels">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="2" row="1" text="1">
+  </cell>
+  <cell col="3" row="1" text="2">
+  </cell>
+  <cell col="4" row="1" text="3">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Spindle Speed (rpm)">
+  </cell>
+  <cell col="1" row="2" text="n">
+  </cell>
+  <cell col="2" row="2" text="3200">
+  </cell>
+  <cell col="3" row="2" text="3400">
+  </cell>
+  <cell col="4" row="2" text="3600">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Feed (mm/rev)">
+  </cell>
+  <cell col="1" row="3" text="f">
+  </cell>
+  <cell col="2" row="3" text="0.1">
+  </cell>
+  <cell col="3" row="3" text="0.15">
+  </cell>
+  <cell col="4" row="3" text="0.2">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Depth of Cut (mm)">
+  </cell>
+  <cell col="1" row="4" text="d">
+  </cell>
+  <cell col="2" row="4" text="0.1">
+  </cell>
+  <cell col="3" row="4" text="0.15">
+  </cell>
+  <cell col="4" row="4" text="0.2">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Tool Corner Radius (mm)">
+  </cell>
+  <cell col="1" row="5" text="r">
+  </cell>
+  <cell col="2" row="5" text="0.4">
+  </cell>
+  <cell col="3" row="5" text="0.8">
+  </cell>
+  <cell col="4" row="5" text="1.2">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Cutting fluid (no unit)">
+  </cell>
+  <cell col="1" row="6" text="C">
+  </cell>
+  <cell col="2" row="6" text="C1">
+  </cell>
+  <cell col="3" row="6" text="C2">
+  </cell>
+  <cell col="4" row="6" text="C3">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Control factors Cutting fluid (no unit) Notation is C and level 1 is C1 ." type="entailed">
+  </statement>
+  <statement id="1" text="Cutting fluid (no unit) Notation is n." type="refuted">
+  </statement>
+  <statement id="2" text="0.8 for level 3 and Notation is r." type="refuted">
+  </statement>
+  <statement id="3" text="Spindle Speed (rpm) level 3 is 3400." type="refuted">
+  </statement>
+  <statement id="4" text="Depth of Cut (mm) Notation is d and level 1 is 0.2." type="refuted">
+  </statement>
+ </statements>
+</Table 3>
+<Table 6>
+ <caption text="
+
+   ANOVA for tool-work interface temperature (T)
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Source">
+  </cell>
+  <cell col="1" row="0" text="DF">
+  </cell>
+  <cell col="2" row="0" text="Seq SS">
+  </cell>
+  <cell col="3" row="0" text="Contribution">
+  </cell>
+  <cell col="4" row="0" text="Adj SS">
+  </cell>
+  <cell col="5" row="0" text="Adj MS">
+  </cell>
+  <cell col="6" row="0" text="F-Value">
+  </cell>
+  <cell col="7" row="0" text="P-Value">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="n">
+  </cell>
+  <cell col="1" row="1" text="1">
+  </cell>
+  <cell col="2" row="1" text="15646.8">
+  </cell>
+  <cell col="3" row="1" text="82.45%">
+  </cell>
+  <cell col="4" row="1" text="20.7">
+  </cell>
+  <cell col="5" row="1" text="20.69">
+  </cell>
+  <cell col="6" row="1" text="3.01">
+  </cell>
+  <cell col="7" row="1" text="0.105">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="f">
+  </cell>
+  <cell col="1" row="2" text="1">
+  </cell>
+  <cell col="2" row="2" text="2835.0">
+  </cell>
+  <cell col="3" row="2" text="14.94%">
+  </cell>
+  <cell col="4" row="2" text="15.3">
+  </cell>
+  <cell col="5" row="2" text="15.31">
+  </cell>
+  <cell col="6" row="2" text="2.23">
+  </cell>
+  <cell col="7" row="2" text="0.158">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="d">
+  </cell>
+  <cell col="1" row="3" text="1">
+  </cell>
+  <cell col="2" row="3" text="1.1">
+  </cell>
+  <cell col="3" row="3" text="0.01%">
+  </cell>
+  <cell col="4" row="3" text="27.9">
+  </cell>
+  <cell col="5" row="3" text="27.85">
+  </cell>
+  <cell col="6" row="3" text="4.06">
+  </cell>
+  <cell col="7" row="3" text="0.064">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="r">
+  </cell>
+  <cell col="1" row="4" text="1">
+  </cell>
+  <cell col="2" row="4" text="151.4">
+  </cell>
+  <cell col="3" row="4" text="0.80%">
+  </cell>
+  <cell col="4" row="4" text="88.6">
+  </cell>
+  <cell col="5" row="4" text="88.62">
+  </cell>
+  <cell col="6" row="4" text="12.91">
+  </cell>
+  <cell col="7" row="4" text="0.003">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="c">
+  </cell>
+  <cell col="1" row="5" text="1">
+  </cell>
+  <cell col="2" row="5" text="3.6">
+  </cell>
+  <cell col="3" row="5" text="0.02%">
+  </cell>
+  <cell col="4" row="5" text="0.1">
+  </cell>
+  <cell col="5" row="5" text="0.15">
+  </cell>
+  <cell col="6" row="5" text="0.02">
+  </cell>
+  <cell col="7" row="5" text="0.886">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="nf">
+  </cell>
+  <cell col="1" row="6" text="1">
+  </cell>
+  <cell col="2" row="6" text="189.6">
+  </cell>
+  <cell col="3" row="6" text="1.00%">
+  </cell>
+  <cell col="4" row="6" text="67.6">
+  </cell>
+  <cell col="5" row="6" text="67.58">
+  </cell>
+  <cell col="6" row="6" text="9.84">
+  </cell>
+  <cell col="7" row="6" text="0.007">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="nd">
+  </cell>
+  <cell col="1" row="7" text="1">
+  </cell>
+  <cell col="2" row="7" text="5.1">
+  </cell>
+  <cell col="3" row="7" text="0.03%">
+  </cell>
+  <cell col="4" row="7" text="27.8">
+  </cell>
+  <cell col="5" row="7" text="27.80">
+  </cell>
+  <cell col="6" row="7" text="4.05">
+  </cell>
+  <cell col="7" row="7" text="0.064">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="nc">
+  </cell>
+  <cell col="1" row="8" text="1">
+  </cell>
+  <cell col="2" row="8" text="0.0">
+  </cell>
+  <cell col="3" row="8" text="0.00%">
+  </cell>
+  <cell col="4" row="8" text="0.0">
+  </cell>
+  <cell col="5" row="8" text="0.00">
+  </cell>
+  <cell col="6" row="8" text="0.00">
+  </cell>
+  <cell col="7" row="8" text="1.000">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="fd">
+  </cell>
+  <cell col="1" row="9" text="1">
+  </cell>
+  <cell col="2" row="9" text="48.7">
+  </cell>
+  <cell col="3" row="9" text="0.26%">
+  </cell>
+  <cell col="4" row="9" text="48.7">
+  </cell>
+  <cell col="5" row="9" text="48.66">
+  </cell>
+  <cell col="6" row="9" text="7.09">
+  </cell>
+  <cell col="7" row="9" text="0.019">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="fc">
+  </cell>
+  <cell col="1" row="10" text="1">
+  </cell>
+  <cell col="2" row="10" text="0.0">
+  </cell>
+  <cell col="3" row="10" text="0.00%">
+  </cell>
+  <cell col="4" row="10" text="0.0">
+  </cell>
+  <cell col="5" row="10" text="0.00">
+  </cell>
+  <cell col="6" row="10" text="0.00">
+  </cell>
+  <cell col="7" row="10" text="1.000">
+  </cell>
+ </row>
+ <row row="11">
+  <cell col="0" row="11" text="dc">
+  </cell>
+  <cell col="1" row="11" text="1">
+  </cell>
+  <cell col="2" row="11" text="0.0">
+  </cell>
+  <cell col="3" row="11" text="0.00%">
+  </cell>
+  <cell col="4" row="11" text="0.0">
+  </cell>
+  <cell col="5" row="11" text="0.00">
+  </cell>
+  <cell col="6" row="11" text="0.00">
+  </cell>
+  <cell col="7" row="11" text="1.000">
+  </cell>
+ </row>
+ <row row="12">
+  <cell col="0" row="12" text="rc">
+  </cell>
+  <cell col="1" row="12" text="1">
+  </cell>
+  <cell col="2" row="12" text="0.0">
+  </cell>
+  <cell col="3" row="12" text="0.00%">
+  </cell>
+  <cell col="4" row="12" text="0.0">
+  </cell>
+  <cell col="5" row="12" text="0.00">
+  </cell>
+  <cell col="6" row="12" text="0.00">
+  </cell>
+  <cell col="7" row="12" text="1.000">
+  </cell>
+ </row>
+ <row row="13">
+  <cell col="0" row="13" text="Error">
+  </cell>
+  <cell col="1" row="13" text="14">
+  </cell>
+  <cell col="2" row="13" text="96.1">
+  </cell>
+  <cell col="3" row="13" text="0.51%">
+  </cell>
+  <cell col="4" row="13" text="96.1">
+  </cell>
+  <cell col="5" row="13" text="6.87">
+  </cell>
+  <cell col="6" row="13" text="">
+  </cell>
+  <cell col="7" row="13" text="">
+  </cell>
+ </row>
+ <row row="14">
+  <cell col="0" row="14" text="Total">
+  </cell>
+  <cell col="1" row="14" text="26">
+  </cell>
+  <cell col="2" row="14" text="18977.4">
+  </cell>
+  <cell col="3" row="14" text="100.00%">
+  </cell>
+  <cell col="4" row="14" text="">
+  </cell>
+  <cell col="5" row="14" text="">
+  </cell>
+  <cell col="6" row="14" text="">
+  </cell>
+  <cell col="7" row="14" text="">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are 12 different types of sources in the given table." type="entailed">
+  </statement>
+  <statement id="1" text="All the values for source fc, dc, nc and rc is 0.00." type="entailed">
+  </statement>
+  <statement id="2" text="The highest p - value is 1.000 for nc, fc, dc and rc." type="entailed">
+  </statement>
+  <statement id="3" text="The least contribution value is 0.01% in c source." type="refuted">
+  </statement>
+  <statement id="5" text="The df value differs for each source in the table." type="refuted">
+  </statement>
+  <statement id="6" text="All the values for source fc, dc, fd and rc is 0.00." type="refuted">
+  </statement>
+  <statement id="9" text="The P-value is determined by 95% of the confidence limit." type="entailed">
+  </statement>
+ </statements>
+</Table 6>
+<Table 2>
+ <caption text="
+
+   Cutting fluid composition
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Cutting fluid composition">
+  </cell>
+  <cell col="1" row="0" text="Servocut ‘S’">
+  </cell>
+  <cell col="2" row="0" text="Palm Oil">
+  </cell>
+  <cell col="3" row="0" text="Peanut Oil">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="C1">
+  </cell>
+  <cell col="2" row="1" text="C2">
+  </cell>
+  <cell col="3" row="1" text="C3">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Oil">
+  </cell>
+  <cell col="1" row="2" text="4%">
+  </cell>
+  <cell col="2" row="2" text="4%">
+  </cell>
+  <cell col="3" row="2" text="4%">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Additives">
+  </cell>
+  <cell col="1" row="3" text="1%">
+  </cell>
+  <cell col="2" row="3" text="1%">
+  </cell>
+  <cell col="3" row="3" text="1%">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Water">
+  </cell>
+  <cell col="1" row="4" text="95%">
+  </cell>
+  <cell col="2" row="4" text="95%">
+  </cell>
+  <cell col="3" row="4" text="95%">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Total">
+  </cell>
+  <cell col="1" row="5" text="100%">
+  </cell>
+  <cell col="2" row="5" text="100%">
+  </cell>
+  <cell col="3" row="5" text="100%">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Peanut Oil C3 is 95% for Water." type="entailed">
+  </statement>
+  <statement id="1" text="Total 100% is same for Servocut S, Palm Oil,Peanut Oil." type="entailed">
+  </statement>
+  <statement id="4" text="Total 0% is same for Servocut S, Palm Oil,Peanut Oil." type="refuted">
+  </statement>
+  <statement id="6" text="95% Palm Oil for Oil Cutting fluid composition ." type="refuted">
+  </statement>
+  <statement id="9" text="The cutting fluid compositions are given in Table 2 ." type="entailed">
+  </statement>
+ </statements>
+</Table 2>

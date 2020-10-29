@@ -1,0 +1,338 @@
+<Table 1>
+ <caption text="
+
+   Assumptions about the payoff shares
+   
+    f
+    
+     l
+    
+
+   (
+   
+    m
+    
+     ij
+    
+    , δ
+   
+   ),
+   
+    f
+    
+     b
+    
+
+   (
+   
+    m
+    
+     ij
+    
+    , δ
+   
+   ) and
+   
+    f
+    
+     m
+    
+
+   (
+   
+    m
+    
+     ij
+    
+    , δ
+   
+   ).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Share of payoffs for:">
+  </cell>
+  <cell col="1" row="0" text="lender.....">
+  </cell>
+  <cell col="2" row="0" text="borrower...">
+  </cell>
+  <cell col="3" row="0" text="middlemen">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="">
+  </cell>
+  <cell col="1" row="1" text="f
+      
+       l
+      
+
+     (1, .)">
+  </cell>
+  <cell col="2" row="1" text="f
+      
+       b
+      
+
+     (1, .)">
+  </cell>
+  <cell col="3" row="1" text="f
+      
+       m
+      
+
+     (1, .)">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Number of middlemen
+     
+      m">
+  </cell>
+  <cell col="1" row="2" text="∂
+          
+
+
+            f
+           
+
+            l
+           
+
+
+
+
+           ∂
+          
+
+           m
+          
+
+
+
+         &gt;
+        
+
+         0">
+  </cell>
+  <cell col="2" row="2" text="∂
+          
+
+
+            f
+           
+
+            b
+           
+
+
+
+
+           ∂
+          
+
+           m
+          
+
+
+
+         &gt;
+        
+
+         0">
+  </cell>
+  <cell col="3" row="2" text="∂
+          
+
+
+            f
+           
+
+            m
+           
+
+
+
+
+           ∂
+          
+
+           m
+          
+
+
+
+         &lt;
+        
+
+         0">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="">
+  </cell>
+  <cell col="1" row="3" text="f
+      
+       l
+      
+
+     (., 0)">
+  </cell>
+  <cell col="2" row="3" text="f
+      
+       b
+      
+
+     (., 0)">
+  </cell>
+  <cell col="3" row="3" text="f
+      
+       m
+      
+
+     (., 0)">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Level of competition
+     
+      δ">
+  </cell>
+  <cell col="1" row="4" text="∂
+          
+
+
+            f
+           
+
+            l
+           
+
+
+
+
+           ∂
+          
+
+           δ
+          
+
+
+
+         &gt;
+        
+
+         0">
+  </cell>
+  <cell col="2" row="4" text="∂
+          
+
+
+            f
+           
+
+            b
+           
+
+
+
+
+           ∂
+          
+
+           δ
+          
+
+
+
+         &gt;
+        
+
+         0">
+  </cell>
+  <cell col="3" row="4" text="∂
+          
+
+
+            f
+           
+
+            m
+           
+
+
+
+
+           ∂
+          
+
+           δ
+          
+
+
+
+         &lt;
+        
+
+         0">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="">
+  </cell>
+  <cell col="1" row="5" text="f
+      
+       l
+      
+
+     (., 1)">
+  </cell>
+  <cell col="2" row="5" text="f
+      
+       b
+      
+
+     (., 1)">
+  </cell>
+  <cell col="3" row="5" text="f
+        
+
+         m
+        
+
+
+
+         (
+        
+
+         .
+        
+
+         ,
+        
+
+         1
+        
+
+         )
+        
+
+
+        =
+       
+
+        0">
+  </cell>
+ </row>
+ <statements>
+  <statement id="3" text="bortrer has the value of f b (11, .)" type="refuted">
+  </statement>
+  <statement id="4" text="Level of competition  under bortrer value is b (88.,1)" type="refuted">
+  </statement>
+  <statement id="5" text="middlemen has the value of f m (1, 9.)" type="refuted">
+  </statement>
+  <statement id="6" text="A further straightforward assumption is monotonicity with respect to the competitiveness and number of middlemen." type="entailed">
+  </statement>
+ </statements>
+</Table 1>

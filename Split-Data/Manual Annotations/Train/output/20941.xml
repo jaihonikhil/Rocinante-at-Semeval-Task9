@@ -1,0 +1,924 @@
+<Table 1>
+ <caption text="
+
+   Mechanical properties of T800 carbon fiber/EH104 epoxy laminate.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="E
+     
+
+      11
+     
+     (GPa)">
+  </cell>
+  <cell col="1" row="0" text="E
+     
+
+      2
+     
+     (GPa)">
+  </cell>
+  <cell col="2" row="0" text="G
+     
+
+      12
+     
+     (GPa)">
+  </cell>
+  <cell col="3" row="0" text="G
+     
+
+      13
+     
+     (GPa)">
+  </cell>
+  <cell col="4" row="0" text="G
+     
+
+      23
+     
+     (GPa)">
+  </cell>
+  <cell col="5" row="0" text="v
+     
+
+      12">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="170">
+  </cell>
+  <cell col="1" row="1" text="8.6">
+  </cell>
+  <cell col="2" row="1" text="4.8">
+  </cell>
+  <cell col="3" row="1" text="4.8">
+  </cell>
+  <cell col="4" row="1" text="4.5">
+  </cell>
+  <cell col="5" row="1" text="0.3">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="Elasticity modulus of E11 will be high ." type="entailed">
+  </statement>
+  <statement id="5" text="There are 5 plane shear elasticity." type="refuted">
+  </statement>
+  <statement id="6" text="Elasticity modulus of E2 will be high ." type="refuted">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   Stacking sequence of the DCB sample.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="DCB sample">
+  </cell>
+  <cell col="1" row="0" text="Stacking sequence">
+  </cell>
+  <cell col="2" row="0" text="Longitudinal stiffness [
+     
+      A
+     
+     ] (N/m)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Specimen A">
+  </cell>
+  <cell col="1" row="1" text="[
+     
+      S
+     
+
+      1
+     
+     /0//0/
+     
+      S
+     
+
+      2
+     
+     ]">
+  </cell>
+  <cell col="2" row="1" text="7.99
+          
+
+           ×
+          
+
+
+            10
+           
+
+            5
+           
+
+
+
+
+           6.03
+          
+
+           ×
+          
+
+
+            10
+           
+
+            5
+           
+
+
+
+
+           −
+          
+
+           1.64
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4
+           
+
+
+
+
+
+
+           6.03
+          
+
+           ×
+          
+
+
+            10
+           
+
+            5
+           
+
+
+
+
+           7.33
+          
+
+           ×
+          
+
+
+            10
+           
+
+            5
+           
+
+
+
+
+           −
+          
+
+           1.64
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4
+           
+
+
+
+
+
+
+           1.64
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4
+           
+
+
+
+
+           1.64
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4
+           
+
+
+
+
+           −
+          
+
+           6.26
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Specimen B">
+  </cell>
+  <cell col="1" row="2" text="[
+     
+      S
+     
+
+      1
+     
+     /+15//−15/
+     
+      S
+     
+
+      2
+     
+     ]">
+  </cell>
+  <cell col="2" row="2" text="7.92
+          
+
+           ×
+          
+
+
+            10
+           
+
+            5
+           
+
+
+
+
+           6.05
+          
+
+           ×
+          
+
+
+            10
+           
+
+            5
+           
+
+
+
+
+           −
+          
+
+           1.64
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4
+           
+
+
+
+
+
+
+           6.05
+          
+
+           ×
+          
+
+
+            10
+           
+
+            5
+           
+
+
+
+
+           7.35
+          
+
+           ×
+          
+
+
+            10
+           
+
+            5
+           
+
+
+
+
+           −
+          
+
+           1.64
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4
+           
+
+
+
+
+
+
+           1.64
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4
+           
+
+
+
+
+           1.64
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4
+           
+
+
+
+
+           −
+          
+
+           6.50
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Specimen C">
+  </cell>
+  <cell col="1" row="3" text="[
+     
+      S
+     
+
+      1
+     
+     /+30//−30/
+     
+      S
+     
+
+      2
+     
+     ]">
+  </cell>
+  <cell col="2" row="3" text="7.75
+          
+
+           ×
+          
+
+
+            10
+           
+
+            5
+           
+
+
+
+
+           6.10
+          
+
+           ×
+          
+
+
+            10
+           
+
+            5
+           
+
+
+
+
+           −
+          
+
+           1.64
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4
+           
+
+
+
+
+
+
+           6.03
+          
+
+           ×
+          
+
+
+            10
+           
+
+            5
+           
+
+
+
+
+           7.43
+          
+
+           ×
+          
+
+
+            10
+           
+
+            5
+           
+
+
+
+
+           −
+          
+
+           1.64
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4
+           
+
+
+
+
+
+
+           1.64
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4
+           
+
+
+
+
+           1.64
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4
+           
+
+
+
+
+           −
+          
+
+           6.97
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Specimen D">
+  </cell>
+  <cell col="1" row="4" text="[
+     
+      S
+     
+
+      1
+     
+     /+45//−45/
+     
+      S
+     
+
+      2
+     
+     ]">
+  </cell>
+  <cell col="2" row="4" text="7.57
+          
+
+           ×
+          
+
+
+            10
+           
+
+            5
+           
+
+
+
+
+           6.12
+          
+
+           ×
+          
+
+
+            10
+           
+
+            5
+           
+
+
+
+
+           −
+          
+
+           1.64
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4
+           
+
+
+
+
+
+
+           6.03
+          
+
+           ×
+          
+
+
+            10
+           
+
+            5
+           
+
+
+
+
+           7.57
+          
+
+           ×
+          
+
+
+            10
+           
+
+            5
+           
+
+
+
+
+           −
+          
+
+           1.64
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4
+           
+
+
+
+
+
+
+           1.64
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4
+           
+
+
+
+
+           1.64
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4
+           
+
+
+
+
+           −
+          
+
+           7.21
+          
+
+           ×
+          
+
+
+            10
+           
+
+            4">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Specimen E">
+  </cell>
+  <cell col="1" row="5" text="[
+     
+      S
+     
+
+      1
+     
+     /
+     
+      ρ
+     
+     300//−
+     
+      ρ
+     
+     300/
+     
+      S
+     
+
+      2
+     
+     ]">
+  </cell>
+  <cell col="2" row="5" text="–">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Specimen F">
+  </cell>
+  <cell col="1" row="6" text="[
+     
+      S
+     
+
+      1
+     
+     /
+     
+      ρ
+     
+     500//−
+     
+      ρ
+     
+     500/
+     
+      S
+     
+
+      2
+     
+     ]">
+  </cell>
+  <cell col="2" row="6" text="–">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Longitudinal stiffness [ A ] (N/m) 7.57  10 5 6.12  10 5  1.64  10 4 6.03  10 5 7.57  10 5  1.64  10 4 1.64  10 4 1.64  10 4  7.21  10 4 DCB sample is Specimen D." type="entailed">
+  </statement>
+  <statement id="1" text="DCB sample Specimen F Stacking sequence is [ S 1 /  500//  500/ S 2 ]." type="entailed">
+  </statement>
+  <statement id="5" text="[ S 1 /+45//45/ S 2 ] Stacking sequence DCB sample is Specimen E." type="refuted">
+  </statement>
+  <statement id="7" text="The   300 in Table 3 indicates that the curvature radius of the curved fibers in the adjacent ply is 300 mm, and the sign is consistent with that for a straight layup (i.e., layup with a 0 fiber angle, where counterclockwise is positive, and clockwise is negative)." type="entailed">
+  </statement>
+  <statement id="8" text="It can be found that the longitudinal stiffness difference between 0//0 and 45//45 is the largest, and the maximum difference can reach about 15%." type="entailed">
+  </statement>
+ </statements>
+</Table 3>
+<Table 2>
+ <caption text="
+
+   Dimensions of the DCB test specimen.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Test/Dimensions">
+  </cell>
+  <cell col="1" row="0" text="L
+     
+
+
+       t
+      
+
+     (mm)">
+  </cell>
+  <cell col="2" row="0" text="L
+     
+     (mm)">
+  </cell>
+  <cell col="3" row="0" text="a
+     
+
+      0
+     
+     (mm)">
+  </cell>
+  <cell col="4" row="0" text="b
+     
+     (mm)">
+  </cell>
+  <cell col="5" row="0" text="2
+     
+      h
+     
+     (mm)">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="DCB test">
+  </cell>
+  <cell col="1" row="1" text="200">
+  </cell>
+  <cell col="2" row="1" text="182">
+  </cell>
+  <cell col="3" row="1" text="42">
+  </cell>
+  <cell col="4" row="1" text="20">
+  </cell>
+  <cell col="5" row="1" text="8.9">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are five dimensions measured for the test." type="entailed">
+  </statement>
+  <statement id="1" text="There are six dimensions for the test." type="refuted">
+  </statement>
+  <statement id="2" text="2 h (mm) holds highest dimension value of the test." type="refuted">
+  </statement>
+  <statement id="3" text="The unit of each dimension is cm." type="refuted">
+  </statement>
+  <statement id="4" text="The DCB test specimens were cut from the CFRP plate, following the procedure given in the ASTM D552801 standard." type="entailed">
+  </statement>
+ </statements>
+</Table 2>

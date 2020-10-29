@@ -1,0 +1,991 @@
+<Table 11>
+ <caption text="
+
+   Estimates for the classic regression model for antisaccade ERR.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="B">
+  </cell>
+  <cell col="2" row="0" text="SE">
+  </cell>
+  <cell col="3" row="0" text="t">
+  </cell>
+  <cell col="4" row="0" text="p">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Intercept">
+  </cell>
+  <cell col="1" row="1" text="−0.02">
+  </cell>
+  <cell col="2" row="1" text="0.07">
+  </cell>
+  <cell col="3" row="1" text="−0.22">
+  </cell>
+  <cell col="4" row="1" text="0.83">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="DLC intensity">
+  </cell>
+  <cell col="1" row="2" text="0.06">
+  </cell>
+  <cell col="2" row="2" text="0.07">
+  </cell>
+  <cell col="3" row="2" text="0.88">
+  </cell>
+  <cell col="4" row="2" text="0.38">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Socio-economic status">
+  </cell>
+  <cell col="1" row="3" text="−0.22">
+  </cell>
+  <cell col="2" row="3" text="0.10">
+  </cell>
+  <cell col="3" row="3" text="−2.35">
+  </cell>
+  <cell col="4" row="3" text="0.02">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Intelligence">
+  </cell>
+  <cell col="1" row="4" text="−0.18">
+  </cell>
+  <cell col="2" row="4" text="0.07">
+  </cell>
+  <cell col="3" row="4" text="−2.44">
+  </cell>
+  <cell col="4" row="4" text="0.02">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="Intercept and Socio -economic status contains p value as -0.22." type="entailed">
+  </statement>
+ </statements>
+</Table 11>
+<Table 2>
+ <caption text="
+
+   Participants' socio-demographics based on a self-assessment questionnaire.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Statistic">
+  </cell>
+  <cell col="1" row="0" text="N">
+  </cell>
+  <cell col="2" row="0" text="Mean">
+  </cell>
+  <cell col="3" row="0" text="SD">
+  </cell>
+  <cell col="4" row="0" text="Min">
+  </cell>
+  <cell col="5" row="0" text="Max">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Age (in years)">
+  </cell>
+  <cell col="1" row="1" text="195">
+  </cell>
+  <cell col="2" row="1" text="24.13">
+  </cell>
+  <cell col="3" row="1" text="4.72">
+  </cell>
+  <cell col="4" row="1" text="19">
+  </cell>
+  <cell col="5" row="1" text="42">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Fluid intelligence test score (1–18)
+     
+
+       a">
+  </cell>
+  <cell col="1" row="2" text="195">
+  </cell>
+  <cell col="2" row="2" text="12.81">
+  </cell>
+  <cell col="3" row="2" text="2.63">
+  </cell>
+  <cell col="4" row="2" text="7">
+  </cell>
+  <cell col="5" row="2" text="18">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Education (1–4)
+     
+
+       b">
+  </cell>
+  <cell col="1" row="3" text="195">
+  </cell>
+  <cell col="2" row="3" text="2.44">
+  </cell>
+  <cell col="3" row="3" text="0.52">
+  </cell>
+  <cell col="4" row="3" text="2">
+  </cell>
+  <cell col="5" row="3" text="4">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Parental education (1–4)
+     
+
+       b">
+  </cell>
+  <cell col="1" row="4" text="195">
+  </cell>
+  <cell col="2" row="4" text="2.39">
+  </cell>
+  <cell col="3" row="4" text="0.68">
+  </cell>
+  <cell col="4" row="4" text="1">
+  </cell>
+  <cell col="5" row="4" text="4">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Social status (1−10)
+     
+
+       c">
+  </cell>
+  <cell col="1" row="5" text="195">
+  </cell>
+  <cell col="2" row="5" text="6.26">
+  </cell>
+  <cell col="3" row="5" text="1.33">
+  </cell>
+  <cell col="4" row="5" text="3">
+  </cell>
+  <cell col="5" row="5" text="9">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Income (1–6)
+     
+
+       d">
+  </cell>
+  <cell col="1" row="6" text="195">
+  </cell>
+  <cell col="2" row="6" text="2.91">
+  </cell>
+  <cell col="3" row="6" text="1.18">
+  </cell>
+  <cell col="4" row="6" text="0">
+  </cell>
+  <cell col="5" row="6" text="6">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Computer use (hours per day)">
+  </cell>
+  <cell col="1" row="7" text="192">
+  </cell>
+  <cell col="2" row="7" text="5.15">
+  </cell>
+  <cell col="3" row="7" text="2.73">
+  </cell>
+  <cell col="4" row="7" text="1.00">
+  </cell>
+  <cell col="5" row="7" text="16.00">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Playing computer games (hours per day)">
+  </cell>
+  <cell col="1" row="8" text="48">
+  </cell>
+  <cell col="2" row="8" text="1.62">
+  </cell>
+  <cell col="3" row="8" text="1.11">
+  </cell>
+  <cell col="4" row="8" text="0.50">
+  </cell>
+  <cell col="5" row="8" text="1.50">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="Playing a musical instrument (hours per day)">
+  </cell>
+  <cell col="1" row="9" text="17">
+  </cell>
+  <cell col="2" row="9" text="4.76">
+  </cell>
+  <cell col="3" row="9" text="3.58">
+  </cell>
+  <cell col="4" row="9" text="1.00">
+  </cell>
+  <cell col="5" row="9" text="12.00">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="The Max Value is common for both Education and Parental education." type="entailed">
+  </statement>
+  <statement id="1" text="The highest mean value is 24.13 for Age." type="entailed">
+  </statement>
+ </statements>
+</Table 2>
+<Table 1>
+ <caption text="
+
+   Overview of the Adaptive Control Hypothesis. Differences between bilinguals' patterns of language use (top) and expected efficiency of cognitive processes relative to monolingual speakers in a monolingual environment (bottom) based on the Adaptive Control Hypothesis.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Pattern of language use">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="1" row="1" text="Single-language">
+  </cell>
+  <cell col="2" row="1" text="Dual-language">
+  </cell>
+  <cell col="3" row="1" text="Dense-code switching">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Dimension">
+  </cell>
+  <cell col="1" row="2" text="">
+  </cell>
+  <cell col="2" row="2" text="">
+  </cell>
+  <cell col="3" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Co-occurrence of languages:
+     
+      Do languages co-occur in a context?">
+  </cell>
+  <cell col="1" row="3" text="No">
+  </cell>
+  <cell col="2" row="3" text="Yes">
+  </cell>
+  <cell col="3" row="3" text="Yes">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Language mixing:
+     
+      Are languages mixed in one and the same utterance?">
+  </cell>
+  <cell col="1" row="4" text="No">
+  </cell>
+  <cell col="2" row="4" text="No">
+  </cell>
+  <cell col="3" row="4" text="Yes">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Cognitive process">
+  </cell>
+  <cell col="1" row="5" text="">
+  </cell>
+  <cell col="2" row="5" text="">
+  </cell>
+  <cell col="3" row="5" text="">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Opportunistic planning">
+  </cell>
+  <cell col="1" row="6" text="–">
+  </cell>
+  <cell col="2" row="6" text="–">
+  </cell>
+  <cell col="3" row="6" text="✓">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Goal maintenance, interference control">
+  </cell>
+  <cell col="1" row="7" text="✓">
+  </cell>
+  <cell col="2" row="7" text="✓">
+  </cell>
+  <cell col="3" row="7" text="–">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Salient cue detection, selective response inhibition, task engagement-disengagement">
+  </cell>
+  <cell col="1" row="8" text="–">
+  </cell>
+  <cell col="2" row="8" text="✓">
+  </cell>
+  <cell col="3" row="8" text="–">
+  </cell>
+ </row>
+ <statements>
+  <statement id="2" text="Language mixing is having Yes 'of Dense-code switching." type="entailed">
+  </statement>
+  <statement id="5" text="In contrast, bilinguals who operate in either SLC or DLC need to engage key cognitive processes in language use, because they have to constrain the currently used language." type="entailed">
+  </statement>
+ </statements>
+</Table 1>
+<Table 3>
+ <caption text="
+
+   Participants' language experience based on self-assessment questionnaires.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="Polish (L1)
+     
+
+      N
+     
+     = 195">
+  </cell>
+  <cell col="5" row="0" text="English (L2)
+     
+
+      N
+     
+     = 195">
+  </cell>
+  <cell col="9" row="0" text="Additional languages (L3-L5)
+     
+
+       a
+      
+
+
+
+      N
+     
+     = 66">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Statistic">
+  </cell>
+  <cell col="1" row="1" text="Mean">
+  </cell>
+  <cell col="2" row="1" text="SD">
+  </cell>
+  <cell col="3" row="1" text="Min">
+  </cell>
+  <cell col="4" row="1" text="Max">
+  </cell>
+  <cell col="5" row="1" text="Mean">
+  </cell>
+  <cell col="6" row="1" text="SD">
+  </cell>
+  <cell col="7" row="1" text="Min">
+  </cell>
+  <cell col="8" row="1" text="Max">
+  </cell>
+  <cell col="9" row="1" text="Mean">
+  </cell>
+  <cell col="10" row="1" text="SD">
+  </cell>
+  <cell col="11" row="1" text="Min">
+  </cell>
+  <cell col="12" row="1" text="Max">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Overall proficiency">
+  </cell>
+  <cell col="1" row="2" text="8.90">
+  </cell>
+  <cell col="2" row="2" text="0.48">
+  </cell>
+  <cell col="3" row="2" text="4.25">
+  </cell>
+  <cell col="4" row="2" text="9.00">
+  </cell>
+  <cell col="5" row="2" text="7.84">
+  </cell>
+  <cell col="6" row="2" text="0.87">
+  </cell>
+  <cell col="7" row="2" text="4.50">
+  </cell>
+  <cell col="8" row="2" text="9.00">
+  </cell>
+  <cell col="9" row="2" text="5.55">
+  </cell>
+  <cell col="10" row="2" text="1.84">
+  </cell>
+  <cell col="11" row="2" text="2.00">
+  </cell>
+  <cell col="12" row="2" text="9.00">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Listening">
+  </cell>
+  <cell col="1" row="3" text="8.95">
+  </cell>
+  <cell col="2" row="3" text="0.37">
+  </cell>
+  <cell col="3" row="3" text="5">
+  </cell>
+  <cell col="4" row="3" text="9">
+  </cell>
+  <cell col="5" row="3" text="7.89">
+  </cell>
+  <cell col="6" row="3" text="0.88">
+  </cell>
+  <cell col="7" row="3" text="5">
+  </cell>
+  <cell col="8" row="3" text="9">
+  </cell>
+  <cell col="9" row="3" text="5.76">
+  </cell>
+  <cell col="10" row="3" text="1.87">
+  </cell>
+  <cell col="11" row="3" text="2">
+  </cell>
+  <cell col="12" row="3" text="9">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Reading">
+  </cell>
+  <cell col="1" row="4" text="8.92">
+  </cell>
+  <cell col="2" row="4" text="0.60">
+  </cell>
+  <cell col="3" row="4" text="2">
+  </cell>
+  <cell col="4" row="4" text="9">
+  </cell>
+  <cell col="5" row="4" text="8.03">
+  </cell>
+  <cell col="6" row="4" text="0.86">
+  </cell>
+  <cell col="7" row="4" text="5">
+  </cell>
+  <cell col="8" row="4" text="9">
+  </cell>
+  <cell col="9" row="4" text="6.05">
+  </cell>
+  <cell col="10" row="4" text="1.87">
+  </cell>
+  <cell col="11" row="4" text="2">
+  </cell>
+  <cell col="12" row="4" text="9">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="Speaking">
+  </cell>
+  <cell col="1" row="5" text="8.90">
+  </cell>
+  <cell col="2" row="5" text="0.52">
+  </cell>
+  <cell col="3" row="5" text="5">
+  </cell>
+  <cell col="4" row="5" text="9">
+  </cell>
+  <cell col="5" row="5" text="7.78">
+  </cell>
+  <cell col="6" row="5" text="1.11">
+  </cell>
+  <cell col="7" row="5" text="3">
+  </cell>
+  <cell col="8" row="5" text="9">
+  </cell>
+  <cell col="9" row="5" text="5.10">
+  </cell>
+  <cell col="10" row="5" text="2.08">
+  </cell>
+  <cell col="11" row="5" text="1">
+  </cell>
+  <cell col="12" row="5" text="9">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="Writing">
+  </cell>
+  <cell col="1" row="6" text="8.82">
+  </cell>
+  <cell col="2" row="6" text="0.72">
+  </cell>
+  <cell col="3" row="6" text="3">
+  </cell>
+  <cell col="4" row="6" text="9">
+  </cell>
+  <cell col="5" row="6" text="7.67">
+  </cell>
+  <cell col="6" row="6" text="1.19">
+  </cell>
+  <cell col="7" row="6" text="3">
+  </cell>
+  <cell col="8" row="6" text="9">
+  </cell>
+  <cell col="9" row="6" text="5.29">
+  </cell>
+  <cell col="10" row="6" text="2.07">
+  </cell>
+  <cell col="11" row="6" text="2">
+  </cell>
+  <cell col="12" row="6" text="9">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="Age of acquisition
+     
+
+       b">
+  </cell>
+  <cell col="1" row="7" text="0.06">
+  </cell>
+  <cell col="2" row="7" text="0.46">
+  </cell>
+  <cell col="3" row="7" text="0">
+  </cell>
+  <cell col="4" row="7" text="5">
+  </cell>
+  <cell col="5" row="7" text="6.65">
+  </cell>
+  <cell col="6" row="7" text="3.19">
+  </cell>
+  <cell col="7" row="7" text="0">
+  </cell>
+  <cell col="8" row="7" text="26">
+  </cell>
+  <cell col="9" row="7" text="13.79">
+  </cell>
+  <cell col="10" row="7" text="6.02">
+  </cell>
+  <cell col="11" row="7" text="0">
+  </cell>
+  <cell col="12" row="7" text="29">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="Age of active use
+     
+      b">
+  </cell>
+  <cell col="1" row="8" text="1.16">
+  </cell>
+  <cell col="2" row="8" text="2.09">
+  </cell>
+  <cell col="3" row="8" text="0">
+  </cell>
+  <cell col="4" row="8" text="12">
+  </cell>
+  <cell col="5" row="8" text="11.74">
+  </cell>
+  <cell col="6" row="8" text="5.05">
+  </cell>
+  <cell col="7" row="8" text="0">
+  </cell>
+  <cell col="8" row="8" text="35">
+  </cell>
+  <cell col="9" row="8" text="17.60">
+  </cell>
+  <cell col="10" row="8" text="5.79">
+  </cell>
+  <cell col="11" row="8" text="0">
+  </cell>
+  <cell col="12" row="8" text="37">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="% of daily use">
+  </cell>
+  <cell col="1" row="9" text="54">
+  </cell>
+  <cell col="2" row="9" text="18">
+  </cell>
+  <cell col="3" row="9" text="4">
+  </cell>
+  <cell col="4" row="9" text="96">
+  </cell>
+  <cell col="5" row="9" text="42">
+  </cell>
+  <cell col="6" row="9" text="18">
+  </cell>
+  <cell col="7" row="9" text="4">
+  </cell>
+  <cell col="8" row="9" text="96">
+  </cell>
+  <cell col="9" row="9" text="11">
+  </cell>
+  <cell col="10" row="9" text="9">
+  </cell>
+  <cell col="11" row="9" text="1">
+  </cell>
+  <cell col="12" row="9" text="39">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="Listening has mean value of 8.95." type="entailed">
+  </statement>
+  <statement id="2" text="Speaking has SD value of 0.52." type="entailed">
+  </statement>
+  <statement id="3" text="There are two categories of Statistic." type="refuted">
+  </statement>
+  <statement id="4" text="Overall proficiency has Min value of 1.50." type="refuted">
+  </statement>
+ </statements>
+</Table 3>
+<Table 10>
+ <caption text="
+
+   Structural Equation Modeling statistics and goodness-of-fit for models predicting the response-inhibition factor (
+   
+    N
+   
+   = 188).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="">
+  </cell>
+  <cell col="1" row="0" text="χ
+     
+
+      2">
+  </cell>
+  <cell col="2" row="0" text="df">
+  </cell>
+  <cell col="3" row="0" text="p">
+  </cell>
+  <cell col="4" row="0" text="CFI">
+  </cell>
+  <cell col="5" row="0" text="RMSEA
+     
+     [90% CI]">
+  </cell>
+  <cell col="6" row="0" text="SRMR">
+  </cell>
+  <cell col="7" row="0" text="DLC intensity path to response inhibition">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Model 1">
+  </cell>
+  <cell col="1" row="1" text="32.27">
+  </cell>
+  <cell col="2" row="1" text="33">
+  </cell>
+  <cell col="3" row="1" text="0.50">
+  </cell>
+  <cell col="4" row="1" text="1.00">
+  </cell>
+  <cell col="5" row="1" text="0.00 [0.00, 0.05]">
+  </cell>
+  <cell col="6" row="1" text="0.05">
+  </cell>
+  <cell col="7" row="1" text="−0.03 [−0.29, 0.32]">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Model 2">
+  </cell>
+  <cell col="1" row="2" text="23.91">
+  </cell>
+  <cell col="2" row="2" text="25">
+  </cell>
+  <cell col="3" row="2" text="0.52">
+  </cell>
+  <cell col="4" row="2" text="1.00">
+  </cell>
+  <cell col="5" row="2" text="0.00 [0.00, 0.06]">
+  </cell>
+  <cell col="6" row="2" text="0.05">
+  </cell>
+  <cell col="7" row="2" text="−0.03 [−0.32, 0.25]">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Model 3">
+  </cell>
+  <cell col="1" row="3" text="12.77">
+  </cell>
+  <cell col="2" row="3" text="13">
+  </cell>
+  <cell col="3" row="3" text="0.47">
+  </cell>
+  <cell col="4" row="3" text="1.00">
+  </cell>
+  <cell col="5" row="3" text="0.00 [0.00, 0.07]">
+  </cell>
+  <cell col="6" row="3" text="0.04">
+  </cell>
+  <cell col="7" row="3" text="−0.04 [−0.29, 0.21]">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="Model 4">
+  </cell>
+  <cell col="1" row="4" text="5.90">
+  </cell>
+  <cell col="2" row="4" text="8">
+  </cell>
+  <cell col="3" row="4" text="0.66">
+  </cell>
+  <cell col="4" row="4" text="1.00">
+  </cell>
+  <cell col="5" row="4" text="0.00 [0.00, 0.07]">
+  </cell>
+  <cell col="6" row="4" text="0.03">
+  </cell>
+  <cell col="7" row="4" text="−0.07 [−0.31, 0.18]">
+  </cell>
+ </row>
+ <statements>
+  <statement id="0" text="There are four categories of Models." type="entailed">
+  </statement>
+  <statement id="1" text="Model 1 has the highest values for  2 of 33.27 and df of 33." type="entailed">
+  </statement>
+  <statement id="2" text="There are six categories of Models." type="refuted">
+  </statement>
+  <statement id="3" text="Model 3 has the lowest values for  2 of 37.27 and df of 37." type="refuted">
+  </statement>
+  <statement id="4" text="Model 2 has the highest values for  2 of 5.77 and df of 7." type="refuted">
+  </statement>
+  <statement id="6" text="All models yielded a very good fit." type="entailed">
+  </statement>
+ </statements>
+</Table 10>
+<Table 8>
+ <caption text="
+
+   Exploratory factor analysis for the measures of response inhibition (
+   
+    N
+   
+   = 179).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Measure">
+  </cell>
+  <cell col="1" row="0" text="Factor loading">
+  </cell>
+  <cell col="2" row="0" text="Uniqueness">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Antisaccade ERR">
+  </cell>
+  <cell col="1" row="1" text="0.15">
+  </cell>
+  <cell col="2" row="1" text="0.98">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Stroop ERR">
+  </cell>
+  <cell col="1" row="2" text="0.28">
+  </cell>
+  <cell col="2" row="2" text="0.92">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Stroop RT">
+  </cell>
+  <cell col="1" row="3" text="0.57">
+  </cell>
+  <cell col="2" row="3" text="0.68">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="No-go ERR">
+  </cell>
+  <cell col="1" row="4" text="0.36">
+  </cell>
+  <cell col="2" row="4" text="0.87">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="SSRT">
+  </cell>
+  <cell col="1" row="5" text="–">
+  </cell>
+  <cell col="2" row="5" text="0.99">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="There are 5 different types of measures in the given table." type="entailed">
+  </statement>
+  <statement id="2" text="The is no value given for Factor loading in SSRT." type="entailed">
+  </statement>
+  <statement id="3" text="The highest value is 0.99 of Uniqueness in SSRT." type="entailed">
+  </statement>
+  <statement id="4" text="The lowest value is 0.15 of Factor loading in Antisaccade ERR." type="entailed">
+  </statement>
+  <statement id="5" text="There are 6 different types of measures in the given table." type="refuted">
+  </statement>
+  <statement id="6" text="The value given for Factor loading in SSRT is 0.13." type="refuted">
+  </statement>
+ </statements>
+</Table 8>
+<Table 12>
+ <caption text="
+
+   Outcomes of the Bayesian analyses regarding the absence of the DLC intensity effect.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Measure">
+  </cell>
+  <cell col="1" row="0" text="95% CI for DLC intensity effect">
+  </cell>
+  <cell col="2" row="0" text="BF01">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Antisaccade ERR">
+  </cell>
+  <cell col="1" row="1" text="[−0.08, 0.21]">
+  </cell>
+  <cell col="2" row="1" text="3.78">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Stroop ERR">
+  </cell>
+  <cell col="1" row="2" text="[−0.11, 0.07]">
+  </cell>
+  <cell col="2" row="2" text="7.99">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="Stroop RT">
+  </cell>
+  <cell col="1" row="3" text="[−0.21, 0.06]">
+  </cell>
+  <cell col="2" row="3" text="3.25">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="No-go ERR">
+  </cell>
+  <cell col="1" row="4" text="[−0.14, 0.15]">
+  </cell>
+  <cell col="2" row="4" text="5.50">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="There are four measures." type="entailed">
+  </statement>
+  <statement id="2" text="The highest BF01 is 7.99 for Stroop ERR." type="entailed">
+  </statement>
+  <statement id="3" text="The DLC intensity effect for Antisaccade ERR is [0.08, 0.21]." type="entailed">
+  </statement>
+  <statement id="4" text="The lowest BF01 is 3.25 for Stroop RT." type="entailed">
+  </statement>
+  <statement id="5" text="The DLC intensity effect for Antisaccade ERR is [0.21, 0.06]" type="refuted">
+  </statement>
+  <statement id="6" text="The lowest BF01 is 93.25 for No-go ERR." type="refuted">
+  </statement>
+  <statement id="7" text="As can be seen, zero was included in all credible intervals which suggested that there was no effect of DLC intensity in the data." type="entailed">
+  </statement>
+ </statements>
+</Table 12>
+<Table 7>
+ <caption text="
+
+   Correlations for the response-inhibition measures (
+   
+    N
+   
+   = 179).
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="Measure">
+  </cell>
+  <cell col="1" row="0" text="Antisaccade ERR">
+  </cell>
+  <cell col="2" row="0" text="Stroop ERR">
+  </cell>
+  <cell col="3" row="0" text="Stroop RT">
+  </cell>
+  <cell col="4" row="0" text="No-go ERR">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="Stroop ERR">
+  </cell>
+  <cell col="1" row="1" text="0.05 [−0.10, 0.20]">
+  </cell>
+  <cell col="2" row="1" text="–">
+  </cell>
+  <cell col="3" row="1" text="">
+  </cell>
+  <cell col="4" row="1" text="">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="Stroop RT">
+  </cell>
+  <cell col="1" row="2" text="0.05 [−0.09, 0.18]">
+  </cell>
+  <cell col="2" row="2" text="0.16 [−0.06, 0.39]">
+  </cell>
+  <cell col="3" row="2" text="–">
+  </cell>
+  <cell col="4" row="2" text="">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="No-go ERR">
+  </cell>
+  <cell col="1" row="3" text="0.08 [−0.07, 0.23]">
+  </cell>
+  <cell col="2" row="3" text="0.10 [−0.05, 0.24]">
+  </cell>
+  <cell col="3" row="3" text="0.21
+     
+     [0.07, 0.34]">
+  </cell>
+  <cell col="4" row="3" text="–">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="SSRT">
+  </cell>
+  <cell col="1" row="4" text="−0.22
+     
+     [−0.36, −0.07]">
+  </cell>
+  <cell col="2" row="4" text="0.01 [−0.12, 0.15]">
+  </cell>
+  <cell col="3" row="4" text="−0.08 [−0.22, 0.06]">
+  </cell>
+  <cell col="4" row="4" text="0.07 [−0.07, 0.21]">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="No - go ERR value under Stroop RT is 0.21(0.07,0.34)." type="entailed">
+  </statement>
+  <statement id="4" text="In SSRT there is no value in the table." type="refuted">
+  </statement>
+  <statement id="6" text="Overall, the correlations were either low or non-significant, even for measures derived from the same task (i.e., Stroop RT and Stroop ERR)." type="entailed">
+  </statement>
+ </statements>
+</Table 7>

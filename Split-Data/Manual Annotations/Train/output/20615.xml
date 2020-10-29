@@ -1,0 +1,110 @@
+<Table 2>
+ <caption text="
+
+   Accuracy per knowledge statement.
+  
+">
+ </caption>
+ <row row="0">
+  <cell col="0" row="0" text="No.">
+  </cell>
+  <cell col="1" row="0" text="Knowledge statements">
+  </cell>
+  <cell col="2" row="0" text="Accuracy">
+  </cell>
+ </row>
+ <row row="1">
+  <cell col="0" row="1" text="1">
+  </cell>
+  <cell col="1" row="1" text="The ozone hole is the main cause of the greenhouse effect.">
+  </cell>
+  <cell col="2" row="1" text="36.5">
+  </cell>
+ </row>
+ <row row="2">
+  <cell col="0" row="2" text="2">
+  </cell>
+  <cell col="1" row="2" text="The production of one kilogram of pork produces more greenhouse gas emissions than the same amount of wheat.">
+  </cell>
+  <cell col="2" row="2" text="72.7">
+  </cell>
+ </row>
+ <row row="3">
+  <cell col="0" row="3" text="3">
+  </cell>
+  <cell col="1" row="3" text="If the current greenhouse gas content in the atmosphere was stabilized, the climate would nevertheless continue to warm up for at least 100 years.">
+  </cell>
+  <cell col="2" row="3" text="65.9">
+  </cell>
+ </row>
+ <row row="4">
+  <cell col="0" row="4" text="4">
+  </cell>
+  <cell col="1" row="4" text="Without humans there would be no greenhouse effect.">
+  </cell>
+  <cell col="2" row="4" text="51.5">
+  </cell>
+ </row>
+ <row row="5">
+  <cell col="0" row="5" text="5">
+  </cell>
+  <cell col="1" row="5" text="The global rise in temperature in the last century was the biggest within the last 1.000 years.">
+  </cell>
+  <cell col="2" row="5" text="65.3">
+  </cell>
+ </row>
+ <row row="6">
+  <cell col="0" row="6" text="6">
+  </cell>
+  <cell col="1" row="6" text="CO
+     
+      2
+     
+     is more harmful to the climate than the same amount of methane.">
+  </cell>
+  <cell col="2" row="6" text="43.9">
+  </cell>
+ </row>
+ <row row="7">
+  <cell col="0" row="7" text="7">
+  </cell>
+  <cell col="1" row="7" text="The 1990s were the warmest decade of the 20th century.">
+  </cell>
+  <cell col="2" row="7" text="46.5">
+  </cell>
+ </row>
+ <row row="8">
+  <cell col="0" row="8" text="8">
+  </cell>
+  <cell col="1" row="8" text="In the last century, warming in Austria was significantly lower than the global average.">
+  </cell>
+  <cell col="2" row="8" text="51.5">
+  </cell>
+ </row>
+ <row row="9">
+  <cell col="0" row="9" text="9">
+  </cell>
+  <cell col="1" row="9" text="Water vapor is a greenhouse gas.">
+  </cell>
+  <cell col="2" row="9" text="14.8">
+  </cell>
+ </row>
+ <row row="10">
+  <cell col="0" row="10" text="10">
+  </cell>
+  <cell col="1" row="10" text="A diesel vehicle generates more CO
+     
+      2
+     
+     emissions per person and kilometer than a comparable petrol vehicle.">
+  </cell>
+  <cell col="2" row="10" text="33.9">
+  </cell>
+ </row>
+ <statements>
+  <statement id="1" text="The accuracy of all knowledge statements of greater than 14." type="entailed">
+  </statement>
+  <statement id="3" text="To compute the variable knowledge, single scores per statement were aggregated over all ten questions, ranging from values of 0 to 10, where values represent the number of correct answers given." type="entailed">
+  </statement>
+ </statements>
+</Table 2>
