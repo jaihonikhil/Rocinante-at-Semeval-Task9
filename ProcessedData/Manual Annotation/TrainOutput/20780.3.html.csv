@@ -1,4 +1,25 @@
-No.#Caliber#Bullet Weight#Bullet Description#Muzzle Velocity#Muzzle Energy#Classification
-1#9 mm#8.0 g#FMJ#342 m/s#468 N.m#Low Impact Energy
-2#11 mm (.44 Magnum)#15.6 g#SJHP#499 m/s#1942 N.m#Medium Impact Energy
-3#7.62 mm#9.6 g#FMJ#824 m/s#3259 N.m#High Impact Energy
+Name#9 mm.#11 mm.#7.62 mm
+1S10#Perforation#Perforation#–
+2S10#Perforation#Perforation#Perforation
+3S10#Perforation#Perforation#Perforation
+1S20#Perforation#Perforation#–
+2S20#Perforation#Perforation#Perforation
+3S20#Perforation#Perforation#Perforation
+1S30#Scabbing + Cracking#Perforation#–
+2S30#Scabbing + Cracking#Perforation#Perforation
+3S30#Scabbing + Cracking#Perforation#Perforation
+1S40#Scabbing + No damage#Perforation#–
+2S40#Scabbing + No damage#Scabbing + Spalling#Perforation
+2S40#Scabbing + No damage#Scabbing + Spalling#Perforation
+1S50#Scabbing + No damage#Scabbing + Cracking#–
+2S50#Scabbing + No damage#Scabbing + Cracking#Perforation
+3S50#Scabbing + No damage#Scabbing + No damage#Perforation
+1S60#–#Scabbing + No damage#–
+2S60#–#Scabbing + No damage#Scabbing + Spalling
+3S60#–#Scabbing + No damage#Scabbing + Spalling
+2S70#–#–#Scabbing + Spalling
+3S70#–#–#Scabbing + Spalling
+2S80#–#–#Scabbing + Cracking
+3S80#–#–#Scabbing + No damage
+2S100#–#–#Scabbing + No damage
+3S100#–#–#Scabbing + No damage

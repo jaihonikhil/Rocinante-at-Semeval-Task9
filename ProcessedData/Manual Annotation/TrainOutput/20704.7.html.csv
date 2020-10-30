@@ -1,15 +1,12 @@
-Constructs and measurement items#Category#Frequency (N=345)#%
-Gender#Males#116#33.6
-#Females#229#66.4
-Age#<25#160#46.4
-#26-35#104#30.1
-#36-45#34#9.8
-#>45#47#13.6
-Education#Senior high school#18#5.2
-#Junior college#18#5.2
-#University degree#239#69.3
-#Graduate degree#70#20.3
-Tenure#<1 year#71#20.6
-#1 -5 years#140#40.5
-#6 -10 years#50#14.5
-#>12 years#84#24.3
+Paths#Research model (without marker variable)#Research model (with marker variable)
+Incongruent IT-mediated information interruption→ Interruption overload#0.428***#0.410***
+Congruent IT-mediated information interruption→ Interruption overload#0.442***#0.424***
+Interruption overload→ Emotional exhaustion#0.483***#0.483***
+Preemptive processing × incongruent IT-mediated information→ Emotional exhaustion#-0.079*#-0.074*
+Sequential processing × congruent IT-mediated information →Emotional exhaustion#-0.123**#-0.116**
+Marker variable→ Incongruent IT-mediated information interruption##-0.001
+Marker variable→ Congruent IT-mediated information interruption##-0.015
+Marker variable→Preemptive processing##-0.112
+Marker variable→Sequential processing##-0.110
+Marker variable→ Interruption overload##-0.001
+Marker variable→ Emotional exhaustion##-0.054

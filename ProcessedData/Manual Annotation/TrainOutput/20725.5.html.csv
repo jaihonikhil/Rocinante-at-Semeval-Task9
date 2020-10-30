@@ -1,6 +1,9 @@
-Sample#Peak load(kN)
-Control28#11.01
-20FAS28#9.71
-20FA28#10.46
-30FAS28#10.55
-30FA28#8.83
+Mixture#FA concrete
+w/b#0.4
+water(kg/m 3 )#197
+Cement(kg/m 3 )#385
+FA(20%)(kg/m 3 )#77
+FA(30%)(kg/m 3 )#115
+Coarse aggregate (10-16 mm)(kg/m 3 )#989
+Fine aggregate(kg/m 3 )#765
+Superplasticizer (%)#2

@@ -1,29 +1,18 @@
-Extract ID#Origin#Host#Dracunculus medinensis assay#Dracunculus medinensis assay
-###Time to positive (min:sec)#Annealing temperature (°C)
-ChDo-339.2#Chad#Dog#10:00#81.11
-ChHu-69#Chad#Human#12:15#80.55
-ChDo-1#Chad#Dog#7:45#81.34
-ChDo-108.5#Chad#Dog#8:15#81.30
-ChHu-25#Chad#Human#8:45#80.86
-ChCa-10a#Chad#Cat#9:00#81.15
-ChDo-189#Chad#Dog#10:15#81.50
-ChDo-13#Chad#Dog#8:00#81.40
-ChDo-11#Chad#Dog#9:00#80.86
-ChDo-47.11#Chad#Dog#8:30#81.60
-ChHu-100#Chad#Human#10:15#81.35
-ChHu-24#Chad#Human#8:30#81.45
-ChDo-1#Chad#Dog#7:45#81.20
-ChHu-283#Chad#Human#10:00#82.58
-EtDo-172#Ethiopia#Dog#12:15#82.78
-EtHu-278#Ethiopia#Human#10:30#82.63
-EtBa-153#Ethiopia#Baboon#10:30#82.87
-EtHu-152#Ethiopia#Human#10:00#82.57
-MaHu-165#Mali#Human#9:45#82.67
-MaHu-240#Mali#Human#10:00#82.54
-MaHu-242#Mali#Human#23:00#82.58
-MaHu-253#Mali#Human#11:00#82.79
-SsHu-201#South Sudan#Human#8:45#82.50
-SsHu-256#South Sudan#Human#10:15#82.36
-SsDo-183#South Sudan#Dog#10:30#82.48
-Uninfected copepod#n/a#n/a#–#–
-Dracunculus insignis#n/a#n/a#–#–
+Number spiked into sample#Number spiked into sample#Number spiked into sample#Samples tested with LAMP assays for#Samples tested with LAMP assays for#Samples tested with LAMP assays for#Samples tested with LAMP assays for#Samples tested with LAMP assays for#Samples tested with LAMP assays for
+Copepods#D. medinensis#D. insignis#D. medinensis#D. medinensis#D. insignis#D. insignis#Copepod#Copepod
+###Tp (min:sec)#Ta (°C)#Tp (min:sec)#Ta (°C)#Tp (min:sec)#Ta (°C)
+1#1#0#8:15#82.20#nt#nt#6:30#87.49
+10#1#0#7:45#82.07#nt#nt#6:15#87.65
+20#1#0#8:00#82.09#nt#nt#5:15#87.78
+30#1#0#8:15#82.04#nt#nt#5:30#87.79
+30#1#0#8:45#81.97#nt#nt#5:30#87.76
+10#0#0#–#–#nt#nt#6:30#87.21
+20#0#0#–#–#nt#nt#6:00#87.75
+≥50#0#0#–#–#nt#nt#6:15#87.16
+≥100#0#0#–#–#nt#nt#6:15#87.21
+1#0#1#nt#nt#10:15#82.50#9:00#88.26
+10#0#1#nt#nt#13:00#82.49#7:30#88.31
+10#0#0#nt#nt#–#–#7:00#88.26
+-ve control###–#–#–#–#–#–
+#+ve control##7:30#81.83#nt#nt#6:00#87.67
+##+ve control#nt#nt#11:30#82.42#8:00#88.41

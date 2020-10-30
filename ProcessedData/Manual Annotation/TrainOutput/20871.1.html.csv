@@ -1,12 +1,21 @@
-Functional attribute:#A √(Chlorophyll a )#A √(Chlorophyll a )#B √(Bacteriochlorophyll a )#B √(Bacteriochlorophyll a )#C Microbial decomposition#C Microbial decomposition#D Macroinvertebrate decomposition#D Macroinvertebrate decomposition
-#Gaussian mixed model#Gaussian mixed model#Gaussian mixed model#Gaussian mixed model#Gaussian mixed model#Gaussian mixed model#Gaussian mixed model#Gaussian mixed model
-Model name#Null model#Full model#Null model#Full model#Null model#Full model#Null model#Full model
-Fixed effects#b [95 % CI]#b [95 % CI]#b [95 % CI]#b [95 % CI]#b [95 % CI]#b [95 % CI]#b [95 % CI]#b [95 % CI]
-"Intercept#0.47 [0.25, 0.70]#0.47 [0.35, 0.60]#0.07 [0.04, 0.10]#0.07 [0.05, 0.09]#0.43 [0.34, 0.51]#0.43 [0.36, 0.50]#0.01 [-0.02, 0.05]#0.01 [-0.02, 0.05]"
-"PC1#-#0.14 [0.09, 0.19]#-#0.01 [0.01, 0.02]#-#0.04 [0.01, 0.06]#-#0.00 [-0.01, 0.02]"
-Random effects#VC#VC#VC#VC#VC#VC#VC#VC
-Stream (Intercept)#0.119#0.025#0.001#0.000#0.019#0.012#0.003#0.002
-Residuals#0.091#0.076#0.003#0.002#0.009#0.008#0.004#0.004
-AIC C#43.36#28.13#-106.62#-115.08#-52.18#-56.34#-91.14#-89.13
-R 2 (m)#-#0.521#-#0.318#-#0.299#-#0.019
-R 2 (c)#0.568#0.639#0.317#0.412#0.692#0.719#0.363#0.366
+Urbanisation index#50 m#100 m#200 m#500 m#1000 m
+50 m#1.000#0.954#0.784#0.586#0.376
+100 m##1.000#0.919#0.730#0.448
+200 m###1.000#0.875#0.535
+500 m####1.000#0.826
+1000 m#####1.000
+pH#-0.017#0.171#0.286#0.422#0.467
+Dissolved oxygen#-0.135#-0.186#-0.372#-0.375#-0.293
+TDS#-0.034#0.183#0.495#0.607#0.533
+Nitrate#-0.187#0.033#0.185#0.168#0.035
+Phosphate#-0.082#0.150#0.493#0.551#0.357
+Light intensity#0.528#0.535#0.476#0.490#0.583
+% Macrophyte#0.490#0.429#0.390#0.392#0.472
+% Canopy cover#-0.516#-0.514#-0.468#-0.459#-0.542
+% Leaf litter#-0.133#-0.187#-0.258#-0.299#-0.206
+% Grass#0.391#0.498#0.550#0.601#0.683
+% Shrub#-0.082#-0.184#-0.225#-0.245#-0.303
+% Tree#-0.455#-0.498#-0.526#-0.577#-0.612
+% Mud#-0.005#-0.028#-0.051#-0.113#-0.036
+% Sand#0.079#0.078#0.105#0.101#-0.135
+% Gravel and concrete#-0.108#-0.071#-0.077#0.023#0.255

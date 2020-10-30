@@ -1,7 +1,9 @@
-Variable#Units#Description#Reference(s)
-"chl#mg m −3#Near surface concentration of chlorophyll-a estimated from the default (case 1) processing of MODIS-Aqua (version R2018.0) and SeaWiFS (version R2018.0) satellite sensors, blended using overlap period 2002-2010. The data set spans the period September 1997 to August 2018.#; NASA (2018a, b)"
-"sst#°C#Sea Surface Temperature (SST). The dataset used is the Optimum Interpolation Sea Surface Temperature (OISST), version 2, based on satellite measurements by the Advanced Very High Resolution Radiometer series, operated by NOAA (National Oceanic and Atmospheric Administration of the USA) The data set spans the period 1981 to August 2018.#"
-"sstgrad#°C km −1#Spatial gradient of SST obtained from a 20 pixel (180 km) smoothed version of OISST, extended beyond the analysis domain to avoid edge effects.#NIWA unpublished"
-"SeaIce#%#Sea ice concentration data set derived using measurements from the Scanning Multichannel Microwave Radiometer (SMMR), the Special Sensor Microwave/Imager (SSM/I) sensors and Special Sensor Microwave Imager/Sounder (SSMIS). The data set has been generated using the Advanced Microwave Scanning Radiometer - Earth Observing System (AMSR-E) Bootstrap Algorithm with daily varying tie-points.#, updated 2007; https://nsidc.org/"
-"vgpm#mgC m −2 d −1#Net primary production, integrated over the whole water column (mgC/m 2 /d) from the Vertically Generalized Production Model (VGPM). Based on www.science.oregonstate.edu/ ocean.productivity/#;"
-mld0p030 mld0p125#m#Two mixed-layer depths (using a 0.030 kg m −3 and 0.125 kg m −3 potential density difference criteria) were used as they potentially capture different characteristics of the water column structure. Mixed layer depth were from GLBu0.08 hindcast: (1) hycom : from day 265 (2008) to present; (2) fnmoc : from day 169 (2005) to present; (3) soda : from day 249 (1997) to end of 2004; (4) tops : from day 001 (2005) to 225 (2010).#; ; . Data sourced: orca.science.oregonstate.edu
+Cluster#Sampling and environmental variables (% of variance explained)#Sampling and environmental variables (% of variance explained)#Sampling and environmental variables (% of variance explained)#Sampling and environmental variables (% of variance explained)#Sampling and environmental variables (% of variance explained)#Sampling and environmental variables (% of variance explained)#Sampling and environmental variables (% of variance explained)#Sampling and environmental variables (% of variance explained)#Sampling and environmental variables (% of variance explained)
+#Month#E coszen#SeaIce#chl#sst#mld#sstgrad#vgpm#All
+Total abundance#5.1#8.1#3.3#4.9#14.8#8.2#3.4#6.4#54.2
+Copepoda#4.5#15.9#2.2#4.0#12.7#6.2#2.4#5.0#53.0
+Euphausiidae#1.5#15.0#0.1#2.4#4.6#2.9#1.7#3.9#32.2
+Foraminifera#4.4#0.4#1.2#5.9#10.1#13.9#4.2#6.2#46.2
+Fritillaria spp.#5.6#0.9#1.7#7.6#11.7#12.5#6.2#5.9#52.2
+Oithona similis#5.3#1.5#4.4#3.5#20.9#10.4#3.1#5.1#54.1
+Pteropods#2.9#7.4#1.3#8.4#10.0#7.2#4.6#5.1#46.8

@@ -1,4 +1,5 @@
-Sl no.#Name of the test#Relevant code#Test result
-1.#Consistency test#IS:4031(Part4)-1988#30%
-2.#Initial setting time#IS:4031(Part 5)-1988#1hr 5mins
-3.#Final setting time#IS:4031(Part 5)-1988#5hr 15mins
+days#Compressive strength (MPa)#Compressive strength (MPa)
+#As per IS:8112-1989#Result
+3#23#22.8
+7#33#34.7
+28#43#43.47

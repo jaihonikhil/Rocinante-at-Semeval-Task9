@@ -1,8 +1,4 @@
-Method#Dense#Sparse
-Extended-LTRM#0.52#0.41
-LTRM#0.46#0.34
-Sample mode#0.43#0.33
-Random Forest#0.42#0.36
-Boosting#0.41#0.35
-Sample median#0.33#0.32
-Sample mean#0.23#0.27
+#Construct#Construct#Construct
+#Aggressiveness#Anxiety#Depression
+Patient 1#3.86 (0.14)#3.04 (0.19)#3.65 (0.18)
+Patient 2#3.29 (0.17)#3.00 (0.18)#2.93 (0.21)

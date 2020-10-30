@@ -1,11 +1,10 @@
-No.#Application#Technologies/algorithms used#Results#Reference
-"1.#Pesticide Spraying#Wireless Sensor Networks, Gyroscope and Accelerometer sensors#N/A#Garre and Harish (2018)"
-"2.#Crop Monitoring, Mapping, and Spraying#DJI Phantom 3 Advanced UAV and other softwares#UAVs could be used in order to detect abnormalities and identify potential problems.#Psirofonia et al. (2017)"
-"3.#Crop Monitoring#Multispectral sensor#Linear regressions between NDVI and plant nitrogen, aerial biomass, etc. were significant. This has the potential to provide insight to good management practices and techniques.#Vega et al. (2015)"
-4.#Pesticide Spraying#Spray motor#Worked satisfactorily when tested on groundnuts and paddy crops#Yallappa et al. (2017)
-5.#Remote Sensing#Multispectral camera#The UAV remote sensing system was tested on a turf grass field and was capable of monitoring the temporal changes in the field.#Xiang and Tian (2011)
-"6.#Remote Sensing#Spectral Spatial classification, Bayesian information criterion (BIC)#Manual Tomato detection is difficult so using this technology, the areas could be classified into tomato and non tomato regions. Detection was carried out successfully on two representative images.#Senthilnath et al. (2016)"
-7.#Crop Monitoring#Hyperspectral Frame Camera#Camera flight campaign successfully delivered the hyperspectral data. This enables the monitoring of the leaf nitrogen concentration in rice.#Zheng et al. (2016)
-"8.#Crop Monitoring#Camera and Softwares#Accurate way to monitor various aspects of the farm like creating digital map of field, detecting problems with crop health, etc.#Reinecke and Prinsloo (2017a, 2017b)"
-9.#Precision Agriculture Monitoring#–#Provides an approach for the segregation of sparse and dense areas within a sugarcane field. It makes use of satellite data. Accuracy was 87% for testing.#Murugan et al. (2017)
-"10.#Spraying Fertilizers and Pesticides#Accelerometer and Gyroscope Sensors, Arduino#It has the ability to reduce time and human effort.#Pharne et al. (2018)"
+No.#Application#Crop#Algorithms for Weed Detection#Weed Removal Methods#Accuracy#Reference
+"1.#Precision Weed Management#Pepper plants, artificial plants#Machine Vision, Artificial Intelligence#A smart sprayer#–#Partel et al. (2019)"
+2.#Autonomous Weeding Robot.#Sugar beet#Machine vision algorithm#High power lasers for intra-row weeding proposed.#–#Bakker et al. (2006)
+4.#Weeds Detection in Agricultural Fields#–#Data augmentation for image preprocessing; Convolutional neural networks for weed detection#Herbicide Spray#70.5%#Ngo et al. (2019)
+5.#Robot for weed control#Sugar Beets#Machine Vision#Rotatory hoe/ Mechanical removal#92%(detection)#Åstrand and Baerveldt (2002)
+6.#Weeding Robot#Rice#–#Motion of robot prevents weed growth#–#Nakamura et al. (2016)
+7.#Weed Prevention Robot#Rice#–#Motion of robot#–#Maruyama and Naruse (2014)
+8.#Weed Detection#Sugarcane#Color Based and Texture Based algorithms; Greenness Identification; Fuzzy Real Time Classifier#Robotic arms for mechanical removal#92.9%#Sujaritha et al. (2017)
+9.#Weed Control System#Lettuce#Machine Vision#Electrical Discharge#84%(detection)#Blasco et al. (2002)
+10.#Robotic Weed Control#Cotton#Machine Vision algorithm based on Mathematical morphology#Chemical spraying#88.8% sprayed#Lamm et al. (2002)

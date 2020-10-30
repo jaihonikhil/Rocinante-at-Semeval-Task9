@@ -1,6 +1,11 @@
-PersonalityDomain#Item#r
-"O#has fixed ideas, is traditional vs. self-aware person, open to novel things#0.58 ***"
-"A#relentless, remains tough vs. compliant, compassionate#0.46 ***"
-"C#casual, easygoing vs. disciplined, orderly#0.33 ***"
-"S#emotional, shows emotions openly vs. controlled, even-tempered#0.29 ***"
-"E#reserved, unobtrusive vs. vigorous, dominant#0.27 ***"
+Dependent variable:#SDO#RWA
+S (self)#0.07#−0.09*
+E (self)#−0.06#−0.04
+O (self)#−0.24 ***#−0.53 ***
+A (self)#−0.22 ***#−0.01
+C (self)#−0.01#0.20 ***
+Gender (male)#0.10*#0.01
+Higher education#0.02#−0.24 ***
+Age (in years)#0.02#−0.02
+R 2 (in %)#13.5#42.7
+n#611#611

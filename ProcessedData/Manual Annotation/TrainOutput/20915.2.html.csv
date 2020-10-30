@@ -1,19 +1,10 @@
-Corollaries#Remarks
-"Corollary 1#LHS = 0.1, RHS = 4.983, satisfies LHS < RHS in Eq. (17)"
-"#LHS = −32.674, RHS = −98.807,3, satisfies LHS > RHS in Eq. (18)"
-"Corollary 2#LHS = −0.2, RHS = 0, satisfies LHS < RHS as the condition for Corollary 2"
-"Corollary 3#LHS = −6000, RHS =0, satisfies LHS < RHS in Eq. (28)"
-"#LHS = 6000, RHS =154.402, satisfies LHS > RHS in Eq. (29)"
-"Corollary 4#LHS = 6, RHS =max{−1.811; 5.012}, satisfies LHS > RHS in Eq. (34)"
-"Corollary 5#LHS = −6000, RHS =0, satisfies LHS < RHS in Eq. (39)"
-"#LHS = 6000, RHS =332.212, satisfies LHS > RHS in Eq. (40)"
-"Corollary 6#LHS = 6, RHS =max{−0.842; −0.642}, satisfies LHS > RHS in Eq. (43)"
-"Corollary 7#LHS = −0.2, RHS = 0, satisfies LHS < RHS as the condition for Corollary 7"
-"Corollary 8#LHS = 0.2, RHS = 0, satisfies LHS > RHS as the condition for Corollary 8"
-"Corollary 9#LHS = 6, RHS =max{−0.829; −0.699}, satisfies LHS > RHS in Eq. (49)"
-"Corollary 10#LHS = −6000, RHS =0, satisfies LHS < RHS in Eq. (53)"
-"#LHS = 6000, RHS =337.088, satisfies LHS > RHS in Eq. (54)"
-"Corollary 11#LHS = 0.2, RHS = 0, satisfies LHS > RHS as the condition for Corollary 11"
-"#LHS = 6, RHS =max{−1.241; 1.324}, satisfies LHS > RHS in Eq. (49)"
-"#LHS = −6000, RHS =0, satisfies LHS < RHS in Eq. (53)"
-"#LHS (g) = 6000, RHS =225.379, satisfies LHS > RHS in Eq. (54)"
+Optimal decisions#Centralized#Manufacturer-led decentralized#Retailer-led decentralized#Collector-led decentralized#Decentralized (Nash Game)
+s#13.22#6.06#6.34#6.9#6.99
+P M#–#739.75#424.60#421.93#513.52
+P R#730.11#988.77#699.20#693.85#877.04
+Q#0.79#0.79#0.35#0.32#0.59
+τ#0.74#0.21#0.46#0.47#0.31
+Π M#–#16784.40#14532.30#14492.20#14242.60
+Π R#–#6201.19#14713.70#14788.60#13214.60
+Π T#–#137.06#634.55#653.72#292.07
+Π#30719.50#23122.70#29880.50#29934.50#27749.30

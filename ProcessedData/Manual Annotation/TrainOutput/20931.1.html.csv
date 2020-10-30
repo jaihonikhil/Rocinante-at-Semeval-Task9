@@ -1,14 +1,21 @@
-PVT acronym#Current distribution (%)#HadGEM2-ES RCP8.5 distribution (%)#User/producer accuracy (%)
-ABGR/CLUN#4.35 (67)#0.33#36 / 53
-ABLA/CLUN-CLUN#9.16 (32)#8.02#60 / 34
-ABLA/CLUN-VACA#9.14 (44)#33.00#47 / 46
-ABLA/LIBO#3.27 (69)#0#43 / 60
-ABLA/LUHI#10.88 (48)#4.68#50 / 50
-ABLA/MEFE#7.34 (84)#16.35#19 / 46
-ABLA/XETE#29.07 (53)#2.85#47 / 61
-PIAL-ABLA#0.63 (100)#0#50 / 25
-PICEA/CLUN#2.74 (82)#0#8 / 29
-PSME/PHMA#0.96(82)#0#33 / 50
-PSME/SYAL#14.9 (38)#31.40#62 / 62
-PSME/VACA#3.63 (97)#0#7 / 25
-THPL/CLUN#3.92 (19)#3.39#86 / 79
+Name#Units
+Vapor Pressure Deficit#index
+Minimum daily temperature#°C
+Total solar radiation#kJ m −2 day −1
+Maximum daily temperature#°C
+Nighttime daily temperature#°C
+Photon flux density#Umol m −2
+Solar radiation flux to the ground#K
+NFDRS Spread Component (SC)#kW m −2 day −1
+Relative humidity#%
+Average daily temperature#o C
+Soil temperature#°C
+Moisture content of herbaceous fuel#°C
+NFDRS Energy Release Component (ERC)#index
+NFDRS Burning Index (BI)#Index
+Evaporation#kg H2O yr −1
+Degree-days#day o C
+Moisture content of 100-hour fuel#%
+NFDRS ignition component (IC)#index
+Potential evapotranspiration#kg H2O yr −1
+Surface area weighted reaction intensity (IR)#Index

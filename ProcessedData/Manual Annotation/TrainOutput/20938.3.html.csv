@@ -1,5 +1,4 @@
-Factors#Standard Coefficient#SE - value#t-value#95% biased confidence interval#95% biased confidence interval#Results
-####LL#UL#UL
-NSR tourism infrastructure to QOL#0.15∗∗#0.045#3.373#0.064#0.243#Supported
-NSR tourism infrastructure to STD#0.26∗∗∗#0.046#5.550#0.165#0.346#Supported
-Sustainable tourism to QOL#0.24∗∗∗#0.046#5.290#0.154#0.337#Supported
+Variables#Mean#SD#NSRTI#STD#QOL
+NSR tourism infrastructure (NSRTI)#3.87#0.939#0.75##
+Sustainable tourism development (STD)#4.11#0.923#0.26∗∗#0.74#
+Quality of Life (QOL)#3.65#0.902#.29∗∗#.22∗∗#0.75

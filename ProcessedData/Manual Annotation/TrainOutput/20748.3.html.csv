@@ -1,8 +1,8 @@
-Raw material#Unit costs of raw materials (PKR/kg)#Carbon footprint (kg-CO 2 /kg)
-Cement#14 [ 21 ]#0.898 [ 38 ]
-Fly ash#5.5 [ 21 ]#0.004 [ 38 ]
-Sand#0.92 [ 21 ]#0.002 [ 38 ]
-Coarse Aggregate#0.72 [ 21 ]#0.053 [ 38 ]
-Plasticizer#210 [ 21 ]#0.002 [ 38 ]
-Water#0.15 [ 21 ]#0
-Na 2 SO 4#60 *#0.47 **
+Mix ID#SO 3 from cement (%)#SO 3 from fly ash (%)#SO 3 from Na 2 SO 4 activator (%)#Total SO 3 in binder (%)
+CON#3.03#0#0#3.03
+U-F20#2.424#0.128#0#2.55
+A-F20#2.424#0.128#1.12#3.54
+U-F40#1.825#0.256#0#2.08
+A-F40#1.825#0.256#1.12#3.20
+U-F60#1.20#0.384#0#1.58
+A-F60#1.20#0.384#1.12#2.70

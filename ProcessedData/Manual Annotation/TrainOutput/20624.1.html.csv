@@ -1,50 +1,30 @@
-Variable#Unit#Mean (Proportion)#Std. Dev.
-Outcome variables###
-HAZ#z-score#−1.43#1.78
-Stunted#0/1#0.38#0.49
-Severely stunted#0/1#0.17#0.37
-Climate variable###
-Average rainfall anomalies#z-score#−0.02#0.61
-Individual characteristics###
-Sex###
-Female#0/1#0.48#0.50
-male#0/1#0.52#0.50
-Twin###
-No#0/1#0.99#0.12
-yes#0/1#0.01#0.12
-Birth order#number#2.27#1.47
-Maternal characteristics###
-Age at giving birth#years#25.13#4.94
-Education###
-no#0/1#0.31#0.46
-primary#0/1#0.15#0.35
-secondary#0/1#0.45#0.50
-higher#0/1#0.09#0.29
-Household characteristics###
-Wealth###
-poorest#0/1#0.26#0.44
-poorer#0/1#0.23#0.42
-middle#0/1#0.20#0.40
-richer#0/1#0.17#0.37
-richest#0/1#0.14#0.34
-Number of under 5 children#number#1.76#0.93
-Household head###
-male#0/1#0.88#0.33
-femal e#0/1#0.12#0.33
-Caste###
-other#0/1#0.19#0.39
-SC & ST#0/1#0.40#0.49
-OBD#0/1#0.41#0.49
-Residence###
-urban#0/1#0.24#0.43
-rural#0/1#0.76#0.43
-WASH variables###
-Water###
-not on premise#0/1#0.38#0.49
-on premise#0/1#0.62#0.49
-Sanitation###
-unimproved#0/1#0.59#0.49
-improved#0/1#0.41#0.49
-Hygiene###
-low#0/1#0.67#0.47
-high#0/1#0.33#0.47
+#Stunted (OR)##Stunted (OR)##severely stunted (OR)##severely stunted (OR)#
+Average rainfall anomalies#1.16***#(0.03)#1.17***#(0.03)#1.20***#(0.03)#1.21***#(0.03)
+Individual characteristics########
+Sex (ref. = female)########
+male###1.07***#(0.01)###1.13***#(0.02)
+Twin (ref. = no)########
+yes###1.51***#(0.11)###1.58***#(0.14)
+Birth order###1.08***#(0.01)###1.08***#(0.01)
+Maternal characteristics########
+Age at giving birth###0.98***#(0.002)###0.98***#(0.002)
+Education (ref. = no)########
+primary###0.90***#(0.02)###0.84***#(0.02)
+secondary###0.76***#(0.01)###0.70***#(0.02)
+higher###0.58***#(0.02)###0.57***#(0.03)
+Household characteristics########
+Wealth (ref. = poorest)########
+poorer###0.84***#(0.02)###0.77***#(0.02)
+middle###0.70***#(0.02)###0.60***#(0.02)
+richer###0.55***#(0.02)###0.48***#(0.02)
+richest###0.42***#(0.02)###0.38***#(0.02)
+Number of under 5 children###1.05***#(0.01)###1.04***#(0.01)
+Household head (ref. = male)########
+female###1.02#(0.02)###0.98#(0.02)
+Caste (ref. = other)########
+scheduled caste and tribe###1.28***#(0.03)###1.26***#(0.04)
+other backward class###1.14***#(0.02)###1.12***#(0.03)
+Residence (ref. = urban)########
+rural###0.94**#(0.02)###0.92**#(0.03)
+"Observations#220,823##220,823##220,823##220,823#"
+Pseudo R 2#0.06##0.08##0.05##0.08#

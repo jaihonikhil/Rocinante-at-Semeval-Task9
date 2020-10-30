@@ -1,34 +1,35 @@
-ROI#Index#Category#How this feature is computed
-Head#1#Distance#Maximum displacement of the head while head-raising from its starting position
-Head#2#Distance#Maximum displacement of the head while head-lowering from its starting position
-Head#3#Distance#Average distance head moved during the utterance
-Head#4#Distance#Total distance traveled by head during the utterance
-Eyebrow#5#Distance#Maximum displacement of the eyebrow keypoint from its starting position
-Eyebrow#6#Distance#Maximum displacement of the eyebrow while eyebrow-lowering from its starting position
-Eyebrow#7#Distance#Average distance eyebrow moved during utterance
-Eyebrow#8#Distance#Total distance eyebrow moved during the utterance
-Lips#9#Distance#Maximum lip-opening distance
-Lips#10#Distance#Maximum lip-closing distance
-Lips#11#Distance#Average distance lips moved during utterance
-Lips#12#Distance#Total distance lips moved during the utterance
-Head#13#Time#The relative time at which the displacement of the head while head-raising was maximum
-Head#14#Time#The relative time at which the displacement of the head while head-lowering was maximum
-Head#15#Time#The relative time at which the head velocity was maximum during head-raising
-Head#16#Time#The relative time at which the head velocity was maximum during head-lowering
-Eyebrow#17#Time#The relative time at which the displacement of the eyebrow while eyebrow-raising was maximum
-Eyebrow#18#Time#The relative time at which the displacement of the eyebrow while eyebrow-lowering was maximum
-Eyebrow#19#Time#The relative time at which the eyebrow keypoint reached maximum velocity during eyebrow-raising
-Eyebrow#20#Time#The relative time at which the eyebrow keypoint reached maximum velocity during eyebrow-lowering
-Lips#21#Time#The relative time at which the amount of lip-opening reached maximum
-Lips#22#Time#The relative time at which the amount of lip-closing reached maximum
-Lips#23#Time#The relative time at which the lip velocity during lip-opening was maximum
-Lips#24#Time#The relative time at which the lip velocity during lip-closing was maximum
-Head#25#Kinematic#Maximum head velocity during head-raising
-Head#26#Kinematic#Maximum head velocity during head-lowering
-Head#27#Kinematic#Maximum absolute acceleration of the head
-Eyebrow#28#Kinematic#Maximum eyebrow velocity during eyebrow-raising
-Eyebrow#29#Kinematic#Maximum eyebrow velocity during eyebrow-lowering
-Eyebrow#30#Kinematic#Maximum absolute acceleration of the eyebrow
-Lips#31#Kinematic#Maximum lip velocity during lip opening
-Lips#32#Kinematic#Maximum lip velocity during lip closing
-Lips#33#Kinematic#Maximum absolute acceleration of the lips
+#Code Listing#Parameters
+Data##
+"#Audio sampling rate#16,000"
+#Video sampling rate#29.97 frames/s
+Video Segmentation##
+#Short Time Energy#window step size = 1
+#Median Filter#Filter order = 5
+#Clusters related to noise#threshold < 35% of maximum cluster length
+Face##
+"#facedetector = vision.CascadeObjectDetector('FrontalFaceLBP', 'MergeThreshold',i);#"
+#Merge threshold#Merge threshold = 1 to 150 with increments of 10
+##
+"Left eye#vision.CascadeObjectDetector('EyePairBig', 'MergeThreshold',a);#"
+#Merge threshold#Merge threshold = 0 to 150 with increments of 10
+"#vision.CascadeObjectDetector('LeftEye', 'MergeThreshold',i);#"
+"#vision.CascadeObjectDetector('LeftEyeCART', 'MergeThreshold',i);#"
+#Merge threshold#Merge threshold = 4 to 150 with increments of 10
+Eyebrow##
+#Color probability threshold#0.2
+#rgb2hsv(img);#
+"#edge(img(:,:,3),'canny');#"
+"#activecontour(rgb2gray(img),mask,400);#iterations = 400"
+Nose#Merge threshold#Merge threshold = 1 to 150 with increments of 10
+"#activecontour(rgb2gray(img),mask,500,'edge','SmoothFactor',2);#iterations = 500"
+"Lips#vision.CascadeObjectDetector('Mouth', 'MergeThreshold',i);#"
+#Merge threshold#Merge threshold = 4 to 150 with increments of 10
+#rgb2hsv(img);#
+"#strel('sphere',7);#"
+"#bwareafilt(lip,1);#Number of objects to keep = 1"
+"#imdilate(bwconvhull(big),se);#spherical structuring element of radius = 7"
+"#activecontour(rgb2gray(img),mask,500,'edge','SmoothFactor',2);#Number of iterations = 500"
+Random Forest#Trees#Number of trees = 500;
+#Repeat sampling N times from the larger class#100
+"#mafdr(pval11,'BHFDR', true);#p value = 0.05"
+"#B = TreeBagger(ntree,[ train X interaction ],trainY,'OOBPrediction','On', OOBPredictorImportance','on','MinLeafSize',20,'Method',' classification');#Random seed = 1 Min Leaf size = 20 OOBPrediction = on OOBPredictorImportance = on"

@@ -1,7 +1,3 @@
-Score#Interpretation#Interpretation
-#Efficiency#Responsiveness
-1#Strongly inefficient#Very poorly responsive
-2#Somewhat inefficient#Poorly responsive
-3#Moderately efficient#Moderately Responsive
-4#Efficient#Responsive
-5#Strongly efficient#Strongly responsive
+Criteria of Evaluation#Eff#Res#Weight#CR
+Eff#1#7#0.875#0%
+Res#1/7#1#0.125#

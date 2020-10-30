@@ -1,4 +1,5 @@
-Effects#Effects#Coefficient#Boot SE#95% biased corrected confidence interval#95% biased corrected confidence interval#Results
-#LL#LL#LL#UL#UL#UL
-Indirect effect#NSRTI- > STD - > QOL#0.06#0.019#0.031#0.108#Partial Mediation
-Direct effect#NSRTI - > QOL#0.15∗∗#0.45#0.064#1.243#–
+Factors#Standard Coefficient#SE - value#t-value#95% biased confidence interval#95% biased confidence interval#Results
+####LL#UL#UL
+NSR tourism infrastructure to QOL#0.15∗∗#0.045#3.373#0.064#0.243#Supported
+NSR tourism infrastructure to STD#0.26∗∗∗#0.046#5.550#0.165#0.346#Supported
+Sustainable tourism to QOL#0.24∗∗∗#0.046#5.290#0.154#0.337#Supported

@@ -1,8 +1,5 @@
-Mixtures#AAS#AASF
-Slag#400#200
-Fly ash#0#200
-Activator#200#200
-Aggregate [0–4 mm]#789#789
-Aggregate [4–8 mm]#440#440
-Aggregate [8–16 mm]#525#525
-Admixtures#–#–
+Cracking time t cr (days)#Average stress rate S (MPa/day)#Potential for cracking
+0 < t cr ≤ 7#S ≥ 0.34#High
+7 < t cr ≤ 14#0.17 ≤ S < 0.34#Moderate-High
+14 < t cr ≤ 28#0.10 ≤ S < 0.17#Moderate-Low
+t cr > 28#S < 0.10#Low
