@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Visualization</title>
+        <meta name="description" content="An interactive getting started guide for Brackets.">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <style>
+            table, td, th {  
+                border: 1px solid black;
+                padding: 5px;
+                color: black;
+                font-family: verdana;
+                font-size: smaller;
+            }
+            .panel {
+                display: inline-block;
+                background: white;
+            }
+            p {
+                margin-left: 15px;
+            }
+            .row {
+                margin-left: 15px;
+            }
+            .h2 {
+                margin-left: 15px;
+            }
+        </style>
+    </head>
+    <body>
+        
+        <h2 id='first' align="center"> Data Visualization</h2>
+        
+        <div class="row">
+            <p id="wiki1"></p>
+            <div id="table1" class="col-lg-6" align="left"></div>
+            <div id="text1" class="col-lg-6"></div>
+        </div>
+        <br>
+        <div class="row">
+            <div id="neg_table1" class="col-lg-6" align="left"></div>
+            <div id="neg_text1" class="col-lg-6"></div>
+        </div>
+        <br>
+        <div align="center">
+        <button type="button" onclick="prev()">Prev</button> <button type="button" onclick="next()">Next</button>
+        <input type="text" name="firstname" id="csv"><button type="button" id="goto">GOTO</button>
+        </div>
+        <!--<div class="row">
+            <div id="table2" class="col-lg-6" align="left"></div>
+            <div id="text2" class="col-lg-6"></div>
+        </div>
+        
+        <br>
+        <div class="row">    
+            <div id="table3" class="col-lg-6" align="left"></div>
+            <div id="text3" class="col-lg-6"></div>
+        </div>-->
+        <!--<div id="qa"></div>-->
+        
+        <!--<div id="form-group">
+            <label for="description">Description:</label>
+            <input type="text" class="form-control" id="description">
+        </div>-->
+    </body>
+</html>
+
+<script>
+jQuery.ajaxSetup({async:false});
+/*
+$(document).ready(function(){
+    var table;
+    $.get('https://raw.githubusercontent.com/wenhuchen/Interface/master/WikiTableQuestions/data/all_training.tsv', function(data){
+        table = parseDSV(data, '\t');
+    });
+    var generated = ""
+    for (var i = 0; i < 1; i++){
+        // Generate Table Content
+        $.get(`https://raw.githubusercontent.com/wenhuchen/Interface/master/WikiTableQuestions/csv/200-csv/${i}.html`, function(data){
+            data = data.replace(/ÿ/gi, "")
+            generated += '<div class="panel-heading">' + `200-csv/${i}` + '</div> <div class="panel-body">' + data;
+            //$(`#table${i}`).html(data + '<div id=' + `qa${i}` + '></div>');
+        }, 'text');
+        // Generate QA pairs
+        entries = getElem(table, 'context', `csv/200-csv/${i}.csv`);
+        var qa = "<br>";
+        entries.forEach(function(val){
+            qa += "<p> Question: \t " + val['utterance'] + "<br>" + "Ansewer: \t " + val['targetValue'] + "<\p>";
+        });
+        qa += "</div>";
+        var next = i + 1;
+        //$(`#qa${i}`).html(qa + '<div id=' + `table${next}` + '></div>');
+        generated += qa;
+    };
+    $("#table").html(generated);
+    //jQuery.each($('a'), function(i, val){val.target="_blank"})
+    $('a').each(function(i, val){
+        console.log(val.href)
+        if(val.href.match(/wikipedia/g))
+            val.target="_blank";
+        else
+            val.href = "#"
+    });
+});
+*/
+var hist = [0];
+var json;
+var total = 1;
+$.getJSON("nlg/full_cleaned.json", function(data){
+    json = data
+});
+var all_htmls = Object.keys(json);
+//var prefix = "https://raw.githubusercontent.com/wenhuchen/Interface/master/WikiTableQuestions/wikidata/all_html/"
+var prefix = "data/all_csv/"
+$(document).ready(function(){
+    var idx = hist[hist.length - 1]
+    var url = all_htmls[idx]
+    var r = json[url];
+    text_list = r[0];
+    label_list = r[1];
+    pos_list = r[2];
+    title = r[3]
+    $.get(prefix + url, function(data){
+        $(`#table1`).html(CSV2Table(data));
+    });
+    var text_str = `<p>source : ${prefix + url} : ${title}<p>`
+    for (var i=0; i < text_list.length; i++){
+        if(label_list[i] == 1 || label_list[i] == "Entailed"){
+            text_str += '<p style="color:red;">' + text_list[i] + "</p>";
+            text_str += '<p style="color:red;">' + pos_list[i] + "</p>";
+        }
+        else{
+            text_str += '<p style="color:green;">' + text_list[i] + "</p>";
+            text_str += '<p style="color:green;">' + pos_list[i] + "</p>";            
+        }
+
+    }
+    $(`#text1`).html(text_str);
+});
+    
+$('#goto').click(function(){
+    var url = $('#csv').val();
+    //console.log(csv_file);
+    if (url in json){
+        var r = json[url];
+        text_list = r[0];
+        label_list = r[1];
+        pos_list = r[2];
+        title = r[3];
+        //for (var i = 0; i < total; i++){
+        $.get(prefix + url, function(data){
+            //console.log(CSV2Table(data));
+            $(`#table1`).html(CSV2Table(data));
+        });
+        var text_str = `<p>source : ${prefix + url} : ${title}<p>`
+        for (var i=0; i < text_list.length; i++){
+            if(label_list[i] == 1 || label_list[i] == "Entailed"){
+                text_str += '<p style="color:red;">' + text_list[i] + "</p>";                
+                text_str += '<p style="color:red;">' + pos_list[i] + "</p>";
+            }
+            else{
+                text_str += '<p style="color:green;">' + text_list[i] + "</p>";
+                text_str += '<p style="color:green;">' + pos_list[i] + "</p>";           
+            }
+        }
+        $(`#text1`).html(text_str);
+        //hist.push(idx);       
+    }
+    else{
+        console.log("No such file");
+    }
+})
+    
+function prev() {
+    if(hist.length > 1){
+        hist.pop();
+        idx = hist[hist.length - 1];
+        var url = all_htmls[idx];
+        var r = json[url];
+        text_list = r[0];
+        label_list = r[1];
+        pos_list = r[2];
+        title = r[3]
+        //for (var i = 0; i < total; i++){
+        $.get(prefix + url, function(data){
+            $(`#table1`).html(CSV2Table(data));
+        });
+        //$('#wiki1').html(r[2]);
+        var text_str = `<p>source : ${prefix + url} : ${title}<p>`
+        for (var i=0; i < text_list.length; i++){
+            if(label_list[i] == 1 || label_list[i] == "Entailed"){
+                text_str += '<p style="color:red;">' + text_list[i] + "</p>";
+                text_str += '<p style="color:red;">' + pos_list[i] + "</p>";
+            }
+            //else if(label_list[i] == "Neutral"){
+            //    text_str += '<p>' + text_list[i] + "</p>";
+            //}
+            else{
+                text_str += '<p style="color:green;">' + text_list[i] + "</p>"; 
+                text_str += '<p style="color:green;">' + pos_list[i] + "</p>";
+            }
+        }
+        $(`#text1`).html(text_str);
+    }
+}
+
+function next() {
+    var idx = Math.floor(Math.random() * all_htmls.length);
+    var url = all_htmls[idx];
+    var r = json[url];
+    text_list = r[0];
+    label_list = r[1];
+    pos_list = r[2];
+    title = r[3]
+    //for (var i = 0; i < total; i++){
+    $.get(prefix + url, function(data){
+        $(`#table1`).html(CSV2Table(data));
+    });
+    //$('#wiki1').html(r[2]);
+    var text_str = `<p>source : ${prefix + url} : ${title}<p>`
+    for (var i=0; i < text_list.length; i++){
+        if(label_list[i] == 1 || label_list[i] == "Entailed"){
+            text_str += '<p style="color:red;">' + text_list[i] + "</p>";                
+            text_str += '<p style="color:red;">' + pos_list[i] + "</p>";
+        }
+        //else if(label_list[i] == "Neutral"){
+        //    text_str += '<p>' + text_list[i] + "</p>";
+        //}
+        else{
+            text_str += '<p style="color:green;">' + text_list[i] + "</p>";
+            text_str += '<p style="color:green;">' + pos_list[i] + "</p>";
+        }
+    }
+    $(`#text1`).html(text_str);
+    hist.push(idx);
+}
+
+function CSV2Table(data) {
+    var lines = data.split("\n");
+    lines.pop();
+    //var headers = lines[0].split(separator);
+    var output = []
+    for (i = 0; i < lines.length; i++){
+        if(i == 0){
+            output.push("<tr><th>" + lines[i].slice(0,-1).split("#").join("</th><th>") + "</th></tr>");
+        }
+        else{
+            output.push("<tr><td>" + lines[i].slice(0,-1).split("#").join("</td><td>") + "</td></tr>");            
+        }
+    }
+    output = "<table class='wikitable'>" + output.join("") + "</table>";
+    return output
+}
+    
+function parseCSV(data) {
+    return parseDSV(data, "#");
+}
+
+// Tabulation-separated values to JSON
+function parseTSV(data) {
+    return parseDSV(data, "\t");
+}
+
+function getElem(data, name, value){
+    result = [];
+    data.forEach(function(t){
+        if(t[name] == value){
+            result.push(t);
+        }
+    });
+    return result;
+}
+    
+// Delimiter-separated values to JSON
+function parseDSV(data, separator) {
+  var lines = data.split("\n");
+  var headers = lines[0].split(separator);
+  var result = [];
+  for (var i = 1, len = lines.length; i < lines.length; i++) {
+	  var obj = {};
+	  var line = lines[i].split(separator);
+    
+	  for (var j = 0, len = headers.length; j < headers.length; j++) {
+		  obj[headers[j]] = line[j];
+	  }
+      result.push(obj);
+  }
+  return result;
+}
+</script>
