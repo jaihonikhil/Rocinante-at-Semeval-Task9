@@ -555,9 +555,9 @@ def get_func(filename, output):
     return dict(r)
 
 
-results1 = get_func('../collected_data/r1_training_all.json', '../tokenized_data/r1_training_cleaned.json')
+results1 = get_func('../collected_data/TrainOutputA.json', '../tokenized_data/r1_training_cleaned.json')
 print("finished part 1")
-results2 = get_func('../collected_data/r2_training_all.json', '../tokenized_data/r2_training_cleaned.json')
+results2 = get_func('../collected_data/TrainOutputM.json', '../tokenized_data/r2_training_cleaned.json')
 print("finished part 2")
 
 results2.update(results1)
