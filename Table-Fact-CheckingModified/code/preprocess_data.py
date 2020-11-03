@@ -567,7 +567,7 @@ def get_func(filename, output):
 
 results1 = get_func('../collected_data/TrainOutputA.json', '../tokenized_data/autogen.json')
 print("finished part 1")
-results2 = get_func('../collected_data/TrainOutputM', '../tokenized_data/manual_cleaned.json')
+results2 = get_func('../collected_data/TrainOutputM.json', '../tokenized_data/manual_cleaned.json')
 print("finished part 2")
 
 results2.update(results1)
