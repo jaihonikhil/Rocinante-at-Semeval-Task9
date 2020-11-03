@@ -1,5 +1,0 @@
-#True classes#True classes#True classes#True classes
-##Flooding#Non-flooding#
-Predicted classes#Flooding#True positives (TP)#False positives (FP)#Positive predictive rate (PPR) = TP/(TP+FP)
-#Non-flooding#False negatives (FN)#True negatives (TN)#Negative predictive rate (NPR) = TN/(TN+FN)
-##True positive rate (TPR) = TP/(TP+FN)#True negative rate (TNR) = TN/(FP+TN)#Accuracy (ACC) = (TN+TP)/(TP+TN+FN+FP)

@@ -1,4 +1,4 @@
-Name # Type # CFD grid size # #Lagr. elements # Parallelization technique # #Cores # Efficiency
+Name # Type # CFD grid size # Lagr. elements # Parallelization technique # Cores # Efficiency
 Ouro et al. [2] # CFD+IBM # 52.59 ⋅ 10 6 # 3.57 ⋅ 10 5 # MPI+OpenMP # 314 # ideal
 Rakotonirinaa et al. [3] # CFD+DEM # - # 2.304 ⋅ 10 8 # MPI # 768 # 90%
 Pozzetti et al. [4] # CFD+DEM # 10 6 # 10 7 # MPI # 280 # 70%
