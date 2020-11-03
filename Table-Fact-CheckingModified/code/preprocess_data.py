@@ -339,7 +339,18 @@ def postprocess(inp, backbone, trans_backbone, transliterate, tabs, recover_dict
 def get_lemmatize(words, return_pos):
     #words = nltk.word_tokenize(words)
     recover_dict = {}
-    words = words.strip().split(' ')
+    words = words.strip().split()
+
+    for i in range(len(words)):
+      if words[i] == '' :
+        words.remove('')
+        break
+
+    for i in range(len(words)):
+      if words[i] == ' ' :
+        words.remove(' ')
+        break
+
     pos_tags = [_[1] for _ in nltk.pos_tag(words)]
     word_roots = []
     for w, p in zip(words, pos_tags):
@@ -438,7 +449,6 @@ def merge_strings(name, string, tags=None):
                     i += 1
         else:
             i += 1
-
     return " ".join(words), " ".join(tags)
 
 
@@ -555,9 +565,9 @@ def get_func(filename, output):
     return dict(r)
 
 
-results1 = get_func('../collected_data/r1_training_all.json', '../tokenized_data/r1_training_cleaned.json')
+results1 = get_func('../collected_data/TrainOutputA.json', '../tokenized_data/autogen.json')
 print("finished part 1")
-results2 = get_func('../collected_data/r2_training_all.json', '../tokenized_data/r2_training_cleaned.json')
+results2 = get_func('../collected_data/TrainOutputM.json', '../tokenized_data/manual_cleaned.json')
 print("finished part 2")
 
 results2.update(results1)
