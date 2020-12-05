@@ -6,9 +6,17 @@ Link to the Competition: https://sites.google.com/view/sem-tab-facts
 
 Link to References : https://docs.google.com/spreadsheets/d/1R_sv0HA45ohEnnindc6AdRv-_XVTTUzmt96e9yvqi3Q/edit?usp=sharing
 -------------------RESULTS WITH FINETUNING----------------
+
+
 DEV ACC on OLD DEV SET : 89.30
+
 DEV ACC on NEW DEV SET : 70.47
+
 MANUAL DEV ACC on OLD DEV SET : 78.04
+
+
+
 ------------------RESULTS WITHOUT FINETUNING---------------
 DEV ACC on OLD DEV SET : 56
+
 DEV ACC on NEW DEV SET : 46.86
