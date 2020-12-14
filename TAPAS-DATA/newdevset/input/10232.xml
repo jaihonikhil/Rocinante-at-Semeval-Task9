@@ -1,0 +1,2511 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   List of dependent variables.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Notation">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Definition">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="S
+         
+
+
+
+          P
+         
+
+
+
+
+         (
+        
+
+         t
+        
+
+         )">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Number of susceptible passengers at time
+     
+
+       t">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="E
+         
+
+
+
+          P
+         
+
+
+
+
+         (
+        
+
+         t
+        
+
+         )">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Number of exposed passengers at time
+     
+
+       t">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="I
+         
+
+
+
+          P
+         
+
+
+
+          A
+         
+
+
+
+
+         (
+        
+
+         t
+        
+
+         )">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Number of infected asymptomatic passengers at time
+     
+
+       t">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="I
+         
+
+
+
+          P
+         
+
+
+
+          S
+         
+
+
+
+
+         (
+        
+
+         t
+        
+
+         )">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Number of infected symptomatic passengers at time
+     
+
+       t">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="R
+         
+
+
+
+          P
+         
+
+
+
+
+         (
+        
+
+         t
+        
+
+         )">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Number of recovered passengers at time
+     
+
+       t">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="S
+         
+
+
+
+          C
+         
+
+
+
+
+         (
+        
+
+         t
+        
+
+         )">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Number of susceptible crew members at time
+     
+
+       t">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="E
+         
+
+
+
+          C
+         
+
+
+
+
+         (
+        
+
+         t
+        
+
+         )">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="Number of exposed crew members at time
+     
+
+       t">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="I
+         
+
+
+
+          C
+         
+
+
+
+          A
+         
+
+
+
+
+         (
+        
+
+         t
+        
+
+         )">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="Number of infected asymptomatic crew members at time
+     
+
+       t">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="I
+         
+
+
+
+          C
+         
+
+
+
+          S
+         
+
+
+
+
+         (
+        
+
+         t
+        
+
+         )">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="Number of infected symptomatic crew members at time
+     
+
+       t">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="R
+         
+
+
+
+          C
+         
+
+
+
+
+         (
+        
+
+         t
+        
+
+         )">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="Number of recovered crew members at time
+     
+
+       t">
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="The definitions of all the notations are the same." type="">
+   </statement>
+   <statement id="1" text="There are 12 types of notation in the given table." type="">
+   </statement>
+   <statement id="2" text="The definition of S P (t) is Number of recovered crew members at time t." type="">
+   </statement>
+   <statement id="3" text="R C ( t ) is defined as Number of exposed crew members at time t." type="">
+   </statement>
+   <statement id="4" text="The notation for Number of recovered crew members at time t is S C ( t )." type="">
+   </statement>
+   <statement id="5" text="There are 10 types of notation in the given table." type="">
+   </statement>
+   <statement id="6" text="Each notation has its own definition." type="">
+   </statement>
+   <statement id="7" text="E C ( t ) is defined as Number of exposed crew members at time t." type="">
+   </statement>
+   <statement id="8" text="The notation for Number of recovered crew members at time t is R C ( t )." type="">
+   </statement>
+   <statement id="9" text="t is the variable for time considered in all definitions and all notations." type="">
+   </statement>
+   <statement id="10" text="In the table, there are susceptible ( S ), exposed ( E ), asymptomatic ( I A ), symptomatic ( I S ), and recovered ( R ) classes." type="">
+   </statement>
+   <statement id="11" text="Animal terms are defined in the table." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   Estimated parameter values: Before and after quarantine.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Parameter">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Before,
+     
+
+
+        (
+       
+
+        d
+       
+
+        =
+       
+
+        0
+       
+
+        )">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="After,
+     
+
+
+        (
+       
+
+        d
+       
+
+        =
+       
+
+        1
+       
+
+        )">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="κ
+        
+
+
+
+         P
+        
+
+         P">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="14/day">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="2/day">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="κ
+        
+
+
+
+         P
+        
+
+         C">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="2/day">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="2/day">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="κ
+        
+
+
+
+         C
+        
+
+         C">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="5/day">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="3/day">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="κ
+        
+
+
+
+         C
+        
+
+         S">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="2/day">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="1/day">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="κ
+        
+
+
+
+         P
+        
+
+         S">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="2/day">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="2/day">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="μ
+      
+
+     (COVID-19)">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="0.1/day">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="0.25/day">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="P P Parameter is 20/day before quarantine." type="">
+   </statement>
+   <statement id="1" text="10 unique paramters are presented." type="">
+   </statement>
+   <statement id="2" text="C S and P S have the same after quarantine values." type="">
+   </statement>
+   <statement id="3" text="The parameter o (COVID-19) has the same before and after quarantine values." type="">
+   </statement>
+   <statement id="4" text="The table shows the estimated parameter values for before and during quarantine." type="">
+   </statement>
+   <statement id="5" text="There are 6 unique paramters in the table." type="">
+   </statement>
+   <statement id="6" text="The table shows the estimated parameter value for before and after quarantine." type="">
+   </statement>
+   <statement id="7" text="The parameter P P is 14/day before quarantine." type="">
+   </statement>
+   <statement id="8" text="o (COVID-19) Parameter is 0.25/day after Quarantine." type="">
+   </statement>
+   <statement id="9" text="The before and after values for each parameter is always different." type="">
+   </statement>
+   <statement id="10" text="o (COVID-19) is 20/day during quarantine." type="">
+   </statement>
+   <statement id="11" text="The table has the values for before and after quarantine for various parameters." type="">
+   </statement>
+   <statement id="12" text="Influenza has a daily hospitalization and death rate of 0 . 005 % = 1" type="">
+   </statement>
+   <statement id="13" text="There are 50 days for the parameter S S." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 7">
+  <caption text="
+
+   Number of positive tests for South Korea for the dates February 15–25 and New York for the dates March 9–19.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Date">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="South Korea">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Date">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="New York City">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Positive tests">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="Positive tests">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="15 February">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="28">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="9 March">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="7">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="16 February">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="29">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="10 March">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="19">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="17 February">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="30">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="11 March">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="22">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="18 February">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="31">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="12 March">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="40">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="19 February">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="51">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="13 March">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="79">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="20 February">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="104">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="14 March">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="104">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="21 February">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="204">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="15 March">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="164">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="22 February">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="346">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="16 March">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="233">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="23 February">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="602">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="17 March">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="394">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="24 February">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="763">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="18 March">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="729">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="25 February">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="977">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="19 March">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="1166">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="10" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="New York City Positive tests are shown for dates from 9 March to 29 March." type="">
+   </statement>
+   <statement id="1" text="The dates shown for South Korea and New York City are the same." type="">
+   </statement>
+   <statement id="2" text="The highest positive test value is 947 in New York City." type="">
+   </statement>
+   <statement id="3" text="The positive test of South Korea dated 20 February and positive test of New York City dated 14 March is the same at 254." type="">
+   </statement>
+   <statement id="4" text="The lowest positive test value is 8 in New York City in the table." type="">
+   </statement>
+   <statement id="5" text="The number of positive tests in South Korea is dated from 15 February to 25 February." type="">
+   </statement>
+   <statement id="6" text="The highest positive test value is 1166 in New York City." type="">
+   </statement>
+   <statement id="7" text="The number of positive tests are increasing everyday for South Korea and New York city." type="">
+   </statement>
+   <statement id="8" text="The lowest positive test value for New York City  was recorded on the earliest date." type="">
+   </statement>
+   <statement id="9" text="The positive tests of South Korea dated 20 February and positive tests of New York City dated 14 March are the same." type="">
+   </statement>
+   <statement id="10" text="For South Korea we find an average of 1.125 positive tests over the full period." type="">
+   </statement>
+   <statement id="11" text="If we assume each South Korean had 7.7 contacts per day, then  = 0 . 187 ." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

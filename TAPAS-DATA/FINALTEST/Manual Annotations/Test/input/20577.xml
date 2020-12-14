@@ -1,0 +1,204 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Structural Efficiency of Burnt bricks.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Samples">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Density (kg/m
+     
+      3
+     
+     )">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Compressive Strength (N/mm
+     
+      2
+     
+     )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Shear Stress (N/mm
+     
+      2
+     
+     )">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Structural Efficiency (x 10
+     
+      3
+     
+     m)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="P
+     
+      0
+     
+     &amp; T
+     
+      0">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="1376">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="6.15">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="2.33">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="4.47">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="P
+     
+      1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="1376">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="4.02">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="2.99">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="2.92">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="P
+     
+      2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="1376">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="3.57">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="2.98">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="2.59">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="P
+     
+      3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="1354">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="3.16">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="2.99">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="2.33">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="P
+     
+      4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="1322">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="2.82">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="2.99">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="2.13">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="P
+     
+      5">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="1322">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="2.61">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="2.97">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="1.97">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="T
+     
+      1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="1376">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="6.67">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="2.54">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="4.84">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="T
+     
+      2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="1376">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="7.78">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="3.00">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="5.65">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="T
+     
+      3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="1376">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="8.97">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="3.01">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="6.52">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="T
+     
+      4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="1376">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="10.16">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="3.01">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="7.40">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="T
+     
+      5">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="1376">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="11.02">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="3.02">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="8.01">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="All the observed values are unique in the table." type="">
+   </statement>
+   <statement id="1" text="Structural Efficiency (x 10 3 m) of T 5 is having highest of 8.01." type="">
+   </statement>
+   <statement id="5" text="The Shear Stress (N/mm 2 ) ranges from 2.33 to 3.02." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

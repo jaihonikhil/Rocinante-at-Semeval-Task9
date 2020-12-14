@@ -1,0 +1,272 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+
+    FAUCs for the detection of brain lesions.
+   
+   To compute the these FAUCs, we integrate the FROC (
+   ) between 0 and 15 (
+   ). The best performance in each region is indicated in bold.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="GP-Unet (this paper)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="GP-Unet no residual">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Gated Attention">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Grad-CAM">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="Grad">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="Guided-backprop">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="0" row-start="0" text="Intensities">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Midbrain">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="81.5 (80.1 - 82.8)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="73.4 (72.0 - 74.8)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="72.7 (71.1 - 74.4)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="79.8 (78.5 - 81.1)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="84.5 (83.5 - 85.4)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="89.2 (88.3 - 90.2)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="87.1 (86.1 - 88.1)">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Hippocampi">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="85.8 (84.8 - 86.7)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="55.1 (53.5 - 56.7)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="80.2 (79.1 - 81.3)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="80.1 (78.9 - 81.3)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="71.5 (70.4 - 72.6)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="83.3 (82.2 - 84.3)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="8.3 (7.5 - 9.0)">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Basal Ganglia">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="69.6 (68.1 - 71.2)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="64.4 (63.0 - 65.9)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="64.8 (63.4 - 66.4)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="70.6 (69.3 - 72.0)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="73.5 (72.2 - 74.9)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="75.6 (74.3 - 76.8)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="61.7 (59.9 - 63.5)">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Centrum Semiovale">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="51.3 (50.1 - 52.6)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="37.9 (36.8 - 39.2)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="46.2 (45.0 - 47.5)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="51.5 (50.2 - 52.7)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="31.9 (30.7 - 33.2)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="48.1 (46.9 - 49.3)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="4.7 (4.2 - 5.2)">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Average">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="72.0 +/- 13.3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="57.7 +/- 13.1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="66.0 +/- 12.7">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="70.5 +/- 11.6">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="65.4 +/- 19.9">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="74.1 +/- 15.7">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="40.5 +/- 35.2">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Grad-CAM and GP-Unet reach similar FAUCs ( Table 1 ) in the basal ganglia and centrum semiovale." type="">
+   </statement>
+   <statement id="2" text="The Basal Ganglia of Gated Attention is 64.8 (63.4 - 66.4)." type="">
+   </statement>
+   <statement id="3" text="The Centrum Semiovale of Grad-CAM is 51.5 (50.2 - 52.7)." type="">
+   </statement>
+   <statement id="5" text="The lowest Guided-backprop is 89.2 (88.3 - 90.2)." type="">
+   </statement>
+   <statement id="6" text="The Midbrain of GP-Unet (this paper) is 81.5(80.1-82.8)." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+
+    Average number of false positives per scan in the brain datasets.
+   
+   Best performances are indicated in bold.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="GP-Unet (this paper)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="GP-Unet no residual">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Gated Attention">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Grad-CAM">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="Grad">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="Guided-backprop">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="0" row-start="0" text="Intensities">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Midbrain">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="1.03 (0.99 - 1.07)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="1.19 (1.15 - 1.24)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="1.04 (0.99 - 1.09)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="1.10 (1.05 - 1.15)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="1.40 (1.34 - 1.45)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="0.99 (0.94 - 1.03)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="1.11 (1.06 - 1.15)">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Hippocampi">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="1.12 (1.06 - 1.17)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="1.96 (1.88 - 2.03)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="1.13 (1.06 - 1.19)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="1.16 (1.10 - 1.22)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="2.16 (2.06 - 2.25)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="1.23 (1.16 - 1.29)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="3.34 (3.22 - 3.45)">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Basal Ganglia">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="1.95 (1.88 - 2.01)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="2.33 (2.27 - 2.39)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="2.16 (2.10 - 2.23)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="2.02 (1.95 - 2.09)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="2.06 (1.98 - 2.13)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="1.98 (1.91 - 2.04)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="2.28 (2.21 - 2.35)">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Centrum Semiovale">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="5.24 (5.04 - 5.43)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="6.66 (6.46 - 6.86)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="6.23 (6.02 - 6.44)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="5.63 (5.44 - 5.82)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="7.30 (7.03 - 7.57)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="5.92 (5.71 - 6.12)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="9.91 (9.62 - 10.21)">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Average">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="2.33 +/- 1.71">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="3.04 +/- 2.13">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="2.64 +/- 2.12">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="2.48 +/- 1.86">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="3.23 +/- 2.37">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="2.53 +/- 1.99">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="4.16 +/- 3.41">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="All the values given in the table consist of negative values." type="">
+   </statement>
+   <statement id="1" text="All the values given in the table consist of positive values." type="">
+   </statement>
+   <statement id="2" text="and to some extent those of the midbrain ( Fig. 8 )  show that GP-Unet is less distracted by the surrounding cerebrospinal fluid than Grad-CAM  or the methods emphasizing intensities" type="">
+   </statement>
+   <statement id="7" text="The attention maps of the hippocampi ( Fig. C.16 ) " type="">
+   </statement>
+   <statement id="8" text="The highest Gated Attention is 1.04 (0.99 - 1.09) of Midbrain." type="">
+   </statement>
+   <statement id="9" text="The highest GP-Unet (this paper) value is 5.24 (5.04 - 5.43) of Centrum Semiovale." type="">
+   </statement>
+   <statement id="10" text="The lowest Gated Attention is 1.04 (0.99 - 1.09) of Midbrain." type="">
+   </statement>
+   <statement id="13" text="There are 9 scenarios given in the table." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

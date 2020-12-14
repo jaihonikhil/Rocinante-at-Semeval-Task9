@@ -1,0 +1,104 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Features of the
+   
+    Paenibacillus curdlanolyticus
+   
+   B-6 genome.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Feature">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Description">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Number of reads used in the assembly">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="45,085,168">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Mean read length">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="195 bp">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Genome size">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="4,875,097 bp">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Number of contigs">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="74">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="G+C content (%)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="49.7">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="N50 contig length">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="237,553 bp">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Mean contig length">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="65,880 bp">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Number of CDSs">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="4,473">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Number of rRNAs">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="4">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Number of tRNAs">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="94">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Number of CRISPRs">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="5">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="Genome coverage depth">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="1,718-fold">
+   </cell>
+  </row>
+  <statements>
+   <statement id="4" text="N50 contig length has a description is 237,553 bp." type="">
+   </statement>
+   <statement id="5" text="The highest description is 4,875,097 bp." type="">
+   </statement>
+   <statement id="7" text="The highest IFSCR is 250." type="">
+   </statement>
+   <statement id="8" text="The lowest sample is 15." type="">
+   </statement>
+   <statement id="9" text="There are 12 different types of Feature in the given table." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

@@ -1,0 +1,406 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Brain size and mass-societies. Approximate relationship between brain size and existence of mass-societies in proteins, insects and humans.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="13" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Proteins">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="13" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Insects">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="13" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Preliterate Humans">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="13" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Modern Humans">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="13" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Brain size">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="13" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="“zero”">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="13" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="tiny">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="13" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="large">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="13" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="large">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="13" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Mass-societies">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="13" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="yes">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="13" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="yes">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="13" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="no">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="13" type="" version="">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="yes">
+    <evidence statement_id="0" type="" version="">
+    </evidence>
+    <evidence statement_id="1" type="" version="">
+    </evidence>
+    <evidence statement_id="2" type="" version="">
+    </evidence>
+    <evidence statement_id="3" type="" version="">
+    </evidence>
+    <evidence statement_id="4" type="" version="">
+    </evidence>
+    <evidence statement_id="5" type="" version="">
+    </evidence>
+    <evidence statement_id="6" type="" version="">
+    </evidence>
+    <evidence statement_id="7" type="" version="">
+    </evidence>
+    <evidence statement_id="8" type="" version="">
+    </evidence>
+    <evidence statement_id="9" type="" version="">
+    </evidence>
+    <evidence statement_id="13" type="" version="">
+    </evidence>
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="There are no mass societies for modern humans." type="">
+   </statement>
+   <statement id="1" text="The brain sizes of Preliterate Humans and Modern Humans are tiny." type="">
+   </statement>
+   <statement id="2" text="Large is the brain size of Insects." type="">
+   </statement>
+   <statement id="3" text="The brain size for preliterate humans are smaller than insects." type="">
+   </statement>
+   <statement id="4" text="There are mass-societies for every column considered." type="">
+   </statement>
+   <statement id="5" text="The brain sizes for both types of humans are large." type="">
+   </statement>
+   <statement id="6" text="preliterate humans is the only type considered without mass-societies." type="">
+   </statement>
+   <statement id="7" text="The brain size for Proteins is neither tiny nor large." type="">
+   </statement>
+   <statement id="8" text="Brain size and mass-societies are considered in the given table." type="">
+   </statement>
+   <statement id="9" text="Tiny is the brain size of Insects." type="">
+   </statement>
+   <statement id="10" text="Modern humans is the only one with a large brain size and mass-societies." type="">
+   </statement>
+   <statement id="11" text="But for mass-society emergence, great brain power is neither necessary nor sufficient." type="">
+   </statement>
+   <statement id="12" text="In Cell City, the mass-societies of proteins, the citizens have no AubrainAu, but can be seen as information processing entities defined by their structure." type="">
+   </statement>
+   <statement id="13" text="Amongst human social groups, all with the same brain size, only some have become modern mass-societies." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

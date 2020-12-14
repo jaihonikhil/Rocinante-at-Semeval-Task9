@@ -1,0 +1,1757 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Classification of the Krylov subspace methods.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Type of
+     
+
+
+        A
+       
+
+        +
+       
+
+        σ
+       
+
+        I">
+    <evidence statement_id="0" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="7" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="9" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Method">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="7" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="9" type="relevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Solver name">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="7" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="9" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Real symmetric">
+    <evidence statement_id="0" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="7" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="9" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Shifted conjugate gradient (CG) method (using real vector)">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="7" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="9" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="komega_cg_r">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="7" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="9" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Hermitian">
+    <evidence statement_id="0" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="7" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="9" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Shifted conjugate gradient (CG) method (using complex vector)">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="7" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="9" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="komega_cg_c">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="7" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="9" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Complex symmetric">
+    <evidence statement_id="0" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="7" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="9" type="relevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Shifted conjugate orthogonal conjugate gradient (COCG) method">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="7" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="9" type="relevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="komega_cocg">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="7" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="9" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Otherwise">
+    <evidence statement_id="0" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="7" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="9" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Shifted bi-conjugate gradient (BiCG) method">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="7" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="9" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="komega_bicg">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="7" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="9" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Krylov subspace methods have been classified into 44 types." type="refuted">
+   </statement>
+   <statement id="1" text="The solver name is different for all 44 types." type="refuted">
+   </statement>
+   <statement id="2" text="Type of A + E I has only Real symmetric, Hermitian and Complex symmetric ." type="refuted">
+   </statement>
+   <statement id="3" text="The Otherwise type has Shifted conjugate gradient (CG) method (using complex vector) as the method." type="refuted">
+   </statement>
+   <statement id="4" text="Shifted conjugate orthogonal conjugate gradient (COCG) method is a method used for Hermitian ." type="refuted">
+   </statement>
+   <statement id="5" text="Krylov subspace methods have been classified into 4 types." type="entailed">
+   </statement>
+   <statement id="6" text="All four solver names are unique." type="entailed">
+   </statement>
+   <statement id="7" text="Real symmetric ,Hermitian , Complex symmetric and Otherwise are all types of A + E I." type="entailed">
+   </statement>
+   <statement id="8" text="The Hermitian type has Shifted conjugate gradient (CG) method (using complex vector) as the method." type="entailed">
+   </statement>
+   <statement id="9" text="Shifted conjugate orthogonal conjugate gradient (COCG) method is a method used for Complex symmetric ." type="entailed">
+   </statement>
+   <statement id="10" text="An appropriate solver should be selected depending on whether the type of Hamiltonian H and the frequency z are complex or real, as shown in Table 1 ." type="unknown">
+   </statement>
+   <statement id="11" text="It is noted that H must be Hermitian or symmetric for a complex or real matrix, respectively." type="unknown">
+   </statement>
+   <statement id="12" text="For an efficient calculation, the seed switching function [7] is introduced in all methods." type="unknown">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   Eigenvalues obtained by
+   
+
+
+      H
+     
+
+      Φ
+     
+
+
+   (full diagonalization using LAPACK) and the contour-integral method. For the contour-integral method, we show results for several different
+   
+
+
+
+       N
+      
+
+
+
+       k
+      
+
+
+
+   and
+   
+
+
+
+       N
+      
+
+
+
+       l
+      
+
+
+
+   , denoted as SS(
+   
+
+
+
+       N
+      
+
+
+
+       k
+      
+
+
+
+   ,
+   
+
+
+
+       N
+      
+
+
+
+       l
+      
+
+
+
+   ). When the rank of SS(
+   
+
+
+
+       N
+      
+
+
+
+       k
+      
+
+
+
+   ,
+   
+
+
+
+       N
+      
+
+
+
+       l
+      
+
+
+
+   ) is smaller than
+   
+
+     n
+    
+
+   , we do not obtain the
+   
+
+     n
+    
+
+   th eigenvalues. This case is indicated as NA (not available) in the table. In the actual calculation, we discard singular values that are smaller than
+   
+
+
+      1
+     
+
+
+
+        0
+       
+
+
+
+        −
+       
+
+        3
+       
+
+
+
+
+   .
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="E
+        
+
+
+
+         n">
+    <evidence statement_id="0" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="relevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="H
+       
+
+        Φ">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="SS(10,1)">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="relevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="SS(10,2)">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="SS(10,5)">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="0">
+    <evidence statement_id="0" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="−5.387391">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="−5.387391">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="−5.387391">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="−5.387391">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="1">
+    <evidence statement_id="0" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="−5.031543">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="−5.031543">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="−5.031543">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="−5.031543">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="2">
+    <evidence statement_id="0" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="−4.777389">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="−4.777389">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="−4.777389">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="−4.777389">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="3">
+    <evidence statement_id="0" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="−4.569374">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="−4.569374">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="−4.569374">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="−4.569374">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="4">
+    <evidence statement_id="0" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="−4.569374">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="−4.297689">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="−4.569374">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="−4.569374">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="5">
+    <evidence statement_id="0" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="relevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="−4.297689">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="NA">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="−4.297689">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="−4.297689">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="6">
+    <evidence statement_id="0" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="relevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="−4.297689">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="NA">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="relevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="−4.297689">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="−4.297689">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="5" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="1">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="1">
+    </evidence>
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="There are 8 E n values in the given table." type="refuted">
+   </statement>
+   <statement id="1" text="The SS(10,1) is available for both 5 E n and 6 E n." type="refuted">
+   </statement>
+   <statement id="2" text="The highest H value is -4.297689 at E n=0 ," type="refuted">
+   </statement>
+   <statement id="3" text="The SS(10,2) values are not the same as the SS(10,5) values." type="refuted">
+   </statement>
+   <statement id="4" text="The lowest SS(10,1) value is -4.777389 for E n =4." type="refuted">
+   </statement>
+   <statement id="5" text="There are 7 E n values in the given table." type="entailed">
+   </statement>
+   <statement id="6" text="The SS(10,1) is NA for both 5 E n and 6 E n." type="entailed">
+   </statement>
+   <statement id="7" text="The highest H value is -5.387391 for E n =0." type="refuted">
+   </statement>
+   <statement id="8" text="The SS(10,2) values are same as the SS(10,5) values." type="entailed">
+   </statement>
+   <statement id="9" text="The lowest SS(10,1) value is -4.297689 for E n =4." type="refuted">
+   </statement>
+   <statement id="10" text="To see the convergence of the contour-integral method, we show the obtained eigenvalues for several different conditions." type="unknown">
+   </statement>
+   <statement id="11" text="By taking about 50 different bases, we can obtain the correct eigenvalues including degeneracies." type="unknown">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 2">
+  <caption text="
+
+   The operational costs per iteration are listed for (i) the conventional Krylov method, (ii) the shifted Krylov subspace method for the whole elements of the solution vectors, and (iii) the shifted Krylov subspace method for the projection of the solution vectors
+   . The operational costs of the sparse matrix–vector products (SpMV), the scalar–vector products (SV), and the inner products (Inner) are listed separately.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Method">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="SpMV">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="SV">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Inner">
+    <evidence statement_id="0" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Conventional">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="M
+       
+
+
+
+          M
+         
+
+
+
+          NZ
+         
+
+
+
+
+
+          N
+         
+
+
+
+          eq">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="3
+       
+
+        M
+       
+
+
+
+          N
+         
+
+
+
+          eq">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="3
+       
+
+        M
+       
+
+
+
+          N
+         
+
+
+
+          eq">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Shift (whole)">
+    <evidence statement_id="0" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="M
+       
+
+
+
+          M
+         
+
+
+
+          NZ">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="3
+       
+
+        M
+       
+
+
+
+          N
+         
+
+
+
+          eq">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="3
+       
+
+        M">
+    <evidence statement_id="0" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Shift (projection)">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="M
+       
+
+
+
+          M
+         
+
+
+
+          NZ">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="3
+       
+
+        M
+       
+
+        +
+       
+
+        3
+       
+
+
+
+          M
+         
+
+
+
+          left
+         
+
+
+
+
+         (
+        
+
+
+
+           N
+          
+
+
+
+           eq
+          
+
+
+
+         −
+        
+
+         1
+        
+
+         )">
+    <evidence statement_id="0" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="3
+       
+
+        M">
+    <evidence statement_id="0" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="The inner products (Inner) for Shift (whole) method is unique." type="refuted">
+   </statement>
+   <statement id="1" text="There are three methods in the table." type="entailed">
+   </statement>
+   <statement id="2" text="The inner products (Inner) are 3 M N eq AND 3 M" type="entailed">
+   </statement>
+   <statement id="3" text="The Shift (projection) of SV is partially 3 M + 3 M left." type="entailed">
+   </statement>
+   <statement id="4" text="As an advantage of the present method, it meets the demand for extremely large problems, such as quantum lattice models with matrix size" type="unknown">
+   </statement>
+  </statements>
+ </table>
+</document>

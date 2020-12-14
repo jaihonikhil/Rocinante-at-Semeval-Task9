@@ -1,0 +1,99 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Resin duct metric name and description.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Metric">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Type">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Description">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Duct size (mm
+     
+      2
+     
+     )">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Unstandardized">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Mean size of all ducts per annual ring">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Duct production (no. year
+     
+      −1
+     
+     )">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Unstandardized">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Total number of ducts per annual ring">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Total duct area (mm
+     
+      2
+     
+     year
+     
+      −1
+     
+     )">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Unstandardized">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="Sum of duct area per annual ring">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Duct density (no. mm
+     
+      −2
+     
+     year
+     
+      −1
+     
+     )">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Standardized">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="Total number of ducts per annual ring divided by ring area">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Relative duct area (% annual ring)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Standardized">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="Total duct area divided by ring area
+     × 100">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="duct measurements were performed (i.e. RWL files)." type="">
+   </statement>
+   <statement id="3" text="The description for Duct size (mm 2 ) metric is Mean size of all ducts per annual ring." type="">
+   </statement>
+   <statement id="4" text="The description of each Metric is same." type="">
+   </statement>
+   <statement id="5" text="The Type for Relative duct area (% annual ring) Metric is Standardized" type="">
+   </statement>
+   <statement id="7" text="There are Six table heads." type="">
+   </statement>
+   <statement id="8" text="There are three table heads Metric , Type and Description." type="">
+   </statement>
+   <statement id="9" text="There are two types - Unstandardized and Standardized." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

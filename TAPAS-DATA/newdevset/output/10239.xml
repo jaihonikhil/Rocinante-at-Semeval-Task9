@@ -1,0 +1,1085 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Laboratory experiments studying the effects of temperature on WSD.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Species">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Temperature">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Impact of temperature on WSD outcome">
+    <evidence statement_id="1" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Citation">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="1">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="P. clarkii">
+    <evidence statement_id="1" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="19, 25 and 32 °C">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="•
+       
+
+        Reduced mortality and fewer viral copies at 19 °C and 32 °C compared to 25 °C
+       
+
+
+
+        •
+       
+
+        Impact on immune gene transcription">
+    <evidence statement_id="1" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="(
+     
+      Jiang et al., 2019
+     
+     )">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="2">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="P. monodon">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="16, 25, 27, 28, 32 and 36 °C">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="•
+       
+
+        Significantly higher survival at 32 °C and 36 °C">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="(
+     
+      Raj et al., 2012
+     
+     )">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="3">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="P. japonicus">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="27 and 31 °C">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="•
+       
+
+        Mortality reduced at 31 °C compared to 27 °C
+       
+
+
+
+        •
+       
+
+        WSSV load higher at 27 °C than 31 °C
+       
+
+
+
+        •
+       
+
+        THC (total haemocyte count) and PO (phenoloxidase) activity significantly higher in shrimp at 31 °C">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="(
+     
+      You et al., 2010
+     
+     )">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="4">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="P. vannamei">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="27 °C-33 °C">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="•
+       
+
+        Moralities reduced at 33 °C
+       
+
+
+
+        •
+       
+
+        Temperature fluctuations to 33 °C for 6 h had both negative (WSSV-Viet) and positive effects (WSSV-Thai-1) on WSD mortalities
+       
+
+
+
+        •
+       
+
+        Temperature increases of 12 or 18 h per day (WSSV-Thai-1) had positive effects on WSD">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="(
+     
+      Rahman et al., 2007a
+     
+     )">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="5">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="P. vannamei">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="27, 30 and 33 °C">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="•
+       
+
+        Shrimp kept at a constant 33 °C showed no signs of disease and low (0–30%) mortality
+       
+
+
+
+        •
+       
+
+        At constant 27 °C, 30 °C or switch to 27 °C post-challenge shrimp displayed disease symptoms within 24 h">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="(
+     
+      Rahman, et al., 2007b
+     
+     )">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="6">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="P. clarkii">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="10 and 24 °C">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="•
+       
+
+        100% mortality in crayfish transferred from 10 °C to 24 °C following WSSV challenge compared to 0% in those transferred from 24 °C to 10 °C
+       
+
+
+
+        •
+       
+
+        Lower water temperature reduced viral replication">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="relevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="(
+     
+      Du et al., 2008
+     
+     )">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="7">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="P. vannamei">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="25.8 and 32.3 °C">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="•
+       
+
+        Survival always above 80% in 32.3 °C tanks compared to 0% at 25.8 °C
+       
+
+
+
+        •
+       
+
+        Hemolymph PCR negative for WSSV at 32.3 °C">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="(
+     
+      Vidal et al., 2001
+     
+     )">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="8">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="P. vannamei
+     
+     subcuticular epithelial cells">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="26 and 33 °C">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="•
+       
+
+        Overexpression of viral genes at 26 °C compared to 33 °C
+       
+
+
+
+        •
+       
+
+        Hyperthermia reduced WSSV gene expression">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="(
+     
+      Reyes et al., 2007
+     
+     )">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="9">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="P. chinensis">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="15, 23, 28 and 33 °C">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="•
+       
+
+        100% mortality reached by day 6 at 23 °C, delayed mortalities at 15 °C and 33 °C
+       
+
+
+
+        •
+       
+
+        Greatest viral loads also at 23 and 28 °C
+       
+
+
+
+        •
+       
+
+        THC lowest at 28 °C">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="(
+     
+      Guan et al., 2003
+     
+     )">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="10">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="P. vannamei">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="25 and 32 °C">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="•
+       
+
+        Increased apoptotic index in shrimp at 32 °C">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="(
+     
+      Granja et al., 2003
+     
+     )">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="11">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="P. chinensis">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="15, 20, 25, 30 and 35 °C">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="•
+       
+
+        Temperature identified as a crucial factor determining WSSV replication
+       
+
+
+
+        •
+       
+
+        25 °C optimum temperature for WSSV replication
+       
+
+
+
+        •
+       
+
+        Temperatures of 15 and 35 °C significantly reduced WSSV proliferation">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="(
+     
+      Gao et al., 2011
+     
+     )">
+    <evidence statement_id="1" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="2" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="3" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="4" type="irrelevant" version="0">
+    </evidence>
+    <evidence statement_id="6" type="relevant" version="0">
+    </evidence>
+    <evidence statement_id="8" type="irrelevant" version="0">
+    </evidence>
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Citations are unique for all species." type="refuted">
+   </statement>
+   <statement id="1" text="The impact of temperature on WSD outcome for P. Clarkii is a significantly higher survival at 32C and 36C." type="refuted">
+   </statement>
+   <statement id="2" text="The only impact of temerapture on WSD outcome for P.japonicus is a mortality reduced at 31C compared to 27C." type="refuted">
+   </statement>
+   <statement id="3" text="Temperature varies between 11 and 36C." type="refuted">
+   </statement>
+   <statement id="4" text="There are 21 Species in the Table." type="refuted">
+   </statement>
+   <statement id="5" text="There are at least 4 unique species in the table." type="entailed">
+   </statement>
+   <statement id="6" text="There are no citations for any of the species in the table." type="entailed">
+   </statement>
+   <statement id="7" text="The variance in temperature across species is greater than 10C" type="entailed">
+   </statement>
+   <statement id="8" text="P clarkii species have the impact of temperature on WSD outcome where there is lower water temperature reduced viral replication." type="entailed">
+   </statement>
+   <statement id="9" text="Mortality reduced at 31C compared to 27C is not the only impact of temperature on WSD outcome for P.japonicus." type="entailed">
+   </statement>
+   <statement id="10" text="Controlled laboratory experiments have demonstrated that a temperature range between 25 and 28 C provides optimum conditions for WSSV infection; resulting in higher levels of mortality, with earlier disease onset." type="unknown">
+   </statement>
+   <statement id="11" text="There are  higher WSSV copy numbers ( You et al., 2010 ) in WSSV-infected shrimp and crayfish ." type="unknown">
+   </statement>
+   <statement id="12" text="Protection ( i.e. reduced mortality and virus replication) from WSD has been reported at high temperatures (&gt;30 C)" type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

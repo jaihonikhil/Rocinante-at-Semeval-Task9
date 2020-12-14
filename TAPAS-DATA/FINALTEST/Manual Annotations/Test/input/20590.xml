@@ -1,0 +1,204 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   RMSE, MAE and R
+   
+    2
+   
+   calculated for the training and test sets for each predictive model.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="1" row-start="0" text="">
+   </cell>
+   <cell col-end="3" col-start="1" row-end="0" row-start="0" text="Training">
+   </cell>
+   <cell col-end="6" col-start="4" row-end="0" row-start="0" text="Test">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="RMSE">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="MAE">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="R
+     
+      2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="RMSE">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="MAE">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="R
+     
+      2">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Linear model">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="0.018">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="0.014">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.442">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="0.019">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="0.015">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="0.421">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Regression tree">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="0.016">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="0.012">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="0.553">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="0.016">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="0.013">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="0.586">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Bagged tree">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="0.016">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0.012">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="0.599">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="0.016">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="0.013">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="0.577">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Random forest">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="0.014">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="0.010">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="0.705">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="0.016">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="0.012">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="0.596">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Gradient boosting">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="0.014">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="0.011">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="0.654">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="0.016">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="0.012">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="0.623">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Lasso">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="0.019">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="0.014">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="0.425">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="0.020">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="0.015">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="0.401">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Ridge regression">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="0.018">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="0.014">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="0.448">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="0.019">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="0.015">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="0.426">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Elastic net">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="0.019">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="0.014">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="0.428">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="0.020">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="0.015">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="0.404">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Spline">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="0.016">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="0.012">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="0.591">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="0.016">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="0.012">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="0.594">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Elastic net Test MAE is 0.015." type="">
+   </statement>
+   <statement id="3" text="Gradient boosting Test MAE is 0.012." type="">
+   </statement>
+   <statement id="4" text="Gradient boosting Test RMSE is 0.012." type="">
+   </statement>
+   <statement id="5" text="Lasso Training R 2 is 0.425." type="">
+   </statement>
+   <statement id="7" text="Linear model Training RMSE is 0.018." type="">
+   </statement>
+   <statement id="8" text="Outliers usually have a detrimental effect on the accuracy of these models, so they have been identified according to the 1.5*IQR rule." type="">
+   </statement>
+   <statement id="10" text="Table 1 reports the RMSE, MAE and R 2 calculated for the training and test sets for each predictive model." type="">
+   </statement>
+   <statement id="11" text="Test MAE 0.012 for Lasso." type="">
+   </statement>
+   <statement id="12" text="Test MAE 0.012 for Spline." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

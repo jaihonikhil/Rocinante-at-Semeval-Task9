@@ -1,0 +1,110 @@
+<document>
+ <table id="Table 2">
+  <caption text="
+
+   Vaccination with helminth extracellular vesicles (EVs).
+  
+">
+  </caption>
+  <legend text="
+
+   HES,
+   
+    Heligmosomoides polygyrus
+   
+   excretory/secretory products; EPG, eggs per gram.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Species">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Vaccination method used">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Results">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Antibodies">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Reference">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Heligmosomoides polygyrus
+     
+     (nematode)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="C57BL/6 mice vaccinated 3 times with EVs + alum i.p.">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Vaccination decreased worm burden by 82%.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="Exosomes elicited IgM, IgG1, IgA and IgE isotypes reactive with EVs. Mice vaccinated with HES or HES supernatant also generated EV-responsive IgM. Sera from EV-vaccinated mice contained both IgM and IgG1 reactive reactive to HES and HES supernatant">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="(
+     
+      Coakley et al., 2017
+     
+     )">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Trichuris muris
+     
+     (nematode)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="C57BL/6 mice vaccinated twice with EVs no adjuvant subcutaneously">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Vaccination deceased worm burden by ~60%. Lysed EVs had similar results to sham control">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="Vaccination boosted IgG1 and IgG2a/c serum antibody responses to ES depleted of EVs. Range of IgG antibodies in sera against EV components 50–200 kDa in size. Possible targets identified">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="(
+     
+      Shears et al., 2018
+     
+     )">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Echinostoma caproni
+     
+     (trematode)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Balb/c mice vaccinated twice with EVs no adjuvant subcutaneously">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="No difference in worm burden seen. Vaccination decreased EPG by ~60%. Delay in parasite development. Increase in survival rate of mice">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="Exosomes elicited significant IgM and IgG response in serum. IgG1, 2b and 3 subtypes responsible for IgG increase. Antibodies against exosome/ESP components mainly 90 kDa in size. Bands the same for immunisation with exosomes and infected animals. Possible targets identified">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="(
+     
+      Trelis et al., 2016
+     
+     )">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Opisthorchis viverrini
+     
+     (trematode)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Hamsters vaccinated 3 times with EVs + alum i.p.">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="Vaccination decreased worm burden by 27%, EPG reduced by 32%. Average length of worms shorter">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="Sera showed increase in IgG against EVs both pre and post challenge. Antibodies from vaccinated hamsters blocked uptake of EVs by cholangiocytes">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="(
+     
+      Chaiyadet et al., 2019
+     
+     )">
+   </cell>
+  </row>
+  <statements>
+   <statement id="6" text="Specie Trichuris muris (nematode) Vaccination method used is C57BL/6 mice vaccinated twice with EVs no adjuvant subcutaneously." type="">
+   </statement>
+   <statement id="7" text="There are four different categories of Vaccination with helminth extracellular vesicles (EVs)." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

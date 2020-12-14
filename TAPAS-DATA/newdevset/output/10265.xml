@@ -1,0 +1,244 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Manufacturing Employment Accounting
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Manufacturing">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Manufacturing">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Manufacturing">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Productivity">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Deficit
+     
+      δ
+     
+     from">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="Lost in">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Consumption">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Consumption">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Trade Deficit">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="(thousands">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="1995 over">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="Man. Since">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="(billions)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="(Share of GDP)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="(billions)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="per worker)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="Productivity">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="1995">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="1995">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="1340">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="18.1%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="159">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="68">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="0.00">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="0">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="1996">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="1361">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="17.4%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="152">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="70">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="-0.09">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="-0.01">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="1997">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="1432">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="17.2%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="155">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="73">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="-0.05">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="0.17">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="1998">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="1542">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="17.5%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="215">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="76">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="0.75">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="0.32">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="1999">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="1661">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="17.8%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="293">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="79">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="1.70">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="0.08">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="2000">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="1780">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="17.9%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="364">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="82">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="2.50">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="0.02">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="2001">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="1688">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="16.4%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="344">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="82">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="2.26">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="-0.80">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="2002">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="1760">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="16.5%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="404">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="89">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="2.76">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="-1.99">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="2003">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="1822">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="16.4%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="448">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="95">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="3.05">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="11" row-start="11" text="-2.74">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="2004">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="2023">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="17.0%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="540">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="104">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="3.68">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="12" row-start="12" text="-2.93">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="2005">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="2158">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="17.1%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="590">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="110">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="13" row-start="13" text="3.92">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="13" row-start="13" text="-3.02">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Manufacturing Consumption (Share of GDP ) highest value is 1688." type="refuted">
+   </statement>
+   <statement id="1" text="Manufacturing Trade Deficit (billions) highest percentage is 17.1%." type="refuted">
+   </statement>
+  </statements>
+ </table>
+</document>

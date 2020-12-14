@@ -1,0 +1,5 @@
+Basic Printer Settings#Basic Printer Settings###
+Material#Nozzle Temperature [ o C]#Bed Temperature [ o C]#Layer Height [mm]#Part Cooling Fan
+PEKK#390#180#0.3#OFF
+PEI/ULTEM#380#170#0.3#OFF
+Polycarbonate#280#130#0.3#ON or OFF

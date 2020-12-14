@@ -1,0 +1,953 @@
+<document>
+ <table id="Table 3">
+  <caption text="
+
+   fAPAR Italy-wide cumulative anomalies and their associated drought level characterisation. Negative anomalies indicate overall drought stress. The mean of the drought index over the study period is equal to 0 by construction (
+   
+
+
+
+       f
+      
+
+       A
+      
+
+       P
+      
+
+       A
+      
+
+       R
+      
+
+
+      ¯
+     
+
+
+     =
+    
+
+     0
+    
+
+   ;
+   
+
+
+      σ
+     
+
+
+       f
+      
+
+       A
+      
+
+       P
+      
+
+       A
+      
+
+       R
+      
+
+
+
+     =
+    
+
+     19.44
+    
+
+   ). Three drought severity levels were defined: mild (-1/2σ,0], moderate (-3/2σ,-1/2σ] and extreme [&lt;-3/2σ]. Positive values denote normal/wet growing conditions.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Year">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="fAPAR">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Drought severity">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="2001">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="−16.78">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Moderate">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="2002">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="−20.00">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Moderate">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="2003">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="−28.06">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="Extreme
+     
+      *">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="2004">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="−9.55">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="Mild">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="2005">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="−10.59">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="Moderate">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="2006">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="−11.19">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="Moderate">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="2007">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="−8.08">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="Mild">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="2008">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="−9.99">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="Moderate">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="2009">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="−4.17">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="Mild">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="2010">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="9.05">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="Normal/Wet">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="2011">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="−3.54">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="Mild">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="2012">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="−0.72">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="Mild">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="2013">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="12.76">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="Normal/Wet">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="2014">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="37.12">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="Normal/Wet">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="2015">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="28.75">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="Normal/Wet">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="2016">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="35.00">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="Normal/Wet">
+   </cell>
+  </row>
+  <statements>
+   <statement id="3" text="We distinguished between three types of drought severity levels (mild, moderate and extreme) according to the variability of our synthetic measure." type="">
+   </statement>
+   <statement id="4" text="In the year 2006 the Drought severity is Normal/Wet" type="">
+   </statement>
+   <statement id="5" text="The table contains the Drought Severity from 2001 to 2016" type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 1">
+  <caption text="
+
+   Description of GTAP agricultural sectors. Each plant species observed in the RICA database was assigned to a GTAP sector. Livestock sectors were made dependent on the evolution of pastures and grains, presuming that they are mainly fed with these products.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="1" col-start="0" row-end="0" row-start="0" text="GTAP Sectors">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="0" text="RICA Plant Species">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Code">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Description">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="pdr">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Paddy Rice">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Rice">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="wht">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Wheat">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="Soft wheat, Durum Wheat">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="gro">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Other Grains">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="Maize, Barley, Oats">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="v_f">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Veg &amp; Fruit">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Vineyards">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="Vineyards">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="Rest of Veg &amp; Fruit">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="Apple, Peach, Potato, Tomato, Orange, Apricot, Kiwi, Pear and 24 more species
+     
+      *">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="osd">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="Oil Seeds">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="Olive">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="Olive">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="Rest of Oil seeds">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="Soy, Sunflower">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="c_b">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="Cane &amp; Beet">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="Sugar Beet">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="pfb">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="Plant Fibres">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="–">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="ocr">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="Other Crops">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="Alfalfa, Flowers, Tobacco, Eucalyptus, Ruscus, Rose, Genisteae, Acacia and 15 more species
+     
+      *">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="ctl">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="Cattle">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="Pastures">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="oap">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="Other Animal Products">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="Other Grains">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="rmk">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="Raw milk">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="Pastures">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="wol">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="Wool">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="Pastures">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Description for Oil Seeds has Code of osd." type="">
+   </statement>
+   <statement id="5" text="Description for Wheat has Code of wht." type="">
+   </statement>
+   <statement id="6" text="Description for Wheat has Code of wol." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 2">
+  <caption text="
+
+   Macro-sectors of activity resulting from the aggregation of non-agricultural production sectors of the GTAP database.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Macro-sector">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Description">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Rest of Primary">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Forestry, fishing, and extraction">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Food Industry">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Meat products; vegetable oil and fats; dairy products; processed rice; sugar; food products not elsewhere classified; beverages and tobacco products">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Rest of Industry">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="All other sectors in manufactures">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Trade Services">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="All retail sales; wholesale trade and commission trade; hotels and restaurants; repairs of motor vehicles and personal and household goods; retail sale of automotive fuel">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Rest of Services">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="All other sectors in services">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Description contains the information of each Macro sectors." type="">
+   </statement>
+   <statement id="2" text="Macro sector of Trade Services Macro sector has Forestry, fishing, and extraction." type="">
+   </statement>
+   <statement id="3" text="Table is of Micro-sectors of activity resulting from the aggregation of non-agricultural production sectors of the GTAP database." type="">
+   </statement>
+   <statement id="4" text="There are 15 Macro sectors." type="">
+   </statement>
+   <statement id="5" text="There are 5 Macro sectors." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 4">
+  <caption text="
+
+   Summary of the estimated crop-specific drought coefficients. Only species showing significant coefficients (threshold set at p-value&lt;0.1) were retained for the simulation of the economic model.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Crop">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Coefficient (β)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="p-value">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Adj-
+     
+
+
+        R
+       
+
+        2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="N">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="Economic sector (GTAP)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Rice">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="0.0018">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="0.003">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="0.349">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="181">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="Paddy Rice">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Durum Wheat">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="0.0020">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="0.000">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.788">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="1136">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="Wheat">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Soft Wheat">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="0.0010">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="0.001">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="0.731">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="1144">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="Wheat">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Maize">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="0.0020">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0.000">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="0.533">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="1108">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="Other Grains">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Barley">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="0.0006">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="0.046">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="0.721">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="1356">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="Other Grains">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Oats">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="0.0010">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="0.026">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="0.524">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="873">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="Other Grains">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Vineyards">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="0.0007">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="0.091">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="0.670">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="1052">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="Vineyards">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Beans">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="0.0019">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="0.000">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="0.446">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="712">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="Rest of Veg &amp; Fruit">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Apples">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="0.0046">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="0.000">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="0.625">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="496">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="Rest of Veg &amp; Fruit">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Potatoes">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="0.0019">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="0.012">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="0.582">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="664">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="Rest of Veg &amp; Fruit">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Tomatoes">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="0.0034">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="0.000">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="0.594">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="723">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="Rest of Veg &amp; Fruit">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="Plums">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="0.0078">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="0.000">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="0.470">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="356">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="Rest of Veg &amp; Fruit">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="Lettuce">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="0.0043">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="0.010">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="0.548">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="345">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="13" row-start="13" text="Rest of Veg &amp; Fruit">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="Peppers">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="0.0064">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="0.003">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="0.483">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="256">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="14" row-start="14" text="Rest of Veg &amp; Fruit">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="Olives">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="−0.0012">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="0.009">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="0.550">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="15" row-start="15" text="1064">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="15" row-start="15" text="Olive">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="Soy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="0.0011">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="0.016">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="0.440">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="16" row-start="16" text="534">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="16" row-start="16" text="Rest of Oil seeds">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="Sunflower">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="0.0015">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="0.010">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="0.473">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="17" row-start="17" text="578">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="17" row-start="17" text="Rest of Oil seeds">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="Sugar beet">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="0.0021">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="0.001">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="0.433">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="18" row-start="18" text="549">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="18" row-start="18" text="Cane &amp; Beet">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="Pastures">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="0.0032">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="0.005">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="19" row-start="19" text="0.479">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="19" row-start="19" text="541">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="19" row-start="19" text="Other Crops">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Not retained crops belonged exclusively to the vegetable and fruits (v_f) and other crops (ocr) sectors and were mainly affected by poor sample representativity." type="">
+   </statement>
+   <statement id="3" text="Only coefficients showing high significance (p-value&lt;0.1) were kept in our analysis." type="">
+   </statement>
+   <statement id="4" text="Plums have the lowest coefficient () of 0.0011." type="">
+   </statement>
+   <statement id="5" text="The Adj-R 2 ranges from 0.349 to 0.788." type="">
+   </statement>
+   <statement id="7" text="The highest coefficient () value is 0.0078." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 5">
+  <caption text="
+
+   Overall effects of droughts on total economic activity in response to different drought severity levels (% change with respect to benchmark scenario). Total effect on GDP and breakdown of production losses by macro-sectors of activity and agricultural sectors.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="2003">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="2006">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="2011">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="GDP (%)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="−0.10">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="−0.05">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="−0.03">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="GDP (M€)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="−1748.1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="−924.3">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="−560.7">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Agricultural Production (%)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="−3.74">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="−1.99">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="−1.16">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Agricultural Production (M€)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="−2061.9">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="−1098.8">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="−638.2">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Rice">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="−6.51">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="−2.50">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="−2.53">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Wheat">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="−5.75">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="−2.08">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="−1.53">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Other grains">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="−4.17">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="−1.35">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="−1.53">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Veg &amp; Fruit">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="−8.69">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="−2.50">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="−1.84">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Oil seeds">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="−0.43">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="−0.40">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="−0.53">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Sugar beet">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="−0.44">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="−0.19">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="−0.15">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="Other crops">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="−1.77">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="−2.45">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="−1.02">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="Rest of primary">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="0.08">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="0.05">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="0.02">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="Food Industry">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="−0.53">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="−0.31">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="−0.18">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="Rest of Industry">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="0.11">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="0.06">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="0.03">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="Trade Services">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="−0.10">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="−0.06">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="−0.04">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="Rest of Services">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="−0.03">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="−0.02">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="−0.01">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="All the values in Rest of Industry and Rest of primary is positive." type="">
+   </statement>
+   <statement id="2" text="Droughts also showed an indirect impact on the rest of the economy." type="">
+   </statement>
+   <statement id="3" text="Food manufacturing industries were clearly affected, with an estimated production decline of -0.53 % attributable to the effect of droughts." type="">
+   </statement>
+   <statement id="8" text="The year ranges from 2002 to 2012." type="">
+   </statement>
+   <statement id="9" text="There 7 different types of heads in Agricultural Production." type="">
+   </statement>
+   <statement id="10" text="There 8 different types of heads in Agricultural Production." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

@@ -1,0 +1,860 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Description of sites with LiDAR-based woody vegetation cover and height data.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Site name">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Survey year">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Area (km
+     
+      2
+     
+     )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Training sample">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Land cover types">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="1) Australian Capital Territory">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="2015">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="3227">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="17032">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="Natural, agricultural, residential">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="2) Alice Springs (NT)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="2014">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="21">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="2040">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="Dry mulga woodland">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="3) Credo (WA)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="2012">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="22">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="2220">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="Dry open woodland">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="4) Litchfield (NT)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="2013">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="22">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="2030">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="Open savannah forest">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="5) Robson (Qld)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="2012">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="28">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="5155">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="Tropical rainforest and pasture">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="6) Rushworth (Vic)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="2012">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="21">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="2240">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="Temperate woodland">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="7) Tumbarumba (NSW)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="2011">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="24">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="2699">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="Humid temperate forest">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="8) Warra (Tas)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="2015">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="22">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="2229">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="Humid temperate forest">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="9) Watts (Vic)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="2012">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="22">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="2230">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="Humid mountain ash forest">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="10) Whroo (Vic)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="2012">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="0.4">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="440">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="Temperate woodland">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="11) ZigZag (Vic)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="2012">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="22">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="2270">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="Temperate forest and open woodland">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Both sites Warra (Tas) and Tumbarumba (NSW) has 'Temperate woodland' land cover type." type="">
+   </statement>
+   <statement id="1" text="Except Warra (Tas) and Tumbarumba (NSW) sites other sites has samilar land cover types." type="">
+   </statement>
+   <statement id="3" text="The description of eleven sites are given in the table." type="">
+   </statement>
+   <statement id="4" text="The description of Twenty sites are given in the table." type="">
+   </statement>
+   <statement id="6" text="The only site 'Alice Springs (NT)'s' survey year is 2011." type="">
+   </statement>
+   <statement id="7" text="The only site 'Tumbarumba (NSW)'s' survey year is 2011." type="">
+   </statement>
+   <statement id="8" text="The site 'Tumbarumba (NSW)' has less Area measured." type="">
+   </statement>
+   <statement id="9" text="The site 'Whroo (Vic)' has less Area measured." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 2">
+  <caption text="
+
+   Performance of the trained random forest ensemble in terms of root mean square error (RMSE), coefficient of determination (R
+   
+    2
+   
+   ) and Nash-Sutcliffe model efficiency (ME). Also listed is the total sample size (N) and the predictors used in order of decreasing importance. WAGB* denotes performance for the estimates transformed back to t ha
+   
+    −1
+   
+   and considering the in-situ woody biomass data only, rather than the augmented data set.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Variable">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="RMSE">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="R
+     
+
+      2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="ME">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="N">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="Variable importance order">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="WCF (fraction)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="0.0715">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="0.940">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="0.940">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="40,585">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="nir, blue, swir1, swir2, red, green">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="VH
+     
+     (m)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="3.35">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="0.889">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.888">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="40,585">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="blue, nir, swir1, HV, swir2, green, red, HH, h95, h75, h50, h25, h100">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="WAGB (t ha
+     
+      −1
+     
+     )
+     
+      1/3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="0.667">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="0.927">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="0.927">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="16,681">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="Temp, VH, WCF, Rain, Rad">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="WAGB
+     
+      *
+     
+     (t ha
+     
+      −1
+     
+     )">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="79.8">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0.519">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="0.494">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="5546">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="(as above)">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="There are five variables given in the table." type="">
+   </statement>
+   <statement id="3" text="Variable importance order are different for every variable." type="">
+   </statement>
+   <statement id="7" text="Variables WCF (fraction) and WAGB (t ha 1 ) 1/3 has same coefficient of determination and Model efficiency." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   Description of sites in terms of LiDAR-derived median and 95 % range of woody cover fraction (WCF) and measures of prediction performance: prediction bias, root mean square error (RMSE), coefficient of determination (R
+   
+    2
+   
+   ) and model efficiency (ME). Note: all cover values are given in % to reduce the number of digits.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Site name">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="median (95 % range)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="bias">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="RMSE">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="R
+     
+
+      2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="ME">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="1) Australian Capital Territory">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="37 (0−71)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="0.3">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="7.3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="0.90">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="0.90">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="2) Alice Springs (NT)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="36 (26−43)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="−1.1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="3.5">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="0.56">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="0.42">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="3) Credo (WA)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="18 (6−33)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="0.3">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="4.2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="0.63">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="0.62">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="4) Litchfield (NT)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="24 (15−36)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0.2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="4.4">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="0.41">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="0.40">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="5) Robson (Qld)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="92 (0−98)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="−0.8">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="8.2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="0.91">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="0.91">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="6) Rushworth (Vic)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="43 (31−49)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="−0.3">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="3.4">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="0.70">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="0.70">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="7) Tumbarumba (NSW)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="52 (25−70)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="1.4">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="7.1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="0.62">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="0.61">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="8) Warra (Tas)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="91 (50−96)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="−1.7">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="9.0">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="0.34">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="0.32">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="9) Watts (Vic)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="86 (66−94)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="−3.6">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="9.1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="0.12">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="−0.41">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="10) Whroo (Vic)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="42 (36−47)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="−0.8">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="2.7">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="0.24">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="−0.05">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="11) ZigZag (Vic)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="59 (44−82)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="1.8">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="8.1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="0.35">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="0.23">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Australian Capital Territory has highest model efficiency." type="">
+   </statement>
+   <statement id="4" text="Robson (Qld) and Rushworth (Vic) has same coefficient of determination." type="">
+   </statement>
+   <statement id="5" text="Robson (Qld) and Whroo (Vic) has equal measure of performance prediction bias." type="">
+   </statement>
+   <statement id="6" text="Robson (Qld) has highest model efficiency." type="">
+   </statement>
+   <statement id="8" text="There are eleven site names with their model efficiency." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 4">
+  <caption text="
+
+   Description of sites in terms of median and 95 % range of vegetation height (VH in m) and measures of prediction performance (acronyms as for
+   
+    Table 3
+   
+   ).
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Site name">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="median (95 % range)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="bias">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="RMSE">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="R
+      
+       2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="ME">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="1) Australian Capital Territory">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="5 (0−17)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="0.4">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="2.7">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="0.68">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="0.67">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="2) Alice Springs (NT)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="3 (2−4)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="0.1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.5">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="0.20">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="0.11">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="3) Credo (WA)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="6 (3−8)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="−0.3">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="1.0">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="0.33">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="0.26">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="4) Litchfield (NT)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="8 (4−12)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="−0.7">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="1.7">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="0.48">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="0.38">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="5) Robson (Qld)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="26 (0−32)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="−0.4">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="3.3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="0.85">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="0.85">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="6) Rushworth (Vic)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="12 (10−15)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="−0.1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="1.6">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="0.12">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="0.01">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="7) Tumbarumba (NSW)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="22 (13−32)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="0.0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="3.8">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="0.54">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="0.53">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="8) Warra (Tas)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="27 (9−38)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="1.2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="6.1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="0.36">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="0.34">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="9) Watts (Vic)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="38 (19−55)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="−3.0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="8.2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="0.32">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="0.21">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="10) Whroo (Vic)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="16 (15−17)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="−0.7">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="1.3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="0.06">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="−1.00">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="11) ZigZag (Vic)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="17 (12−25)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="−0.3">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="2.6">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="0.46">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="0.45">
+   </cell>
+  </row>
+  <statements>
+   <statement id="4" text="Performance statistics for individual sites showed a bias within 1 m and an RMSE similar or less than the full dataset for most sites, except for the sites with the tallest forests (8 and 9, Table 4 )." type="">
+   </statement>
+   <statement id="5" text="RMSE 0.21 Site name is 9) Watts (Vic)." type="">
+   </statement>
+   <statement id="6" text="RMSE 6.1 Site name is 8) Warra (Tas)." type="">
+   </statement>
+   <statement id="7" text="Site name 11) ZigZag (Vic) median (95 % range) is 16 (1517)." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 6">
+  <caption text="
+
+   Summary of the extent and above-ground biomass (WAGB) carbon for woody vegetation in different woody cover fraction (WCF) classes. Also listed are changes in extent and total carbon between 2000 and 2018, and the mean biomass carbon density for each class. Carbon content was estimated as half of total dry matter.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="WCF class">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="all">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="≥70 %">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="50–70 %">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="30–50 %">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="20–30 %">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="10–20 %">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="0" row-start="0" text="&lt;10 %">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Extent in 2018 (10
+     
+      6
+     
+     ha)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="531">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="12">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="14">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="33">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="41">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="73">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="357">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Extent change 2000–2018 (10
+     
+      6
+     
+     ha)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="−72">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="−6">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="−15">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="−46">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="−7">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Biomass carbon density (tC ha
+     
+      −1
+     
+     )">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="12">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="95">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="90">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="50">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="23">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="12">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="2">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Biomass carbon in 2018 (10
+     
+      6
+     
+     tC)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="6596">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="1107">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="1223">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="1669">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="964">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="892">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="742">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Biomass carbon change 2000–2018 (10
+     
+      6
+     
+     tC)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="−1,050">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="130">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="50">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="−310">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="−345">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="−560">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="−14">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Percentage of total woody vegetation extent (2018, %)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="100 %">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="2%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="3%">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="6%">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="8%">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="14 %">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="67 %">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Percentage of biomass carbon (2018, %)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="100 %">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="17 %">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="19 %">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="25 %">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="15 %">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="14 %">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="7" row-start="7" text="11 %">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Biomass carbon density (tC ha 1 ) is highest in 70 %." type="">
+   </statement>
+   <statement id="2" text="Biomass carbon density (tC ha 1 ) is lowest in 70 %." type="">
+   </statement>
+   <statement id="4" text="In the range of 10-20%, Percentage of total woody vegetation extent &amp; Percentage of biomass carbon are equal." type="">
+   </statement>
+   <statement id="5" text="Overall Percentage of total vegetation extent and biomass carbon is 100%." type="">
+   </statement>
+   <statement id="8" text="Percentage of biomass carbon (2018, %) is least at &lt;10% range." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

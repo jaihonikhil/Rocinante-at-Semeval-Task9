@@ -1,0 +1,2073 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Average values of external forcing parameters in the REF simulation (model run #1): atmospheric pCO
+   
+    2
+   
+   , Baltic Sea mean air temperature, total runoff, total loads, and ocean boundary concentrations of A
+   
+    T
+   
+   and DIC.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Parameter">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Value">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Unit">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Atmospheric pCO
+     
+      2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="416">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="μatm">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Air temperature">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="6.2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="°C">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="River runoff">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="493">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="km
+     
+      3
+     
+     year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="A
+     
+      T
+     
+     land load">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="810">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="Gmol year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="DIC land load">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="887">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="Gmol year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="N load (land + atmosphere)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="905">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="ktons year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="P load (land + atmosphere)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="30">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="ktons year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Ocean boundary A
+     
+      T">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="2250">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="μmol kg
+     
+      −1">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Ocean boundary DIC">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="2080">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="μmol kg
+     
+      −1">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Instantaneous change from pCO 2 in the REF simulation ( Table 1 ) to pCO 2 values in either the pre-industrial or RCP 8.5 simulations, respectively ( Table 2 )." type="">
+   </statement>
+   <statement id="1" text="The highest value is 2250 in Ocean boundary AT." type="">
+   </statement>
+   <statement id="2" text="The lowest value is 6.2 in Air temperature." type="">
+   </statement>
+   <statement id="4" text="The unit of Atmospheric pCO2 is atm." type="">
+   </statement>
+   <statement id="6" text="They have 9 parameter." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 2">
+  <caption text="
+
+   Average values of the external forcing parameters that are modified in the different sensitivity experiments (see also text in
+   ).
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Model run">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Factor addressed">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Case">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Value">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Unit">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="#2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Atmospheric pCO
+     
+      2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Pre-industrial">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="280">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="μatm">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="#3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Atmospheric pCO
+     
+      2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="RCP 5.5, year 2100">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="550">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="μatm">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="#4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Atmospheric pCO
+     
+      2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="RCP 8.5, year 2100">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="950">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="μatm">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="#5">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Air temperature">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="REF − 1 °C">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="5.2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="°C">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="#6">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Air temperature">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="REF − 2 °C">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="4.2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="°C">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="#7">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Air temperature">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="REF + 1 °C">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="7.2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="°C">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="#8">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="Air temperature">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="REF + 2 °C">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="8.2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="°C">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="#9">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="River runoff">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="REF − 10%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="444">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="km
+     
+      3
+     
+     year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="#10">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="River runoff">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="REF − 20%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="395">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="km
+     
+      3
+     
+     year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="#11">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="River runoff">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="REF + 10%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="543">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="km
+     
+      3
+     
+     year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="#12">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="River runoff">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="REF + 20%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="592">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="km
+     
+      3
+     
+     year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="#13">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="A
+     
+      T
+     
+     /DIC land loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="REF − 10%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="729/798">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="Gmol year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="#14">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="A
+     
+      T
+     
+     /DIC land loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="REF − 20%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="648/710">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="Gmol year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="#15">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="A
+     
+      T
+     
+     /DIC land loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="REF + 10%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="891/976">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="Gmol year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="#16">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="A
+     
+      T
+     
+     /DIC land loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="REF + 20%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="972/1064">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="15" row-start="15" text="Gmol year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="#17">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="N/P loads (land + atm.)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="BSAP">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="796/20">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="16" row-start="16" text="ktons year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="#18">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="N/P loads (land + atm.)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="HEL">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="1050/37">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="17" row-start="17" text="ktons year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="#19">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="N/P loads (land + atm.)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="HIGH">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="1330/68">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="18" row-start="18" text="ktons year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="#20">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="Ocean boundary A
+     
+      T
+     
+     /DIC">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="REF − 10%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="19" row-start="19" text="2020/1870">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="19" row-start="19" text="μmol kg
+     
+      −1">
+   </cell>
+  </row>
+  <row row="20">
+   <cell col-end="0" col-start="0" row-end="20" row-start="20" text="#21">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="20" row-start="20" text="Ocean boundary A
+     
+      T
+     
+     /DIC">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="20" row-start="20" text="REF − 20%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="20" row-start="20" text="1800/1660">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="20" row-start="20" text="μmol kg
+     
+      −1">
+   </cell>
+  </row>
+  <row row="21">
+   <cell col-end="0" col-start="0" row-end="21" row-start="21" text="#22">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="21" row-start="21" text="Ocean boundary A
+     
+      T
+     
+     /DIC">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="21" row-start="21" text="REF + 10%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="21" row-start="21" text="2470/2290">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="21" row-start="21" text="μmol kg
+     
+      −1">
+   </cell>
+  </row>
+  <row row="22">
+   <cell col-end="0" col-start="0" row-end="22" row-start="22" text="#23">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="22" row-start="22" text="Ocean boundary A
+     
+      T
+     
+     /DIC">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="22" row-start="22" text="REF + 20%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="22" row-start="22" text="2700/2490">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="22" row-start="22" text="μmol kg
+     
+      −1">
+   </cell>
+  </row>
+  <row row="23">
+   <cell col-end="0" col-start="0" row-end="23" row-start="23" text="#24">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="23" row-start="23" text="Runoff, A
+     
+      T
+     
+     /DIC loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="23" row-start="23" text="REF − 10%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="23" row-start="23" text="444, 729/798">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="23" row-start="23" text="km
+     
+      3
+     
+     year
+     
+      −1
+     
+     , Gmol year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="24">
+   <cell col-end="0" col-start="0" row-end="24" row-start="24" text="#25">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="24" row-start="24" text="Runoff, A
+     
+      T
+     
+     /DIC loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="24" row-start="24" text="REF − 20%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="24" row-start="24" text="395, 648/710">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="24" row-start="24" text="km
+     
+      3
+     
+     year
+     
+      −1
+     
+     , Gmol year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="25">
+   <cell col-end="0" col-start="0" row-end="25" row-start="25" text="#26">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="25" row-start="25" text="Runoff, A
+     
+      T
+     
+     /DIC loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="25" row-start="25" text="REF + 10%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="25" row-start="25" text="543, 891/976">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="25" row-start="25" text="km
+     
+      3
+     
+     year
+     
+      −1
+     
+     , Gmol year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="26">
+   <cell col-end="0" col-start="0" row-end="26" row-start="26" text="#27">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="26" row-start="26" text="Runoff, A
+     
+      T
+     
+     /DIC loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="26" row-start="26" text="REF + 20%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="26" row-start="26" text="592, 972/1064">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="26" row-start="26" text="km
+     
+      3
+     
+     year
+     
+      −1
+     
+     , Gmol year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="27">
+   <cell col-end="0" col-start="0" row-end="27" row-start="27" text="#28">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="27" row-start="27" text="DIC land loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="27" row-start="27" text="REF − 10%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="27" row-start="27" text="798">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="27" row-start="27" text="Gmol year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="28">
+   <cell col-end="0" col-start="0" row-end="28" row-start="28" text="#29">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="28" row-start="28" text="DIC land loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="28" row-start="28" text="REF − 20%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="28" row-start="28" text="710">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="28" row-start="28" text="Gmol year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="29">
+   <cell col-end="0" col-start="0" row-end="29" row-start="29" text="#30">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="29" row-start="29" text="DIC land loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="29" row-start="29" text="REF + 10%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="29" row-start="29" text="976">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="29" row-start="29" text="Gmol year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="30">
+   <cell col-end="0" col-start="0" row-end="30" row-start="30" text="#31">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="30" row-start="30" text="DIC land loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="30" row-start="30" text="REF + 20%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="30" row-start="30" text="1064">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="30" row-start="30" text="Gmol year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="31">
+   <cell col-end="0" col-start="0" row-end="31" row-start="31" text="#32">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="31" row-start="31" text="Runoff, A
+     
+      T
+     
+     /DIC land loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="31" row-start="31" text="BS, BB + 10%; BN, GS, GR − 10%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="31" row-start="31" text="498, 759/837">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="31" row-start="31" text="km
+     
+      3
+     
+     year
+     
+      −1
+     
+     , Gmol year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="32">
+   <cell col-end="0" col-start="0" row-end="32" row-start="32" text="#33">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="32" row-start="32" text="Runoff, A
+     
+      T
+     
+     /DIC land loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="32" row-start="32" text="BS, BB + 20%; BN, GS, GR − 20%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="32" row-start="32" text="502, 708/788">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="32" row-start="32" text="km
+     
+      3
+     
+     year
+     
+      −1
+     
+     , Gmol year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="33">
+   <cell col-end="0" col-start="0" row-end="33" row-start="33" text="#34">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="33" row-start="33" text="A
+     
+      T
+     
+     /DIC land loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="33" row-start="33" text="BS, BB + 10%; BN, GS, GR − 10%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="33" row-start="33" text="759/837">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="33" row-start="33" text="Gmol year
+     
+      −1">
+   </cell>
+  </row>
+  <row row="34">
+   <cell col-end="0" col-start="0" row-end="34" row-start="34" text="#35">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="34" row-start="34" text="A
+     
+      T
+     
+     /DIC land loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="34" row-start="34" text="BS, BB + 20%; BN, GS, GR − 20%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="34" row-start="34" text="708/788">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="34" row-start="34" text="Gmol year
+     
+      −1">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Air temperature with case REF  2 C is having low value 4.2." type="">
+   </statement>
+   <statement id="8" text="The the external forcing parameters are unique and accurate with their unit." type="">
+   </statement>
+   <statement id="10" text="This means that the experiments with changing DIC and A T concentrations at the ocean boundary (model experiments #2023, Table 2 )  although speculative  give an indication of the pH sensitivity of Baltic Sea waters to potential real future changes of ocean water properties." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 4">
+  <caption text="
+
+   DIC land load and net air-sea CO
+   
+    2
+   
+   exchange (F
+   
+    CO2
+   
+   ) (Gmol year
+   
+    −1
+   
+   ) on Baltic Sea system-scale in a few selected scenarios (negative F
+   
+    CO2
+   
+   indicates net outgassing and vice versa).
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Model run">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Factor addressed">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Case">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="DIC land load">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="F
+     
+      CO2">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="#1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="None">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="REF">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="887">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="−95">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="#28">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="DIC loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="REF − 10%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="798">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="−6">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="#29">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="DIC loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="REF − 20%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="710">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="83">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="#30">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="DIC loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="REF + 10%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="976">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="−184">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="#31">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="DIC loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="REF + 20%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="1064">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="−273">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="#17">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="N/P loads (land + atm.)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="BSAP">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="887">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="−139">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="#18">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="N/P loads (land + atm.)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="HEL">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="887">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="−58">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="#19">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="N/P loads (land + atm.)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="HIGH">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="887">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="75">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="#1,#17, #18 and #19 has different DIC land Load value." type="">
+   </statement>
+   <statement id="3" text="#1,#17, #18 and #19 has same DIC land Load value." type="">
+   </statement>
+   <statement id="4" text="according to the different scenarios are listed." type="">
+   </statement>
+   <statement id="6" text="DIC land load has heighest value of 1064 for #31 Model run." type="">
+   </statement>
+   <statement id="8" text="F CO2 has 8 negetive values." type="">
+   </statement>
+   <statement id="9" text="The table has 12 Model runs." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 6">
+  <caption text="
+
+   Theoretical A
+   
+    T
+   
+   generation (Gmol year
+   
+    −1
+   
+   ) by cycling of externally supplied inorganic N (=nitrate supply − ammonium supply) and P (=phosphate supply) respectively (see text in
+   ).
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Model run">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Case">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Nitrate supply (Gmol year
+     
+      −1
+     
+     )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Ammonium supply (Gmol year
+     
+      −1
+     
+     )">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Phosphate supply (Gmol year
+     
+      −1
+     
+     )">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="Theoretical A
+     
+      T
+     
+     generation by N cycling (Gmol year
+     
+      −1
+     
+     )">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="Theoretical A
+     
+      T
+     
+     generation by P cycling (Gmol year
+     
+      −1
+     
+     )">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="#1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="REF">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="31.8">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="11.6">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="0.5">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="20.3">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="0.5">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="#17">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="BSAP">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="27.9">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="10.1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="0.3">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="17.8">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="0.3">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="#18">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="HEL">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="37.0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="14.1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="0.5">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="22.9">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="0.5">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="#19">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="HIGH">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="46.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="20.4">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="1.1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="26.1">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="1.1">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Case 'BSAP' has highest number of phosphate supply." type="">
+   </statement>
+   <statement id="3" text="Case REF and HEL has different mol of Phosphate supply." type="">
+   </statement>
+   <statement id="4" text="Every case has different mol of ammonium supply." type="">
+   </statement>
+   <statement id="6" text="It is worth noting that the external supplies of nutrients ( Table 6 ) are very small compared to the fluxes associated with primary production and respiration processes ( Table 5 ), illustrating how nutrients can be recycled many times before they are permanently removed from the loop (cf." type="">
+   </statement>
+   <statement id="7" text="There are four cases given in the table respectively." type="">
+   </statement>
+   <statement id="8" text="There are ten cases given in the table respectively." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 7">
+  <caption text="
+
+   Response times (e-folding time-scale) of carbonate system parameters to instantaneous changes in forcing compared to the REF simulation (see
+   
+    Sections 2.5 and 4.7
+   
+   ).
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Model run">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Factor addressed">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Instantaneous change year 0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="e-Folding time-scale">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="#36">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Atmospheric pCO
+     
+      2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="REF pCO
+     
+      2
+     
+     to pre-industrial pCO
+     
+      2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="~1 month">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="#37">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Atmospheric pCO
+     
+      2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="REF pCO
+     
+      2
+     
+     to pCO
+     
+      2
+     
+     according to RCP 8.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="~1 month">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="#38">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="River runoff">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="Runoff increased by 10%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="~30 years">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="#39">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="River runoff">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="Runoff increased by 20%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="~30 years">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="#40">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="A
+     
+      T
+     
+     /DIC land loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="A
+     
+      T
+     
+     /DIC land loads increased by 10%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="~30 years">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="#41">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="A
+     
+      T
+     
+     /DIC land loads">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="A
+     
+      T
+     
+     /DIC land loads increased by 20%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="~30 years">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="#42">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="N/P loads (land + atm.)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="REF N/P loads to BSAP N/P loads">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="Not applicable">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="#43">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="N/P loads (land + atm.)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="REF N/P loads to HIGH N/P loads">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="Not applicable">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="#44">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="Ocean A
+     
+      T
+     
+     /DIC">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="Ocean A
+     
+      T
+     
+     /DIC increased by 10%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="~30 years">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="#45">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="Ocean A
+     
+      T
+     
+     /DIC">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="Ocean A
+     
+      T
+     
+     /DIC increased by 20%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="~30 years">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="Factor address are same." type="">
+   </statement>
+   <statement id="3" text="Factor address is differentiated into 5 times" type="">
+   </statement>
+   <statement id="4" text="Ocean A T /DIC has a 30 years of e-Folding time-scale." type="">
+   </statement>
+   <statement id="5" text="There are 10 different types of model run in the given table." type="">
+   </statement>
+   <statement id="6" text="There are 5 different types of model run in the given table." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table A2">
+  <caption text="
+
+   Cycling of N, P, and S, and the related generation/consumption of A
+   
+    T
+   
+   (ΔA
+   
+    T
+   
+   ) due to primary production and mineralization processes included in BALTSEM.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Process">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Reaction">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="ΔA
+     
+      T">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="R1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="NO
+     
+      3
+     
+
+      −
+     
+     uptake">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="aCO
+     
+
+      2
+     
+     +
+     
+      bNO
+     
+
+      3
+     
+
+      −
+     
+     +
+     
+      cHPO
+     
+
+      4
+     
+
+      2−
+     
+     + (
+     
+      b
+     
+     + 2
+     
+      c
+     
+     )
+     
+      H
+     
+
+      +
+     
+     + (
+     
+      a
+     
+     +
+     
+      b
+     
+     )
+     
+      H
+     
+
+      2
+     
+
+      O
+     
+     ⟶
+     
+      OM
+     
+     + (
+     
+      a
+     
+     + 2
+     
+      b
+     
+     )
+     
+      O
+     
+
+      2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="b + c">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="R2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="NH
+     
+      4
+     
+
+      +
+     
+     uptake">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="aCO
+     
+
+      2
+     
+     +
+     
+      bNH
+     
+
+      4
+     
+
+      +
+     
+     +
+     
+      cHPO
+     
+
+      4
+     
+
+      2−
+     
+     +
+     
+      bOH
+     
+
+      −
+     
+     + 2
+     
+      cH
+     
+
+      +
+     
+     +
+     
+      aH
+     
+
+      2
+     
+
+      O
+     
+     ⟶
+     
+      OM
+     
+     +
+     
+      aO
+     
+
+      2
+     
+     +
+     
+      bH
+     
+
+      2
+     
+
+      O">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="−b + c">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="R3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Ammonification">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="OM
+     
+     +
+     
+      aO
+     
+
+      2
+     
+     +
+     
+      bH
+     
+
+      2
+     
+
+      O
+     
+     →
+     
+      aHCO
+     
+
+      3
+     
+
+      −
+     
+     +
+     
+      bNH
+     
+
+      4
+     
+
+      +
+     
+     +
+     
+      bOH
+     
+
+      −
+     
+     +
+     
+      cHPO
+     
+
+      4
+     
+
+      2−
+     
+     + 2
+     
+      cH
+     
+
+      +">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="b − c">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="R4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Nitrification">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="2
+     
+      O
+     
+
+      2
+     
+     +
+     
+      NH
+     
+
+      4
+     
+
+      +
+     
+     + 2
+     
+      HCO
+     
+
+      3
+     
+
+      −
+     
+     ⟶
+     
+      NO
+     
+
+      3
+     
+
+      −
+     
+     + 2
+     
+      CO
+     
+
+      2
+     
+     + 3
+     
+      H
+     
+
+      2
+     
+
+      O">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="−2">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="R5">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Heterotrophic denitrification">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="OM
+      
+
+       +
+      
+
+
+
+         4
+        
+
+         a
+        
+
+
+        5
+       
+
+
+       N
+      
+
+
+        O
+       
+
+        3
+       
+
+        −
+       
+
+
+       +
+      
+
+       b
+      
+
+
+        H
+       
+
+        2
+       
+
+
+       O
+      
+
+       ⟶
+      
+
+
+        a
+       
+
+        5
+       
+
+
+       C
+      
+
+
+        O
+       
+
+        2
+       
+
+
+       +
+      
+
+
+
+         4
+        
+
+         a
+        
+
+
+        5
+       
+
+
+       HC
+      
+
+
+        O
+       
+
+        3
+       
+
+        −
+       
+
+
+       +
+      
+
+
+
+         3
+        
+
+         a
+        
+
+
+        5
+       
+
+
+
+        H
+       
+
+        2
+       
+
+
+       O
+      
+
+       +
+      
+
+
+
+         2
+        
+
+         a
+        
+
+
+        5
+       
+
+
+
+        N
+       
+
+        2
+       
+
+
+       +
+      
+
+       b
+      
+
+
+        NH
+       
+
+        4
+       
+
+        +
+       
+
+
+       +
+      
+
+
+        cHPO
+       
+
+        4
+       
+
+
+         2
+        
+
+         −
+        
+
+
+
+       +
+      
+
+       b
+      
+
+
+        OH
+       
+
+        −
+       
+
+
+       +
+      
+
+       2
+      
+
+
+        cH
+       
+
+        +">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="0.8a + b − c">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="R6">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Chemolithoautotrophic denitrification">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="2
+     
+      NO
+     
+
+      3
+     
+
+      −
+     
+     + 5
+     
+      H
+     
+
+      2
+     
+
+      S
+     
+     + 2
+     
+      H
+     
+
+      +
+     
+     ⟶
+     
+      N
+     
+
+      2
+     
+     + 5
+     
+      S
+     
+     + 6
+     
+      H
+     
+
+      2
+     
+
+      O">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="2">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="R7">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="Sulfate reduction">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="OM
+      
+
+       +
+      
+
+
+        a
+       
+
+        2
+       
+
+
+       S
+      
+
+
+        O
+       
+
+        4
+       
+
+        =
+       
+
+
+       +
+      
+
+       b
+      
+
+
+        H
+       
+
+        2
+       
+
+
+       O
+      
+
+       ⟶
+      
+
+       aHC
+      
+
+
+        O
+       
+
+        3
+       
+
+        −
+       
+
+
+       +
+      
+
+
+        a
+       
+
+        2
+       
+
+
+
+        H
+       
+
+        2
+       
+
+
+       S
+      
+
+       +
+      
+
+       b
+      
+
+
+        NH
+       
+
+        4
+       
+
+        +
+       
+
+
+       +
+      
+
+
+        cHPO
+       
+
+        4
+       
+
+
+         2
+        
+
+         −
+        
+
+
+
+       +
+      
+
+       b
+      
+
+
+        OH
+       
+
+        −
+       
+
+
+       +
+      
+
+       2
+      
+
+
+        cH
+       
+
+        +">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="a + b − c">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="R8">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="Sulfide oxidation">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="2
+     
+      O
+     
+
+      2
+     
+     +
+     
+      H
+     
+
+      2
+     
+
+      S
+     
+     + 2
+     
+      HCO
+     
+
+      3
+     
+
+      −
+     
+     ⟶
+     
+      SO
+     
+
+      4
+     
+
+      =
+     
+     + 2
+     
+      CO
+     
+
+      2
+     
+     + 2
+     
+      H
+     
+
+      2
+     
+
+      O">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="−2">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="Chemical formula base Reaction is observed in the table." type="">
+   </statement>
+   <statement id="4" text="The generation/consumption of A T (A T ) are observed unique." type="">
+   </statement>
+   <statement id="5" text="The production and consumption of A T coupled to biogeochemical processes that are included in BALTSEM are summarized in Table A2 ." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

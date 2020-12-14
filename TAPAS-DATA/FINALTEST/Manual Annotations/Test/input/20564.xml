@@ -1,0 +1,365 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+
+    Resveratrol production in microbial hosts
+   
+   . The table includes the top producing strains per microorganism, considering also cultivations in which pathway precursors were fed. *Cerulenin was supplemented to the cultivation. **Refer to publication for detailed list of genetic modifications. n/a: metric not available as cultivation time was not reported. 4CL: 4-coumaroyl-CoA,
+   
+    STS
+   
+   : stilbene synthase,
+   
+    PAL
+   
+   : phenylalanine ammonia-lyase,
+   
+    C4H
+   
+   : cinnamate-4-hydroxylase,
+   
+    VST
+   
+   : resveratrol synthase,
+   
+    ACS
+   
+   : acetyl-CoA synthase,
+   
+    ATR2
+   
+   : cytochrome P450 reductase,
+   
+    ARO4
+   
+   : 3-deoxy-D-arabinoheptulosonate-7-phosphate (DAHP) synthase,
+   
+    ARO7
+   
+   : chorismate mutase,
+   
+    CYB5
+   
+   : cytochrome
+   
+    b
+   
+   5,
+   
+    ACC1
+   
+   : acetyl-CoA carboxylase 1,
+   
+    ARO10
+   
+   : transaminated amino acid decarboxylase,
+   
+    PEX10
+   
+   : peroxisomal biogenesis factor 10,
+   
+    TAL
+   
+   : tyrosine ammonia-lyase,
+   
+    pks
+   
+   : polyketide synthase, fbr: feedback-resistant.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Microbial host">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Genetic modifications">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Metrics">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Substrate/Precursor fed">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Reference">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="E. coli">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="4CL (
+     
+      A. thaliana
+     
+     )
+     
+
+      STS
+     
+     (
+     
+      V. vinifera
+     
+     )">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Titer: 2.3 g/L
+     
+     Yield: 1.01 g/g
+     
+      p
+     
+     -coumaric acid
+     
+     Productivity: 95.83 mg/L/h">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="Glycerol/
+     
+      p
+     
+     -coumaric acid*">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="S. cerevisiae">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="PAL
+     
+     (
+     
+      A. thaliana
+     
+     )
+     
+
+      C4H
+     
+     (
+     
+      A. thaliana
+     
+     )
+     
+     4CL (
+     
+      A. thaliana
+     
+     )
+     
+
+      VST
+     
+     (
+     
+      V. vinifera
+     
+     )
+     
+
+      ACS
+     
+     (
+     
+      S. enterica
+     
+     )
+     
+
+      ATR2
+     
+     (
+     
+      A. thaliana
+     
+     )
+     
+     Overexpression of
+     
+      ARO4
+     
+
+      fbr
+     
+     ,
+     
+      ARO7
+     
+
+      fbr
+     
+     ,
+     
+      CYB5,
+     
+     and
+     
+      ACC1
+     
+
+
+      ΔARO10">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Titer: 812 mg/L
+     
+     Yield: 8.87 mg/g glucose
+     
+     Productivity: 7.38 mg/L/h">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="Glucose/none">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Y. lipolytica">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="4CL (
+     
+      N. tabacum
+     
+     )
+     
+
+      STS
+     
+     (
+     
+      A. hypogaea
+     
+     )
+     
+     Overexpression of
+     
+      PEX10
+     
+     and
+     
+      ACC1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="Titer: 48.7 mg/L
+     
+     Yield: 0.15 g/g
+     
+      p
+     
+     -coumaric acid
+     
+     Productivity: 0.29 mg/L/h">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="Glucose/
+     
+      p
+     
+     -coumaric acid">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="C. glutamicum">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="STS
+     
+     (
+     
+      A. hypogaea
+     
+     )
+     
+     4CL (
+     
+      P. crispum
+     
+     )
+     
+     **">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="Titer: 158 mg/L
+     
+     Yield: 0.19 g/g
+     
+      p
+     
+     -coumaric acid
+     
+     Productivity: 2.19 mg/L/h">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="Glucose/
+     
+      p
+     
+     -coumaric acid*">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="L. lactis">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="TAL,
+     
+     4CL
+     
+      , STS, ACC
+     
+     (different sources)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="Titer: 1.27 mg/L
+     
+     Yield: 0.13 mg/g glucose
+     
+     Productivity: n/a">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="Glucose/none">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="S. venezuelae">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="STS
+     
+     (
+     
+      A. hypogaea
+     
+     )
+     
+     4CL (
+     
+      S. coelicolor
+     
+     )
+     
+     Pikromycin
+     
+      pks
+     
+     deletion">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="Titer: 0.4 mg/L
+     
+     Yield: 0.002 g/g
+     
+      p
+     
+     -coumaric acid
+     
+     Productivity: 0.006 mg/L/h">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="Sucrose/
+     
+      p
+     
+     -coumaric acid">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="Metric not available as cultivation time was not reported." type="">
+   </statement>
+   <statement id="5" text="There are six Microbial host observed in the table." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

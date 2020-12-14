@@ -1,0 +1,137 @@
+<document>
+ <table id="Table 2">
+  <caption text="
+
+   Cases of IAD and MASD other than IAD (n = 112).
+  
+">
+  </caption>
+  <legend text="
+
+   MASD; Moisture Associated Skin Damage.
+  
+
+   IAD; Incontinence Associated Dermatitis.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="N">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Insecure">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Missing">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Patients with MASD">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="15">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="13.4">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="MASD cases other than IAD">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="10">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="8.9">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="4">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="1">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="IAD cases">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="6">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="5.4">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="3">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="MASD cases other than IAD has only one missing case." type="">
+   </statement>
+   <statement id="1" text="MASD cases other than IAD has two missing cases." type="">
+   </statement>
+   <statement id="2" text="Only one IAD case is insecure." type="">
+   </statement>
+   <statement id="3" text="Patients with IAD cases are not insecure and missing." type="">
+   </statement>
+   <statement id="6" text="There are zero insecure IAD cases." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   Type of stools (n = 112).
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="N">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="%">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Liquid/semi liquid">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="42">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="37.5">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Formed">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="5">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="4.5">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="No stools">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="56">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="50.0">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Missing">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="9">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="8.0">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="% 4.5 is No stools." type="">
+   </statement>
+   <statement id="3" text="Liquid/semi liquid N is 42." type="">
+   </statement>
+   <statement id="4" text="Liquid/semi liquid N is 44." type="">
+   </statement>
+   <statement id="6" text="N 56 is No stools." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

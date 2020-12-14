@@ -1,0 +1,172 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Descriptive statistics.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Variables">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Min">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Max">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Mean">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="SD">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="CV">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Spot Energy (MWh)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="465,578.300">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="922,465.000">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="654,659.647">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="71,056.337">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="0.109">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Future Energy (MWh)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="48,000.000">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="1,055,730.000">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="103,750.166">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="112,060.387">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="1.080">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Spot Price (Euro/MWh)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="5.779">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="94.128">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="49.649">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="11.455">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="0.231">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Future Price (Euro/MWh)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="11.250">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="75.148">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="48.732">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="6.871">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="0.141">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="The mean of Spot Energy (MWh) and Future Energy (MWh) is higher ." type="">
+   </statement>
+   <statement id="9" text="Spot Price (Euro/MWh) and Future Price (Euro/MWh) have lower values." type="">
+   </statement>
+   <statement id="10" text="The Descriptive statistics has unique values for each." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 2">
+  <caption text="
+
+   Kendall's Tau correlation matrix.
+  
+">
+  </caption>
+  <legend text="
+
+   * Kendall's Tau correlation was preferred over the traditional Pearson's correlation coefficient since it is better able to capture extreme, joint tail variation, being widely used for modeling bi-variate distributions by using the copulas technique. Significant results at p &lt; 0.05 are highlighted in bold.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Future Energy">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Future Price">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Spot Energy">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Spot Price">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Future Energy (MWh)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Future Price (Euro/MWh)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="−0.006103973">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Spot Energy (MWh)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="−0.064405016">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="0.070074661">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Spot Price(Euro/MWh)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="−0.038958766">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0.510570069">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="0.14204931">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="1">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="In Future Energy the value is 1 under future energy." type="">
+   </statement>
+   <statement id="2" text="In Future price the value is -0.006103973 under future energy." type="">
+   </statement>
+   <statement id="5" text="In table they have 2 types of results." type="">
+   </statement>
+   <statement id="7" text="While Table 1 suggests that price and demand time series are, somehow, asymmetrically distributed, although dispersion maybe considered low  with the exception of future energy demand -, Table 2 reveals a moderately strong correlation between future and spot prices and a very weak correlation between spot energy and spot prices." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

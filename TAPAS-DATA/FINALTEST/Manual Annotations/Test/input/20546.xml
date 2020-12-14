@@ -1,0 +1,258 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   The IC
+   
+    50
+   
+   values of essential oils in the A549 cell line.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Essential oils">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="IC
+     
+      50
+     
+     (%, v/v)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Dendranthema indicum
+     
+     (L.) Des Moul">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="0.03324">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Peucedanum japonicum
+     
+     Thunb">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="0.04192">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Dendranthema zawadskii
+     
+     var.
+     
+      latilobum
+     
+     (Maxim.) Kitam">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="0.04472">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Agastache rugosa
+     
+     (Fisch.&amp;Mey.) Kuntze">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="0.1508">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Vitex rotundifolia
+     
+     L.f">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="0.08438">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Pinus rigida
+     
+     Mill">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="0.04544">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Orixa japonica
+     
+     Thunb">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="0.02833">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Pinus strobus
+     
+     L">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="0.03293">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Chamaecyparis pisifera
+     
+     (Siebold et Zucc.) Endl. var.
+     
+      filifera
+     
+     Beissn. et Hochst">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="0.06272">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Citrus sunki
+     
+     Hort. ex Tanaka">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="0.04242">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Agastache rugosa (Fisch.&amp;Mey.) Kuntze has Lowest IC 50 value." type="">
+   </statement>
+   <statement id="2" text="All Essential oils has unique IC 50 value." type="">
+   </statement>
+   <statement id="4" text="IC 50 value ranges from 0.02833 to 0.1508." type="">
+   </statement>
+   <statement id="5" text="IC 50 value ranges from 0.123 to 0.853." type="">
+   </statement>
+   <statement id="6" text="IC 50 values of 10 essential oils in A549 cells" type="">
+   </statement>
+   <statement id="7" text="Kuntze (0.1508) was relatively higher, but with lesser toxicity, than values obtained for other essential oils (0.028330.08438)." type="">
+   </statement>
+   <statement id="11" text="The table contain 10 types of Essential oils." type="">
+   </statement>
+   <statement id="12" text="The table contain 20 types of Essential oils." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 2">
+  <caption text="
+
+   The IC
+   
+    50
+   
+   values of essential oils in the Detroit 551 cell line.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Essential oils">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="IC
+     
+      50
+     
+     (%, v/v)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Dendranthema indicum
+     
+     (L.) Des Moul">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="0.0251">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Peucedanum japonicum
+     
+     Thunb">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="0.0343">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Dendranthema zawadskii
+     
+     var.
+     
+      latilobum
+     
+     (Maxim.) Kitam">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="0.02844">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Agastache rugosa
+     
+     (Fisch.&amp;Mey.) Kuntze">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="0.4548">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Vitex rotundifolia
+     
+     L.f">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="0.07619">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Pinus rigida
+     
+     Mill">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="0.0492">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Orixa japonica
+     
+     Thunb">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="0.04859">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Pinus strobus
+     
+     L">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="0.0508">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Chamaecyparis pisifera
+     
+     (Siebold et Zucc.) Endl. var.
+     
+      filifera
+     
+     Beissn. et Hochst">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="0.06453">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Citrus sunki
+     
+     Hort. ex Tanaka">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="0.05766">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Five of the essential oils have got five decimal digits in IC 50 values" type="">
+   </statement>
+   <statement id="1" text="IC 50 value of Citrus sunki Hort. ex Tanaka is 0.05766." type="">
+   </statement>
+   <statement id="2" text="IC 50 value of Citrus sunki Hort. ex Tanaka is 0.5766." type="">
+   </statement>
+   <statement id="3" text="The cell survival and cytotoxicity IC 50 values of 10 essential oils were also examined in Detroit 551 cells using CCK-8 analysis ( Fig. 2 , Table 2 )." type="">
+   </statement>
+   <statement id="4" text="The Heighest IC 50 value in the table is 0.05766." type="">
+   </statement>
+   <statement id="5" text="The Heighest IC 50 value in the table is 0.4548." type="">
+   </statement>
+   <statement id="6" text="There are 10 essential oils in the table." type="">
+   </statement>
+   <statement id="7" text="There are 8 essential oils in the table." type="">
+   </statement>
+  </statements>
+ </table>
+</document>
