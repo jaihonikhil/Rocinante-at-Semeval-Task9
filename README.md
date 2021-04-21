@@ -27,3 +27,5 @@ score of 0.65 on subtask B.
 
 Link to the arxiv paper: https://arxiv.org/pdf/2104.03071.pdf
 
+Link to the Main Project Repository : https://github.com/vijit-m/TablEval
+
